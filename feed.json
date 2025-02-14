@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-02-14 10:15",
+  "update_time": "2025-02-14 14:21",
   "articles": [
     {
       "title": "科技爱好者周刊（第 337 期）：互联网创业几乎没了",
@@ -8,7 +8,7 @@
       "author": "阮一峰的网络日志",
       "timestamp": 1739492127.0,
       "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n秦皇岛海边的某楼盘，像乐高积木一样，每层都有私人露台花园以及公共天台花园。（via）\n\n互联网创业几乎没了\n\n上...",
-      "source_url": "https://feeds.feedburner.com/ruanyifeng"
+      "source_url": "http://www.ruanyifeng.com/blog/"
     },
     {
       "title": "一周的心情｜本周小记精选",
@@ -17,7 +17,7 @@
       "author": "ONE · 一个",
       "timestamp": 1739485503.0,
       "summary": "14  Feb. 2025&nbsp;\n\n\n        \n\n\n    \n\n            \n            ONE编辑部问\n        \n        \n        今天是情人节，你想对树洞说些什么？\n    \n\n    \n\n            \n         ...",
-      "source_url": "https://feedx.net/rss/one.xml"
+      "source_url": "http://wufazhuce.com"
     },
     {
       "title": "臂弯",
@@ -26,7 +26,7 @@
       "author": "ONE · 一个",
       "timestamp": 1739485503.0,
       "summary": "14  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\n\t文／甲或乙\n\t\n\t&nbsp;那一天，你几乎带走我所有的从前&mdash;&mdash;周杰伦《一点点》&nbsp;十六岁的冬天，我突然不想活了。我在网上查，哪种自杀是没有痛苦的，手机上首先弹出一个公益广告页面：小男孩打扮成超人...",
-      "source_url": "https://feedx.net/rss/one.xml"
+      "source_url": "http://wufazhuce.com"
     },
     {
       "title": "VOL.4514",
@@ -35,7 +35,7 @@
       "author": "ONE · 一个",
       "timestamp": 1739485503.0,
       "summary": "14  Feb. 2025&nbsp;\n\n\n        \n\n\n\t\tVOL.4514摄影 | Joshua Hoehne\n\t14\n\tFeb. 2025\n\t\n\t人生本来就是一个不断解决问题的过程。反正无论如何都是要解决问题的，何不努力去挑选一个好点儿的问题来解决呢。\t\n\n\n\n\n &nbsp;",
-      "source_url": "https://feedx.net/rss/one.xml"
+      "source_url": "http://wufazhuce.com"
     },
     {
       "title": "电子报与博客",
@@ -44,7 +44,7 @@
       "author": "槿呈Goidea",
       "timestamp": 1739276375.0,
       "summary": "随着电子报的写作逐渐转向付费模式，作者意识到需要重新审视内容的深度和主线。在反思和梳理笔记库后，作者确定了四条核心主线：人文与科技的交汇、东西方哲学对现代生活的启示、美学素养与批判性思维的塑造、以及个人成长与复利思维的结合。未来的电子报将围绕这些主线展开更深入的探讨，而博客将兼具轻盈与厚重，记录生活...",
-      "source_url": "https://justgoidea.com/rss.xml"
+      "source_url": "https://justgoidea.com/"
     },
     {
       "title": "176 使用Web App，将最常用的网站像软件一样操作，以DeepSeek举例",
@@ -53,7 +53,16 @@
       "author": "Dongdong's 日志",
       "timestamp": 1739203832.0,
       "summary": "大家经常使用浏览器访问某些网页或者网站，常见步骤有两个： 打开浏览器 打开对应的网站 那么能不能够减少一步了？ [&#8230;]",
-      "source_url": "https://ddw2019.com/?feed=rss2"
+      "source_url": "https://ddw2019.com"
+    },
+    {
+      "title": "猫鱼周刊 vol. 055 城市旅游就是打卡吗？",
+      "link": "https://ameow.xyz/archives/weekly-055",
+      "date": "2025-02-09 19:32",
+      "author": "阿猫的博客",
+      "timestamp": 1739100746.0,
+      "summary": "关于本刊\n\n 这是猫鱼周刊的第 56 期，本系列每周日更新，主要内容为每周收集内容的分享，同时发布在\n 博客：阿猫的博客-猫鱼周刊\n RSS：猫鱼周刊\n 邮件订阅：猫鱼周刊\n 微信公众号：猫兄的和谐号列车\n 私信：leslieleung@proton.me\n\n\n摄于湖南长沙东风路文创园。这里原本是长...",
+      "source_url": "https://ameow.xyz"
     },
     {
       "title": "我如何使用 Apple Notes 做笔记",
@@ -62,7 +71,7 @@
       "author": "Randy's Blog",
       "timestamp": 1739059200.0,
       "summary": "我从两年前开始放弃了所有笔记软件，换用 Apple Notes 记录我的所有笔记。这个举动缘于我读了 Tiago Forte 的一本书 The PARA method.\n\n可能大家比较熟悉他的另一本书 Build The Second Brain, 是关于如何使用笔记软件构建自己的「第二大脑」。这本...",
-      "source_url": "https://lutaonan.com/rss.xml"
+      "source_url": "https://lutaonan.com"
     },
     {
       "title": "第209期 - 又是一年",
@@ -71,7 +80,7 @@
       "author": "潮流周刊",
       "timestamp": 1739059200.0,
       "summary": "封面图拍摄于过年期间早上的杭州机场，日出和飞机同时出现挺好看的，终于上班了，期待新的一年继续过得有意义。这一期的周刊会比较凌乱一点，属于我春节的一些随便写写比较多。\n\n记录每周看到的接地气的潮流技术，筛选后发布于此，觉得不错可关注此周刊，方便获取更新通知\n\n新年总结\n2024 年总结 - 持续迭代\n...",
-      "source_url": "https://weekly.tw93.fun/rss.xml"
+      "source_url": "https://weekly.tw93.fun/"
     },
     {
       "title": "Neovim 插件管理器 nvim-plug",
@@ -80,7 +89,7 @@
       "author": "Eric's Blog",
       "timestamp": 1739059200.0,
       "summary": "为什么重写插件管理器\n  插件界面的选择\n\n\n\n\n这篇文章给大家介绍一下我开发的新的 Neovim 插件管理器 nvim-plug。\n\n\n\n不管是 Neovim 还是 Vim，已经有太多太多的插件管理器了，\n最早期时候刚接触 Vim 的时候，从刚开始编辑 vimrc 时候开始，\n只是简单的 set ...",
-      "source_url": "https://wsdjeg.net/feed.xml"
+      "source_url": "https://wsdjeg.net/"
     },
     {
       "title": "2.7 闪击济南记录",
@@ -89,7 +98,7 @@
       "author": "Tony Ding's Blog",
       "timestamp": 1739028360.0,
       "summary": "开卡/蠢材吧/闲逛/享受一等座",
-      "source_url": "https://blog.tonyding.net/feed/"
+      "source_url": "https://blog.tonyding.net/"
     },
     {
       "title": "Bearblog 风格点赞按钮",
@@ -98,7 +107,7 @@
       "author": "Another Dayu",
       "timestamp": 1739006846.0,
       "summary": "** 本文基于 第三夏尔、Booooom 和 benji 的 Hugo 插件代码，修改为 WordPress  [&#8230;]",
-      "source_url": "https://anotherdayu.com/feed"
+      "source_url": "https://anotherdayu.com"
     },
     {
       "title": "新 MacBook 的设置和软件",
@@ -107,7 +116,7 @@
       "author": "Randy's Blog",
       "timestamp": 1738972800.0,
       "summary": "趁着国补，把手头用了 5 年的 MacBook Air M1 换成了 MacBook Pro 14 寸 M4. 顺便手动重新配置新电脑，在此记录一下每次设置新电脑时我会做的一些设置和必装的软件。\n设置\n把点按切换成轻点：\n\n我不喜欢用触摸板点按拖动来移动窗口，觉得有点费力，所以我会调整为三指拖移。旧...",
-      "source_url": "https://lutaonan.com/rss.xml"
+      "source_url": "https://lutaonan.com"
     },
     {
       "title": "175 免费监控个人网站的访客情况的一种方法 vercel + Umami + Neon",
@@ -116,7 +125,7 @@
       "author": "Dongdong's 日志",
       "timestamp": 1738928632.0,
       "summary": "今天看到一个网址，能够非常有效的监控个人网站。具体见 Bense（一个大佬呀）的访客情况：https://um [&#8230;]",
-      "source_url": "https://ddw2019.com/?feed=rss2"
+      "source_url": "https://ddw2019.com"
     },
     {
       "title": "科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落",
@@ -125,7 +134,7 @@
       "author": "阮一峰的网络日志",
       "timestamp": 1738887656.0,
       "summary": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n漳州钟法路的大榕树新春彩灯。（via）\n\n面对 AI，互联网正在衰落\n\n这一段日子，新闻焦点全是 DeepSee...",
-      "source_url": "https://feeds.feedburner.com/ruanyifeng"
+      "source_url": "http://www.ruanyifeng.com/blog/"
     },
     {
       "title": "174 春节结束，长途跋涉之后到了城市小窝，应该干啥？",
@@ -134,7 +143,7 @@
       "author": "Dongdong's 日志",
       "timestamp": 1738826562.0,
       "summary": "春节假期过完了，这昨天回到了所在城市的小窝。从我家到现在的城市，旅途2000km，风尘仆仆的我昨天干了不少事情 [&#8230;]",
-      "source_url": "https://ddw2019.com/?feed=rss2"
+      "source_url": "https://ddw2019.com"
     },
     {
       "title": "AI论文评分",
@@ -143,7 +152,7 @@
       "author": "博客 on Miao Yu | 于淼",
       "timestamp": 1738627200.0,
       "summary": "作为成年男性，每个月我都会有那么一两天坐立不安，没错，就是更新研究速递。本项目初衷就是每个月推送些我读到感兴趣的环境科学领域的论文，是在GitHub上收集投稿，不过显然我高估了投稿热情，所以一到月底我就不得不拿出半天一天的时间把过去一个月发表的相关论文过一遍。本来这倒也不算是负担，毕竟吃这碗饭就得保...",
-      "source_url": "https://yufree.cn/cn/index.xml"
+      "source_url": "https://yufree.cn/cn/"
     },
     {
       "title": "立春 | 2025 年 1 月小结",
@@ -152,7 +161,7 @@
       "author": "第三夏尔 | Third Shire",
       "timestamp": 1738616450.0,
       "summary": "本月事件\n\n万万没想到新年第一天的第一件事竟然是 陪 Kei 酱做核磁共振 MRI。加拿大类似的检查是众所周知的慢，原本预约时间排到了四月，前两周临时通知有凌晨 4 点的空位，那也行吧，谁叫我们家是没什么外出活动的人呢。于是前一天 4 点多吃了晚饭早早上床，做核磁共振的地方和急诊室在一起，过程倒是挺...",
-      "source_url": "https://thirdshire.com/index.xml"
+      "source_url": "https://thirdshire.com/"
     },
     {
       "title": "Glibc 2.41 版本会损坏 Discord 安装",
@@ -161,7 +170,7 @@
       "author": "Arch Linux",
       "timestamp": 1738590589.0,
       "summary": "我们计划今天（2月3日）将 glibc 及其相关组件更新至稳定版。安装此更新后，Discord 客户端将显示红 [&#8230;]",
-      "source_url": "https://www.archlinuxcn.org/feed/"
+      "source_url": "https://www.archlinuxcn.org"
     },
     {
       "title": "周报 #86 - 用影像打败时间",
@@ -170,7 +179,7 @@
       "author": "Pseudoyu",
       "timestamp": 1738531860.0,
       "summary": "《请回答 1988 OST》 前言 本篇是对 2025-01-27 到 2025-02-02 这周生活的记录与思考。 用影像打败时间 「用影像打败时间」 —— 这是我很喜欢的 Up 主「小鹿 Lawrence」工作",
-      "source_url": "https://www.pseudoyu.com/zh/index.xml"
+      "source_url": "https://www.pseudoyu.com/zh/"
     },
     {
       "title": "周报 #85 - 京华烟云 Moment in Peking",
@@ -179,7 +188,7 @@
       "author": "Pseudoyu",
       "timestamp": 1738526160.0,
       "summary": "《Glimpse of Us》 前言 本篇是对 2025-01-20 到 2025-01-26 这周生活的记录与思考。 一直很喜欢 Moment 这个词，林语堂的「京华烟云」的英文译名就是 Moment in Peking，似乎",
-      "source_url": "https://www.pseudoyu.com/zh/index.xml"
+      "source_url": "https://www.pseudoyu.com/zh/"
     },
     {
       "title": "周报 #84 - 想起他们 Echos of Reverie",
@@ -188,7 +197,7 @@
       "author": "Pseudoyu",
       "timestamp": 1738515420.0,
       "summary": "《想起他們 Echos of Reverie》 前言 本篇是对 2025-01-13 到 2025-01-20 这周生活的记录与思考。 这一周发了一些婚礼的邀请函，回去见了初中老师，还回了趟老家看了爷爷奶奶",
-      "source_url": "https://www.pseudoyu.com/zh/index.xml"
+      "source_url": "https://www.pseudoyu.com/zh/"
     },
     {
       "title": "中国企业的过度负债现象",
@@ -197,7 +206,7 @@
       "author": "太隐",
       "timestamp": 1738504352.0,
       "summary": "刘元庆博士曾说过一句很朴实的话，“从银行债权人的角度看，债务轻的客户就是好客户，债务重了就不是好客户了”，道理虽然很简单，但现实往往更加复杂。 在现实中，我们发现国内企业往往都负债很高，或者说，患上了“债务依赖症”，为什么呢？ 要说这个问题，首先要说到我国金融体系。 我国在改革开放之前经历了长期的计...",
-      "source_url": "https://wangyurui.com/feed.xml"
+      "source_url": "https://wangyurui.com/"
     },
     {
       "title": "再选毛选：《论反对日本帝国主义的策略》",
@@ -206,7 +215,7 @@
       "author": "太隐",
       "timestamp": 1738504307.0,
       "summary": "实事求是与独立自主的逻辑",
-      "source_url": "https://wangyurui.com/feed.xml"
+      "source_url": "https://wangyurui.com/"
     },
     {
       "title": "关我辟事 Vol.33：新春愉快！",
@@ -215,7 +224,7 @@
       "author": "椒盐豆豉",
       "timestamp": 1738460160.0,
       "summary": "上班之后似乎连时间都感觉变慢了，好多一两周前做的事都感觉恍若隔世，到写半月记的时候定睛一看细细数来才发现干了好多事。new year resolution 加强社交真没白定，定睛一看这半个月竟然高质量社交了这么多！\n本期亮点：\n\n年初岁末社交爆棚突然现充\n西雅图的第一场雪，比以往时候来得都晚一些\n人...",
-      "source_url": "https://blog.douchi.space/index.xml"
+      "source_url": "https://blog.douchi.space/"
     },
     {
       "title": "2024 年总结 - 持续迭代",
@@ -224,7 +233,7 @@
       "author": "Tw93 Blog",
       "timestamp": 1738454400.0,
       "summary": "又是一年\n\n时间过起来真快，转眼就大年初五了，习惯在春节不忙的日子来记录下过去一年发生的事情，这一年的关键词我想应该是「持续迭代」。\n\n越来越发觉每个人最重要的作品其实是自己，你的人生经历、性格三观、做事技能构成了这个作品本身，作品需要持续迭代着，打算用这个总结来备份一下 2024，开启 2025 ...",
-      "source_url": "https://tw93.fun/feed.xml"
+      "source_url": "https://tw93.fun"
     },
     {
       "title": "2024，告别盛夏",
@@ -233,7 +242,7 @@
       "author": "Airing 的博客",
       "timestamp": 1738406194.0,
       "summary": "自写年终总结以来，这已是第七个年头。这一年发生了许多事，在很多方面主动或被动地打破了过往的平衡与常规。勇敢过、彷徨过、迷茫过、失望过、痛苦过，但或许这是好事，毕竟年龄已悄然迈向而立之年。而一切，不破不立。\n工作\n毕业这五年\n这一年的主题是「告别盛夏」，来自于今年的大事件——《再见了，盛夏》。由于对不...",
-      "source_url": "https://blog.ursb.me/feed.xml"
+      "source_url": "https://blog.ursb.me/"
     },
     {
       "title": "春晚",
@@ -242,7 +251,7 @@
       "author": "博客 on Miao Yu | 于淼",
       "timestamp": 1738368000.0,
       "summary": "除夕那天正好起早了，就跟国内同步看了春晚，这种构建共同回忆的节目感觉是越来越提不起兴趣了。\n在我印象中，春晚经历了三四代以十年为代际的更迭，用语言类代表人物来区分的话就是黄宏赵丽蓉时代（90年代）、冯巩赵本山时代（00年代）、郭德纲沈腾时代（10年代）及当前的语言类消亡时代。这里面经典作品最多的是冯...",
-      "source_url": "https://yufree.cn/cn/index.xml"
+      "source_url": "https://yufree.cn/cn/"
     },
     {
       "title": "从 VimScipt 切换至 Lua",
@@ -251,7 +260,7 @@
       "author": "Eric's Blog",
       "timestamp": 1738368000.0,
       "summary": "为什么选择 Lua    \n      学习 Lua\n    \n  \n  配置文件结构    \n      初始化文件\n      ftplugin\n    \n  \n  Options\n  事件自动命令\n  用户自定义命令\n  设置快捷键\n  变量类型转换\n\n\n\n\nLua 在 Neovim 中已经被...",
-      "source_url": "https://wsdjeg.net/feed.xml"
+      "source_url": "https://wsdjeg.net/"
     },
     {
       "title": "艺术书盲盒",
@@ -260,7 +269,7 @@
       "author": "Another Dayu",
       "timestamp": 1738294149.0,
       "summary": "去年，《假杂志》遭遇了一些变故，令人惋惜。 年末，暂时转成艺术书咖啡馆的形式营业，算是有了新的开始。 25 年 [&#8230;]",
-      "source_url": "https://anotherdayu.com/feed"
+      "source_url": "https://anotherdayu.com"
     },
     {
       "title": "近期测试的几个软件",
@@ -269,7 +278,7 @@
       "author": "Another Dayu",
       "timestamp": 1738253724.0,
       "summary": "近期收到或抽到了一些软件，都挺有趣，放在一起聊聊。 写完才发现 5 个项目的作者都是推友。 Juchats 推 [&#8230;]",
-      "source_url": "https://anotherdayu.com/feed"
+      "source_url": "https://anotherdayu.com"
     },
     {
       "title": "PIVOT Vol.12 新年快乐呀！",
@@ -278,7 +287,7 @@
       "author": "Another Dayu",
       "timestamp": 1738156275.0,
       "summary": "本刊物不定期发布，推荐通过 RSS 订阅：https://anotherdayu.com/feed/ 「微信备 [&#8230;]",
-      "source_url": "https://anotherdayu.com/feed"
+      "source_url": "https://anotherdayu.com"
     },
     {
       "title": "173 春节祭祖的思考",
@@ -287,7 +296,7 @@
       "author": "Dongdong's 日志",
       "timestamp": 1738144146.0,
       "summary": "春节回家就要祭祖，这是毋庸置疑的。毕竟多年以来的教育告诉我们，祭祖是一件必须要进行的工作。 祭祖的形式不一，但 [&#8230;]",
-      "source_url": "https://ddw2019.com/?feed=rss2"
+      "source_url": "https://ddw2019.com"
     },
     {
       "title": "172 关于春节期间一些习俗话语的思考",
@@ -296,7 +305,7 @@
       "author": "Dongdong's 日志",
       "timestamp": 1738117296.0,
       "summary": "任何事情都是有原因的，都是从一定的实际来出发。春节期间的习俗也是如此。这里引用古人的一句话 “知之者不如好之者 [&#8230;]",
-      "source_url": "https://ddw2019.com/?feed=rss2"
+      "source_url": "https://ddw2019.com"
     },
     {
       "title": "171 写一份“个性化”和“用心”的新年祝福，升级个性化新年祝福v2.0",
@@ -305,7 +314,7 @@
       "author": "Dongdong's 日志",
       "timestamp": 1738080523.0,
       "summary": "过年是我们中国人的习俗，过年都要写新年祝福。特别是互联网时代了都，这个新年祝福大家都会发。今天对新年祝福进行了 [&#8230;]",
-      "source_url": "https://ddw2019.com/?feed=rss2"
+      "source_url": "https://ddw2019.com"
     },
     {
       "title": "黎明：写在《论反对日本帝国主义的策略》前",
@@ -314,7 +323,7 @@
       "author": "太隐",
       "timestamp": 1737986920.0,
       "summary": "1935年12月27日，毛泽东完成了《论反对日本帝国主义的策略》这篇文章，距离上一篇文章《必须注意经济工作》隔了两年多的时间，对于爱写作的毛泽东来说，这显然是发生了一些大事情，事实也的确如此，这期间毛泽东正在经历着人生大转折，同时也是中国共产党乃至中华历史的大转折。其中有三件大事很值得说一说，因为这...",
-      "source_url": "https://wangyurui.com/feed.xml"
+      "source_url": "https://wangyurui.com/"
     },
     {
       "title": "HelloGitHub 第 106 期",
@@ -323,7 +332,7 @@
       "author": "HelloGitHub 月刊",
       "timestamp": 1737936460.0,
       "summary": "本期共有 42 个项目，包含 C 项目 (1)，C# 项目 (2)，C++ 项目 (4)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (2)，人工智能 (4)，其它 ...",
-      "source_url": "https://hellogithub.com/rss"
+      "source_url": "https://hellogithub.com"
     },
     {
       "title": "2025.01.27: 各种链接之 - 来点艺术家的震撼",
@@ -332,7 +341,7 @@
       "author": "Owen的博客",
       "timestamp": 1737911074.0,
       "summary": "最近认识了 2 位“艺术家”朋友，她们给我发了一些链接，让我感受到了一些来自艺术家的震撼，顺便也换了换脑子（因为平时老是沉浸在实用主义的思维中，看到艺术家天马行空的创意，就很羡慕…）\n今天的链接都是“修四边形”背后的人推荐的，她经常做很多好玩的东西（不知道有没有读者想复兴一下 Web 艺术的，也可以...",
-      "source_url": "https://www.owenyoung.com/atom.xml"
+      "source_url": "https://www.owenyoung.com"
     },
     {
       "title": "170 为什么我家附近沟渠总是和道路并列而建？",
@@ -341,7 +350,7 @@
       "author": "Dongdong's 日志",
       "timestamp": 1737904633.0,
       "summary": "这个现象呢，总是观察到，但是从来没有思考过。这两天从几位老人的聊天中，发现了这个问题并且以及对应答案。 回答问 [&#8230;]",
-      "source_url": "https://ddw2019.com/?feed=rss2"
+      "source_url": "https://ddw2019.com"
     },
     {
       "title": "生信爱好者周刊（第 156 期）：说说2024你的收获吧~",
@@ -350,7 +359,7 @@
       "author": "生信爱好者周刊",
       "timestamp": 1737887606.0,
       "summary": "生信爱好者周刊（第 156 期）：说说2024你的收获吧~&para;\n这里记录每周值得分享的生信相关内容，周日发布。\n本杂志开源（GitHub: openbiox/weekly），欢迎提交 issue，投稿或推荐生信相关内容。\n「生信周刊讨论区」\n封面图&para;\n\nGPU paints the...",
-      "source_url": "https://openbiox.github.io/weekly/feed_rss_created.xml"
+      "source_url": "https://openbiox.github.io/weekly/"
     },
     {
       "title": "2025年1月的复盘 —— “神经，我到底要干啥？”",
@@ -359,7 +368,7 @@
       "author": "保持思考、等待、斋戒",
       "timestamp": 1737813060.0,
       "summary": "这个月的中旬开始，生活突然变得一团乱麻。我知道这最主要的原因，并不是因为事情太多，而是我的心乱了，我知道自己在状态良好的时候，完全可以处理好眼前的一大堆事，并游刃有余，但是这个月的我却无法做到。\n接下来，我会做这个月的复盘，以此让自己更清晰地知道发生了什么、为",
-      "source_url": "https://polebug.github.io/atom.xml"
+      "source_url": "https://polebug.github.io/"
     },
     {
       "title": "隐说 No.4  做一个聪明的“愚人”",
@@ -368,7 +377,7 @@
       "author": "太隐",
       "timestamp": 1737795281.0,
       "summary": "大象无形，大音希声",
-      "source_url": "https://wangyurui.com/feed.xml"
+      "source_url": "https://wangyurui.com/"
     },
     {
       "title": "中式梦核——春节",
@@ -377,7 +386,7 @@
       "author": "Usubeni Fantasy",
       "timestamp": 1737795026.0,
       "summary": "千禧年现在好像都成为网络迷因关键词，在这个停止上升的时代，人们纷纷回忆起以前的美好。千禧年又很容易让人联想到梦核，但今天的主题显然不是梦核带来的那种有点伤感到窒息空气，而是现在回忆起来还有点温暖的，21 世纪初的小城春节",
-      "source_url": "https://ssshooter.com/rss.xml"
+      "source_url": "https://ssshooter.com/"
     },
     {
       "title": "博客内容分享和侵权的界限",
@@ -386,7 +395,7 @@
       "author": "第三夏尔 | Third Shire",
       "timestamp": 1737786602.0,
       "summary": "作为开放互联网的拥趸，当初我是秉承着互联网分享精神，觉得二次分发也未尝不可，所以除了生活小结型的博文有标明 “禁止转载”，其他干货分享型博文均应用了 CC-BY-NC-SA 协议\n\n\n\n\n。",
-      "source_url": "https://thirdshire.com/index.xml"
+      "source_url": "https://thirdshire.com/"
     },
     {
       "title": "怎么实现一个 AI 代码助手插件",
@@ -395,7 +404,7 @@
       "author": "Usubeni Fantasy",
       "timestamp": 1737711495.0,
       "summary": "本文以 Cline 为拆解对象，分析如何实现一个 AI 代码助手插件",
-      "source_url": "https://ssshooter.com/rss.xml"
+      "source_url": "https://ssshooter.com/"
     },
     {
       "title": "科技爱好者周刊（第 335 期）：年底的未来已来",
@@ -404,7 +413,7 @@
       "author": "阮一峰的网络日志",
       "timestamp": 1737677174.0,
       "summary": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周春节假期，周刊休息。）\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n香港历史建筑\"和昌大押\"，布置了一条盘旋两层楼的金蛇，迎接蛇年。（via）...",
-      "source_url": "https://feeds.feedburner.com/ruanyifeng"
+      "source_url": "http://www.ruanyifeng.com/blog/"
     },
     {
       "title": "启用 Git Commit 签名",
@@ -413,7 +422,7 @@
       "author": "Eric's Blog",
       "timestamp": 1737676800.0,
       "summary": "起因\n  Git Commit 签名\n  Windows 安装 GPG\n  生成 GPG 密钥\n  设置 Git 签名程序\n\n\n\n\n起因\n\n无意间阅读到一篇文章 《震惊！竟然有人在 GitHub 上冒充我的身份！》, 大致看了下 Github 网站对于 Commit 的归属的判断规则。\n只需要 Co...",
-      "source_url": "https://wsdjeg.net/feed.xml"
+      "source_url": "https://wsdjeg.net/"
     },
     {
       "title": "与其直接问 AI 答案，不如请 AI 找到研究这些问题最好的老师",
@@ -422,7 +431,7 @@
       "author": "Owen的博客",
       "timestamp": 1737667683.0,
       "summary": "大多数人通常是这样用 AI 的：他们会问“巴以冲突的原因是什么？“或者”量子计算是如何工作的？“ 而 AI 会尽职尽责地提供一个概括，通常是一个平衡的、中庸的解释，听起来很合理，但缺乏深度。\n我大多数时候也是这样用的，因为这很自然，当我们手握一个看似无所不知的强大工具时，第一反应确实是让它告诉我们该...",
-      "source_url": "https://www.owenyoung.com/atom.xml"
+      "source_url": "https://www.owenyoung.com"
     },
     {
       "title": "一些值得升级的事物",
@@ -431,7 +440,7 @@
       "author": "椒盐豆豉",
       "timestamp": 1737610680.0,
       "summary": "隐约记得几年前写过一篇类似题材的博客「值得花钱/不值得花钱的事物」，随手从 backlog 里提出来没想到又在 patreon 投票中平票，但因为有高级糖妈投这个选项所以胜出了。也好，反正消费主义升级换代快，外加我都搬两次家了日常习惯也不一样，四年多过去了又有一些新“值得升级”，刚好就来写一写。",
-      "source_url": "https://blog.douchi.space/index.xml"
+      "source_url": "https://blog.douchi.space/"
     },
     {
       "title": "从零开始制作实时搜索插件",
@@ -440,16 +449,7 @@
       "author": "Eric's Blog",
       "timestamp": 1737590400.0,
       "summary": "窗口界面\n  输入响应\n  按键映射\n  窗口内颜色高亮\n  输入框美化\n\n\n\n\n当初，Neovim 刚刚推出异步 job 特性的时候，我就使用 Vim Script 写过一个实时检索的插件 FlyGrep.vim。\n最开始的实现是使用 :split 命令分屏展示搜索结果，使用 :echo 命令配合...",
-      "source_url": "https://wsdjeg.net/feed.xml"
-    },
-    {
-      "title": "2025.01.22: 各种链接",
-      "link": "https://www.owenyoung.com/blog/journals/2025-01-22/",
-      "date": "2025-01-22 14:14",
-      "author": "Owen的博客",
-      "timestamp": 1737526441.0,
-      "summary": "垄断的困境\n\n“各国机构针对 MSN 捆绑安装的反垄断调查，没有输给微软的律师，而是输给了微软的产品经理们。微软的产品经理没能让 MSN 这款产品活到反垄断案件的判决生效。”\n“现实是，大部分风险投资机构因为受到自身每期基金管理周期的影响，一旦被投企业无法在 7-10 年的长周期内实现退出，就很难向...",
-      "source_url": "https://www.owenyoung.com/atom.xml"
+      "source_url": "https://wsdjeg.net/"
     }
   ]
 }
