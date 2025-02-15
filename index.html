@@ -11,15 +11,46 @@
 </head>
 <body>
     <header class="header">
-        <div class="site-title">
-            <i class="mdi mdi-rss-box"></i>
-            <span>RSS Reader</span>
-        </div>
-        <div class="update-time">
-            <i class="mdi mdi-clock-outline"></i>
-            <span id="update-time"></span>
+        <div class="header-main">
+            <div class="site-title">
+                <i class="mdi mdi-rss-box"></i>
+                <span>RSS</span>
+            </div>
+            <nav class="nav-items">
+                <div class="category-item active" data-category="Blog">
+                    <i class="mdi mdi-post"></i>
+                    <span>博客</span>
+                </div>
+                <div class="category-item" data-category="Information">
+                    <i class="mdi mdi-newspaper"></i>
+                    <span>资讯</span>
+                </div>
+                <div class="category-item" data-category="Forums">
+                    <i class="mdi mdi-forum"></i>
+                    <span>论坛</span>
+                </div>
+            </nav>
+            <div class="update-time">
+                <i class="mdi mdi-clock-outline"></i>
+                <span id="update-time"></span>
+            </div>
         </div>
     </header>
+
+    <nav class="mobile-nav">
+        <div class="category-item active" data-category="Blog">
+            <i class="mdi mdi-post"></i>
+            <span>博客</span>
+        </div>
+        <div class="category-item" data-category="Information">
+            <i class="mdi mdi-newspaper"></i>
+            <span>资讯</span>
+        </div>
+        <div class="category-item" data-category="Forums">
+            <i class="mdi mdi-forum"></i>
+            <span>论坛</span>
+        </div>
+    </nav>
     <main class="articles" id="articles"></main>
     <script>
         const GITHUB_REPO = 'imjiaoyuan/RSS';
@@ -83,7 +114,22 @@
                 </article>`;
         }
 
-        async function loadArticles() {
+        let currentCategory = 'Blog';
+        
+        function filterArticles(articles, category) {
+            return articles.filter(article => article.category === category);
+        }
+        
+        function updateActiveCategory(category) {
+            document.querySelectorAll('.category-item').forEach(item => {
+                item.classList.remove('active');
+                if (item.dataset.category === category) {
+                    item.classList.add('active');
+                }
+            });
+        }
+        
+        async function loadArticles(category = 'Blog') {
             try {
                 const response = await fetch('feed.json');
                 if (!response.ok) {
@@ -91,39 +137,59 @@
                 }
                 const data = await response.json();
                 
-                document.getElementById('update-time').textContent = `更新时间：${data.update_time}`;
+                document.getElementById('update-time').textContent = `${data.update_time.split(' ')[0]}`;
                 const articlesContainer = document.getElementById('articles');
                 
                 if (!data.articles || !Array.isArray(data.articles)) {
                     throw new Error('Invalid data format');
                 }
 
-                const todayArticles = data.articles.filter(article => isToday(article.date));
-                const olderArticles = data.articles.filter(article => !isToday(article.date));
+                const filteredArticles = filterArticles(data.articles, category);
+                
+                if (filteredArticles.length === 0) {
+                    articlesContainer.innerHTML = `
+                        <div class="empty-message">
+                            <i class="mdi mdi-information"></i>
+                            <span>该分类下暂无文章</span>
+                        </div>`;
+                    return;
+                }
 
                 let html = '';
 
-                if (todayArticles.length > 0) {
-                    html += `
-                        <div class="section-title">
-                            <i class="mdi mdi-star"></i>
-                            <span>今日更新</span>
-                            <small>(${todayArticles.length}篇)</small>
-                        </div>
+                if (category === 'Forums') {
+                    html = `
                         <div class="article-section">
-                            ${todayArticles.map(renderArticle).join('')}
+                            ${filteredArticles.map(renderArticle).join('')}
                         </div>`;
-                }
+                } else {
+                    const todayArticles = filteredArticles.filter(article => isToday(article.date));
+                    const olderArticles = filteredArticles.filter(article => !isToday(article.date));
 
-                html += `
-                    <div class="section-title ${todayArticles.length > 0 ? 'history-title' : ''}">
-                        <i class="mdi mdi-history"></i>
-                        <span>历史文章</span>
-                        <small>(${olderArticles.length}篇)</small>
-                    </div>
-                    <div class="article-section">
-                        ${olderArticles.map(renderArticle).join('')}
-                    </div>`;
+                    if (todayArticles.length > 0) {
+                        html += `
+                            <div class="section-title">
+                                <i class="mdi mdi-star"></i>
+                                <span>今日更新</span>
+                                <small>(${todayArticles.length}篇)</small>
+                            </div>
+                            <div class="article-section">
+                                ${todayArticles.map(renderArticle).join('')}
+                            </div>`;
+                    }
+
+                    if (olderArticles.length > 0) {
+                        html += `
+                            <div class="section-title ${todayArticles.length > 0 ? 'history-title' : ''}">
+                                <i class="mdi mdi-history"></i>
+                                <span>历史文章</span>
+                                <small>(${olderArticles.length}篇)</small>
+                            </div>
+                            <div class="article-section">
+                                ${olderArticles.map(renderArticle).join('')}
+                            </div>`;
+                    }
+                }
 
                 articlesContainer.innerHTML = html;
             } catch (error) {
@@ -135,7 +201,19 @@
             }
         }
 
-        document.addEventListener('DOMContentLoaded', loadArticles);
+        document.addEventListener('DOMContentLoaded', () => {
+            loadArticles('Blog');
+            updateActiveCategory('Blog');
+            
+            document.querySelectorAll('.category-item').forEach(item => {
+                item.addEventListener('click', () => {
+                    const category = item.dataset.category;
+                    currentCategory = category;
+                    updateActiveCategory(category);
+                    loadArticles(category);
+                });
+            });
+        });
     </script>
     <style>
         .error-message {

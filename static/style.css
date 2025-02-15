@@ -32,23 +32,32 @@ body {
 
 .header {
     background-color: var(--header-bg);
-    padding: 15px 30px;
-    border-bottom: 1px solid var(--border-color);
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1000;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    z-index: 1001;
     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    background-color: rgba(var(--header-bg-rgb), 0.95);
+}
+
+.header-main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 12px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
 }
 
 .site-title {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 8px;
+    white-space: nowrap;
 }
 
 .site-title i {
@@ -57,20 +66,50 @@ body {
 
 .site-title span {
     color: var(--primary-color);
-    font-size: 1.25rem;
+    font-size: 1.2rem;
     font-weight: 600;
     letter-spacing: 0.5px;
 }
 
-.update-time {
-    color: var(--meta-color);
-    font-size: 0.9rem;
+.nav-items {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.category-item {
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 6px;
     padding: 6px 12px;
-    background-color: var(--bg-color);
     border-radius: 6px;
+    cursor: pointer;
+    color: var(--meta-color);
+    transition: all 0.2s ease;
+}
+
+.category-item:hover {
+    background-color: var(--bg-color);
+    color: var(--hover-color);
+}
+
+.category-item.active {
+    background-color: var(--bg-color);
+    color: var(--hover-color);
+    font-weight: 500;
+}
+
+.category-item i {
+    font-size: 18px;
+}
+
+.update-time {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+    color: var(--meta-color);
+    font-size: 0.9rem;
 }
 
 .update-time i {
@@ -79,8 +118,10 @@ body {
 
 .articles {
     max-width: 900px;
-    margin: 85px auto 20px;
+    margin: 70px auto 20px;
     padding: 0 20px;
+    position: relative;
+    z-index: 999;
 }
 
 .article {
@@ -88,10 +129,12 @@ body {
     padding: 16px;
     margin-bottom: 12px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .article:hover {
-    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 .article-title {
@@ -189,48 +232,48 @@ body {
 }
 
 @media (max-width: 768px) {
-    .header {
-        padding: 12px 20px;
+    .header-main {
+        padding: 10px 15px;
     }
-
-    .site-title span {
-        font-size: 1.1rem;
-    }
-
-    .update-time {
-        font-size: 0.8rem;
+    
+    .category-item {
         padding: 4px 8px;
     }
-
+    
+    .category-item span {
+        display: none;
+    }
+    
+    .update-time span {
+        font-size: 0.9rem;
+    }
+    
     .articles {
+        margin-top: 60px;
         padding: 0 15px;
-    }
-
-    .article {
-        padding: 14px;
-        margin-bottom: 10px;
-    }
-
-    .article-title {
-        font-size: 1.1rem;
     }
 }
 
 @media (max-width: 480px) {
-    .header {
-        padding: 10px 15px;
+    .header-main {
+        padding: 8px 12px;
+    }
+    
+    .site-title span {
+        font-size: 1rem;
+    }
+    
+    .update-time {
+        font-size: 0.8rem;
+    }
+    
+    .articles {
+        margin-top: 55px;
+        padding: 0 10px;
     }
 
     .site-title i {
         font-size: 20px;
-    }
-
-    .update-time {
-        padding: 3px 6px;
-    }
-
-    .articles {
-        padding: 0 10px;
     }
 
     .article {
@@ -353,4 +396,60 @@ body {
 .section-title .mdi {
     font-size: 22px !important;
     opacity: 1;
+}
+
+/* 添加分类标签栏样式 */
+.category-bar {
+    display: flex;
+    gap: 16px;
+    margin: 0 20px;
+}
+
+.desktop-only {
+    margin: 0 20px;
+}
+
+.mobile-nav {
+    display: none;
+    position: fixed;
+    top: 44px;
+    left: 0;
+    right: 0;
+    padding: 8px 0;
+    background-color: var(--header-bg);
+    border-bottom: 1px solid var(--border-color);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    z-index: 1001;
+    justify-content: center;
+    gap: 16px;
+}
+
+.empty-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    color: var(--meta-color);
+    background-color: var(--header-bg);
+    padding: 40px;
+    border-radius: 8px;
+    margin-top: 20px;
+    font-size: 1.1rem;
+}
+
+.empty-message i {
+    font-size: 24px;
+    color: var(--hover-color);
+}
+
+/* 添加顶栏和标签栏的背景模糊效果 */
+.header, .mobile-nav {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    background-color: rgba(var(--header-bg-rgb), 0.95);
+}
+
+/* 添加滚动平滑效果 */
+html {
+    scroll-behavior: smooth;
 } 

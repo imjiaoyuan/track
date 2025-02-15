@@ -5,16 +5,30 @@ from datetime import datetime
 import pytz
 from collections import defaultdict
 
+def get_feed_category(feed_url, feed_list_content):
+    # 查找feed_url所属的分类
+    lines = feed_list_content.split('\n')
+    current_category = None
+    for line in lines:
+        line = line.strip()
+        if line.endswith(':'):
+            current_category = line[:-1]  # 移除冒号
+        elif line == feed_url:
+            return current_category
+    return 'Blog'  # 默认分类为 Blog
+
 def fetch_feeds():
     with open('feed.list', 'r') as f:
-        feeds = f.read().splitlines()
+        feed_list_content = f.read()
+        feeds = [line.strip() for line in feed_list_content.splitlines() if line.strip() and not line.endswith(':')]
     
-    articles_by_source = defaultdict(list)
-    all_articles = []
+    articles_by_category = defaultdict(list)
     
     for feed_url in feeds:
         try:
             feed = feedparser.parse(feed_url)
+            category = get_feed_category(feed_url, feed_list_content)
+            
             for entry in feed.entries:
                 published = entry.get('published_parsed', entry.get('updated_parsed'))
                 if published:
@@ -41,34 +55,32 @@ def fetch_feeds():
                     'author': feed.feed.title,
                     'timestamp': dt.timestamp() if published else 0,
                     'summary': summary or '无摘要',
-                    'source_url': feed.feed.link or feed_url
+                    'source_url': feed.feed.link or feed_url,
+                    'category': category
                 }
-                articles_by_source[feed.feed.title].append(article)
-                all_articles.append(article)
+                articles_by_category[category].append(article)
         except Exception as e:
             print(f"Error fetching {feed_url}: {str(e)}")
             continue
     
-    # 获取每个源最新的一篇文章
-    latest_articles = []
-    for source_articles in articles_by_source.values():
-        if source_articles:
-            latest = max(source_articles, key=lambda x: x['timestamp'])
-            latest_articles.append(latest)
-    
-    # 如果文章数量不足50，从所有文章中取最新的补充
-    if len(latest_articles) < 50:
-        all_articles.sort(key=lambda x: x['timestamp'], reverse=True)
-        latest_articles = list({article['link']: article for article in (latest_articles + all_articles[:50])}.values())
+    # 对每个分类的文章进行处理
+    all_articles = []
+    for category, articles in articles_by_category.items():
+        # 按时间戳排序
+        articles.sort(key=lambda x: x['timestamp'], reverse=True)
+        # 论坛分类保留所有文章，其他分类取60篇
+        if category == 'Forums':
+            all_articles.extend(articles)  # 保留所有文章
+        else:
+            all_articles.extend(articles[:60])  # 其他分类取60篇
     
     # 最终按时间排序
-    latest_articles.sort(key=lambda x: x['timestamp'], reverse=True)
-    latest_articles = latest_articles[:50]
+    all_articles.sort(key=lambda x: x['timestamp'], reverse=True)
     
     # 保存为JSON文件
     data = {
-        'update_time': datetime.now(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M'),
-        'articles': latest_articles
+        'update_time': datetime.now(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d'),  # 只显示年月日
+        'articles': all_articles
     }
     
     with open('feed.json', 'w', encoding='utf-8') as f:
