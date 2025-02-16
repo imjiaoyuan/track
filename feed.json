@@ -2,63 +2,763 @@
   "update_time": "2025-02-16",
   "articles": [
     {
-      "title": "V2EX论坛求一个邀请码",
-      "link": "https://linux.do/t/topic/432915",
-      "date": "2025-02-16 09:18",
+      "title": "[问与答] 我写了一个查看学校充电桩使用情况的 APP(开源),api 都是抓包来的,需要写免责声明/违法吗?",
+      "link": "https://www.v2ex.com/t/1111767#reply0",
+      "date": "2025-02-16 14:17",
+      "author": "V2EX",
+      "timestamp": 1739686631.0,
+      "summary": "因为学校里电车特别多但是充电桩相对很少,写一个这个 APP 准备分享给同学们使用,API 是抓的官方接口,不知道这是否违法或者是否需要在 APP 里写免责声明?请各位解惑",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "连续收到三条消息 一打开字贼多 我还以为我接到商单了 结果。。。",
+      "link": "https://linux.do/t/topic/433316",
+      "date": "2025-02-16 14:15",
       "author": "LINUX DO - 最新话题",
-      "timestamp": 1739668711.0,
-      "summary": "求各位大佬路过给了V2EX论坛邀请码\n            2 个帖子 - 2 位参与者\n            阅读完整话题",
+      "timestamp": 1739686543.0,
+      "summary": "3 个帖子 - 3 位参与者\n            阅读完整话题",
       "source_url": "https://linux.do/latest",
       "category": "Forums"
     },
     {
-      "title": "想收一个netcup",
-      "link": "https://linux.do/t/topic/432914",
-      "date": "2025-02-16 09:18",
+      "title": "[JetBrains] Fleet 的死期到了： Jetbrains 宣布取消多平台支",
+      "link": "https://www.v2ex.com/t/1111766#reply0",
+      "date": "2025-02-16 14:14",
+      "author": "V2EX",
+      "timestamp": 1739686466.0,
+      "summary": "JetBrains 宣布取消 Fleet IDE 对 Kotlin Multiplatform 的支持，相应 IDE 的开发重心将转向 IntelliJ 平台（即 IntelliJ IDEA 和 Android Studio ）。KMP 的官方开发体验将回归 IntelliJ 平台，而 Fleet ...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "国内版cursor来了，字节AI编程软件trae的win版本可以下载了！免费免费免费！",
+      "link": "https://linux.do/t/topic/433312",
+      "date": "2025-02-16 14:13",
       "author": "LINUX DO - 最新话题",
-      "timestamp": 1739668705.0,
-      "summary": "4h8g512 5.8欧配置的，这个是amd的cpu吗？没买过，历史帖子看到的\n            1 个帖子 - 1 位参与者\n            阅读完整话题",
+      "timestamp": 1739686404.0,
+      "summary": "虽然官网上面写着倒计时，但实测在win系统中下载mac版本会直接跳转到win版本的链接上，目前完全免费，佬们快去试试吧！\n            7 个帖子 - 6 位参与者\n            阅读完整话题",
       "source_url": "https://linux.do/latest",
       "category": "Forums"
     },
     {
-      "title": "【黑马】2024年11月AI版Java全栈开发V15课程",
-      "link": "https://linux.do/t/topic/432909",
-      "date": "2025-02-16 09:15",
+      "title": "周末去亲近大自然",
+      "link": "https://linux.do/t/topic/433310",
+      "date": "2025-02-16 14:12",
       "author": "LINUX DO - 最新话题",
-      "timestamp": 1739668519.0,
-      "summary": "本课程内容涵盖Java基础、JavaWeb、微服务、项目实战等多个阶段。课程从Java基础入门开始，逐步深入讲解面向对象编程、集合框架、多线程、网络编程等核心技术，随后进入JavaWeb开发，学习HTML、CSS、JavaScript、Vue等前端技术，以及SpringBoot、MyBatis等后端...",
+      "timestamp": 1739686350.0,
+      "summary": "各位佬友们，平常一定要多走动走动，注意身体健康呀。\n今天晴的很好，去山里走一走，亲近大自然。远离城市的喧嚣\n\n\n\n\n\n\n\n\n\n\n            2 个帖子 - 2 位参与者\n            阅读完整话题",
       "source_url": "https://linux.do/latest",
       "category": "Forums"
     },
     {
-      "title": "呼唤，UI大佬。",
-      "link": "https://linux.do/t/topic/432907",
-      "date": "2025-02-16 09:12",
+      "title": "肥羊IPTV部署报错",
+      "link": "https://linux.do/t/topic/433309",
+      "date": "2025-02-16 14:12",
       "author": "LINUX DO - 最新话题",
-      "timestamp": 1739668346.0,
-      "summary": "有没有懂UI工具的朋友，使用UI工具帮我转换一张图片格式。 使用的在线工具转换质量太差，Png 转 SVG 或 illustrations ，呼救。\n            3 个帖子 - 2 位参与者\n            阅读完整话题",
+      "timestamp": 1739686344.0,
+      "summary": "大佬们，\n我现在用的是istoreos系统的软路由，想用docker部署肥羊allinone直播源，但是命令行部署在加载后报错，想问问大家怎么解决。\n报错信息：Images: pulling youshandefeiyang/allinone:latest… code:500 Get “https:...",
       "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "[互联网] Create Screen Colors",
+      "link": "https://www.v2ex.com/t/1111765#reply0",
+      "date": "2025-02-16 14:11",
+      "author": "V2EX",
+      "timestamp": 1739686279.0,
+      "summary": "Generate and display full-screen color backgrounds for your presentations, photography, and creative projects.\nwebsite address: https://screencolors.o...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[OpenWrt] 家庭网络旁路由配置：光猫拨号 + OpenWrt（IPv4/IPv6）",
+      "link": "https://www.v2ex.com/t/1111764#reply0",
+      "date": "2025-02-16 14:08",
+      "author": "V2EX",
+      "timestamp": 1739686129.0,
+      "summary": "目的\n通过配置光猫的拨号功能和 OpenWrt 旁路由，我们期望实现以下目标：\n\n自动设置 OpenWrt 为网关：所有接入网络的设备无论是 IPv4 还是 IPv6 ，都自动将 OpenWrt 设置为网关。\n网络优化功能生效：OpenWrt 上部署的各种网络优化功能，比如 Adblock 、QoS...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "【转载】「中国万事达」万事网联借记卡与境内主流外币借记卡对比 2025年1月25日更新版",
+      "link": "https://linux.do/t/topic/433303",
+      "date": "2025-02-16 14:07",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739686020.0,
+      "summary": "本贴为转载。原贴为 encmasuta 频道内的原创内容，如无特殊说明，均以 CC BY-NC-SA 4.0 协议发布。转载时，敬请保留原始来源。\n在最近的几个月，中信银行、邮储银行分别进行了史诗级 OTA ，招商银行万事达金葵花卡试点发卡，广发银行发行了新的万事网联借记卡。本频道编辑已更新相关内容...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "慕课网实战课-畅销3年的Python分布式爬虫课程-原版提取（16章全）",
+      "link": "https://linux.do/t/topic/433298",
+      "date": "2025-02-16 14:00",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739685606.0,
+      "summary": "课程详情\n 课程介绍\n慕课网实战课-畅销3年的Python分布式爬虫课程-原版提取（16章全）\n课程目录：\n\n第1章课程介绍\n第2章windows下搭建开发环境\n第3章爬虫基础知识回顾\n第4章新:scrapy爬取知名技术文章网站\n第5章scrapy爬取知名问答网站\n第6章通过CrawlSpider对...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "deepseek涨价了，用不起，真用不起了",
+      "link": "https://linux.do/t/topic/433297",
+      "date": "2025-02-16 13:59",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739685544.0,
+      "summary": "昨天写代码问了两个问题，就用了1块钱  \n还不能充值了\n            15 个帖子 - 9 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "[问与答] 失业转职干淘宝了，积攒的老客户都是扫码支付，想支持一下信用卡，需要开经营码，又怕纯远程收冻结账户",
+      "link": "https://www.v2ex.com/t/1111763#reply0",
+      "date": "2025-02-16 13:58",
+      "author": "V2EX",
+      "timestamp": 1739685531.0,
+      "summary": "RT 有什么收款方式和渠道建议吗？🥹",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "找个文字转图片的APP",
+      "link": "https://linux.do/t/topic/433296",
+      "date": "2025-02-16 13:58",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739685513.0,
+      "summary": "功能就是类似于AI对话的时候 将回复的文字内容进行分享，而它的内容是Markdown格式的，如果直接复制文字给别人，就会出现###啥之类的 不好看，像豆包那种可以分享为图片。\n但是每次都这样操作就很麻烦，或者像DeepSeek，就只有复制功能，没有分享为图片功能，需要我自己将内容粘贴到Typora上...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "谷歌在Android 16中增加反诈功能：通话期间禁止启用侧载避免被引导安装恶意软件",
+      "link": "https://www.landiannews.com/archives/107895.html",
+      "date": "2025-02-16 13:57",
+      "author": "蓝点网",
+      "timestamp": 1739685458.0,
+      "summary": "#系统资讯 谷歌在 Android 16 测试版中增加反诈功能：通话期间禁止启用侧载安装权限避免被引导安装恶意软件。这项措施主要可以应对诈骗者通过电话指导用户通过侧载方式安装恶意软件并授予无障碍权限从而进行各种恶意操作和诈骗。查看全文：https://ourl.co/107895",
+      "source_url": "https://www.landiannews.com",
+      "category": "Information"
+    },
+    {
+      "title": "【神卷仙人】2月16日美团神卷口令分享帖",
+      "link": "https://linux.do/t/topic/433292",
+      "date": "2025-02-16 13:52",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739685131.0,
+      "summary": "美团搜索关键词：\n神会员111\n一路繁花\n蛟龙神券\n\n  \n    \n    \n    千呼万唤始出来 羊毛姬网站已上线！ 资源荟萃\n  \n  \n    之前在深海发过羊毛姬的群组，获得了大佬们的一致好评，在此感谢大家。最近有大佬反馈当网络环境不允许的时候，比如工作时间无法正常薅羊毛，为了发扬大佬们...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "新手求教，移动宽带访问不了域名",
+      "link": "https://linux.do/t/topic/433290",
+      "date": "2025-02-16 13:50",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739685053.0,
+      "summary": "我使用的电信宽带，正常访问我的域名，但是移动宽带访问不了我的域名，域名是腾讯云的，正常dns解析了。大概是什么原因。一级域名 二级域名移动宽带下面都访问不了。\n            5 个帖子 - 5 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "Meta推出革命性AI系统，将思维转化为文本",
+      "link": "https://linux.do/t/topic/433287",
+      "date": "2025-02-16 13:44",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739684656.0,
+      "summary": "Meta近日发布了一项突破性的AI系统，能够将思维转化为输入的文字，准确率最高可达80%。该技术目前需要大型、不可移动的脑扫描仪以及受控实验室环境才能有效运行。该研究由Meta与巴斯克认知、大脑与语言中心（BCBL）合作进行，使用脑磁图（MEG）和脑电图（EEG）记录志愿者在打字时的脑电活动，训练A...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "热门任天堂DS模拟器DraStic从谷歌应用商店消失 尚不清楚具体原因是什么",
+      "link": "https://www.landiannews.com/archives/107894.html",
+      "date": "2025-02-16 13:43",
+      "author": "蓝点网",
+      "timestamp": 1739684635.0,
+      "summary": "#软件资讯 安卓平台热门的任天堂 DS 模拟器 DraStic 从谷歌应用商店消失，目前还不清楚具体原因。DraStic 开发商去年曾表示会从商店下架并开源，不过直到现在也没开源，而下架估计也非计划内的，或许也是迫于任天堂的法律压力。查看全文：https://ourl.co/107894",
+      "source_url": "https://www.landiannews.com",
+      "category": "Information"
+    },
+    {
+      "title": "何为爱 -- 情人节特辑",
+      "link": "https://linux.do/t/topic/433283",
+      "date": "2025-02-16 13:39",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739684399.0,
+      "summary": "我希望你明白\n所有人的一生都要面对生为独立个体的命运\n不论使用何种方式寻求婚姻解法、沉溺于世俗事物、加入一个群体、禁欲、参与着迷的工作、艺术创作、虚无、信仰着什么…\n我们都是在试图解决个体的终极需求孤独的恐惧感，以及，了解自我独特性每个人都一样\n\n\n爱是一种能力吗？\n答案是肯定的，因为它需要知识、学...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "[分享创造] 我写了个 App，上架 Google Play 一年，下载不到 10 次，于是决定把它开源了",
+      "link": "https://www.v2ex.com/t/1111761#reply1",
+      "date": "2025-02-16 13:39",
+      "author": "V2EX",
+      "timestamp": 1739684370.0,
+      "summary": "缘起\n起初接触某某标签笔记，我被其以标签为核心的卡片笔记模式深深吸引。然而，99 元一年的会员费感觉有点贵了，再加上数据存储在它的服务器，总感觉缺乏一份安全感。\n身为 Android 开发者，一个念头在我脑海中闪现：何不亲手写一款属于自己的类似应用？\n开发历程\n说干就干，最初采用 xml 方式进行开...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "本地部署多模态模型",
+      "link": "https://linux.do/t/topic/433278",
+      "date": "2025-02-16 13:37",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739684246.0,
+      "summary": "大家本地都部署过什么多模态模型，有哪些比较推荐于做结构化数据提取，比如表单票据信息提取的吗？\n            3 个帖子 - 3 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "第四方支持平台讨论",
+      "link": "https://linux.do/t/topic/433277",
+      "date": "2025-02-16 13:36",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739684175.0,
+      "summary": "目前已知的第四方支付平台，想换个平台对接，看看大家的推荐。\n用过的：\n\n虎皮椒（4年前用的，开通好像是88，不太记得了，现在支付宝强制要进行线下门店 + 手持身份证，故无法使用）\n易支付，坑爹支付，支付宝渠道费用 10%，逆天。\n\n没用过的：\n\nH5支付（https://h5zhifu.com/）\n...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "太难受了，阿里云服务器",
+      "link": "https://linux.do/t/topic/433276",
+      "date": "2025-02-16 13:35",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739684130.0,
+      "summary": "抢了个阿里云的38一年的服务器，几把，docker拉个镜像拉不下来\n\n太几把难受了\n            23 个帖子 - 18 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "使用 perplexity 的 deep research 分析了一下金价走势",
+      "link": "https://linux.do/t/topic/433272",
+      "date": "2025-02-16 13:34",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739684059.0,
+      "summary": "如何判断USOUSD价格走势的下降趋势？\n\n我把结果导出为 PDF 文档了，详见附件。\nUSOUSD价格走势下降趋势判断方法研究.pdf (535.3 KB)\n            2 个帖子 - 2 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "阿根廷总统效仿特朗普推出加密货币LIBRA 仅4小时开发团队就套现1亿美元",
+      "link": "https://www.landiannews.com/archives/107893.html",
+      "date": "2025-02-16 13:30",
+      "author": "蓝点网",
+      "timestamp": 1739683808.0,
+      "summary": "#加密货币 阿根廷总统米莱效仿特朗普发行加密货币 LIBRA，仅 4 小时开发团队就套现高达 1 亿美元。不过随后米莱否认参与该项目同时也删除了推文，米莱称自己被欺骗发布相关推文，现在阿根廷已成立调查组对此事件进行详细调查并可能对背后的团队 KIP Protocol 采取法律措施。查看全文：http...",
+      "source_url": "https://www.landiannews.com",
+      "category": "Information"
+    },
+    {
+      "title": "物理也可以很浪漫",
+      "link": "https://linux.do/t/topic/433269",
+      "date": "2025-02-16 13:29",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739683777.0,
+      "summary": "截取自\n关于爱情的终极答案，或许就藏在两个电子跨越排斥相拥的瞬间 - 哔哩哔哩@二次元的中科院物理所\n好多物理名词都看不懂，不过感觉写得太棒了\n物理是理性的世界，爱情是感性的世界，理性和感性通过想象的桥梁交织在一起\n            1 个帖子 - 1 位参与者\n            阅读完...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "2.16 出刚开的88VIP",
+      "link": "https://linux.do/t/topic/433267",
+      "date": "2025-02-16 13:28",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739683695.0,
+      "summary": "网易云 45r\n芒果/优酷 40r\n饿了么 10r\n夸克：10 夸克包售后\n高德打车 5r\n飞猪省钱卡 5r\n希尔顿会员 5r\n万豪尊贵金卡 5r\n            9 个帖子 - 6 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "[问与答] 想知道下北上广一线程序的就业面试情况",
+      "link": "https://www.v2ex.com/t/1111760#reply2",
+      "date": "2025-02-16 13:22",
+      "author": "V2EX",
+      "timestamp": 1739683343.0,
+      "summary": "在北上广打工多年 已经回到二线城市几年十年了,前几天和之前北上广的朋友聊天.告诉我外面就业形势很严峻,闲聊了下. 之前同事背景也很好 但是也无奈找不到合适的工作.\n虽然现在是互联网时代 但是北上广的消息存在滞后性 可能是大数据限制 也可能是本人不怎么关注.\n所以本着八卦心理想知道外面到底啥情况.\n同...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "话说现在没人用coco了吗？",
+      "link": "https://linux.do/t/topic/433256",
+      "date": "2025-02-16 13:18",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739683131.0,
+      "summary": "现在看不见讨论coco了，难道coco已死？\n            2 个帖子 - 2 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "突然发现，论坛用户怎么还往下掉？",
+      "link": "https://linux.do/t/topic/433251",
+      "date": "2025-02-16 13:16",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739682981.0,
+      "summary": "前两天看是55,000多人，现在看是52,000多人？是封号吗？\n            14 个帖子 - 13 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "有没有搞颜色也不会被封的deepseek api",
+      "link": "https://linux.do/t/topic/433248",
+      "date": "2025-02-16 13:14",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739682882.0,
+      "summary": "有没有搞颜色也不会被封的deepseek api\n            7 个帖子 - 7 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "一个关于Charles抓包的问题",
+      "link": "https://linux.do/t/topic/433246",
+      "date": "2025-02-16 13:10",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739682656.0,
+      "summary": "当前环境与工具：\nWin10、Clash Verge、Charles\n问题描述：\n在win10系统上开打打开与使用 Clash Verge 工具，可以访问 google.com、baidu.com 等网站，然后再打开使用 Charles 爪包时，只能访问与抓取 baidu.com 等国内网站，goo...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "敖丙传（哪吒魔童闹海漫画）三卷+同人",
+      "link": "https://linux.do/t/topic/433240",
+      "date": "2025-02-16 13:08",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739682512.0,
+      "summary": "我用夸克网盘分享了「敖丙传(哪吒之魔童闹海漫画)」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。\n链接：https://pan.quark.cn/s/232ea43818c6\n            5 个帖子 - 5 位参与者\n            ...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "[OpenAI] DeepSeek 为什么理解某个小众领域对话的能力比 GPT 强这么多？",
+      "link": "https://www.v2ex.com/t/1111759#reply0",
+      "date": "2025-02-16 13:04",
+      "author": "V2EX",
+      "timestamp": 1739682297.0,
+      "summary": "在 B 站刷视频看到一段对话没理解，分别问了一下 GPT 和 DeepSeek ，GPT 的回答实在让人有点大跌眼镜\n现在不知怎么，我上次用 sin 打珠泪，对面被我打爆了（我是新手，没见过全盛珠泪，可以科普一下吗？）\n2024-07-09 16:33\n\n39\n\n回复\n\n\nbili_90544560...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "OpenAI董事会拒绝埃隆马斯克领导的财团提出的974亿美元收购要约",
+      "link": "https://www.landiannews.com/archives/107890.html",
+      "date": "2025-02-16 13:03",
+      "author": "蓝点网",
+      "timestamp": 1739682225.0,
+      "summary": "#人工智能 OpenAI 董事会拒绝埃隆马斯克领导的财团提出的 974 亿美元收购要约，董事会称马斯克的出价实际上根本不是出价。目前 OpenAI 估值超过 2,500 亿美元，马斯克的出价确实有些开玩笑，但马斯克强调如果 OpenAI 停止营利性转换他将撤回收购要约。查看全文：https://ou...",
+      "source_url": "https://www.landiannews.com",
+      "category": "Information"
+    },
+    {
+      "title": "[问与答] 哔哩哔哩视频画质疑问",
+      "link": "https://www.v2ex.com/t/1111758#reply9",
+      "date": "2025-02-16 13:00",
+      "author": "V2EX",
+      "timestamp": 1739682021.0,
+      "summary": "如题，大家最近有没有发现哔哩哔哩的视频画质有问题，尤其看直播的时候，画质开到最高也不如油管的 1080 的视频清晰",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "有什么赚钱的小玩意儿吗？",
+      "link": "https://linux.do/t/topic/433227",
+      "date": "2025-02-16 12:57",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739681870.0,
+      "summary": "一天能对付个几十都行\n            10 个帖子 - 10 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "aishell 提高 CLI 中 的生活质量, 超简单的 AI 助手",
+      "link": "https://linux.do/t/topic/433225",
+      "date": "2025-02-16 12:56",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739681783.0,
+      "summary": "说明\nshell 中总有一些命令过于繁琐，参数过多，而且很常用(点名批评 awk, find, ps), 在 history entries 中找到他们然后框框一顿修改然后运行，然后报错，超级麻烦！\n调用之前写的 python 模块，结合 xdotool 写了个 aishell. 她优雅、简单、强大...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "[分享发现] 一个 AI 写成的孩子学字的记录和复习",
+      "link": "https://www.v2ex.com/t/1111756#reply0",
+      "date": "2025-02-16 12:52",
+      "author": "V2EX",
+      "timestamp": 1739681534.0,
+      "summary": "想法：就是为了记录孩子学字的进度和一些错字的汇总实现：chagpt 写的需求文档开发：windsurf 全程写的，我是一个代码也没写功能：导入字库-学习-标记认识和不认识-不认识的进入错字库-复习，打印错字库线下学。界面预览：都一个 AI 写的代码 也没啥好公开的，我也没打算发布到线上就是自己孩子用...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "北大能临时申请参观吗",
+      "link": "https://linux.do/t/topic/433222",
+      "date": "2025-02-16 12:50",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739681455.0,
+      "summary": "假如我明天后天就想去看\n            8 个帖子 - 8 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "现代诗：和你说再见",
+      "link": "https://linux.do/t/topic/433221",
+      "date": "2025-02-16 12:50",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739681432.0,
+      "summary": "和你说再见\n往南，往西\n错过一道悲伤\n你说眼泪是归属\n我揉碎双目\n雾里不见花开\n雾外也透不去光\n朋友，朋友\n现实并不总是现实\n理想也不曾理想\n但大风吹来时\n迷雾内外\n人们像浮萍一样\n回望，回忘\n我和你珍视同一份悲伤\n            2 个帖子 - 2 位参与者\n            阅读完...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "[问与答] 北大能临时申请参观吗",
+      "link": "https://www.v2ex.com/t/1111755#reply2",
+      "date": "2025-02-16 12:50",
+      "author": "V2EX",
+      "timestamp": 1739681421.0,
+      "summary": "假如我明天后天就想去看",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "路边捡到了一个撕碎了的小作文……",
+      "link": "https://linux.do/t/topic/433212",
+      "date": "2025-02-16 12:45",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739681149.0,
+      "summary": "昨天在路上散步，突然发现草丛边上有碎纸片，捡起来一看，诶，难道是情书？\n看完才发现，原来现在的小朋友都把情书叫做“小作文”了，老了。\n\n\n\n            24 个帖子 - 20 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "[Android] 想换手机，但找遍了也没找到新出的 LCD 屏手机",
+      "link": "https://www.v2ex.com/t/1111754#reply8",
+      "date": "2025-02-16 12:45",
+      "author": "V2EX",
+      "timestamp": 1739681127.0,
+      "summary": "LCD 已经彻底没落了吗，主力机还用着 K10 ，副机 A93S 。\n想把副机换新的，找了一圈想找个新点的 CPU 的都没有，只有中低端的型号还在用 LCD ，而且用的 LCD 屏甚至还不如几年前的机型",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "有没有不看哪吒的？",
+      "link": "https://linux.do/t/topic/433205",
+      "date": "2025-02-16 12:36",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739680602.0,
+      "summary": "有没有不看哪吒的？就是不看那种，犟脾气\n            44 个帖子 - 38 位参与者\n            阅读完整话题",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "[分享创造] [开源]分享一个自己开发的记账工具",
+      "link": "https://www.v2ex.com/t/1111752#reply0",
+      "date": "2025-02-16 12:36",
+      "author": "V2EX",
+      "timestamp": 1739680579.0,
+      "summary": "起因于没找到符合自己需求的记账工具, 于是写了一个\n\n多用户\n自定义银行,货币类型,银行卡类型\n保存银行卡信息\n自定义汇率\n自定义交易分类(收入/支出/转账/兑换下的子分类\n创建钱包, 以及钱包下的划分, 每个划分绑定到某张银行卡\n创建愿望单, 与钱包功能一致\n创建债务, 与钱包功能一致\n创建订阅,...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[API] URL 生成网站截图 API 数据接口",
+      "link": "https://www.v2ex.com/t/1111751#reply0",
+      "date": "2025-02-16 12:35",
+      "author": "V2EX",
+      "timestamp": 1739680529.0,
+      "summary": "URL 生成网站截图 API 数据接口\n网站工具 / 截图 高效生成网页截图 生成网页截图 / 图片输出。\n\n1. 产品功能\n\n支持全页截图和视窗截图；\n支持自定义截图尺寸；\n兼容移动设备截图；\n支持暗黑模式截图；\n固定参数请求，可以得到最新的站点截图；\n快速高效的截图生成；\n全接口支持 HTTPS...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "comfyUI 工作流练习",
+      "link": "https://linux.do/t/topic/433200",
+      "date": "2025-02-16 12:31",
+      "author": "LINUX DO - 最新话题",
+      "timestamp": 1739680277.0,
+      "summary": "自己练习给拼凑出来的 电商一键更新商品场景工作流， 可以理解为万物迁移。\n主要有 一键生成场景图 / 自定义场景图  / 细节修复\nGithub地址： GitHub - XGCoder/ComfyUIWorkFlows\n            7 个帖子 - 5 位参与者\n            阅...",
+      "source_url": "https://linux.do/latest",
+      "category": "Forums"
+    },
+    {
+      "title": "整理一下《重塑杏仁核》",
+      "link": "https://ssshooter.com/rebuild-amygdala/",
+      "date": "2025-02-16 12:14",
+      "author": "Usubeni Fantasy",
+      "timestamp": 1739679254.0,
+      "summary": "总结一下凯瑟琳·M.皮特曼(Catherine M.Pittman)《重塑杏仁核》，附带思维导图",
+      "source_url": "https://ssshooter.com/",
+      "category": "Blog"
+    },
+    {
+      "title": "[酷工作] [web3] [远程办公] 产品与运营专场，也有各类研发岗",
+      "link": "https://www.v2ex.com/t/1111750#reply0",
+      "date": "2025-02-16 12:10",
+      "author": "V2EX",
+      "timestamp": 1739679012.0,
+      "summary": "我在一家币圈交易所公司，可以帮忙内推各类远程办公岗位：公司名在最下面\t [薪资待遇] 工作经验至少 3 年以上，普通岗位年包 40w-100w ，总监岗 100w+，工资发 usdt ，14-18 薪，公司不交社保公积金，直接发钱自己缴纳或者不缴纳都可以。季度团建费，学习费，健康费 各 100U ，...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "普联(TP-LINK)将在6月30日彻底关停DDNS服务 用户必须在停服前迁移至其他DDNS",
+      "link": "https://www.landiannews.com/archives/107889.html",
+      "date": "2025-02-16 12:03",
+      "author": "蓝点网",
+      "timestamp": 1739678607.0,
+      "summary": "#网络设备 普联 (TP-LINK) 将在 6 月 30 日彻底关闭 DDNS 服务，用户必须在停服前迁移至其他 DDNS 服务。和我们此前预料的一样，普联 DDNS 目前无法新增域名并非 BUG 而是有意为之，也就是普联不准备再提供自有的 DDNS 服务了。查看全文：https://ourl.co...",
+      "source_url": "https://www.landiannews.com",
+      "category": "Information"
+    },
+    {
+      "title": "[Telegram] [开源]分享一个自己开发的, 整合 SMS/Mail/Telegram/微信四个平台的信息收发平台",
+      "link": "https://www.v2ex.com/t/1111749#reply3",
+      "date": "2025-02-16 11:55",
+      "author": "V2EX",
+      "timestamp": 1739678136.0,
+      "summary": "起因于已有的聚合信息发送平台无法满足自己的需求. 不支持我需要的平台,或不支持接收信息后进行处理,或不放心把涉及隐私的消息通过第三方平台发送\n\n利用 SMS 发送短信(上一篇文章中分享的开源项目)\n利用 SMTP/IMAP 收发邮件\n利用 Telegram Bot 收发消息\n利用企业微信应用收发消息...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "微软解除华硕设备升级Windows 11 24H2限制 用户需先更新BIOS固件才可以升级",
+      "link": "https://www.landiannews.com/archives/107888.html",
+      "date": "2025-02-16 11:54",
+      "author": "蓝点网",
+      "timestamp": 1739678075.0,
+      "summary": "#系统资讯 微软解除部分华硕设备升级 Windows 11 24H2 版限制，用户需先安装更新升级 BIOS 固件。此次固件更新也可以直接通过 Windows 11 更新获取，安装更新并在重启后即可再次检查 24H2 版更新。查看全文：https://ourl.co/107888",
+      "source_url": "https://www.landiannews.com",
+      "category": "Information"
+    },
+    {
+      "title": "[程序员] 豆瓣电影信息获取工具",
+      "link": "https://www.v2ex.com/t/1111748#reply1",
+      "date": "2025-02-16 11:54",
+      "author": "V2EX",
+      "timestamp": 1739678043.0,
+      "summary": "豆瓣电影信息获取工具\n（搞这个主要是用来快速发帖）\n快速获取豆瓣电影、影人、评分等信息\n影视信息一键复制 markdown 模式或者文本模式\n\n生成信息卡片模式\n\n一键保存图片\n\n豆瓣 api： https://db.ypsou.com/api.html\n自己调用获取豆瓣影视信息（有的接口不能用）\n...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[Apple] 外版的苹果设备，用的国区账号和中文语言，是否可以开启 AppleIntelligence？",
+      "link": "https://www.v2ex.com/t/1111747#reply4",
+      "date": "2025-02-16 11:51",
+      "author": "V2EX",
+      "timestamp": 1739677874.0,
+      "summary": "我现在用的是加拿大的 iPhone 16 Pro (A3292)。\n但是我的 Apple 账户地区是中国大陆，系统语言也是简体中文。\n这种情况是否可以开启 Apple Intelligence 呢？",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[香港] 海洋公园今天开始有 2 只新大熊猫宝宝",
+      "link": "https://www.v2ex.com/t/1111746#reply0",
+      "date": "2025-02-16 11:48",
+      "author": "V2EX",
+      "timestamp": 1739677726.0,
+      "summary": "下午去睇睇",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "微软更新Windows 11 24H2硬件支持列表 取消对英特尔第8/9/10代大量CPU的支持",
+      "link": "https://www.landiannews.com/archives/107887.html",
+      "date": "2025-02-16 11:45",
+      "author": "蓝点网",
+      "timestamp": 1739677543.0,
+      "summary": "#系统资讯 微软更新 Windows 11 24H2 版官方硬件支持列表，删除数百款英特尔第 8/9/10 代台式机或笔记本电脑处理器的支持。这些处理器并不算特别老旧，目前也可以正常安装或升级 Windows 11 24H2，不知道微软突然删除支持的原因是什么。查看全文：https://ourl.c...",
+      "source_url": "https://www.landiannews.com",
+      "category": "Information"
+    },
+    {
+      "title": "[Windows] Hyper-V Linux 虚拟机 ping DUP 重复现象",
+      "link": "https://www.v2ex.com/t/1111744#reply5",
+      "date": "2025-02-16 11:31",
+      "author": "V2EX",
+      "timestamp": 1739676710.0,
+      "summary": "为什么会出现 ping 重复现象，怎么解决。不过在 Windows 虚拟机上进行 ping 操作就没问题，来个大佬帮帮忙看看哪里配置有问题\n在虚拟机 Rocky Linux (192.168.137.158) 上进行 ping\nLast login: Sun Feb 16 09:30:16 2025...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "现在在特定场景下用户可以使用ChatGPT生成成人色情或血腥暴力等方面的内容",
+      "link": "https://www.landiannews.com/archives/107886.html",
+      "date": "2025-02-16 11:26",
+      "author": "蓝点网",
+      "timestamp": 1739676380.0,
+      "summary": "#人工智能 现在在特定场景下用户可以使用 ChatGPT 生成成人色情内容或血腥暴力等方面的内容。本周 OpenAI 更改模型规范，新规范支持在特定场景下生成敏感内容，但内容政策依然适用，包括禁止生成任何涉及未成年人、非法或非自愿的性行为描述或极端血腥内容。查看全文：https://ourl.co/...",
+      "source_url": "https://www.landiannews.com",
+      "category": "Information"
+    },
+    {
+      "title": "微信搜索功能集成DeepSeek-R1模型 可以快速回答但不支持多轮对话和记忆",
+      "link": "https://www.landiannews.com/archives/107885.html",
+      "date": "2025-02-16 11:13",
+      "author": "蓝点网",
+      "timestamp": 1739675602.0,
+      "summary": "#人工智能 微信搜索功能集成 DeepSeek-R1 模型，用户使用微信 AI 搜索时可以手动切换至 R1 模型搜索全网内容。目前微信喂给 R1 模型的优先是微信公众平台数据和网页数据，这样也可以生成带有最新消息的回答，简化用户的搜索体验。查看全文：https://ourl.co/107885",
+      "source_url": "https://www.landiannews.com",
+      "category": "Information"
+    },
+    {
+      "title": "[问与答] 有没有爱喝白酒的兄弟，我在给我爸选口粮酒",
+      "link": "https://www.v2ex.com/t/1111742#reply15",
+      "date": "2025-02-16 11:09",
+      "author": "V2EX",
+      "timestamp": 1739675386.0,
+      "summary": "如题，看了 B 站 五花八门的牌子推荐，整理如下：\n‍换盖银习  金沙回沙回源 金沙摘要 金沙鱼儿  老珍酒   龙滨  北大仓部优 玉蝉 叙府大曲 臻酿  丹泉  乳玻贡   双桥  尖庄红优 台源   全兴  庞泉  红川特曲  金雁  泸州老窖浇头曲  沱牌",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[分享创造] 分享一个自己开发的自用的短信收发平台",
+      "link": "https://www.v2ex.com/t/1111741#reply3",
+      "date": "2025-02-16 11:09",
+      "author": "V2EX",
+      "timestamp": 1739675345.0,
+      "summary": "功能\n\n发送短信\n接收短信\nWeb 界面, 支持查看发送和接收历史\nAPI 接口, 直接通过调用 API 接口发送短信\n\n所需材料\n\nAir780E\n一张手机卡(最好按照自身需求开通短信包,这样发短信便宜)\n树莓派\n\n搭建需要有一定的计算机基础能够焊接开发板和编译程序\n完整教程: https://b...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[分享发现] 专享相册",
+      "link": "https://www.v2ex.com/t/1111740#reply1",
+      "date": "2025-02-16 11:08",
+      "author": "V2EX",
+      "timestamp": 1739675304.0,
+      "summary": "📸 专享私密相册，给你最安全的照片存储空间！\n每张珍贵的照片，都值得被珍藏。\n现在，告别杂乱无章的相册，告别隐私泄露的烦恼，专享私密相册来帮你一键管理、保护你的回忆。\n🔒 隐私至上，守护你的每一张照片\n再也不用担心别人翻看你的私人相册了！强大的加密技术，保证只有你能查看。\n🎨 个性化设计，属于你的专...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[问与答] 大佬可知道有管理数据，然后可以导出 excel 的开源项目？",
+      "link": "https://www.v2ex.com/t/1111739#reply0",
+      "date": "2025-02-16 10:45",
+      "author": "V2EX",
+      "timestamp": 1739673910.0,
+      "summary": "大佬可知道有管理数据，然后可以导出 excel 的开源项目？\n管理数据一般也是类似 excel 表的管理样式的",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[Apple] 现在 mini 4 的硬盘发展得怎么样了",
+      "link": "https://www.v2ex.com/t/1111738#reply13",
+      "date": "2025-02-16 10:37",
+      "author": "V2EX",
+      "timestamp": 1739673430.0,
+      "summary": "因为系统装在外置硬盘上会导致无法在线更新系统\n所以把系统重新装回默认的 256g 硬盘上\n但是装完系统及软件 已经占掉了 150 多 g 了\n这还是在没有恢复微信 QQ 聊天记录的情况下\n看来不换 2T 硬盘是不行了  不知道现在的硬盘是不是比之前的成熟了\n比如 pcb 层数及封胶等\n有买过用过的朋...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[上海] 上海躺平买房推荐，给到板块或者小区",
+      "link": "https://www.v2ex.com/t/1111736#reply14",
+      "date": "2025-02-16 10:24",
+      "author": "V2EX",
+      "timestamp": 1739672645.0,
+      "summary": "主要以下几个要求：1 虹桥站 30 公里以内，2 单价 3w~4w 普通住宅  ，房龄 20 年内，3 三房飞机户型（客厅 2 个卧室都是朝南），4 附近 5 公里内有三甲或者二甲医院，5 附近 2 公里内小学和中学，6 附近 2 公里内有地铁在家躺平，无通勤需求",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[Android] 为什么安卓 bootloader 锁了，就没人反向工程，但是 ios 手机不开源都有人折腾越狱",
+      "link": "https://www.v2ex.com/t/1111735#reply18",
+      "date": "2025-02-16 10:23",
+      "author": "V2EX",
+      "timestamp": 1739672598.0,
+      "summary": "难度不是一个等级？哪个比较难技术上？",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[推广] 最低成本保号，接码神器到手即用， 25 年元旦激活 新西兰 skinny 电话卡¥78 包邮 现货不多",
+      "link": "https://www.v2ex.com/t/1111734#reply0",
+      "date": "2025-02-16 10:19",
+      "author": "V2EX",
+      "timestamp": 1739672352.0,
+      "summary": "现货不议价，只要链接还在就可以直接拍。当天下午四点前的订单，当天发出。不挑号，盲发。走闲鱼，非偏远圆通包邮。25 年元旦新西兰已激活到手即用，有需要的朋友可以联系我V：Ranger7hero或者Telegram: @haisenbergor [闲鱼]  https://m.tb.cn/h.TJ10h...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[Windows] Win11 有时断开 RDP 后，再链接 RDP 就蓝屏进不去桌面",
+      "link": "https://www.v2ex.com/t/1111733#reply1",
+      "date": "2025-02-16 10:15",
+      "author": "V2EX",
+      "timestamp": 1739672109.0,
+      "summary": "系统是 Win11 LTSC ，平常都用 mac 走 RDP 控制，有时关闭 RDP 后，再次连还正常， 但有时再连就蓝屏进不去桌面了，只能重启解决。 这个要怎么解决有大佬知道吗[img][/img]",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[小米] 小米手机线刷升级求助",
+      "link": "https://www.v2ex.com/t/1111732#reply7",
+      "date": "2025-02-16 10:13",
+      "author": "V2EX",
+      "timestamp": 1739671994.0,
+      "summary": "小米 13 ，已解 BL ，目前用的 EEA 版 HyoerOS 1 系统，已 root 。最近看到 HyperOS 2 的 EEA 版也出了，想请教了解的同学：能否直接用小米刷机工具线刷跨版本升级新版系统，但又不影响现有 app 和用户文件？不介意重新 root 。但是主力机，有太多微信聊天记录、...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[商业模式] 求推荐给自己带来剧烈改变的小报童专栏",
+      "link": "https://www.v2ex.com/t/1111731#reply0",
+      "date": "2025-02-16 10:10",
+      "author": "V2EX",
+      "timestamp": 1739671847.0,
+      "summary": "最近发现了小报童这个付费阅读平台，看见了平台的自我介绍是希望给创作者一个能专心沉淀内容、不需要追流量又能产生经济回报的地方。\n浏览了一些小报童的导航站，感觉广泛推荐的专栏包括：\n\n生财有术项目精选\n产品沉思录\n\n小报童本身不太会给专栏流量，更多的需要作者去运营，感觉走的是粉丝经济的路子，内容质量的权...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[分享创造] 用你的书签打造个人「第二大脑」",
+      "link": "https://www.v2ex.com/t/1111730#reply5",
+      "date": "2025-02-16 10:04",
+      "author": "V2EX",
+      "timestamp": 1739671475.0,
+      "summary": "Rabrain 是什么？\nRabrain 是您的 AI 第二大脑（Second Brain AI），它将 Pocket 等稍后阅读应用的便利性与 Notion 的多功能性相结合。它超越了传统的书签，创建了一个智能知识管理系统。无论您是保存文章以供稍后阅读、研究主题还是构建知识库，Rabrain 的 ...",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[分享创造] 预祝哪吒 2 拿下全球票房第一，做了个网站",
+      "link": "https://www.v2ex.com/t/1111729#reply4",
+      "date": "2025-02-16 10:00",
+      "author": "V2EX",
+      "timestamp": 1739671217.0,
+      "summary": "哪吒，冲冲冲！！！https://nezha2.aolifu.org",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[NAS] 群晖 SHR 磁盘异常爆满",
+      "link": "https://www.v2ex.com/t/1111728#reply2",
+      "date": "2025-02-16 09:48",
+      "author": "V2EX",
+      "timestamp": 1739670486.0,
+      "summary": "放了两个 12T 的硬盘组的一比一的SHR,\n但是现在一直显示磁盘已满，请问各位大佬有遇到过吗？\n没有虚拟机，没有跑 Docker,\n但是跑了 Synology Surveillance Station\nStorage  Analysis 结果如下图所示：",
+      "source_url": "https://www.v2ex.com/",
+      "category": "Forums"
+    },
+    {
+      "title": "[问与答] 谷歌 Pixel4 如何开启电信",
+      "link": "https://www.v2ex.com/t/1111727#reply2",
+      "date": "2025-02-16 09:45",
+      "author": "V2EX",
+      "timestamp": 1739670300.0,
+      "summary": "看了网上很多教材，有刷入 voenabler 的还有别的手动刷入的，但是一直无法使用电信，有佬知道怎么做才是正确的吗？",
+      "source_url": "https://www.v2ex.com/",
       "category": "Forums"
     },
     {
       "title": "[北京] 租了个二楼，一楼有个菜场，每天晚上凌晨剁肉到早上 8 点",
-      "link": "https://www.v2ex.com/t/1111725#reply1",
+      "link": "https://www.v2ex.com/t/1111725#reply19",
       "date": "2025-02-16 09:09",
       "author": "V2EX",
       "timestamp": 1739668160.0,
       "summary": "夜不能寐，这种事情找哪个部门可以解决，有没有有经验的兄弟 T.T\n地点：海淀区",
       "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "2025年韩国喜剧片《禁忌童话》1080P韩语中字【5.26G】",
-      "link": "https://linux.do/t/topic/432904",
-      "date": "2025-02-16 09:05",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739667909.0,
-      "summary": "剧情介绍\n讲述一位有抱负的公务员兼儿童故事作家（朴智炫饰演）故事，毕业后梦想写儿童故事，但被分配到青少年保护队，被迫每天看。更糟糕的是，他被迫写一部成人网络小说。\n网友热评\n今年第一部让我爆笑的喜剧\n我用夸克网盘分享了「禁忌童话」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画...",
-      "source_url": "https://linux.do/latest",
       "category": "Forums"
     },
     {
@@ -72,18 +772,8 @@
       "category": "Forums"
     },
     {
-      "title": "有佬友知道油猴获取网盘资源直链的原理吗？",
-      "link": "https://linux.do/t/topic/432894",
-      "date": "2025-02-16 08:50",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739667052.0,
-      "summary": "大概看了下那一类&lt;网盘助手&gt;，好像都是会调用它们自己的接口，所以我想知道在它们服务端是如何做到获取直链的？望懂的佬友能解惑 \n            6 个帖子 - 6 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "[分享发现] 昨晚看了哪吒 2，说下感想",
-      "link": "https://www.v2ex.com/t/1111723#reply6",
+      "title": "[电影] 昨晚看了哪吒 2，说下感想",
+      "link": "https://www.v2ex.com/t/1111723#reply50",
       "date": "2025-02-16 08:46",
       "author": "V2EX",
       "timestamp": 1739666809.0,
@@ -92,28 +782,8 @@
       "category": "Forums"
     },
     {
-      "title": "【日常】2月16日活动分享帖",
-      "link": "https://linux.do/t/topic/432891",
-      "date": "2025-02-16 08:44",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739666685.0,
-      "summary": "小贴士：\n1.日常性内容为AI爬取后生成，部分活动如无法找到入口则说明该活动并未对全部用户开放，请忽略即可～\n2.有受众面较广的新内容或神车会单独开贴提醒大佬们，平常心参与就好啦。\n3.更多羊毛详见：\n  \n    \n    \n    千呼万唤始出来 羊毛姬网站已上线！ 资源荟萃\n  \n  \n   ...",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "火山引擎的api不可以调用了吗？",
-      "link": "https://linux.do/t/topic/432889",
-      "date": "2025-02-16 08:41",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739666483.0,
-      "summary": "注册了火山引擎的用户，创建了对应的api key以及endpoints，在open-webui中调用火山引擎的接口，测试连接显示网络错误…，但是调用硅基流动的接口就没有问题，是火山的接口现在用不了吗？\n            4 个帖子 - 2 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
       "title": "[问与答] 求助：如何将 Gemini API 转换成 open AI 兼容模式？",
-      "link": "https://www.v2ex.com/t/1111722#reply8",
+      "link": "https://www.v2ex.com/t/1111722#reply13",
       "date": "2025-02-16 08:38",
       "author": "V2EX",
       "timestamp": 1739666315.0,
@@ -122,18 +792,8 @@
       "category": "Forums"
     },
     {
-      "title": "无损音乐 DG 古典 指挥家 Boulez 布列兹 全集 之 拉威尔",
-      "link": "https://linux.do/t/topic/432886",
-      "date": "2025-02-16 08:37",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739666233.0,
-      "summary": "DG 古典 指挥家 Boulez 布列兹 全集 之 拉威尔\n描述：Pierre Boulez - Boulez A-Z_ Messiaen - Ravel (2025)\nFLAC 16bit_44kHz 91曲\nqobuz\n百度连接\n百度网盘 请输入提取码\n 大小：1.65GB\n 标签：#无损音乐 ...",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
       "title": "[生活] 人到中年，性能力开始不行（3）-之中年全面危机",
-      "link": "https://www.v2ex.com/t/1111721#reply4",
+      "link": "https://www.v2ex.com/t/1111721#reply24",
       "date": "2025-02-16 08:25",
       "author": "V2EX",
       "timestamp": 1739665537.0,
@@ -143,7 +803,7 @@
     },
     {
       "title": "[问与答] 想入手一个 Pixel 备用机，目前来说有什么好的选择",
-      "link": "https://www.v2ex.com/t/1111720#reply0",
+      "link": "https://www.v2ex.com/t/1111720#reply7",
       "date": "2025-02-16 08:24",
       "author": "V2EX",
       "timestamp": 1739665489.0,
@@ -162,78 +822,8 @@
       "category": "Blog"
     },
     {
-      "title": "这B站账号算是废了",
-      "link": "https://linux.do/t/topic/432882",
-      "date": "2025-02-16 08:19",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739665187.0,
-      "summary": "这B站账号算是废了重新起个账号吧\n\n\n            7 个帖子 - 6 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "mac 右键或快捷键直接调用 ChatGPT 翻译",
-      "link": "https://linux.do/t/topic/432879",
-      "date": "2025-02-16 08:15",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739664948.0,
-      "summary": "（话题已被作者删除）\n            1 个帖子 - 1 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "杭州美女压岁钱1000元存了24年后得1674.2元",
-      "link": "https://linux.do/t/topic/432878",
-      "date": "2025-02-16 08:15",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739664931.0,
-      "summary": "如果是借钱的话就爽歪歪了，\n难怪有钱人都是借。\n            6 个帖子 - 6 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "落地香港体验老纯了家宽",
-      "link": "https://linux.do/t/topic/432874",
-      "date": "2025-02-16 08:07",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739664422.0,
-      "summary": "5 个帖子 - 4 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "Iphone 免费听音乐有什么方案啊",
-      "link": "https://linux.do/t/topic/432873",
-      "date": "2025-02-16 07:52",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739663559.0,
-      "summary": "大佬们Iphone 免费听音乐有什么方案啊，Lx Music 什么的都没有苹果的版本。\n            9 个帖子 - 9 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "李文玉街舞教程",
-      "link": "https://linux.do/t/topic/432871",
-      "date": "2025-02-16 07:48",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739663339.0,
-      "summary": "李文玉街舞教程\n简介：\n由李文玉老师亲授，内容涵盖街舞的基本形态、基础动作和小组合，帮助快速入门，让你感受街舞的动感与时尚魅力！\n\n获取方式：\n夸克网盘：\n口令一：\n动作铟镓音阶调多好\n\n备用口令：\n/~31f535vMVo~:/\n\n复制任一口令，打开最新版 夸克APP，粘贴到搜索框即可获取资源。\n...",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "我的Claude又又又又逾期了",
-      "link": "https://linux.do/t/topic/432868",
-      "date": "2025-02-16 07:41",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739662863.0,
-      "summary": "从Claude 又又又逾期了继续讨论：\n\n啊哈哈哈一个月发一次\n            7 个帖子 - 4 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
       "title": "[Android] Google pixel 手机质量真是堪忧",
-      "link": "https://www.v2ex.com/t/1111718#reply12",
+      "link": "https://www.v2ex.com/t/1111718#reply24",
       "date": "2025-02-16 07:24",
       "author": "V2EX",
       "timestamp": 1739661894.0,
@@ -243,32 +833,12 @@
     },
     {
       "title": "[问与答] 究竟什么样的大模型服务值得付费订阅。购买和搭建？",
-      "link": "https://www.v2ex.com/t/1111717#reply4",
+      "link": "https://www.v2ex.com/t/1111717#reply5",
       "date": "2025-02-16 07:05",
       "author": "V2EX",
       "timestamp": 1739660715.0,
       "summary": "我订阅了 chatgpt 的 plus ，也曾经订阅过 perplexity 和 notion AI 。现在还有 cursor 和 windsurf 放在面前。然后还有 RooCline 需要 API 付费。如果本地搭建全量模型的服务器，费用更是不菲。当然，他们的确带来极大的便利，但是直接创造的收入...",
       "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "新注册英伟达账号没有学费",
-      "link": "https://linux.do/t/topic/432863",
-      "date": "2025-02-16 07:02",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739660558.0,
-      "summary": "新注册英伟达没有学费有佬清楚什么原因吗？\n\n            3 个帖子 - 3 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "L站是不是换字体了",
-      "link": "https://linux.do/t/topic/432860",
-      "date": "2025-02-16 06:34",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739658880.0,
-      "summary": "越看越不对劲\n英文、数字的表现好像不一样了\n            23 个帖子 - 18 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
       "category": "Forums"
     },
     {
@@ -313,7 +883,7 @@
     },
     {
       "title": "[Python] 有人在生产环境用 Sanic 吗？有什么需要注意的坑吗？看起来性能很强还轻量。我记得以前这个框架有乱关闭长连接的 Bug，花了一年多才修复",
-      "link": "https://www.v2ex.com/t/1111716#reply0",
+      "link": "https://www.v2ex.com/t/1111716#reply2",
       "date": "2025-02-16 05:35",
       "author": "V2EX",
       "timestamp": 1739655303.0,
@@ -322,28 +892,8 @@
       "category": "Forums"
     },
     {
-      "title": "[Follow [RSS App]] 有佬友分享一些好看的订阅列表嘛…",
-      "link": "https://linux.do/t/topic/432837",
-      "date": "2025-02-16 03:42",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739648521.0,
-      "summary": "（不知道为什么我的订阅被清空了 淦！）\n佬友推荐推荐以下方向的：\n\n周报、周刊\n博客\nAI 讯息\n……\n\n当然别的好看的也欢迎推荐\n            5 个帖子 - 5 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "凌晨3点半前来捉鬼👻",
-      "link": "https://linux.do/t/topic/432832",
-      "date": "2025-02-16 03:30",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739647805.0,
-      "summary": "凌晨3点半前来捉鬼，厉鬼哪里跑？\n2025-02-15T16:00:00Z UTC\n\n            14 个帖子 - 13 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
       "title": "[问与答] 导师评价网为何难以建立，是有什么不好规避的法规问题吗？补充",
-      "link": "https://www.v2ex.com/t/1111715#reply2",
+      "link": "https://www.v2ex.com/t/1111715#reply3",
       "date": "2025-02-16 03:25",
       "author": "V2EX",
       "timestamp": 1739647529.0,
@@ -353,7 +903,7 @@
     },
     {
       "title": "[信息安全] 为什么 iOS 有很多能越狱的漏洞， Android 却比较少有能在不解锁 BL 的情况下 ROOT 的洞？只是因为没人愿意挖吗？",
-      "link": "https://www.v2ex.com/t/1111714#reply8",
+      "link": "https://www.v2ex.com/t/1111714#reply17",
       "date": "2025-02-16 03:25",
       "author": "V2EX",
       "timestamp": 1739647510.0,
@@ -362,73 +912,13 @@
       "category": "Forums"
     },
     {
-      "title": "大家有什么网站在线沟通客户软件可以介绍吗？",
-      "link": "https://linux.do/t/topic/432818",
-      "date": "2025-02-16 02:42",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739644961.0,
-      "summary": "感觉使用微信引流，老是会被限制客户添加，这样有再多流量也没用，，，，\n            4 个帖子 - 3 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "有同时用ima和豆包的大佬吗，豆包的AI云盘和ima的知识库是不是差不多？",
-      "link": "https://linux.do/t/topic/432815",
-      "date": "2025-02-16 02:34",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739644497.0,
-      "summary": "最近才知道ima，玩了两天，突然想到个问题，这东西的知识库，是不是就和豆包的AI云盘差不多，只是ima可以团队搞一个库，豆包只能自己搞自己的。\n最后都是把其库内的文件上RAG技术，实现针对性回答。\n\n题外话，模型方面，目前豆包的模型除了多模态，余下的都不如满血DeepSeek。\n我现在更期待Obsi...",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "What????",
-      "link": "https://linux.do/t/topic/432812",
-      "date": "2025-02-16 02:32",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739644349.0,
-      "summary": "我才2级，怎么会有这个(虽然我曾经是3级)\n            2 个帖子 - 2 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "火山的deepseek-r1是不是不是满血的？比对硅基的好像有差距",
-      "link": "https://linux.do/t/topic/432808",
-      "date": "2025-02-16 02:20",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739643644.0,
-      "summary": "火山的deepseek-r1是快，但和硅基pro对比后发现相同的问题在硅基上往往思考的过程比较长。或者是硅基故意让思考变长消耗token多收费，硅基上我就简单问了三个问题，就已经收了我0.16块\n            9 个帖子 - 8 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
       "title": "[问与答] 导师评价网为何难以建立，是有什么不好规避的法规问题吗？",
-      "link": "https://www.v2ex.com/t/1111713#reply9",
+      "link": "https://www.v2ex.com/t/1111713#reply20",
       "date": "2025-02-16 02:20",
       "author": "V2EX",
       "timestamp": 1739643628.0,
       "summary": "哦 看看我的大华国 想起几周前看老沈战情室里面讲华国的教授总是把学生当马仔用，总是让学生难以毕业有感而发前人做过导师评价网，如今只有 GitHub 存档是什么让这些网站都河蟹了，在草泥马戈壁是主机不抗投诉吗？是名字没有打马子吗？有什么有效应对隐私？投诉？问题 的 办法有什么抗投诉主机？有什么办法规避...",
       "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "食贫道《B 站充电专属视频合集》最新~独自等待4K 10.3G更新",
-      "link": "https://linux.do/t/topic/432807",
-      "date": "2025-02-16 02:19",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739643589.0,
-      "summary": "食贫道\n移动云盘\n  \n      \n\n      yun.139.com\n  \n\n  \n    \n\n中国移动云盘分享\n\n  中国移动云盘（原名和彩云网盘）是中国移动面向所有用户推出的一款安全、智能、不限速、移动用户免流量的产品。产品涵盖存储备份、多端同步、在线管理、群组分享四大核心能力。\n\n\n  ...",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "《普通人如何抓住DeepSeek红利》清华大学真能干",
-      "link": "https://linux.do/t/topic/432802",
-      "date": "2025-02-16 01:58",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739642336.0,
-      "summary": "不多说，直接甩下载链接\n阿里云盘：https://www.alipan.com/s/FVaifZMmEAD\n我的博客：清华大学DeepSeek指南解析：普通人抓住AI红利的实战策略\n说明：不拉新网盘，只为博客挣点流量（博客无广告），所以觉得网盘下载麻烦的，直接去博客文章下面，有直链下载保存即可\n以下...",
-      "source_url": "https://linux.do/latest",
       "category": "Forums"
     },
     {
@@ -442,18 +932,8 @@
       "category": "Blog"
     },
     {
-      "title": "ChatGPT-4o即将更新",
-      "link": "https://linux.do/t/topic/432800",
-      "date": "2025-02-16 01:47",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739641643.0,
-      "summary": "Perplexity的CEO疑似在评论区开团？\n\n            18 个帖子 - 13 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
       "title": "[宽带症候群] 我这边的家宽开始阻断 hy 协议了。",
-      "link": "https://www.v2ex.com/t/1111712#reply0",
+      "link": "https://www.v2ex.com/t/1111712#reply10",
       "date": "2025-02-16 01:46",
       "author": "V2EX",
       "timestamp": 1739641595.0,
@@ -472,18 +952,8 @@
       "category": "Blog"
     },
     {
-      "title": "信盈达-李松-嵌入式ARM-Cortex-M4开发实战班",
-      "link": "https://linux.do/t/topic/432796",
-      "date": "2025-02-16 01:30",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739640614.0,
-      "summary": "本课程全面介绍了基于Cortex-M4内核的嵌入式系统开发，重点围绕STM32F407ZGT6芯片展开。课程从嵌入式系统概述、开发环境搭建、工程创建开始，逐步深入讲解GPIO、UART、中断、时钟树、定时器、LCD显示、触摸屏、IIC、SPI、ADC、DMA、FSMC等外设的原理与应用。此外，课程还...",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
       "title": "[Windows] 有好兄弟知道电脑 spdif 接口不能输出 5.1 声道是什么情况吗",
-      "link": "https://www.v2ex.com/t/1111711#reply0",
+      "link": "https://www.v2ex.com/t/1111711#reply1",
       "date": "2025-02-16 01:30",
       "author": "V2EX",
       "timestamp": 1739640603.0,
@@ -492,162 +962,12 @@
       "category": "Forums"
     },
     {
-      "title": "收一个 windsurf EDU 账号（开 Pro 6.9 刀 / 月）",
-      "link": "https://linux.do/t/topic/432781",
-      "date": "2025-02-16 01:10",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739639433.0,
-      "summary": "如题，想收一个 windsurf EDU 账号（开 Pro 6.9 刀 / 月），有意回复或私聊。怕万一收不到，有10刀老号的也可以回复或私聊。谢谢\n            4 个帖子 - 2 位参与者\n            阅读完整话题",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "[程序员] 8 卡 H100 部署 DeepSeekR1 求助",
-      "link": "https://www.v2ex.com/t/1111710#reply1",
+      "title": "[Local LLM] 8 卡 H100 部署 DeepSeekR1 求助",
+      "link": "https://www.v2ex.com/t/1111710#reply4",
       "date": "2025-02-16 01:04",
       "author": "V2EX",
       "timestamp": 1739639095.0,
       "summary": "公司要在本地部署 ds ，搞了一台服务器，让我部署一下，内存 DDR5 2T ，显存 640G ，我现在 llamacpp 部署的 q4 量化版，并发设置了 4 ，但是 4 个人同时用的时候输出就会很慢。求推荐个可以支持 10 个并发的推理框架。vllm 我试了说是不支持 deepseek2 ，我是...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "算了吧, cursor 就別白嫖了, 你得不償失的.",
-      "link": "https://linux.do/t/topic/432773",
-      "date": "2025-02-16 01:03",
-      "author": "LINUX DO - 最新话题",
-      "timestamp": 1739639014.0,
-      "summary": "这就似 google 跟 developer 軍備競賽.\n每次google 更新安卓, 都要讓你讀不到文件.\n而每次安卓更新, developer 都要改一大部份.\n那个tmd document provider?\n沒人用, 用了也不好.\n            14 个帖子 - 10 位参与者\n ...",
-      "source_url": "https://linux.do/latest",
-      "category": "Forums"
-    },
-    {
-      "title": "[程序员] 之前一直在终端设备上做去广告, 最近部署了 Adguard Home 发现是真好用啊, 大伙还在自己的 NAS/服务器上部署了什么有用或者有趣的东西吗?",
-      "link": "https://www.v2ex.com/t/1111709#reply5",
-      "date": "2025-02-15 23:54",
-      "author": "V2EX",
-      "timestamp": 1739634854.0,
-      "summary": "RT, 交流分享一下.",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[程序员] 关于 docker 的一些问题？",
-      "link": "https://www.v2ex.com/t/1111708#reply11",
-      "date": "2025-02-15 23:44",
-      "author": "V2EX",
-      "timestamp": 1739634261.0,
-      "summary": "对于 docker ，因为我实际工作中用的少，所以有一些小疑问，谢邀各位大佬们，能帮我解惑，感谢大佬们。\n\n假设我现在有一个项目，依赖 redis ，mysql ，nginx ，php ，那么我们是把这些都放在一个容器中，还是每个单独作为一个容器。\nnginx 是 web 服务，可以一对多。也应该做...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[职场话题] 代写专利交底书，顺便出售几篇写好的",
-      "link": "https://www.v2ex.com/t/1111707#reply5",
-      "date": "2025-02-15 23:25",
-      "author": "V2EX",
-      "timestamp": 1739633150.0,
-      "summary": "代写专利交底书，只需提供所需领域，通过代理机构给钱，不通过不要钱。\n如果您自己写也可以免费指导。本人资深程序员，目前转行写专利，自己名下国内专利 100+，国际专利 1 件。\nVX:MTg1MDA5NzQ5NDM=",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[分享发现] 分享新买的设备 -- 懒猫微服",
-      "link": "https://www.v2ex.com/t/1111706#reply3",
-      "date": "2025-02-15 23:20",
-      "author": "V2EX",
-      "timestamp": 1739632803.0,
-      "summary": "年前买了一个新设备，懒猫微服。\n他的设计理念还是挺有意思的，自建 IPv6 的虚拟局域网，并维护一个自己的局域网 DNS 服务，所有自有应用跑在这个私有局域网里。\n其他零碎的描述在我的这篇文章里了：\nhttps://mp.weixin.qq.com/s/AsmRqfZEUrUOP0DrzXq7Gg\n...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[电影] 有没有治愈电影或者电视推荐",
-      "link": "https://www.v2ex.com/t/1111705#reply21",
-      "date": "2025-02-15 23:19",
-      "author": "V2EX",
-      "timestamp": 1739632771.0,
-      "summary": "人生遭遇大挫败，缓不过劲来了，需要一点绝望缝隙的光。\n稍微知名一点的我都看过了，希望来点冷门佳片。",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[程序员] 有没有做股票量化的朋友",
-      "link": "https://www.v2ex.com/t/1111704#reply25",
-      "date": "2025-02-15 23:10",
-      "author": "V2EX",
-      "timestamp": 1739632202.0,
-      "summary": "事情是这样的，我认识的一位 50 岁的阿姨和我妈妈说，她说她借了大几十万，说要去开通量化，用「 AI 」炒股\n然后我妈天天在抖音刷到什么量化，说量化多好多好，用「 AI 」炒股比人要好，刚开始可能跌，之后行情稳定了就可以一直赚了\n她身边也有很多朋友炒股，摸爬滚打了这么多年也赚了点小钱，大概 20w ...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[Java] 我公开了我的项目，有大佬可以帮忙解决无效的绑定问题吗？",
-      "link": "https://www.v2ex.com/t/1111703#reply8",
-      "date": "2025-02-15 23:04",
-      "author": "V2EX",
-      "timestamp": 1739631887.0,
-      "summary": "这个问题真的困扰我太久太久了，我是真的搞不懂到底该怎么解决他，下面是我的项目源码，我把无用的内容全部删除了，剩下的就是只保留出现问题的部分，也就 30K 的大小\nJDK 版本是 21 、maven 版本是 3.8.8 、数据库是 mysql5.6 、spring 版本是 3.4.2\n源码地址：\n通过...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[问与答] 请问有没有分析软件代码库的 AI 应用",
-      "link": "https://www.v2ex.com/t/1111702#reply1",
-      "date": "2025-02-15 23:00",
-      "author": "V2EX",
-      "timestamp": 1739631628.0,
-      "summary": "比如把整个项目导进去， 让 AI 来检测代码中的语法错误、逻辑漏洞、潜在的安全风险，并提供改进建议，还可以分析代码的执行效率和资源占用情况，提出优化策略，如算法优化、内存管理优化等，提升软件性能。",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[NAS] 4 盘位的 NAS（TS-464C），使用哪两个盘位来组 RAID1 比较合适？",
-      "link": "https://www.v2ex.com/t/1111701#reply2",
-      "date": "2025-02-15 22:57",
-      "author": "V2EX",
-      "timestamp": 1739631465.0,
-      "summary": "背景：\n\nNAS：威联通 TS-464C （ CPU:N5105 ，内存：16G ）\n硬盘：2 个西数 HA340 8T, 2 个希捷 VX015 4T\n\n现在想这样：\n\n2 个西数 HA340 组 RAID1 ，存放照片和工作资料；\n1 个希捷 VX015 放电影音乐等；\n1 个希捷 VX015 ...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[分享创造] 原研药查询小程序：原研汇 v1.1 更新计划",
-      "link": "https://www.v2ex.com/t/1111700#reply4",
-      "date": "2025-02-15 22:56",
-      "author": "V2EX",
-      "timestamp": 1739631386.0,
-      "summary": "前言\n上次在 V2EX 发公布了原研汇小程序上线的话题（原研汇：原研药信息查询小程序上线，欢迎体验！），受到不少好朋友的支持和鼓励，也有不少朋友提出了宝贵的意见，在此一并十分感谢。\n其中收到大家最多反馈的就是药品的图片加上，由于 V1.0 上线的比较仓促，所有药品图片都共用的是同一张图片，因此就要把...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[耳机] 求推荐有线的开放式耳机。",
-      "link": "https://www.v2ex.com/t/1111699#reply6",
-      "date": "2025-02-15 22:31",
-      "author": "V2EX",
-      "timestamp": 1739629894.0,
-      "summary": "如题，楼主戴入耳式耳机非常容易出现耳道瘙痒的症状，即使经常清洗耳机也是如此。头戴式则夏天非常闷热，而且侧躺休息时用不了。后面发现了开放式耳机这一类型，先后使用过 fill gs 和积速轻巧腔，体验都非常满意。之前最让我担心的漏音问题它们都能控制得很好，正常办公环境、社交距离下都完全听不到。音质方面和...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[程序员] taro 好像烂尾了",
-      "link": "https://www.v2ex.com/t/1111696#reply8",
-      "date": "2025-02-15 22:15",
-      "author": "V2EX",
-      "timestamp": 1739628926.0,
-      "summary": "有知道具体情况的不",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[分享创造] 分享一个基于大语言模型驱动的多轮评审的高质量英文文章翻译方案",
-      "link": "https://www.v2ex.com/t/1111695#reply1",
-      "date": "2025-02-15 22:05",
-      "author": "V2EX",
-      "timestamp": 1739628352.0,
-      "summary": "引言\n在深入学习和阅读智能体（ Agent ）相关的英文技术文章时，我发现传统的翻译软件和方法往往难以将这些文章准确、流畅地转换成地道的中文。逐字逐句的直译不仅导致\"翻译腔\"严重，还会使句子结构生硬，专业术语处理不当，这让读者理解起来非常吃力。\n为了解决这个问题，我开始探索各种 AI 工具，并借鉴了...",
       "source_url": "https://www.v2ex.com/",
       "category": "Forums"
     },
@@ -672,226 +992,6 @@
       "category": "Blog"
     },
     {
-      "title": "[分享创造] 随机食物小程序",
-      "link": "https://www.v2ex.com/t/1111693#reply3",
-      "date": "2025-02-15 21:32",
-      "author": "V2EX",
-      "timestamp": 1739626370.0,
-      "summary": "目前是自己的第一个小程序,欢迎各位大佬访问\n小程序名称\n随机选食物吃\n小程序码\n\n玩法\n可以使用系统的默认食物组，来每次随机。也可以自己定义食物组，然后自己个性化随机食物\n前端\n\n用的 vant 组件，本来想用 taro-ui 的，但是不知道咋回事，环境搭建总是有问题;\n样式是最后用 deepsee...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[分享发现] bybitCard 最近挺火的，但请注意",
-      "link": "https://www.v2ex.com/t/1111691#reply2",
-      "date": "2025-02-15 21:11",
-      "author": "V2EX",
-      "timestamp": 1739625071.0,
-      "summary": "背景：最近几个月 bybit 澳区卡放水，简单 kyc 即可开卡，每笔返利最高可达 15%，币圈人狂喜？\n注意事项：\n\n\n听说 bybit 是没计划给国区用户用的，所以如果长期使用该卡在 cn 可能后期会锁卡，或要求提供对应的地址证明（当然也可能啥也没事）\n\n\n国区用户无法直接买或换法币，每次消费都...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[投资] XIRR 计算年化收益率为负，但总收益金额为正，该如何理解？",
-      "link": "https://www.v2ex.com/t/1111690#reply8",
-      "date": "2025-02-15 21:07",
-      "author": "V2EX",
-      "timestamp": 1739624821.0,
-      "summary": "今天在学习如何计算投资的年化收益率，了解到通常使用 XIRR 来计算，但是遇到一个问题，没想明白，V 站卧虎藏龙，来请教大佬了。\n\n\n\n日期\n行为\n金额\n\n\n\n\n2020/1/1\n投入\n100\n\n\n2021/1/1\n赎回\n1000\n\n\n2022/1/1\n投入\n1000\n\n\n2023/1/1\n赎回\n1...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[分享发现] 小米公司创立 15 年了",
-      "link": "https://www.v2ex.com/t/1111688#reply2",
-      "date": "2025-02-15 20:59",
-      "author": "V2EX",
-      "timestamp": 1739624395.0,
-      "summary": "小米公司成立于 2010 年 4 月。",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[问与答] 请教下各位看日剧有哪些渠道？",
-      "link": "https://www.v2ex.com/t/1111687#reply16",
-      "date": "2025-02-15 20:56",
-      "author": "V2EX",
-      "timestamp": 1739624193.0,
-      "summary": "之前看的医疗类和破案类就很有意思，能坚持看下去，求推荐能更新日剧比较新的渠道",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[程序员] Cursor 编辑器，如何删除 chat 和 composer 的记录？",
-      "link": "https://www.v2ex.com/t/1111686#reply3",
-      "date": "2025-02-15 20:51",
-      "author": "V2EX",
-      "timestamp": 1739623864.0,
-      "summary": "我在学习使用 cursor 编辑器，chat 和 composer 确实很好用，但是我怎样才能删除问询的记录呢？\n还是 cursor 的产品设计就是这样的用意？",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[分享发现] 有没有人试过用 AI 来生成角色动画？我发现了一个有趣的工具",
-      "link": "https://www.v2ex.com/t/1111685#reply0",
-      "date": "2025-02-15 20:17",
-      "author": "V2EX",
-      "timestamp": 1739621835.0,
-      "summary": "最近在做一些数字内容创作时，我发现了一个挺有意思的工具，叫做 Animate Anyone ，它使用 AI 技术把静态人物图像转化成动态的角色动画。原本我以为这类工具效果不怎么样，但试用了一下，感觉还挺惊艳的，尤其是在做虚拟偶像和游戏角色时，能大大节省时间。\n这款工具的核心是基于图像到视频的转换，能...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[音乐] 你们心中可以封神的音乐有哪些?",
-      "link": "https://www.v2ex.com/t/1111684#reply73",
-      "date": "2025-02-15 20:10",
-      "author": "V2EX",
-      "timestamp": 1739621404.0,
-      "summary": "我先来吧:  \n\n雅尼的 Nightingale 和 with an orchid  \nThe truth that you leave\nAnnie's Wonderland\n风居住的街道\nWindy hill",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[广州] 广州 薪酬结构",
-      "link": "https://www.v2ex.com/t/1111683#reply4",
-      "date": "2025-02-15 20:10",
-      "author": "V2EX",
-      "timestamp": 1739621400.0,
-      "summary": "＃ 背景\n楼主在广州，25 应届生，还没毕业，最近接了一个广州的 offer （ ai 应用相关的岗），公司不算小，全国有分公司，估计有几百人，互联网行业。\n薪资构成是：基础薪资 2.3k ＋项目奖金＝ 9k 。\n然后 HR 说公司没有其他的绩效考核，意思好像就是 9k 基本是能拿满的。\n＃ 楼主的...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[问与答] 各位，求推荐好玩的体感游戏 APP",
-      "link": "https://www.v2ex.com/t/1111682#reply1",
-      "date": "2025-02-15 19:54",
-      "author": "V2EX",
-      "timestamp": 1739620490.0,
-      "summary": "晚上想带着孩子一起运动，外面太冷又在下雨，想带着孩子晚上玩一些体感游戏。目前在用《天天跳绳》 APP 里面的体感游戏，但是广告无处不在，多到令人发指的地步了。所以想换个 APP 试试看，所以来问问大家。\n诉求如下：\n1.游戏好玩\n2.广告少\n3.动作识别准确\n有这方面经验的小伙伴，欢迎来分享一下经验...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[Apple] 求推荐 iOS 中的照片消除软件",
-      "link": "https://www.v2ex.com/t/1111681#reply4",
-      "date": "2025-02-15 19:31",
-      "author": "V2EX",
-      "timestamp": 1739619067.0,
-      "summary": "现在的中文 AppleIntelligence 还没上线，但是经常有照片消除的需求，而醒图、美图秀秀等软件又都需要会员。\n所以想问一下大家有没有推荐的照片消除工具呢？我可以接受买断制付费。",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[分享创造] 用 Tauri 开发了一个跟 Raycast 长得一样的跨平台启动器",
-      "link": "https://www.v2ex.com/t/1111680#reply14",
-      "date": "2025-02-15 19:14",
-      "author": "V2EX",
-      "timestamp": 1739618087.0,
-      "summary": "之前一直在 mac 端使用 Raycast 这款启动器，觉得挺好用也挺好看的，特别是里面的快捷链接功能，非常的好用。\n后面每次用自己的 Windows 的时候，总是感觉少了点什么，于是开始在网上搜寻 Windows 端的启动器软件方案。\n大概都看了个遍，被 Raycast 的 UI 惯坏的我基本都觉...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[macOS] 求助一个很诡异的扩展坞问题",
-      "link": "https://www.v2ex.com/t/1111678#reply2",
-      "date": "2025-02-15 19:03",
-      "author": "V2EX",
-      "timestamp": 1739617399.0,
-      "summary": "用的是 orico-tb4 雷电四扩展坞，之所以怀疑是扩展坞的问题是因为我的两个 mac 使用这个扩展坞时都会有这个问题，问题表现如下：\n电脑睡眠后，会无规律地突然开始自动播放音乐，并且将音量开到最大；\n这时候如果解锁进入系统把音量调小，神秘的力量又会把音量拉满。。\ncmd+q 退出 music ，...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[分享创造] 小工具，交互式魔方，在线玩魔方",
-      "link": "https://www.v2ex.com/t/1111677#reply1",
-      "date": "2025-02-15 18:54",
-      "author": "V2EX",
-      "timestamp": 1739616880.0,
-      "summary": "分享一个写的网页 online 魔方。可以操作魔方\nhttps://rustpoint.com/blog/cube\n还有博客新写的一篇交互式魔方复原博客。https://rustpoint.com/blog/read/%2F%E9%AD%94%E6%96%B9%E5%A4%8D%E5%8E%9F%E...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[随想] 一线城市大部分打工人最终的归属就是回老家吗",
-      "link": "https://www.v2ex.com/t/1111676#reply26",
-      "date": "2025-02-15 18:16",
-      "author": "V2EX",
-      "timestamp": 1739614574.0,
-      "summary": "# 背景1 、相亲认识的女生在上海 4 年多，过年回老家找工作了，家里不让继续在上海呆着了，家里打人安排个事业单位。2 、家里亲戚从北京回 4 线城市老家呆着，北京的工作由于年龄和工作内容越干越累，工资也是拖欠几个月，还不知道下一步做什么。# 我1 、在上海算是快 5 年了，这薪资留上海渺茫，回老家...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[iOS] 求推荐 iOS 中的照片消除 App",
-      "link": "https://www.v2ex.com/t/1111674#reply5",
-      "date": "2025-02-15 17:47",
-      "author": "V2EX",
-      "timestamp": 1739612839.0,
-      "summary": "现在中文的 AppleIntelligence 还没上线，但是经常有照片消除的需求，而醒图、美图秀秀等软件又都需要会员。\n所以想问一下大家有没有推荐的照片消除工具呢？我可以接受买断制付费。",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[问与答] 急，在线等，超过 10 天， win11 怎么退回 win10？",
-      "link": "https://www.v2ex.com/t/1111673#reply1",
-      "date": "2025-02-15 17:37",
-      "author": "V2EX",
-      "timestamp": 1739612249.0,
-      "summary": "如题，我妈用我电脑误操作，已经超过十天，求教老哥们",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[分享创造] [送码] Twitter 粉丝数量小组件 App",
-      "link": "https://www.v2ex.com/t/1111672#reply5",
-      "date": "2025-02-15 17:23",
-      "author": "V2EX",
-      "timestamp": 1739611431.0,
-      "summary": "随便整了一个自用，如果有玩 Twitter 的朋友可以下载一个玩玩。\n\n支持 iCloud 同步\n支持追踪多用户\n\n\nKKLEY9HXTJ93\n9MJ6PFKJJMAT\nN3YE3FE7JEMT\nJLE4K6YA3EJH\n4NRAWNME7FKX\nWEM4EX33E94H\n6E99THHLLX9X\n...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[汽车] 买车的误区：以智能驾驶为第一买车需求",
-      "link": "https://www.v2ex.com/t/1111671#reply14",
-      "date": "2025-02-15 17:21",
-      "author": "V2EX",
-      "timestamp": 1739611271.0,
-      "summary": "看了一些帖子，有的人可能没有开过车，买车的第一需求居然是智能驾驶；另外一些帖子问的就是问界、小米这些新势力造车。看了这些帖子，我好像明白了，为啥车企要大力宣传，因为可以让买车的潜在群体会第一个想到他们。从这点来说，车企每年在公关里面的经费还是挺有用的。\n买车一定要试驾，这点非常重要！！！另外就是了解...",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[OpenAI] 今天突然发现 chatgpt 的对话无法编辑了，这是为什么",
-      "link": "https://www.v2ex.com/t/1111670#reply7",
-      "date": "2025-02-15 17:19",
-      "author": "V2EX",
-      "timestamp": 1739611150.0,
-      "summary": "无摘要",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[Apple] iPhone 能实现快速重启手机的快捷指令么？",
-      "link": "https://www.v2ex.com/t/1111669#reply6",
-      "date": "2025-02-15 17:17",
-      "author": "V2EX",
-      "timestamp": 1739611057.0,
-      "summary": "无摘要",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
-      "title": "[问与答] 2025 年 PVE 软路由选 n100 还是 j4125 纠结中！",
-      "link": "https://www.v2ex.com/t/1111668#reply17",
-      "date": "2025-02-15 17:07",
-      "author": "V2EX",
-      "timestamp": 1739610431.0,
-      "summary": "准备 all in onePVE （ openwrt+HA+飞牛 os+win7 或者 win10 ）用哪个好呀？ n100 大家都说功耗和发热量比 j4125 大，要用风扇才能压住，j4125 被动散热就可以了我这样的使用哪个合适呀？ j4125 会不会带不动救助",
-      "source_url": "https://www.v2ex.com/",
-      "category": "Forums"
-    },
-    {
       "title": "物念 2.0：追踪物品价值，给你的购物欲戴上口罩",
       "link": "https://sspai.com/post/96036",
       "date": "2025-02-15 15:00",
@@ -900,6 +1000,16 @@
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
       "source_url": "https://sspai.com",
       "category": "Information"
+    },
+    {
+      "title": "寂静的春天2",
+      "link": "https://yufree.cn/cn/2025/02/15/silent-spring-2/",
+      "date": "2025-02-15 08:00",
+      "author": "博客 on Miao Yu | 于淼",
+      "timestamp": 1739577600.0,
+      "summary": "作为二十年网龄的老网虫，年后的互联网有点怪。\n首先就是全球尺度大语言模型的底线被deepseek v3与r1拉高到了一个明显强于社会平均人的水准。很多人会拿着一些比较怪的题去测试不同大语言模型，然后给个排名啥的，这没必要，应用层面关注的是下限，只要用20%的资源可以解决80%的问题，那就是个好工具。...",
+      "source_url": "https://yufree.cn/cn/",
+      "category": "Blog"
     },
     {
       "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -1092,16 +1202,6 @@
       "category": "Information"
     },
     {
-      "title": "如何在通义灵码里用上DeepSeek-V3 和 DeepSeek-R1 满血版671B模型？",
-      "link": "https://www.landiannews.com/archives/107869.html",
-      "date": "2025-02-13 16:19",
-      "author": "蓝点网",
-      "timestamp": 1739434794.0,
-      "summary": "通义灵码是阿里云与通义实验室联合打造的智能编码助手，基于通义大模型技术，为开发者提供多种编程辅助功能。它支持多 [&#8230;]",
-      "source_url": "https://www.landiannews.com",
-      "category": "Information"
-    },
-    {
       "title": "科普 | 高帧率、好画质的「光追」是如何实现的？",
       "link": "https://sspai.com/post/83522",
       "date": "2025-02-13 15:08",
@@ -1112,16 +1212,6 @@
       "category": "Information"
     },
     {
-      "title": "对标ChatGPT深度研究功能？百度为文心一言推出深度搜索称可提供专家级回复",
-      "link": "https://www.landiannews.com/archives/107867.html",
-      "date": "2025-02-13 11:08",
-      "author": "蓝点网",
-      "timestamp": 1739416102.0,
-      "summary": "#人工智能 对标 ChatGPT 深度研究功能？百度文心一言推出深度搜索功能，称具备更强大的思考规划能力可为用户提供专家级回复。该功能当前付费使用，到 4 月 1 日起面向所有用户免费开放。查看全文：https://ourl.co/107867",
-      "source_url": "https://www.landiannews.com",
-      "category": "Information"
-    },
-    {
       "title": "从大厂设计师转行模型训练，聊聊我的裸辞感想",
       "link": "https://sspai.com/post/95956",
       "date": "2025-02-13 11:05",
@@ -1129,76 +1219,6 @@
       "timestamp": 1739415901.0,
       "summary": "或许 AI 就是那个能够带给我无限可能的领域，它不仅改变了世界，也改变了我的未来。查看全文",
       "source_url": "https://sspai.com",
-      "category": "Information"
-    },
-    {
-      "title": "英特尔发布报告称AMD漏洞数量是英伟达的4倍多 夸赞自己CPU和GPU的安全性",
-      "link": "https://www.landiannews.com/archives/107856.html",
-      "date": "2025-02-13 10:57",
-      "author": "蓝点网",
-      "timestamp": 1739415431.0,
-      "summary": "#科技资讯 英特尔发布 2024 年产品安全报告，夸赞自家 CPU 和 GPU 的安全性，同时提到 AMD 产品漏洞是英伟达的 4 倍。英特尔还通过对比漏洞数量和危害等级来凸显自己产品的安全性，但按理说这应该评估漏洞造成的实际影响，单纯对比漏洞数量从某些方面来说可能意义不大。查看全文：https:/...",
-      "source_url": "https://www.landiannews.com",
-      "category": "Information"
-    },
-    {
-      "title": "去中心化放贷机构zkLend遭攻击损失3,600枚以太坊 要求黑客退回90%剩余作为奖金",
-      "link": "https://www.landiannews.com/archives/107855.html",
-      "date": "2025-02-13 10:38",
-      "author": "蓝点网",
-      "timestamp": 1739414292.0,
-      "summary": "#加密货币 去中心化加密货币放贷机构 zkLend 智能合约出现安全漏洞被黑客窃取 3,600 枚以太坊 (约 950 万美元)，zkLend 要求黑客退回 90% 的以太坊，剩余 10% 当漏洞奖金。不过指望黑客退回资产是不太可能的，尽管 zkLend 已经发出威胁，但大概率黑客还是会想办法转移和...",
-      "source_url": "https://www.landiannews.com",
-      "category": "Information"
-    },
-    {
-      "title": "谷歌将收集用户的YouTube使用信息自动判断是否成年 避免成人内容造成伤害",
-      "link": "https://www.landiannews.com/archives/107854.html",
-      "date": "2025-02-13 10:21",
-      "author": "蓝点网",
-      "timestamp": 1739413289.0,
-      "summary": "#科技资讯 谷歌宣布 YouTube 将采用机器学习算法自动判断用户是否满 18 周岁，如果判断是未成年人则通过算法限制推送的内容。谷歌希望通过该计划为未成年人提供最适合的内容，尤其是要避免成人内容或其他露骨内容。最终该算法将在 2026 年部署到全球市场。查看全文：https://ourl.co/...",
-      "source_url": "https://www.landiannews.com",
-      "category": "Information"
-    },
-    {
-      "title": "解决各种模型和名称混乱：OpenAI将简化模型并合并o系列和GPT系列模型",
-      "link": "https://www.landiannews.com/archives/107853.html",
-      "date": "2025-02-13 10:06",
-      "author": "蓝点网",
-      "timestamp": 1739412364.0,
-      "summary": "#人工智能 解决各种模型和名称混乱：OpenAI 将简化模型并合并 o 系列和 GPT 系列模型。Sam Altman 知道用户非常讨厌模型下拉菜单，所以 o 系列模型将被合并到 GPT-5 中，后续用户使用 ChatGPT 时将只按订阅等级自动设置不同的智能级别。查看全文：https://ourl...",
-      "source_url": "https://www.landiannews.com",
-      "category": "Information"
-    },
-    {
-      "title": "OpenAI计划在几个月内推出GPT-4.5和GPT-5模型 免费用户也可以无限量使用",
-      "link": "https://www.landiannews.com/archives/107852.html",
-      "date": "2025-02-13 09:50",
-      "author": "蓝点网",
-      "timestamp": 1739411431.0,
-      "summary": "#人工智能 OpenAI 计划在最迟几个月内推出 GPT-4.5 和 GPT-5 模型，后者将使用思维链推理技术。值得注意的是 GPT-5 将面向所有用户提供不限次访问，但免费用户可使用标准智能设置、Plus 用户可以使用增强智能、Pro 用户则可以解锁 GPT-5 最高智能版本。查看全文：http...",
-      "source_url": "https://www.landiannews.com",
-      "category": "Information"
-    },
-    {
-      "title": "普联(TP-Link)DDNS服务不再支持新增域名 已新增域名的现有用户暂时可继续使用",
-      "link": "https://www.landiannews.com/archives/107851.html",
-      "date": "2025-02-13 09:36",
-      "author": "蓝点网",
-      "timestamp": 1739410569.0,
-      "summary": "#科技资讯 普联 (TP-LINK) DDNS 服务不再支持新增域名，现有用户可以继续使用但不再支持新用户。普联 DDNS 目前在新增域名时出现内部服务器错误，客服解释称这是服务器故障，而且后续不准备继续提供 DDNS 服务，用户只能选择第三方 DDNS。查看全文：https://ourl.co/1...",
-      "source_url": "https://www.landiannews.com",
-      "category": "Information"
-    },
-    {
-      "title": "苹果推出已购买应用转移到其他iCloud账号功能 本质上就是将账号进行合并",
-      "link": "https://www.landiannews.com/archives/107850.html",
-      "date": "2025-02-13 09:22",
-      "author": "蓝点网",
-      "timestamp": 1739409729.0,
-      "summary": "#科技资讯 苹果推出已购买应用转移到其他 iCloud 账号功能，本质上就是将不同的账号合并。合并后辅助账号已购买的应用和所有付费订阅都将转移到主账号，后续也只能使用主账号登录所有设备，合并时需要提供辅助账号的密码和绑定手机号等。查看全文：https://ourl.co/107850",
-      "source_url": "https://www.landiannews.com",
       "category": "Information"
     },
     {
@@ -1689,26 +1709,6 @@
       "timestamp": 1737371663.0,
       "summary": "记录一下过去一年的常用应用，明年此时再更新，观察是否有所改变。 📨 Mail Client: 我使用 Gmai [&#8230;]",
       "source_url": "https://imzm.im",
-      "category": "Blog"
-    },
-    {
-      "title": "Hugo Stack 主题装修笔记 Part 3",
-      "link": "https://thirdshire.com/hugo-stack-renovation-part-three/",
-      "date": "2025-01-20 09:30",
-      "author": "第三夏尔 | Third Shire",
-      "timestamp": 1737336611.0,
-      "summary": "前篇：\nHugo Stack主题装修笔记\n\nHugo Stack主题装修笔记Part 2\n\nNeodb 自动化短评卡片\n\n2025-01-20 更新：优化了一下代码，现在根据书影音类别和评分状态会显示出对应文字，如“在玩”、“不看了”。唯一的使用要求是neodb链接的条目是要被你标注过的，如果没有的...",
-      "source_url": "https://thirdshire.com/",
-      "category": "Blog"
-    },
-    {
-      "title": "周报 #83 - 年初收纳（房间、设备、服务、软件）",
-      "link": "https://www.pseudoyu.com/zh/2025/01/20/weekly_review_83/",
-      "date": "2025-01-20 06:48",
-      "author": "Pseudoyu",
-      "timestamp": 1737326880.0,
-      "summary": "《Brand New Day》 前言 本篇是对 2025-01-06 到 2025-01-12 这周生活的记录与思考。 这一周整理了自己的房间、抽屉、NAS、线上服务、网络环境等，实现了物理与虚拟空",
-      "source_url": "https://www.pseudoyu.com/zh/",
       "category": "Blog"
     },
     {
