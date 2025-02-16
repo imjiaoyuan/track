@@ -82,12 +82,14 @@
         }
 
         function renderArticle(article) {
+            const isRead = localStorage.getItem(`read_${article.link}`) === 'true';
             const safeTitle = escapeString(article.title);
             const safeSummary = escapeString(article.summary || '无摘要');
             
             return `
-                <article class="article">
-                    <a href="${article.link}" class="article-title" target="_blank">${article.title}</a>
+                <article class="article ${isRead ? 'read' : ''}" data-link="${article.link}">
+                    <a href="${article.link}" class="article-title" target="_blank" 
+                       onclick="markAsRead(event, '${article.link}')">${article.title}</a>
                     <div class="article-summary">
                         ${article.summary || '无摘要'}
                     </div>
@@ -112,6 +114,27 @@
                         </div>
                     </div>
                 </article>`;
+        }
+
+        function markAsRead(event, link) {
+            // 存储已读状态
+            localStorage.setItem(`read_${link}`, 'true');
+            
+            // 找到对应的文章元素并添加已读样式
+            const article = event.target.closest('.article');
+            if (article) {
+                article.classList.add('read');
+            }
+        }
+
+        // 在页面加载时恢复已读状态
+        function restoreReadStatus() {
+            document.querySelectorAll('.article').forEach(article => {
+                const link = article.dataset.link;
+                if (localStorage.getItem(`read_${link}`) === 'true') {
+                    article.classList.add('read');
+                }
+            });
         }
 
         let currentCategory = 'Blog';
@@ -192,6 +215,9 @@
                 }
 
                 articlesContainer.innerHTML = html;
+                
+                // 恢复已读状态
+                restoreReadStatus();
             } catch (error) {
                 document.getElementById('articles').innerHTML = `
                     <div class="error-message">

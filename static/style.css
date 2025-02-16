@@ -7,6 +7,8 @@
     --header-bg: #ffffff;
     --hover-color: #d71a1b;
     --summary-color: #6c757d;
+    --read-bg: #f5f5f5;
+    --read-color: #666;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -19,6 +21,8 @@
         --header-bg: #252629;
         --hover-color: #ff6b6b;
         --summary-color: #9ca3af;
+        --read-bg: #2d2d2d;
+        --read-color: #888;
     }
 }
 
@@ -452,4 +456,23 @@ body {
 /* 添加滚动平滑效果 */
 html {
     scroll-behavior: smooth;
+}
+
+/* 已读文章样式 */
+.article.read {
+    background-color: var(--read-bg);
+    opacity: 0.85;
+}
+
+.article.read .article-title {
+    color: var(--read-color);
+}
+
+.article.read .article-summary {
+    color: var(--read-color);
+}
+
+.article.read:hover {
+    opacity: 1;
+    transform: translateY(-1px);
 } 
