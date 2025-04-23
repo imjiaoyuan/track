@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月24日 01:39**
+**四川省/成都/成都 2025年04月24日 02:18**
 - 今天周四，白天☁️阴(14°~23°)，空气良(66)，夜间小雨
 - 明天周五，白天🌧️小雨(15°~23°)，空气良(57)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -34,6 +34,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [scStudio: A User-Friendly Web Application Empowering Non-Computational Users with Intuitive scRNA-seq Data Analysis](https://www.biorxiv.org/content/10.1101/2025.04.17.649161v1?rss=1) / 04月23日 08:00
+- [MTBseq-nf: Enabling Scalable Tuberculosis Genomics "Big Data" Analysis through a User-Friendly Nextflow Wrapper for MTBseq pipeline](https://www.biorxiv.org/content/10.1101/2025.04.17.649337v1?rss=1) / 04月23日 08:00
 - [Benchmarking circRNA Detection Tools from Long-Read Sequencing Using Data-Driven and Flexible Simulation Framework](https://www.biorxiv.org/content/10.1101/2025.04.17.649290v1?rss=1) / 04月23日 08:00
 - [EasyMultiProfiler: An Efficient Multi-Omics Data Integration and Analysis Workflow for Microbiome Research](https://www.biorxiv.org/content/10.1101/2025.04.17.649266v1?rss=1) / 04月23日 08:00
 - [Quantification of individual dataset contributions to prediction accuracy in cooperative learning](https://www.biorxiv.org/content/10.1101/2025.04.16.649215v1?rss=1) / 04月23日 08:00
@@ -42,7 +44,7 @@
 - [Programmatic design and editing of cis-regulatory elements](https://www.biorxiv.org/content/10.1101/2025.04.22.650035v1?rss=1) / 04月23日 08:00
 - [The ISW1 and CHD1 chromatin remodelers suppress global nucleosome dynamics in living yeast cells](https://www.biorxiv.org/content/10.1101/2025.04.17.649351v1?rss=1) / 04月23日 08:00
 - [The abundance of potential B12 producers in gut microbiome is inversely associated with serum vitamin B12 levels: A putative role of Host-microbiome feedback regulation](https://www.biorxiv.org/content/10.1101/2025.04.21.649764v1?rss=1) / 04月23日 08:00
-- [Ancient DNA reveals Phoenicians’ surprising genetic complexity](https://www.nature.com/articles/d41586-025-01283-w) / 04月23日 08:00
+- [Ancient DNA reveals Phoenicians’ surprising genetic ancestry](https://www.nature.com/articles/d41586-025-01283-w) / 04月23日 08:00
 - [Exploring pharmacogenetic factors influencing hydroxyurea response in tanzanian sickle cell disease patients: a genomic medicine approach](https://www.nature.com/articles/s41397-025-00372-3) / 04月23日 08:00
 - [Tracking the evolution and persistence of antibiotic resistance in the human gut](https://www.nature.com/articles/d41586-025-01161-5) / 04月23日 08:00
 - [Answers to a 160-year-old riddle about the genetics of Mendel’s pea traits](https://www.nature.com/articles/d41586-025-01164-2) / 04月23日 08:00
@@ -52,6 +54,4 @@
 - [Tracking the evolution and persistence of antibiotic resistance in the human gut](https://www.nature.com/articles/d41586-025-01161-5) / 04月23日 08:00
 - [Artery segmentation and atherosclerotic plaque quantification using AI for murine whole slide images stained with oil red O](https://www.nature.com/articles/s41598-025-93967-6) / 04月23日 08:00
 - [Ambiguity-aware semi-supervised learning for leaf disease classification](https://www.nature.com/articles/s41598-025-95849-3) / 04月23日 08:00
-- [Generative prediction of causal gene sets responsible for complex traits](https://www.biorxiv.org/content/10.1101/2025.04.17.649405v1?rss=1) / 04月22日 08:00
-- [Rare-variant aggregate association analysis using imputed data is a powerful approach.](https://www.biorxiv.org/content/10.1101/2025.04.17.649394v1?rss=1) / 04月22日 08:00
 <!--rss-papers:end-->
