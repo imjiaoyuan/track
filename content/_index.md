@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月24日 02:18**
+**四川省/成都/成都 2025年04月24日 02:47**
 - 今天周四，白天☁️阴(14°~23°)，空气良(66)，夜间小雨
 - 明天周五，白天🌧️小雨(15°~23°)，空气良(57)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -34,6 +34,10 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [EpitopeTransfer: a Phylogeny-aware transfer learning framework for taxon-specific linear B-cell epitope prediction](https://www.biorxiv.org/content/10.1101/2025.04.17.649425v1?rss=1) / 04月23日 08:00
+- [Mechanistic Insights into Proteomic Mutation-Phenotype Linkages from Tiling Mutagenesis Screens](https://www.biorxiv.org/content/10.1101/2025.04.17.649336v1?rss=1) / 04月23日 08:00
+- [Fine-Tuning Protein Language Models Unlocks the Potential of Underrepresented Viral Proteomes](https://www.biorxiv.org/content/10.1101/2025.04.17.649224v1?rss=1) / 04月23日 08:00
+- [Measurement and prediction of unmixing-dependent spreading in spectral flow cytometry panels](https://www.biorxiv.org/content/10.1101/2025.04.17.649396v1?rss=1) / 04月23日 08:00
 - [scStudio: A User-Friendly Web Application Empowering Non-Computational Users with Intuitive scRNA-seq Data Analysis](https://www.biorxiv.org/content/10.1101/2025.04.17.649161v1?rss=1) / 04月23日 08:00
 - [MTBseq-nf: Enabling Scalable Tuberculosis Genomics "Big Data" Analysis through a User-Friendly Nextflow Wrapper for MTBseq pipeline](https://www.biorxiv.org/content/10.1101/2025.04.17.649337v1?rss=1) / 04月23日 08:00
 - [Benchmarking circRNA Detection Tools from Long-Read Sequencing Using Data-Driven and Flexible Simulation Framework](https://www.biorxiv.org/content/10.1101/2025.04.17.649290v1?rss=1) / 04月23日 08:00
@@ -50,8 +54,4 @@
 - [Answers to a 160-year-old riddle about the genetics of Mendel’s pea traits](https://www.nature.com/articles/d41586-025-01164-2) / 04月23日 08:00
 - [Genetic diversity and adaptability of native sheep breeds from different climatic zones](https://www.nature.com/articles/s41598-025-97931-2) / 04月23日 08:00
 - [Multiomic insight into the involvement of cell aging related genes in the pathogenesis of endometriosis](https://www.nature.com/articles/s41598-025-96711-2) / 04月23日 08:00
-- [Pan-genomic analysis highlights genes associated with agronomic traits and enhances genomics-assisted breeding in alfalfa](https://www.nature.com/articles/s41588-025-02164-8) / 04月23日 08:00
-- [Tracking the evolution and persistence of antibiotic resistance in the human gut](https://www.nature.com/articles/d41586-025-01161-5) / 04月23日 08:00
-- [Artery segmentation and atherosclerotic plaque quantification using AI for murine whole slide images stained with oil red O](https://www.nature.com/articles/s41598-025-93967-6) / 04月23日 08:00
-- [Ambiguity-aware semi-supervised learning for leaf disease classification](https://www.nature.com/articles/s41598-025-95849-3) / 04月23日 08:00
 <!--rss-papers:end-->
