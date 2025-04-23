@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月24日 00:16**
+**四川省/成都/成都 2025年04月24日 00:47**
 - 今天周四，白天☁️阴(14°~23°)，空气良(66)，夜间小雨
 - 明天周五，白天🌧️小雨(15°~23°)，空气良(57)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -34,6 +34,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Benchmarking circRNA Detection Tools from Long-Read Sequencing Using Data-Driven and Flexible Simulation Framework](https://www.biorxiv.org/content/10.1101/2025.04.17.649290v1?rss=1) / 04月23日 08:00
+- [EasyMultiProfiler: An Efficient Multi-Omics Data Integration and Analysis Workflow for Microbiome Research](https://www.biorxiv.org/content/10.1101/2025.04.17.649266v1?rss=1) / 04月23日 08:00
 - [Quantification of individual dataset contributions to prediction accuracy in cooperative learning](https://www.biorxiv.org/content/10.1101/2025.04.16.649215v1?rss=1) / 04月23日 08:00
 - [Face photo-based age acceleration predicts all-cause mortality and differs among occupations](https://www.biorxiv.org/content/10.1101/2025.04.16.649078v1?rss=1) / 04月23日 08:00
 - [Predicting Early Transitions in Respiratory Virus Infections via Critical Transient Gene Interactions](https://www.biorxiv.org/content/10.1101/2025.04.18.649619v1?rss=1) / 04月23日 08:00
@@ -46,12 +48,10 @@
 - [Genetic diversity and adaptability of native sheep breeds from different climatic zones](https://www.nature.com/articles/s41598-025-97931-2) / 04月23日 08:00
 - [Multiomic insight into the involvement of cell aging related genes in the pathogenesis of endometriosis](https://www.nature.com/articles/s41598-025-96711-2) / 04月23日 08:00
 - [Pan-genomic analysis highlights genes associated with agronomic traits and enhances genomics-assisted breeding in alfalfa](https://www.nature.com/articles/s41588-025-02164-8) / 04月23日 08:00
-- [Tracking the evolution and persistence of antibiotic resistance in the human gut](https://www.nature.com/articles/d41586-025-01161-5) / 04月23日 08:00
 - [Artery segmentation and atherosclerotic plaque quantification using AI for murine whole slide images stained with oil red O](https://www.nature.com/articles/s41598-025-93967-6) / 04月23日 08:00
 - [Ambiguity-aware semi-supervised learning for leaf disease classification](https://www.nature.com/articles/s41598-025-95849-3) / 04月23日 08:00
 - [Generative prediction of causal gene sets responsible for complex traits](https://www.biorxiv.org/content/10.1101/2025.04.17.649405v1?rss=1) / 04月22日 08:00
 - [Rare-variant aggregate association analysis using imputed data is a powerful approach.](https://www.biorxiv.org/content/10.1101/2025.04.17.649394v1?rss=1) / 04月22日 08:00
 - [Detecting cell-level transcriptomic changes of Perturb-seq using Contrastive Fine-tuning of Single-Cell Foundation Models](https://www.biorxiv.org/content/10.1101/2025.04.17.649395v1?rss=1) / 04月22日 08:00
 - [DESeq2-MultiBatch: Batch Correction for Multi-Factorial RNA-seq Experiments](https://www.biorxiv.org/content/10.1101/2025.04.20.649392v1?rss=1) / 04月22日 08:00
-- [Multi-modal single-cell foundation models via dynamic token adaptation](https://www.biorxiv.org/content/10.1101/2025.04.17.649387v1?rss=1) / 04月22日 08:00
 <!--rss-papers:end-->
