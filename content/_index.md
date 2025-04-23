@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月24日 03:34**
+**四川省/成都/成都 2025年04月24日 04:14**
 - 今天周四，白天☁️阴(14°~23°)，空气良(66)，夜间小雨
 - 明天周五，白天🌧️小雨(15°~23°)，空气良(57)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -27,13 +27,16 @@
 - [春別](https://justgoidea.com/chun-bie/) / 04月21日 05:13
 - [语言模糊的是思考的边界](https://geedea.pro/posts/%E8%AF%AD%E8%A8%80%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%98%AF%E6%80%9D%E8%80%83%E7%9A%84%E8%BE%B9%E7%95%8C/) / 04月20日 23:03
 - [向内思考与向外思考](https://geedea.pro/cards/%E5%90%91%E5%86%85%E6%80%9D%E8%80%83%E4%B8%8E%E5%90%91%E5%A4%96%E6%80%9D%E8%80%83/) / 04月20日 22:43
-- [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) / 04月20日 18:48
 - [末後一著，盡顯禪者本色](https://justgoidea.com/mo-hou-yi-zhao-jin-xian-chan-zhe-ben-se/) / 04月20日 16:37
+- [也搞了一个展示行走数据的页面](https://blog.douchi.space/steps-page/) / 04月20日 11:45
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [GOALS: Gene Ontology Analysis with Layered Shells for Enhanced Functional Insight and Visualization](https://www.biorxiv.org/content/10.1101/2025.04.22.650095v1?rss=1) / 04月23日 08:00
+- [ShinyCell2: An extended library for simple and sharable visualisation of spatial, peak-based and multi-omic single-cell data](https://www.biorxiv.org/content/10.1101/2025.04.22.650045v1?rss=1) / 04月23日 08:00
+- [GAT-HiC: Efficient Reconstruction of 3D Chromosome Structure via Residual Graph Attention Neural Networks](https://www.biorxiv.org/content/10.1101/2025.04.18.649477v1?rss=1) / 04月23日 08:00
 - [EpitopeTransfer: a Phylogeny-aware transfer learning framework for taxon-specific linear B-cell epitope prediction](https://www.biorxiv.org/content/10.1101/2025.04.17.649425v1?rss=1) / 04月23日 08:00
 - [Mechanistic Insights into Proteomic Mutation-Phenotype Linkages from Tiling Mutagenesis Screens](https://www.biorxiv.org/content/10.1101/2025.04.17.649336v1?rss=1) / 04月23日 08:00
 - [Fine-Tuning Protein Language Models Unlocks the Potential of Underrepresented Viral Proteomes](https://www.biorxiv.org/content/10.1101/2025.04.17.649224v1?rss=1) / 04月23日 08:00
@@ -51,7 +54,4 @@
 - [Ancient DNA reveals Phoenicians’ surprising genetic ancestry](https://www.nature.com/articles/d41586-025-01283-w) / 04月23日 08:00
 - [Exploring pharmacogenetic factors influencing hydroxyurea response in tanzanian sickle cell disease patients: a genomic medicine approach](https://www.nature.com/articles/s41397-025-00372-3) / 04月23日 08:00
 - [Tracking the evolution and persistence of antibiotic resistance in the human gut](https://www.nature.com/articles/d41586-025-01161-5) / 04月23日 08:00
-- [Answers to a 160-year-old riddle about the genetics of Mendel’s pea traits](https://www.nature.com/articles/d41586-025-01164-2) / 04月23日 08:00
-- [Genetic diversity and adaptability of native sheep breeds from different climatic zones](https://www.nature.com/articles/s41598-025-97931-2) / 04月23日 08:00
-- [Multiomic insight into the involvement of cell aging related genes in the pathogenesis of endometriosis](https://www.nature.com/articles/s41598-025-96711-2) / 04月23日 08:00
 <!--rss-papers:end-->
