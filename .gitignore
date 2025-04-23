@@ -1,0 +1,4 @@
+src/local_env.py
+src/__pycache__/
+public/
+.hugo_build.lock

@@ -1,0 +1,10 @@
+baseurl = "https://jiaoyuan.org/track/"
+title = "Sync with Time's Pulse"
+languageCode = "en-us"
+theme = ["cloud"]
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

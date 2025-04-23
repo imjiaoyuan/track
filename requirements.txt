@@ -1,0 +1,4 @@
+requests>=2.31.0
+feedparser>=6.0.10
+pytz>=2023.3
+pyyaml>=6.0.1
