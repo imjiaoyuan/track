@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月24日 01:11**
+**四川省/成都/成都 2025年04月24日 01:39**
 - 今天周四，白天☁️阴(14°~23°)，空气良(66)，夜间小雨
 - 明天周五，白天🌧️小雨(15°~23°)，空气良(57)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -40,6 +40,7 @@
 - [Face photo-based age acceleration predicts all-cause mortality and differs among occupations](https://www.biorxiv.org/content/10.1101/2025.04.16.649078v1?rss=1) / 04月23日 08:00
 - [Predicting Early Transitions in Respiratory Virus Infections via Critical Transient Gene Interactions](https://www.biorxiv.org/content/10.1101/2025.04.18.649619v1?rss=1) / 04月23日 08:00
 - [Programmatic design and editing of cis-regulatory elements](https://www.biorxiv.org/content/10.1101/2025.04.22.650035v1?rss=1) / 04月23日 08:00
+- [The ISW1 and CHD1 chromatin remodelers suppress global nucleosome dynamics in living yeast cells](https://www.biorxiv.org/content/10.1101/2025.04.17.649351v1?rss=1) / 04月23日 08:00
 - [The abundance of potential B12 producers in gut microbiome is inversely associated with serum vitamin B12 levels: A putative role of Host-microbiome feedback regulation](https://www.biorxiv.org/content/10.1101/2025.04.21.649764v1?rss=1) / 04月23日 08:00
 - [Ancient DNA reveals Phoenicians’ surprising genetic complexity](https://www.nature.com/articles/d41586-025-01283-w) / 04月23日 08:00
 - [Exploring pharmacogenetic factors influencing hydroxyurea response in tanzanian sickle cell disease patients: a genomic medicine approach](https://www.nature.com/articles/s41397-025-00372-3) / 04月23日 08:00
@@ -53,5 +54,4 @@
 - [Ambiguity-aware semi-supervised learning for leaf disease classification](https://www.nature.com/articles/s41598-025-95849-3) / 04月23日 08:00
 - [Generative prediction of causal gene sets responsible for complex traits](https://www.biorxiv.org/content/10.1101/2025.04.17.649405v1?rss=1) / 04月22日 08:00
 - [Rare-variant aggregate association analysis using imputed data is a powerful approach.](https://www.biorxiv.org/content/10.1101/2025.04.17.649394v1?rss=1) / 04月22日 08:00
-- [Detecting cell-level transcriptomic changes of Perturb-seq using Contrastive Fine-tuning of Single-Cell Foundation Models](https://www.biorxiv.org/content/10.1101/2025.04.17.649395v1?rss=1) / 04月22日 08:00
 <!--rss-papers:end-->
