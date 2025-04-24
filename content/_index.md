@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月25日 00:23**
+**四川省/成都/成都 2025年04月25日 02:24**
 - 今天周五，白天🌧️小雨(15°~23°)，空气良(59)，夜间中雨
 - 明天周六，白天🌧️小雨(15°~19°)，空气良(58)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
@@ -34,24 +34,24 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [DeltaBreed: A BrAPI-centric breeding data information system](https://www.biorxiv.org/content/10.1101/2025.04.23.650200v1?rss=1) / 04月24日 08:00
+- [Dynamic Contrastive Learning with Pretrained Deep Language Model Enhances Metagenome Binning for Contigs](https://www.biorxiv.org/content/10.1101/2025.04.20.649691v1?rss=1) / 04月24日 08:00
+- [An interpretable alphabet for local protein structure search based on amino acid neighborhoods](https://www.biorxiv.org/content/10.1101/2025.04.21.649886v1?rss=1) / 04月24日 08:00
+- [Label-free quantification in the Crux toolkit](https://www.biorxiv.org/content/10.1101/2025.04.21.649897v1?rss=1) / 04月24日 08:00
 - [ProtHGT: Heterogeneous Graph Transformers for Automated Protein Function Prediction Using Biological Knowledge Graphs and Language Models](https://www.biorxiv.org/content/10.1101/2025.04.19.649272v1?rss=1) / 04月24日 08:00
 - [Label-Free Live-Cell Imaging improves Mode of Action Classification](https://www.biorxiv.org/content/10.1101/2025.04.22.649936v1?rss=1) / 04月24日 08:00
 - [TARRAGON: Therapeutic Target Applicability Ranking and Retrieval-Augmented Generation Over Networks](https://www.biorxiv.org/content/10.1101/2025.04.19.649662v1?rss=1) / 04月24日 08:00
 - [One-Hot News: Drug Synergy Models Take a Shortcut](https://www.biorxiv.org/content/10.1101/2025.04.18.649584v1?rss=1) / 04月24日 08:00
 - [Ontology-aware DNA methylation classification with a curated atlas ofhuman tissues and cell types](https://www.biorxiv.org/content/10.1101/2025.04.18.649618v1?rss=1) / 04月24日 08:00
 - [Characterization of active kinase signaling pathways in astrocytes and microglia](https://www.biorxiv.org/content/10.1101/2025.04.18.649617v1?rss=1) / 04月24日 08:00
+- [Transcription-based identification of uncharacterized genes in the human immune response](https://www.biorxiv.org/content/10.1101/2025.04.22.646545v1?rss=1) / 04月24日 08:00
+- [Genomic and Immunogenomic Profiling of Extramedullary Acute Myeloid Leukemia Reveals Actionable Clonal Branching and Frequent Immune Editing](https://www.biorxiv.org/content/10.1101/2025.04.18.649610v1?rss=1) / 04月24日 08:00
+- [A novel transgenic reporter to study vertebrate epigenetics](https://www.biorxiv.org/content/10.1101/2025.04.21.649821v1?rss=1) / 04月24日 08:00
+- [Evolutionary Consequences of Unusually Large Pericentric TE-rich Regions in the Genome of a Neotropical Fig Wasp](https://www.biorxiv.org/content/10.1101/2025.04.20.649723v1?rss=1) / 04月24日 08:00
 - [Domoic acid biosynthesis and genome expansion in Nitzschia navis-varingica](https://www.biorxiv.org/content/10.1101/2025.04.19.649686v1?rss=1) / 04月24日 08:00
 - [Cell type- and chromosome-specific chromatin landscapes and DNA replication programs of Drosophila testicular stem cells](https://www.biorxiv.org/content/10.1101/2025.04.19.649648v1?rss=1) / 04月24日 08:00
 - [Systematic cell-type resolved transcriptomes of 8 tissues in 8 lab and wild-derived mouse strains captures global and local expression variation](https://www.biorxiv.org/content/10.1101/2025.04.21.649844v1?rss=1) / 04月24日 08:00
+- [EvoWeaver: large-scale prediction of gene functional associations from coevolutionary signals](https://www.nature.com/articles/s41467-025-59175-6) / 04月24日 08:00
 - [A novel variant of telomerase reverse transcriptase (TERT) associated with risk of glioma in a Korean population](https://www.nature.com/articles/s41598-025-96929-0) / 04月24日 08:00
 - [Identification, assembly and characterization of tumor immunoglobulin transcripts from RNA sequencing data using IgSeqR](https://www.nature.com/articles/s41596-025-01172-6) / 04月24日 08:00
-- [Discovery of Novel Trypanothione Reductase Inhibitors through Pharmacophore Modeling, virtual Screening and Molecular Dynamics Simulations. New insights for Human African Trypanosomiasis](https://www.biorxiv.org/content/10.1101/2025.04.18.649577v1?rss=1) / 04月23日 08:00
-- [A flaw in using pre-trained pLLMs in protein-protein interaction inference models](https://www.biorxiv.org/content/10.1101/2025.04.21.649858v1?rss=1) / 04月23日 08:00
-- [AOP-helpFinder 3.0: from text mining to network visualization of key event relationships, and knowledge integration from multi-sources.](https://www.biorxiv.org/content/10.1101/2025.04.22.648318v1?rss=1) / 04月23日 08:00
-- [rnaends: an R package targeted to study the exact RNA ends at the nucleotide resolution](https://www.biorxiv.org/content/10.1101/2025.04.18.649472v1?rss=1) / 04月23日 08:00
-- [Development a computational framework for risk evaluation of emerging flu viruses based on genomic sequences and AI](https://www.biorxiv.org/content/10.1101/2025.04.18.649608v1?rss=1) / 04月23日 08:00
-- [Chimeric Reference Panels for Genomic Imputation](https://www.biorxiv.org/content/10.1101/2025.04.22.648973v1?rss=1) / 04月23日 08:00
-- [Novel AI-based approach for cell type deconvolution in Visium datasets when reference scRNA-seqs include multiple minor cell types](https://www.biorxiv.org/content/10.1101/2025.04.18.649484v1?rss=1) / 04月23日 08:00
-- [GOALS: Gene Ontology Analysis with Layered Shells for Enhanced Functional Insight and Visualization](https://www.biorxiv.org/content/10.1101/2025.04.22.650095v1?rss=1) / 04月23日 08:00
-- [ShinyCell2: An extended library for simple and sharable visualisation of spatial, peak-based and multi-omic single-cell data](https://www.biorxiv.org/content/10.1101/2025.04.22.650045v1?rss=1) / 04月23日 08:00
 <!--rss-papers:end-->
