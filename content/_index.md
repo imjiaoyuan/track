@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月24日 11:34**
+**四川省/成都/成都 2025年04月24日 12:15**
 - 今天周四，白天☁️阴(15°~26°)，空气良(64)，夜间小雨
 - 明天周五，白天🌧️小雨(14°~22°)，空气良(60)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -36,6 +36,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Discovery of Novel Trypanothione Reductase Inhibitors through Pharmacophore Modeling, virtual Screening and Molecular Dynamics Simulations. New insights for Human African Trypanosomiasis](https://www.biorxiv.org/content/10.1101/2025.04.18.649577v1?rss=1) / 04月23日 08:00
 - [A flaw in using pre-trained pLLMs in protein-protein interaction inference models](https://www.biorxiv.org/content/10.1101/2025.04.21.649858v1?rss=1) / 04月23日 08:00
 - [AOP-helpFinder 3.0: from text mining to network visualization of key event relationships, and knowledge integration from multi-sources.](https://www.biorxiv.org/content/10.1101/2025.04.22.648318v1?rss=1) / 04月23日 08:00
 - [rnaends: an R package targeted to study the exact RNA ends at the nucleotide resolution](https://www.biorxiv.org/content/10.1101/2025.04.18.649472v1?rss=1) / 04月23日 08:00
@@ -55,5 +56,4 @@
 - [EasyMultiProfiler: An Efficient Multi-Omics Data Integration and Analysis Workflow for Microbiome Research](https://www.biorxiv.org/content/10.1101/2025.04.17.649266v1?rss=1) / 04月23日 08:00
 - [Quantification of individual dataset contributions to prediction accuracy in cooperative learning](https://www.biorxiv.org/content/10.1101/2025.04.16.649215v1?rss=1) / 04月23日 08:00
 - [Face photo-based age acceleration predicts all-cause mortality and differs among occupations](https://www.biorxiv.org/content/10.1101/2025.04.16.649078v1?rss=1) / 04月23日 08:00
-- [Predicting Early Transitions in Respiratory Virus Infections via Critical Transient Gene Interactions](https://www.biorxiv.org/content/10.1101/2025.04.18.649619v1?rss=1) / 04月23日 08:00
 <!--rss-papers:end-->
