@@ -1,7 +1,7 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月24日 20:25**
-- 今天周四，白天☁️阴(15°~26°)，空气良(59)，夜间小雨
+**四川省/成都/成都 2025年04月24日 22:17**
+- 今天周四，白天☁️阴(15°~26°)，空气良(60)，夜间小雨
 - 明天周五，白天🌧️小雨(15°~23°)，空气良(56)，夜间中雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
@@ -9,6 +9,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [证据链与有罪推定](https://onojyun.com/2025/04/24/%e8%af%81%e6%8d%ae%e9%93%be%e4%b8%8e%e6%9c%89%e7%bd%aa%e6%8e%a8%e5%ae%9a/) / 20:53
 - [小说的八百万种写法](https://geedea.pro/library/2025/%E5%B0%8F%E8%AF%B4%E7%9A%84%E5%85%AB%E7%99%BE%E4%B8%87%E7%A7%8D%E5%86%99%E6%B3%95/) / 15:31
 - [好为人师如何帮我反思现代科学的局限性？](https://geedea.pro/posts/%E5%A5%BD%E4%B8%BA%E4%BA%BA%E5%B8%88%E5%A6%82%E4%BD%95%E5%B8%AE%E6%88%91%E5%8F%8D%E6%80%9D%E7%8E%B0%E4%BB%A3%E7%A7%91%E5%AD%A6%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7/) / 13:51
 - [自我实现的预言](https://geedea.pro/cards/%E8%87%AA%E6%88%91%E5%AE%9E%E7%8E%B0%E7%9A%84%E9%A2%84%E8%A8%80/) / 13:04
@@ -30,12 +31,12 @@
 - [受害人「有罪推论」的前提是什么？](https://onojyun.com/2025/04/21/%e5%8f%97%e5%ae%b3%e4%ba%ba%e3%80%8c%e6%9c%89%e7%bd%aa%e6%8e%a8%e8%ae%ba%e3%80%8d%e7%9a%84%e5%89%8d%e6%8f%90%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9f/) / 04月21日 12:48
 - [稻草人周刊 Vol.25](https://geedea.pro/posts/weekly/%E7%A8%BB%E8%8D%89%E4%BA%BA%E5%91%A8%E5%88%8A-vol-25/) / 04月21日 11:26
 - [办公类 AI 初探：扣子空间](http://www.ruanyifeng.com/blog/2025/04/coze-space.html) / 04月21日 10:50
-- [春別](https://justgoidea.com/chun-bie/) / 04月21日 05:13
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [A novel variant of telomerase reverse transcriptase (TERT) associated with risk of glioma in a Korean population](https://www.nature.com/articles/s41598-025-96929-0) / 08:00
 - [Identification, assembly and characterization of tumor immunoglobulin transcripts from RNA sequencing data using IgSeqR](https://www.nature.com/articles/s41596-025-01172-6) / 08:00
 
 **历史记录**
@@ -57,5 +58,4 @@
 - [MTBseq-nf: Enabling Scalable Tuberculosis Genomics "Big Data" Analysis through a User-Friendly Nextflow Wrapper for MTBseq pipeline](https://www.biorxiv.org/content/10.1101/2025.04.17.649337v1?rss=1) / 04月23日 08:00
 - [Benchmarking circRNA Detection Tools from Long-Read Sequencing Using Data-Driven and Flexible Simulation Framework](https://www.biorxiv.org/content/10.1101/2025.04.17.649290v1?rss=1) / 04月23日 08:00
 - [EasyMultiProfiler: An Efficient Multi-Omics Data Integration and Analysis Workflow for Microbiome Research](https://www.biorxiv.org/content/10.1101/2025.04.17.649266v1?rss=1) / 04月23日 08:00
-- [Quantification of individual dataset contributions to prediction accuracy in cooperative learning](https://www.biorxiv.org/content/10.1101/2025.04.16.649215v1?rss=1) / 04月23日 08:00
 <!--rss-papers:end-->
