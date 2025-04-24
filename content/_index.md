@@ -1,14 +1,15 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月24日 10:49**
-- 今天周四，白天☁️阴(15°~26°)，空气良(62)，夜间小雨
-- 明天周五，白天🌧️小雨(14°~22°)，空气良(54)
+**四川省/成都/成都 2025年04月24日 11:34**
+- 今天周四，白天☁️阴(15°~26°)，空气良(64)，夜间小雨
+- 明天周五，白天🌧️小雨(14°~22°)，空气良(60)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [规则制定者、遵守者和修改者](https://onojyun.com/2025/04/24/%e8%a7%84%e5%88%99%e5%88%b6%e5%ae%9a%e8%80%85%e3%80%81%e9%81%b5%e5%ae%88%e8%80%85%e5%92%8c%e4%bf%ae%e6%94%b9%e8%80%85/) / 11:01
 - [如何与无意义的生活状态和解？](http://m.wufazhuce.com/question/4347) / 06:25
 - [失语者](http://m.wufazhuce.com/article/6769) / 06:25
 - [VOL.4583](http://m.wufazhuce.com/one/4735) / 06:25
@@ -30,7 +31,6 @@
 - [语言模糊的是思考的边界](https://geedea.pro/posts/%E8%AF%AD%E8%A8%80%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%98%AF%E6%80%9D%E8%80%83%E7%9A%84%E8%BE%B9%E7%95%8C/) / 04月20日 23:03
 - [向内思考与向外思考](https://geedea.pro/cards/%E5%90%91%E5%86%85%E6%80%9D%E8%80%83%E4%B8%8E%E5%90%91%E5%A4%96%E6%80%9D%E8%80%83/) / 04月20日 22:43
 - [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) / 04月20日 18:48
-- [末後一著，盡顯禪者本色](https://justgoidea.com/mo-hou-yi-zhao-jin-xian-chan-zhe-ben-se/) / 04月20日 16:37
 <!--rss-blogs:end-->
 ---
 # Research Papers
