@@ -1,8 +1,8 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月24日 07:36**
-- 今天周四，白天🌤️多云(14°~24°)，空气良(66)，夜间阴
-- 明天周五，白天☁️阴(14°~21°)，空气良(57)，夜间小雨
+**四川省/成都/成都 2025年04月24日 09:01**
+- 今天周四，白天☁️阴(15°~26°)，空气良(66)，夜间小雨
+- 明天周五，白天🌧️小雨(14°~22°)，空气良(57)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -36,6 +36,12 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [A flaw in using pre-trained pLLMs in protein-protein interaction inference models](https://www.biorxiv.org/content/10.1101/2025.04.21.649858v1?rss=1) / 04月23日 08:00
+- [AOP-helpFinder 3.0: from text mining to network visualization of key event relationships, and knowledge integration from multi-sources.](https://www.biorxiv.org/content/10.1101/2025.04.22.648318v1?rss=1) / 04月23日 08:00
+- [rnaends: an R package targeted to study the exact RNA ends at the nucleotide resolution](https://www.biorxiv.org/content/10.1101/2025.04.18.649472v1?rss=1) / 04月23日 08:00
+- [Development a computational framework for risk evaluation of emerging flu viruses based on genomic sequences and AI](https://www.biorxiv.org/content/10.1101/2025.04.18.649608v1?rss=1) / 04月23日 08:00
+- [Chimeric Reference Panels for Genomic Imputation](https://www.biorxiv.org/content/10.1101/2025.04.22.648973v1?rss=1) / 04月23日 08:00
+- [Novel AI-based approach for cell type deconvolution in Visium datasets when reference scRNA-seqs include multiple minor cell types](https://www.biorxiv.org/content/10.1101/2025.04.18.649484v1?rss=1) / 04月23日 08:00
 - [GOALS: Gene Ontology Analysis with Layered Shells for Enhanced Functional Insight and Visualization](https://www.biorxiv.org/content/10.1101/2025.04.22.650095v1?rss=1) / 04月23日 08:00
 - [ShinyCell2: An extended library for simple and sharable visualisation of spatial, peak-based and multi-omic single-cell data](https://www.biorxiv.org/content/10.1101/2025.04.22.650045v1?rss=1) / 04月23日 08:00
 - [GAT-HiC: Efficient Reconstruction of 3D Chromosome Structure via Residual Graph Attention Neural Networks](https://www.biorxiv.org/content/10.1101/2025.04.18.649477v1?rss=1) / 04月23日 08:00
@@ -50,10 +56,4 @@
 - [Quantification of individual dataset contributions to prediction accuracy in cooperative learning](https://www.biorxiv.org/content/10.1101/2025.04.16.649215v1?rss=1) / 04月23日 08:00
 - [Face photo-based age acceleration predicts all-cause mortality and differs among occupations](https://www.biorxiv.org/content/10.1101/2025.04.16.649078v1?rss=1) / 04月23日 08:00
 - [Predicting Early Transitions in Respiratory Virus Infections via Critical Transient Gene Interactions](https://www.biorxiv.org/content/10.1101/2025.04.18.649619v1?rss=1) / 04月23日 08:00
-- [Programmatic design and editing of cis-regulatory elements](https://www.biorxiv.org/content/10.1101/2025.04.22.650035v1?rss=1) / 04月23日 08:00
-- [The ISW1 and CHD1 chromatin remodelers suppress global nucleosome dynamics in living yeast cells](https://www.biorxiv.org/content/10.1101/2025.04.17.649351v1?rss=1) / 04月23日 08:00
-- [The abundance of potential B12 producers in gut microbiome is inversely associated with serum vitamin B12 levels: A putative role of Host-microbiome feedback regulation](https://www.biorxiv.org/content/10.1101/2025.04.21.649764v1?rss=1) / 04月23日 08:00
-- [Ancient DNA reveals Phoenicians’ surprising genetic ancestry](https://www.nature.com/articles/d41586-025-01283-w) / 04月23日 08:00
-- [Exploring pharmacogenetic factors influencing hydroxyurea response in tanzanian sickle cell disease patients: a genomic medicine approach](https://www.nature.com/articles/s41397-025-00372-3) / 04月23日 08:00
-- [Tracking the evolution and persistence of antibiotic resistance in the human gut](https://www.nature.com/articles/d41586-025-01161-5) / 04月23日 08:00
 <!--rss-papers:end-->
