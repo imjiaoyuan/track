@@ -46,9 +46,6 @@ RSS_FEEDS = {
         "https://www.skyue.com/feed/",
         "https://www.pseudoyu.com/feed.xml",
         "https://openbiox.github.io/weekly/feed_rss_created.xml",
-        "https://onojyun.com/feed/",
-        "https://www.geedea.pro/index.xml",
-        "https://blog.ops-coffee.cn/feed.xml",
         "https://feedx.net/rss/one.xml"
     ],
     'papers': [
