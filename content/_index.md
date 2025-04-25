@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月25日 18:19**
+**四川省/成都/成都 2025年04月25日 20:36**
 - 今天周五，白天🌧️小雨(15°~21°)，空气良(54)
 - 明天周六，白天🌧️小雨(14°~20°)，空气良(54)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
@@ -9,6 +9,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [花瓣里的火焰，转型中的鸣响](https://justgoidea.com/flames-in-petals-sounds-of-transformation/) / 18:57
 - [日本浮生录 ：一场跨越千年的樱花之旅](https://song.al/sakura) / 11:54
 - [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) / 08:09
 - [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4348) / 06:25
@@ -30,7 +31,6 @@
 - [专注于每个步伐](https://www.xiangshitan.com/post/3398.html) / 04月20日 09:23
 - [看山是山，看水是水](https://www.xiangshitan.com/post/3397.html) / 04月19日 06:48
 - [月刊（第29期）：新生活](https://blog.ursb.me/posts/weekly-29/) / 04月18日 14:32
-- [科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html) / 04月18日 08:07
 <!--rss-blogs:end-->
 ---
 # Research Papers
