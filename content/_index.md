@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月26日 00:22**
+**四川省/成都/成都 2025年04月26日 02:24**
 - 今天周六，白天🌧️小雨(14°~20°)，空气良(58)
 - 明天周日，白天🌤️多云(15°~27°)，空气良(66)，夜间阴
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
@@ -37,6 +37,7 @@
 - [MiT4SL: multi-omics triplet representation learning for cancer cell line-adapted prediction of synthetic lethality](https://www.biorxiv.org/content/10.1101/2025.04.20.649694v1?rss=1) / 04月25日 08:00
 - [Directing stem cell differentiation by chromatin state approximation](https://www.biorxiv.org/content/10.1101/2025.04.24.650451v1?rss=1) / 04月25日 08:00
 - [DNA Methylation Dynamics of Dose-dependent Acute Exercise, Training Adaptation, and Detraining](https://www.biorxiv.org/content/10.1101/2025.04.22.650067v1?rss=1) / 04月25日 08:00
+- [Advances in single-cell DNA sequencing enable insights into human somatic mosaicism](https://www.nature.com/articles/s41576-025-00832-3) / 04月25日 08:00
 - [Gene expression analyses on Dickeya solani strains of diverse virulence levels unveil important pathogenicity factors for this species](https://www.nature.com/articles/s41598-025-98321-4) / 04月25日 08:00
 - [Reference-guided genome assembly at scale using ultra-low-coverage high-fidelity long-reads with HiFiCCL](https://www.biorxiv.org/content/10.1101/2025.04.20.649739v1?rss=1) / 04月24日 08:00
 - [Attention-Based Solution for Synergistic Virus Combination Therapy](https://www.biorxiv.org/content/10.1101/2025.04.22.649915v1?rss=1) / 04月24日 08:00
@@ -53,5 +54,4 @@
 - [SieveAI: Development of an Automated extensible and customisable drug discovery pipeline and its validation](https://www.biorxiv.org/content/10.1101/2025.04.20.648820v1?rss=1) / 04月24日 08:00
 - [DeltaBreed: A BrAPI-centric breeding data information system](https://www.biorxiv.org/content/10.1101/2025.04.23.650200v1?rss=1) / 04月24日 08:00
 - [Dynamic Contrastive Learning with Pretrained Deep Language Model Enhances Metagenome Binning for Contigs](https://www.biorxiv.org/content/10.1101/2025.04.20.649691v1?rss=1) / 04月24日 08:00
-- [An interpretable alphabet for local protein structure search based on amino acid neighborhoods](https://www.biorxiv.org/content/10.1101/2025.04.21.649886v1?rss=1) / 04月24日 08:00
 <!--rss-papers:end-->
