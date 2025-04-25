@@ -1,22 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月25日 22:17**
-- 今天周五，白天🌧️小雨(15°~21°)，空气良(55)
-- 明天周六，白天🌧️小雨(14°~20°)，空气良(53)
+**四川省/成都/成都 2025年04月26日 00:22**
+- 今天周六，白天🌧️小雨(14°~20°)，空气良(58)
+- 明天周日，白天🌤️多云(15°~27°)，空气良(66)，夜间阴
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [花瓣里的火焰，转型中的鸣响](https://justgoidea.com/flames-in-petals-sounds-of-transformation/) / 18:57
-- [日本浮生录 ：一场跨越千年的樱花之旅](https://song.al/sakura) / 11:54
-- [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) / 08:09
-- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4348) / 06:25
-- [洞镇与菜园](http://m.wufazhuce.com/article/6770) / 06:25
-- [VOL.4584](http://m.wufazhuce.com/one/4733) / 06:25
-
 **历史记录**
+- [花瓣里的火焰，转型中的鸣响](https://justgoidea.com/flames-in-petals-sounds-of-transformation/) / 04月25日 18:57
+- [日本浮生录 ：一场跨越千年的樱花之旅](https://song.al/sakura) / 04月25日 11:54
+- [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) / 04月25日 08:09
+- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4348) / 04月25日 06:25
+- [洞镇与菜园](http://m.wufazhuce.com/article/6770) / 04月25日 06:25
+- [VOL.4584](http://m.wufazhuce.com/one/4733) / 04月25日 06:25
 - [PCA and CCA for single-cell annotation](https://divingintogeneticsandgenomics.com/talk/2025-pythia-cell-anno/) / 04月24日 19:00
 - [Of Studies](https://imzm.im/of-studies/) / 04月23日 14:32
 - [Fread 最新版本已支持 Bluesky](https://zhangke.space/fread-%e6%9c%80%e6%96%b0%e7%89%88%e6%9c%ac%e5%b7%b2%e6%94%af%e6%8c%81-bluesky/?utm_source=rss&utm_medium=rss&utm_campaign=fread-%25e6%259c%2580%25e6%2596%25b0%25e7%2589%2588%25e6%259c%25ac%25e5%25b7%25b2%25e6%2594%25af%25e6%258c%2581-bluesky) / 04月22日 22:25
@@ -35,11 +33,11 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [MiT4SL: multi-omics triplet representation learning for cancer cell line-adapted prediction of synthetic lethality](https://www.biorxiv.org/content/10.1101/2025.04.20.649694v1?rss=1) / 08:00
-- [Gene expression analyses on Dickeya solani strains of diverse virulence levels unveil important pathogenicity factors for this species](https://www.nature.com/articles/s41598-025-98321-4) / 08:00
-
 **历史记录**
+- [MiT4SL: multi-omics triplet representation learning for cancer cell line-adapted prediction of synthetic lethality](https://www.biorxiv.org/content/10.1101/2025.04.20.649694v1?rss=1) / 04月25日 08:00
+- [Directing stem cell differentiation by chromatin state approximation](https://www.biorxiv.org/content/10.1101/2025.04.24.650451v1?rss=1) / 04月25日 08:00
+- [DNA Methylation Dynamics of Dose-dependent Acute Exercise, Training Adaptation, and Detraining](https://www.biorxiv.org/content/10.1101/2025.04.22.650067v1?rss=1) / 04月25日 08:00
+- [Gene expression analyses on Dickeya solani strains of diverse virulence levels unveil important pathogenicity factors for this species](https://www.nature.com/articles/s41598-025-98321-4) / 04月25日 08:00
 - [Reference-guided genome assembly at scale using ultra-low-coverage high-fidelity long-reads with HiFiCCL](https://www.biorxiv.org/content/10.1101/2025.04.20.649739v1?rss=1) / 04月24日 08:00
 - [Attention-Based Solution for Synergistic Virus Combination Therapy](https://www.biorxiv.org/content/10.1101/2025.04.22.649915v1?rss=1) / 04月24日 08:00
 - [Task Splitting and Prompt Engineering for Cypher Query Generation in Domain-Specific Knowledge Graphs](https://www.biorxiv.org/content/10.1101/2025.04.23.649790v1?rss=1) / 04月24日 08:00
@@ -56,6 +54,4 @@
 - [DeltaBreed: A BrAPI-centric breeding data information system](https://www.biorxiv.org/content/10.1101/2025.04.23.650200v1?rss=1) / 04月24日 08:00
 - [Dynamic Contrastive Learning with Pretrained Deep Language Model Enhances Metagenome Binning for Contigs](https://www.biorxiv.org/content/10.1101/2025.04.20.649691v1?rss=1) / 04月24日 08:00
 - [An interpretable alphabet for local protein structure search based on amino acid neighborhoods](https://www.biorxiv.org/content/10.1101/2025.04.21.649886v1?rss=1) / 04月24日 08:00
-- [Label-free quantification in the Crux toolkit](https://www.biorxiv.org/content/10.1101/2025.04.21.649897v1?rss=1) / 04月24日 08:00
-- [ProtHGT: Heterogeneous Graph Transformers for Automated Protein Function Prediction Using Biological Knowledge Graphs and Language Models](https://www.biorxiv.org/content/10.1101/2025.04.19.649272v1?rss=1) / 04月24日 08:00
 <!--rss-papers:end-->
