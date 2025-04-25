@@ -1,14 +1,15 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月25日 11:04**
+**四川省/成都/成都 2025年04月25日 12:21**
 - 今天周五，白天🌧️小雨(15°~21°)，空气良(54)
-- 明天周六，白天🌧️小雨(15°~22°)，空气良(55)
+- 明天周六，白天🌧️小雨(15°~22°)，空气良(56)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [日本浮生录 ：一场跨越千年的樱花之旅](https://song.al/sakura) / 11:54
 - [爹的高台教化](https://onojyun.com/2025/04/25/%e7%88%b9%e7%9a%84%e9%ab%98%e5%8f%b0%e6%95%99%e5%8c%96/) / 11:00
 - [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) / 08:09
 - [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4348) / 06:25
@@ -30,7 +31,6 @@
 - [周报 #92 - 数码产品 Porn 与断舍离](https://www.pseudoyu.com/posts/weekly_review_92) / 04月22日 10:45
 - [来自小林的三十六问](https://blog.pursuitus.com/thirty-six-questions.html) / 04月21日 21:05
 - [宏](https://geedea.pro/cards/%E5%AE%8F/) / 04月21日 14:38
-- [创价学会](https://onojyun.com/2025/04/21/%e5%88%9b%e4%bb%b7%e5%ad%a6%e4%bc%9a/) / 04月21日 13:13
 <!--rss-blogs:end-->
 ---
 # Research Papers
