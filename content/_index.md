@@ -1,8 +1,8 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月25日 20:36**
-- 今天周五，白天🌧️小雨(15°~21°)，空气良(54)
-- 明天周六，白天🌧️小雨(14°~20°)，空气良(54)
+**四川省/成都/成都 2025年04月25日 22:17**
+- 今天周五，白天🌧️小雨(15°~21°)，空气良(55)
+- 明天周六，白天🌧️小雨(14°~20°)，空气良(53)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
@@ -35,6 +35,10 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [MiT4SL: multi-omics triplet representation learning for cancer cell line-adapted prediction of synthetic lethality](https://www.biorxiv.org/content/10.1101/2025.04.20.649694v1?rss=1) / 08:00
+- [Gene expression analyses on Dickeya solani strains of diverse virulence levels unveil important pathogenicity factors for this species](https://www.nature.com/articles/s41598-025-98321-4) / 08:00
+
 **历史记录**
 - [Reference-guided genome assembly at scale using ultra-low-coverage high-fidelity long-reads with HiFiCCL](https://www.biorxiv.org/content/10.1101/2025.04.20.649739v1?rss=1) / 04月24日 08:00
 - [Attention-Based Solution for Synergistic Virus Combination Therapy](https://www.biorxiv.org/content/10.1101/2025.04.22.649915v1?rss=1) / 04月24日 08:00
@@ -54,6 +58,4 @@
 - [An interpretable alphabet for local protein structure search based on amino acid neighborhoods](https://www.biorxiv.org/content/10.1101/2025.04.21.649886v1?rss=1) / 04月24日 08:00
 - [Label-free quantification in the Crux toolkit](https://www.biorxiv.org/content/10.1101/2025.04.21.649897v1?rss=1) / 04月24日 08:00
 - [ProtHGT: Heterogeneous Graph Transformers for Automated Protein Function Prediction Using Biological Knowledge Graphs and Language Models](https://www.biorxiv.org/content/10.1101/2025.04.19.649272v1?rss=1) / 04月24日 08:00
-- [Label-Free Live-Cell Imaging improves Mode of Action Classification](https://www.biorxiv.org/content/10.1101/2025.04.22.649936v1?rss=1) / 04月24日 08:00
-- [TARRAGON: Therapeutic Target Applicability Ranking and Retrieval-Augmented Generation Over Networks](https://www.biorxiv.org/content/10.1101/2025.04.19.649662v1?rss=1) / 04月24日 08:00
 <!--rss-papers:end-->
