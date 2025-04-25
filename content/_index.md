@@ -1,14 +1,15 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月25日 09:24**
+**四川省/成都/成都 2025年04月25日 11:04**
 - 今天周五，白天🌧️小雨(15°~21°)，空气良(54)
-- 明天周六，白天🌧️小雨(15°~22°)，空气优(50)
+- 明天周六，白天🌧️小雨(15°~22°)，空气良(55)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [爹的高台教化](https://onojyun.com/2025/04/25/%e7%88%b9%e7%9a%84%e9%ab%98%e5%8f%b0%e6%95%99%e5%8c%96/) / 11:00
 - [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) / 08:09
 - [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4348) / 06:25
 - [洞镇与菜园](http://m.wufazhuce.com/article/6770) / 06:25
@@ -30,12 +31,14 @@
 - [来自小林的三十六问](https://blog.pursuitus.com/thirty-six-questions.html) / 04月21日 21:05
 - [宏](https://geedea.pro/cards/%E5%AE%8F/) / 04月21日 14:38
 - [创价学会](https://onojyun.com/2025/04/21/%e5%88%9b%e4%bb%b7%e5%ad%a6%e4%bc%9a/) / 04月21日 13:13
-- [受害人「有罪推论」的前提是什么？](https://onojyun.com/2025/04/21/%e5%8f%97%e5%ae%b3%e4%ba%ba%e3%80%8c%e6%9c%89%e7%bd%aa%e6%8e%a8%e8%ae%ba%e3%80%8d%e7%9a%84%e5%89%8d%e6%8f%90%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9f/) / 04月21日 12:48
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Attention-Based Solution for Synergistic Virus Combination Therapy](https://www.biorxiv.org/content/10.1101/2025.04.22.649915v1?rss=1) / 04月24日 08:00
+- [Task Splitting and Prompt Engineering for Cypher Query Generation in Domain-Specific Knowledge Graphs](https://www.biorxiv.org/content/10.1101/2025.04.23.649790v1?rss=1) / 04月24日 08:00
+- [Comparative analysis of genomic prediction approaches for multiple time-resolved traits in maize](https://www.biorxiv.org/content/10.1101/2025.04.22.649925v1?rss=1) / 04月24日 08:00
 - [BioMiner: A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature](https://www.biorxiv.org/content/10.1101/2025.04.22.648951v1?rss=1) / 04月24日 08:00
 - [Assemblies of long-read metagenomes suffer from diverse errors](https://www.biorxiv.org/content/10.1101/2025.04.22.649783v1?rss=1) / 04月24日 08:00
 - [High-quality metagenome assembly from nanopore reads with nanoMDBG](https://www.biorxiv.org/content/10.1101/2025.04.22.649928v1?rss=1) / 04月24日 08:00
@@ -53,7 +56,4 @@
 - [Label-Free Live-Cell Imaging improves Mode of Action Classification](https://www.biorxiv.org/content/10.1101/2025.04.22.649936v1?rss=1) / 04月24日 08:00
 - [TARRAGON: Therapeutic Target Applicability Ranking and Retrieval-Augmented Generation Over Networks](https://www.biorxiv.org/content/10.1101/2025.04.19.649662v1?rss=1) / 04月24日 08:00
 - [One-Hot News: Drug Synergy Models Take a Shortcut](https://www.biorxiv.org/content/10.1101/2025.04.18.649584v1?rss=1) / 04月24日 08:00
-- [Ontology-aware DNA methylation classification with a curated atlas ofhuman tissues and cell types](https://www.biorxiv.org/content/10.1101/2025.04.18.649618v1?rss=1) / 04月24日 08:00
-- [Characterization of active kinase signaling pathways in astrocytes and microglia](https://www.biorxiv.org/content/10.1101/2025.04.18.649617v1?rss=1) / 04月24日 08:00
-- [Chromosome-scale genome assembly of the European common cuttlefish Sepia officinalis](https://www.biorxiv.org/content/10.1101/2025.04.22.649952v1?rss=1) / 04月24日 08:00
 <!--rss-papers:end-->
