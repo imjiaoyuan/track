@@ -1,8 +1,8 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月26日 10:58**
-- 今天周六，白天🌧️小雨(14°~20°)，空气良(52)，夜间阴
-- 明天周日，白天🌤️多云(15°~28°)，空气良(59)，夜间阴
+**四川省/成都/成都 2025年04月26日 12:20**
+- 今天周六，白天🌧️小雨(14°~20°)，空气良(57)，夜间阴
+- 明天周日，白天🌤️多云(15°~28°)，空气良(64)，夜间阴
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
@@ -35,6 +35,9 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Comparative transcriptome analysis of bull X- and Y-spermatozoa](https://www.nature.com/articles/s41598-025-99438-2) / 08:00
+
 **历史记录**
 - [MiT4SL: multi-omics triplet representation learning for cancer cell line-adapted prediction of synthetic lethality](https://www.biorxiv.org/content/10.1101/2025.04.20.649694v1?rss=1) / 04月25日 08:00
 - [Directing stem cell differentiation by chromatin state approximation](https://www.biorxiv.org/content/10.1101/2025.04.24.650451v1?rss=1) / 04月25日 08:00
@@ -55,5 +58,4 @@
 - [Shiny-Calorie: A context-aware application for indirect calorimetry data analysis and visualization using R](https://www.biorxiv.org/content/10.1101/2025.04.24.648116v1?rss=1) / 04月24日 08:00
 - [SieveAI: Development of an Automated extensible and customisable drug discovery pipeline and its validation](https://www.biorxiv.org/content/10.1101/2025.04.20.648820v1?rss=1) / 04月24日 08:00
 - [DeltaBreed: A BrAPI-centric breeding data information system](https://www.biorxiv.org/content/10.1101/2025.04.23.650200v1?rss=1) / 04月24日 08:00
-- [Dynamic Contrastive Learning with Pretrained Deep Language Model Enhances Metagenome Binning for Contigs](https://www.biorxiv.org/content/10.1101/2025.04.20.649691v1?rss=1) / 04月24日 08:00
 <!--rss-papers:end-->
