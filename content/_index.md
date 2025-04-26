@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月26日 12:20**
+**四川省/成都/成都 2025年04月26日 14:23**
 - 今天周六，白天🌧️小雨(14°~20°)，空气良(57)，夜间阴
 - 明天周日，白天🌤️多云(15°~28°)，空气良(64)，夜间阴
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
@@ -9,6 +9,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [生信爱好者周刊（第 164 期）：德日学者称中国学术界更偏好“内循环”](https://openbiox.github.io/weekly/issue-164/) / 12:45
 - [树的密谋](http://m.wufazhuce.com/article/6771) / 06:25
 - [VOL.4585](http://m.wufazhuce.com/one/4736) / 06:25
 
@@ -30,7 +31,6 @@
 - [也搞了一个展示行走数据的页面](https://blog.douchi.space/steps-page/) / 04月20日 11:45
 - [专注于每个步伐](https://www.xiangshitan.com/post/3398.html) / 04月20日 09:23
 - [看山是山，看水是水](https://www.xiangshitan.com/post/3397.html) / 04月19日 06:48
-- [月刊（第29期）：新生活](https://blog.ursb.me/posts/weekly-29/) / 04月18日 14:32
 <!--rss-blogs:end-->
 ---
 # Research Papers
