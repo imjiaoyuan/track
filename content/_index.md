@@ -1,19 +1,17 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月26日 22:15**
-- 今天周六，白天🌧️小雨(14°~20°)，空气良(59)，夜间多云
-- 明天周日，白天☁️阴(16°~26°)，空气良(60)
+**四川省/成都/成都 2025年04月27日 00:20**
+- 今天周日，白天☁️阴(16°~26°)，空气良(64)
+- 明天周一，白天☁️阴(16°~27°)，空气良(88)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [生信爱好者周刊（第 164 期）：德日学者称中国学术界更偏好“内循环”](https://openbiox.github.io/weekly/issue-164/) / 12:45
-- [树的密谋](http://m.wufazhuce.com/article/6771) / 06:25
-- [VOL.4585](http://m.wufazhuce.com/one/4736) / 06:25
-
 **历史记录**
+- [生信爱好者周刊（第 164 期）：德日学者称中国学术界更偏好“内循环”](https://openbiox.github.io/weekly/issue-164/) / 04月26日 12:45
+- [树的密谋](http://m.wufazhuce.com/article/6771) / 04月26日 06:25
+- [VOL.4585](http://m.wufazhuce.com/one/4736) / 04月26日 06:25
 - [花瓣里的火焰，转型中的鸣响](https://justgoidea.com/flames-in-petals-sounds-of-transformation/) / 04月25日 18:57
 - [日本浮生录 ：一场跨越千年的樱花之旅](https://song.al/sakura) / 04月25日 11:54
 - [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) / 04月25日 08:09
@@ -29,16 +27,14 @@
 - [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) / 04月20日 18:48
 - [末後一著，盡顯禪者本色](https://justgoidea.com/mo-hou-yi-zhao-jin-xian-chan-zhe-ben-se/) / 04月20日 16:37
 - [也搞了一个展示行走数据的页面](https://blog.douchi.space/steps-page/) / 04月20日 11:45
-- [专注于每个步伐](https://www.xiangshitan.com/post/3398.html) / 04月20日 09:23
-- [看山是山，看水是水](https://www.xiangshitan.com/post/3397.html) / 04月19日 06:48
+- [月刊（第29期）：新生活](https://blog.ursb.me/posts/weekly-29/) / 04月18日 14:32
+- [科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html) / 04月18日 08:07
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Comparative transcriptome analysis of bull X- and Y-spermatozoa](https://www.nature.com/articles/s41598-025-99438-2) / 08:00
-
 **历史记录**
+- [Comparative transcriptome analysis of bull X- and Y-spermatozoa](https://www.nature.com/articles/s41598-025-99438-2) / 04月26日 08:00
 - [MiT4SL: multi-omics triplet representation learning for cancer cell line-adapted prediction of synthetic lethality](https://www.biorxiv.org/content/10.1101/2025.04.20.649694v1?rss=1) / 04月25日 08:00
 - [Directing stem cell differentiation by chromatin state approximation](https://www.biorxiv.org/content/10.1101/2025.04.24.650451v1?rss=1) / 04月25日 08:00
 - [DNA Methylation Dynamics of Dose-dependent Acute Exercise, Training Adaptation, and Detraining](https://www.biorxiv.org/content/10.1101/2025.04.22.650067v1?rss=1) / 04月25日 08:00
