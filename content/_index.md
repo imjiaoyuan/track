@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月27日 00:20**
+**四川省/成都/成都 2025年04月27日 02:22**
 - 今天周日，白天☁️阴(16°~26°)，空气良(64)
 - 明天周一，白天☁️阴(16°~27°)，空气良(88)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -27,8 +27,8 @@
 - [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) / 04月20日 18:48
 - [末後一著，盡顯禪者本色](https://justgoidea.com/mo-hou-yi-zhao-jin-xian-chan-zhe-ben-se/) / 04月20日 16:37
 - [也搞了一个展示行走数据的页面](https://blog.douchi.space/steps-page/) / 04月20日 11:45
-- [月刊（第29期）：新生活](https://blog.ursb.me/posts/weekly-29/) / 04月18日 14:32
-- [科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html) / 04月18日 08:07
+- [专注于每个步伐](https://www.xiangshitan.com/post/3398.html) / 04月20日 09:23
+- [看山是山，看水是水](https://www.xiangshitan.com/post/3397.html) / 04月19日 06:48
 <!--rss-blogs:end-->
 ---
 # Research Papers
