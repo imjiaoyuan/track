@@ -20,7 +20,6 @@ RSS_FEEDS = {
         "https://www.eaimty.com/rss.xml",
         "https://justgoidea.com/rss.xml",
         "https://bamboobone9.com/index.xml",
-        "https://zhangke.space/feed/",
         "https://www.owenyoung.com/atom.xml",
         "https://www.darknavy.org/zh/index.xml",
         "https://kowyo.com/index.xml",
@@ -46,7 +45,12 @@ RSS_FEEDS = {
         "https://www.skyue.com/feed/",
         "https://www.pseudoyu.com/feed.xml",
         "https://openbiox.github.io/weekly/feed_rss_created.xml",
-        "https://feedx.net/rss/one.xml"
+        "https://feedx.net/rss/one.xml",
+        "https://blog.codingnow.com/atom.xml",
+        "https://wiki.eryajf.net/rss.xml",
+        "https://anotherdayu.com/feed",
+        "https://blog.ops-coffee.cn/feed.xml",
+        "https://www.wordpace.com/feed"
     ],
     'papers': [
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics",
@@ -59,6 +63,7 @@ RSS_FEEDS = {
 # Cities for weather info
 CITIES = [
     "Chengdu",
+    "Yibin",
 ]
 
 # QWeather API settings
