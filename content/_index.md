@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月27日 12:20**
+**四川省/成都/成都 2025年04月27日 14:23**
 - 今天周日，白天☁️阴(14°~27°)，空气良(62)
 - 明天周一，白天☁️阴(15°~27°)，空气良(91)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -9,6 +9,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [历时两年半开发，Fread 项目现在决定开源](https://zhangke.space/%e5%8e%86%e6%97%b6%e4%b8%a4%e5%b9%b4%e5%8d%8a%e5%bc%80%e5%8f%91%ef%bc%8cfread-%e9%a1%b9%e7%9b%ae%e7%8e%b0%e5%9c%a8%e5%86%b3%e5%ae%9a%e5%bc%80%e6%ba%90/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%258e%2586%25e6%2597%25b6%25e4%25b8%25a4%25e5%25b9%25b4%25e5%258d%258a%25e5%25bc%2580%25e5%258f%2591%25ef%25bc%258cfread-%25e9%25a1%25b9%25e7%259b%25ae%25e7%258e%25b0%25e5%259c%25a8%25e5%2586%25b3%25e5%25ae%259a%25e5%25bc%2580%25e6%25ba%2590) / 13:08
 - [北方狩猎](http://m.wufazhuce.com/article/6772) / 06:25
 - [VOL.4586](http://m.wufazhuce.com/one/4737) / 06:25
 
@@ -30,7 +31,6 @@
 - [末後一著，盡顯禪者本色](https://justgoidea.com/mo-hou-yi-zhao-jin-xian-chan-zhe-ben-se/) / 04月20日 16:37
 - [也搞了一个展示行走数据的页面](https://blog.douchi.space/steps-page/) / 04月20日 11:45
 - [专注于每个步伐](https://www.xiangshitan.com/post/3398.html) / 04月20日 09:23
-- [看山是山，看水是水](https://www.xiangshitan.com/post/3397.html) / 04月19日 06:48
 <!--rss-blogs:end-->
 ---
 # Research Papers
