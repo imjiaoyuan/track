@@ -1,21 +1,23 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月27日 06:15**
-- 今天周日，白天☁️阴(16°~26°)，空气良(64)
-- 明天周一，白天☁️阴(16°~27°)，空气良(88)，夜间小雨
+**四川省/成都/成都 2025年04月27日 09:36**
+- 今天周日，白天☁️阴(14°~27°)，空气良(69)
+- 明天周一，白天☁️阴(15°~27°)，空气良(96)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [北方狩猎](http://m.wufazhuce.com/article/6772) / 06:25
+- [VOL.4586](http://m.wufazhuce.com/one/4737) / 06:25
+
 **历史记录**
 - [生信爱好者周刊（第 164 期）：德日学者称中国学术界更偏好“内循环”](https://openbiox.github.io/weekly/issue-164/) / 04月26日 12:45
 - [树的密谋](http://m.wufazhuce.com/article/6771) / 04月26日 06:25
-- [VOL.4585](http://m.wufazhuce.com/one/4736) / 04月26日 06:25
 - [花瓣里的火焰，转型中的鸣响](https://justgoidea.com/flames-in-petals-sounds-of-transformation/) / 04月25日 18:57
 - [日本浮生录 ：一场跨越千年的樱花之旅](https://song.al/sakura) / 04月25日 11:54
 - [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) / 04月25日 08:09
-- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4348) / 04月25日 06:25
 - [PCA and CCA for single-cell annotation](https://divingintogeneticsandgenomics.com/talk/2025-pythia-cell-anno/) / 04月24日 19:00
 - [Of Studies](https://imzm.im/of-studies/) / 04月23日 14:32
 - [Fread 最新版本已支持 Bluesky](https://zhangke.space/fread-%e6%9c%80%e6%96%b0%e7%89%88%e6%9c%ac%e5%b7%b2%e6%94%af%e6%8c%81-bluesky/?utm_source=rss&utm_medium=rss&utm_campaign=fread-%25e6%259c%2580%25e6%2596%25b0%25e7%2589%2588%25e6%259c%25ac%25e5%25b7%25b2%25e6%2594%25af%25e6%258c%2581-bluesky) / 04月22日 22:25
