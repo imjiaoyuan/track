@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月28日 17:04**
-- 今天周一，白天☁️阴(16°~26°)，空气良(79)，夜间小雨
-- 明天周二，白天🌧️小雨(14°~24°)，空气良(53)，夜间阴
+**四川省/成都/成都 2025年04月28日 19:04**
+- 今天周一，白天☁️阴(16°~25°)，空气良(76)，夜间小雨
+- 明天周二，白天☁️阴(15°~23°)，空气良(59)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月28日 17:04**
-- 今天周一，白天🌧️小雨(16°~27°)，空气良(73)
-- 明天周二，白天🌧️小雨(15°~19°)，空气优(43)，夜间阴
+**四川省/宜宾/宜宾 2025年04月28日 19:05**
+- 今天周一，白天🌧️小雨(16°~27°)，空气良(72)，夜间中雨
+- 明天周二，白天🌧️小雨(15°~19°)，空气优(47)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -40,6 +40,12 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Repeated evolution of a complex behaviour](https://www.nature.com/articles/s41559-025-02686-8) / 08:00
+- [Pangenome analysis reveals structural variation associated with seed size and weight traits in peanut](https://www.nature.com/articles/s41588-025-02170-w) / 08:00
+- [The First Genome Assembly Of The Dogwhelk Nucella lapillus, a Bioindicator Species For The Marine Environment](https://www.nature.com/articles/s41597-025-04764-9) / 08:00
+- [Oryza genome evolution through a tetraploid lens](https://www.nature.com/articles/s41588-025-02183-5) / 08:00
+
 **历史记录**
 - [Comparative transcriptome analysis of bull X- and Y-spermatozoa](https://www.nature.com/articles/s41598-025-99438-2) / 04月26日 08:00
 - [MiT4SL: multi-omics triplet representation learning for cancer cell line-adapted prediction of synthetic lethality](https://www.biorxiv.org/content/10.1101/2025.04.20.649694v1?rss=1) / 04月25日 08:00
@@ -57,8 +63,4 @@
 - [Advancing Pediatric and Longitudinal DNA Methylation Studies with CellsPickMe, an Integrated Blood Cell Deconvolution Method](https://www.biorxiv.org/content/10.1101/2025.04.22.649907v1?rss=1) / 04月24日 08:00
 - [INSIGHT: In Silico Drug Screening Platform using Interpretable Deep Learning Network](https://www.biorxiv.org/content/10.1101/2025.04.21.649855v1?rss=1) / 04月24日 08:00
 - [SIMIT-seq: a bead-free, scalable microfluidic platform for single cell mRNA sequencing with ultrahigh cell-indexing rate](https://www.biorxiv.org/content/10.1101/2025.04.23.650129v1?rss=1) / 04月24日 08:00
-- [SCassist: An AI Based Workflow Assistant for Single-Cell Analysis](https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1?rss=1) / 04月24日 08:00
-- [Shiny-Calorie: A context-aware application for indirect calorimetry data analysis and visualization using R](https://www.biorxiv.org/content/10.1101/2025.04.24.648116v1?rss=1) / 04月24日 08:00
-- [SieveAI: Development of an Automated extensible and customisable drug discovery pipeline and its validation](https://www.biorxiv.org/content/10.1101/2025.04.20.648820v1?rss=1) / 04月24日 08:00
-- [DeltaBreed: A BrAPI-centric breeding data information system](https://www.biorxiv.org/content/10.1101/2025.04.23.650200v1?rss=1) / 04月24日 08:00
 <!--rss-papers:end-->
