@@ -1,14 +1,14 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月28日 19:04**
+**四川省/成都/成都 2025年04月28日 20:38**
 - 今天周一，白天☁️阴(16°~25°)，空气良(76)，夜间小雨
 - 明天周二，白天☁️阴(15°~23°)，空气良(59)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月28日 19:05**
+**四川省/宜宾/宜宾 2025年04月28日 20:38**
 - 今天周一，白天🌧️小雨(16°~27°)，空气良(72)，夜间中雨
 - 明天周二，白天🌧️小雨(15°~19°)，空气优(47)，夜间阴
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+- 有降水，能见度不太好且路面湿滑，交通气象条件一般，刹车距离延长，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Author Correction: Reconstruction of diploid higher-order human 3D genome interactions from noisy Pore-C data using Dip3D](https://www.nature.com/articles/s41594-025-01571-z) / 08:00
 - [Repeated evolution of a complex behaviour](https://www.nature.com/articles/s41559-025-02686-8) / 08:00
 - [Pangenome analysis reveals structural variation associated with seed size and weight traits in peanut](https://www.nature.com/articles/s41588-025-02170-w) / 08:00
 - [The First Genome Assembly Of The Dogwhelk Nucella lapillus, a Bioindicator Species For The Marine Environment](https://www.nature.com/articles/s41597-025-04764-9) / 08:00
@@ -62,5 +63,4 @@
 - [High-quality metagenome assembly from nanopore reads with nanoMDBG](https://www.biorxiv.org/content/10.1101/2025.04.22.649928v1?rss=1) / 04月24日 08:00
 - [Advancing Pediatric and Longitudinal DNA Methylation Studies with CellsPickMe, an Integrated Blood Cell Deconvolution Method](https://www.biorxiv.org/content/10.1101/2025.04.22.649907v1?rss=1) / 04月24日 08:00
 - [INSIGHT: In Silico Drug Screening Platform using Interpretable Deep Learning Network](https://www.biorxiv.org/content/10.1101/2025.04.21.649855v1?rss=1) / 04月24日 08:00
-- [SIMIT-seq: a bead-free, scalable microfluidic platform for single cell mRNA sequencing with ultrahigh cell-indexing rate](https://www.biorxiv.org/content/10.1101/2025.04.23.650129v1?rss=1) / 04月24日 08:00
 <!--rss-papers:end-->
