@@ -1,26 +1,25 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月28日 22:20**
-- 今天周一，白天☁️阴(16°~25°)，空气良(75)，夜间小雨
-- 明天周二，白天☁️阴(15°~23°)，空气良(57)
+**四川省/成都/成都 2025年04月29日 00:21**
+- 今天周二，白天☁️阴(15°~23°)，空气良(51)
+- 明天周三，白天☁️阴(17°~29°)，空气良(97)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月28日 22:20**
-- 今天周一，白天🌧️小雨(16°~27°)，空气良(69)，夜间中雨
-- 明天周二，白天🌧️小雨(15°~19°)，空气优(41)，夜间阴
+**四川省/宜宾/宜宾 2025年04月29日 00:21**
+- 今天周二，白天🌧️小雨(15°~19°)，空气优(41)，夜间阴
+- 明天周三，白天☁️阴(17°~29°)，空气良(66)
 - 有降水，能见度不太好且路面湿滑，交通气象条件一般，刹车距离延长，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) / 10:22
-- [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) / 08:00
-- [如何面对身体羞耻？](http://m.wufazhuce.com/question/4349) / 06:25
-- [一场春意乱炖](http://m.wufazhuce.com/article/6776) / 06:25
-- [VOL.4587](http://m.wufazhuce.com/one/4738) / 06:25
-
 **历史记录**
+- [暗盒 01](https://ameow.xyz/archives/film-roll-01) / 04月28日 23:57
+- [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) / 04月28日 10:22
+- [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) / 04月28日 08:00
+- [如何面对身体羞耻？](http://m.wufazhuce.com/question/4349) / 04月28日 06:25
+- [一场春意乱炖](http://m.wufazhuce.com/article/6776) / 04月28日 06:25
+- [VOL.4587](http://m.wufazhuce.com/one/4738) / 04月28日 06:25
 - [情绪记录](https://www.skyue.com/25042723.html) / 04月27日 23:07
 - [燕赵邯郸访古 01](https://blog.pursuitus.com/yan-zhao-handan-visits-01.html) / 04月27日 22:18
 - [生信爱好者周刊（第 164 期）：德日学者称中国学术界更偏好“内循环”](https://openbiox.github.io/weekly/issue-164/) / 04月26日 12:45
@@ -35,19 +34,16 @@
 - [Go开发实践之Gin框架将前端的dist目录embed到二进制](https://wiki.eryajf.net/pages/5d6f15/) / 04月23日 05:51
 - [骑行](https://anotherdayu.com/2025/6717/) / 04月22日 19:51
 - [巨头的新战场：AI 编程 IDE（暨 字节 Trae 调用 MCP 教程）](http://www.ruanyifeng.com/blog/2025/04/trae-mcp.html) / 04月22日 15:08
-- [周报 #92 - 数码产品 Porn 与断舍离](https://www.pseudoyu.com/posts/weekly_review_92) / 04月22日 10:45
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Author Correction: Reconstruction of diploid higher-order human 3D genome interactions from noisy Pore-C data using Dip3D](https://www.nature.com/articles/s41594-025-01571-z) / 08:00
-- [Repeated evolution of a complex behaviour](https://www.nature.com/articles/s41559-025-02686-8) / 08:00
-- [Pangenome analysis reveals structural variation associated with seed size and weight traits in peanut](https://www.nature.com/articles/s41588-025-02170-w) / 08:00
-- [The First Genome Assembly Of The Dogwhelk Nucella lapillus, a Bioindicator Species For The Marine Environment](https://www.nature.com/articles/s41597-025-04764-9) / 08:00
-- [Oryza genome evolution through a tetraploid lens](https://www.nature.com/articles/s41588-025-02183-5) / 08:00
-
 **历史记录**
+- [Author Correction: Reconstruction of diploid higher-order human 3D genome interactions from noisy Pore-C data using Dip3D](https://www.nature.com/articles/s41594-025-01571-z) / 04月28日 08:00
+- [Repeated evolution of a complex behaviour](https://www.nature.com/articles/s41559-025-02686-8) / 04月28日 08:00
+- [Pangenome analysis reveals structural variation associated with seed size and weight traits in peanut](https://www.nature.com/articles/s41588-025-02170-w) / 04月28日 08:00
+- [The First Genome Assembly Of The Dogwhelk Nucella lapillus, a Bioindicator Species For The Marine Environment](https://www.nature.com/articles/s41597-025-04764-9) / 04月28日 08:00
+- [Oryza genome evolution through a tetraploid lens](https://www.nature.com/articles/s41588-025-02183-5) / 04月28日 08:00
 - [Comparative transcriptome analysis of bull X- and Y-spermatozoa](https://www.nature.com/articles/s41598-025-99438-2) / 04月26日 08:00
 - [MiT4SL: multi-omics triplet representation learning for cancer cell line-adapted prediction of synthetic lethality](https://www.biorxiv.org/content/10.1101/2025.04.20.649694v1?rss=1) / 04月25日 08:00
 - [Directing stem cell differentiation by chromatin state approximation](https://www.biorxiv.org/content/10.1101/2025.04.24.650451v1?rss=1) / 04月25日 08:00
