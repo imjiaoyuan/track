@@ -1,25 +1,28 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月28日 06:16**
-- 今天周一，白天🌧️小雨(15°~25°)，空气良(74)
-- 明天周二，白天☁️阴(14°~23°)，空气良(59)，夜间多云
+**四川省/成都/成都 2025年04月28日 09:26**
+- 今天周一，白天☁️阴(16°~25°)，空气良(72)，夜间小雨
+- 明天周二，白天🌧️小雨(14°~24°)，空气良(59)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月28日 06:16**
-- 今天周一，白天☁️阴(16°~28°)，空气良(72)，夜间小雨
-- 明天周二，白天🌧️小雨(16°~20°)，空气优(41)
+**四川省/宜宾/宜宾 2025年04月28日 09:26**
+- 今天周一，白天🌧️小雨(16°~27°)，空气良(73)
+- 明天周二，白天🌧️小雨(15°~19°)，空气优(47)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) / 08:00
+- [如何面对身体羞耻？](http://m.wufazhuce.com/question/4349) / 06:25
+- [一场春意乱炖](http://m.wufazhuce.com/article/6776) / 06:25
+- [VOL.4587](http://m.wufazhuce.com/one/4738) / 06:25
+
 **历史记录**
 - [情绪记录](https://www.skyue.com/25042723.html) / 04月27日 23:07
 - [燕赵邯郸访古 01](https://blog.pursuitus.com/yan-zhao-handan-visits-01.html) / 04月27日 22:18
-- [北方狩猎](http://m.wufazhuce.com/article/6772) / 04月27日 06:25
-- [VOL.4586](http://m.wufazhuce.com/one/4737) / 04月27日 06:25
 - [生信爱好者周刊（第 164 期）：德日学者称中国学术界更偏好“内循环”](https://openbiox.github.io/weekly/issue-164/) / 04月26日 12:45
-- [树的密谋](http://m.wufazhuce.com/article/6771) / 04月26日 06:25
 - [一点点展开我的 macOS](https://anotherdayu.com/2025/6733/) / 04月26日 03:31
 - [花瓣里的火焰，转型中的鸣响](https://justgoidea.com/flames-in-petals-sounds-of-transformation/) / 04月25日 18:57
 - [日本浮生录 ：一场跨越千年的樱花之旅](https://song.al/sakura) / 04月25日 11:54
@@ -33,7 +36,6 @@
 - [巨头的新战场：AI 编程 IDE（暨 字节 Trae 调用 MCP 教程）](http://www.ruanyifeng.com/blog/2025/04/trae-mcp.html) / 04月22日 15:08
 - [周报 #92 - 数码产品 Porn 与断舍离](https://www.pseudoyu.com/posts/weekly_review_92) / 04月22日 10:45
 - [Bake dinner](https://anotherdayu.com/2025/6713/) / 04月22日 03:17
-- [来自小林的三十六问](https://blog.pursuitus.com/thirty-six-questions.html) / 04月21日 21:05
 <!--rss-blogs:end-->
 ---
 # Research Papers
