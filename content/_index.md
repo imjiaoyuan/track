@@ -1,25 +1,28 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月29日 06:17**
-- 今天周二，白天🌧️小雨(14°~23°)，空气良(51)，夜间多云
-- 明天周三，白天🌤️多云(16°~29°)，空气良(97)
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**四川省/成都/成都 2025年04月29日 09:24**
+- 今天周二，白天🌧️小雨(15°~23°)，空气良(56)，夜间阴
+- 明天周三，白天🌤️多云(17°~30°)，空气良(95)，夜间阴
+- 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年04月29日 06:17**
-- 今天周二，白天🌧️小雨(15°~19°)，空气优(41)，夜间阴
-- 明天周三，白天☁️阴(17°~29°)，空气良(66)
+**四川省/宜宾/宜宾 2025年04月29日 09:24**
+- 今天周二，白天🌧️小雨(14°~18°)，空气优(42)
+- 明天周三，白天☁️阴(16°~28°)，空气良(72)
 - 有降水，能见度不太好且路面湿滑，交通气象条件一般，刹车距离延长，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [打工记（五）](https://yukieyun.net/roam/gravedigger-of-capitalism-05/) / 07:48
+- [享受生活VS存钱，哪个更重要？](http://m.wufazhuce.com/question/4350) / 06:25
+- [我们没有人是真正相信爱情的](http://m.wufazhuce.com/article/6779) / 06:25
+- [VOL.4588](http://m.wufazhuce.com/one/4739) / 06:25
+
 **历史记录**
 - [暗盒 01](https://ameow.xyz/archives/film-roll-01) / 04月28日 23:57
 - [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) / 04月28日 10:22
 - [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) / 04月28日 08:00
-- [如何面对身体羞耻？](http://m.wufazhuce.com/question/4349) / 04月28日 06:25
-- [一场春意乱炖](http://m.wufazhuce.com/article/6776) / 04月28日 06:25
-- [VOL.4587](http://m.wufazhuce.com/one/4738) / 04月28日 06:25
 - [情绪记录](https://www.skyue.com/25042723.html) / 04月27日 23:07
 - [燕赵邯郸访古 01](https://blog.pursuitus.com/yan-zhao-handan-visits-01.html) / 04月27日 22:18
 - [生信爱好者周刊（第 164 期）：德日学者称中国学术界更偏好“内循环”](https://openbiox.github.io/weekly/issue-164/) / 04月26日 12:45
@@ -33,7 +36,6 @@
 - [Of Studies](https://imzm.im/of-studies/) / 04月23日 14:32
 - [Go开发实践之Gin框架将前端的dist目录embed到二进制](https://wiki.eryajf.net/pages/5d6f15/) / 04月23日 05:51
 - [骑行](https://anotherdayu.com/2025/6717/) / 04月22日 19:51
-- [巨头的新战场：AI 编程 IDE（暨 字节 Trae 调用 MCP 教程）](http://www.ruanyifeng.com/blog/2025/04/trae-mcp.html) / 04月22日 15:08
 <!--rss-blogs:end-->
 ---
 # Research Papers
