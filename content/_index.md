@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月29日 18:20**
+**四川省/成都/成都 2025年04月29日 20:38**
 - 今天周二，白天🌧️小雨(15°~23°)，空气良(53)，夜间阴
 - 明天周三，白天☁️阴(17°~30°)，空气良(99)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月29日 18:20**
+**四川省/宜宾/宜宾 2025年04月29日 20:38**
 - 今天周二，白天🌧️小雨(15°~18°)，空气优(45)，夜间阴
 - 明天周三，白天☁️阴(16°~28°)，空气良(66)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -20,6 +20,7 @@
 - [VOL.4588](http://m.wufazhuce.com/one/4739) / 06:25
 
 **历史记录**
+- [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 04月30日 02:15
 - [暗盒 01](https://ameow.xyz/archives/film-roll-01) / 04月28日 23:57
 - [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) / 04月28日 10:22
 - [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) / 04月28日 08:00
@@ -35,7 +36,6 @@
 - [我若浮云自在游: 湖区和 Tripsy](https://anotherdayu.com/2025/6723/) / 04月24日 03:45
 - [Of Studies](https://imzm.im/of-studies/) / 04月23日 14:32
 - [Go开发实践之Gin框架将前端的dist目录embed到二进制](https://wiki.eryajf.net/pages/5d6f15/) / 04月23日 05:51
-- [骑行](https://anotherdayu.com/2025/6717/) / 04月22日 19:51
 <!--rss-blogs:end-->
 ---
 # Research Papers
