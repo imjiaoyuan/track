@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月29日 20:38**
-- 今天周二，白天🌧️小雨(15°~23°)，空气良(53)，夜间阴
-- 明天周三，白天☁️阴(17°~30°)，空气良(99)
+**四川省/成都/成都 2025年04月29日 22:18**
+- 今天周二，白天🌧️小雨(15°~23°)，空气优(50)，夜间阴
+- 明天周三，白天☁️阴(17°~30°)，空气轻度污染(101)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月29日 20:38**
-- 今天周二，白天🌧️小雨(15°~18°)，空气优(45)，夜间阴
-- 明天周三，白天☁️阴(16°~28°)，空气良(66)
+**四川省/宜宾/宜宾 2025年04月29日 22:18**
+- 今天周二，白天🌧️小雨(15°~18°)，空气优(43)，夜间阴
+- 明天周三，白天☁️阴(16°~28°)，空气良(65)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,26 +41,25 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [TARPON - a Telomere Analysis and Research Pipeline Optimized for Nanopore](https://www.biorxiv.org/content/10.1101/2025.04.22.649940v1?rss=1) / 08:00
+- [PPI-ID: Streamlining Protein-Protein Interaction Prediction through Domain and SLiM Mapping](https://www.biorxiv.org/content/10.1101/2025.04.22.649917v1?rss=1) / 08:00
+- [Automating the Curation of DNA Barcode Databases for Vascular Plants](https://www.biorxiv.org/content/10.1101/2025.04.22.650100v1?rss=1) / 08:00
+- [Understanding Protein Language Model Scaling on Mutation Effect Prediction](https://www.biorxiv.org/content/10.1101/2025.04.25.650688v1?rss=1) / 08:00
+- [Metagenomic-scale analysis of the predicted protein structure universe](https://www.biorxiv.org/content/10.1101/2025.04.23.650224v1?rss=1) / 08:00
+- [Association of ulcerative colitis with atopic dermatitis: identification of shared and unique mechanisms by construction and computational analysis of disease maps](https://www.biorxiv.org/content/10.1101/2025.04.23.650149v1?rss=1) / 08:00
+- [MBD2/3 lost its methyl-CpG binding ability in multiple families of Holometabola](https://www.biorxiv.org/content/10.1101/2025.04.22.650097v1?rss=1) / 08:00
+- [Tile-X: A vertex reordering approach for scalable long read assembly](https://www.biorxiv.org/content/10.1101/2025.04.21.649853v1?rss=1) / 08:00
+- [Quantification and differential analysis of mass spectrometry proteomics data with probabilistic recovery of information from missing values](https://www.biorxiv.org/content/10.1101/2025.04.28.651125v1?rss=1) / 08:00
+- [Passive and active demethylation in immune diseases with proliferation driving global hypomethylation](https://www.biorxiv.org/content/10.1101/2025.04.25.650620v1?rss=1) / 08:00
+- [Single nucleotide polymorphisms and structural variants reveal complex and variable ploidy in the amoebozoan Acanthamoeba castellanii](https://www.biorxiv.org/content/10.1101/2025.04.25.650682v1?rss=1) / 08:00
+- [Chip (Ldb1) is a new cofactor of Zelda forming a functional bridge to CBP during zygotic genome activation](https://www.biorxiv.org/content/10.1101/2025.04.24.650404v1?rss=1) / 08:00
+- [Manual validation finds only ultra-long long-read sequencing enables faithful, population-level structural variant calling in Drosophila melanogaster euchromatin](https://www.biorxiv.org/content/10.1101/2025.04.21.649852v1?rss=1) / 08:00
+- [HaploExplore, first software specifically designed for the detection of minor allele (MiA-) Haploblocks](https://www.biorxiv.org/content/10.1101/2025.04.23.650206v1?rss=1) / 08:00
+- [Single-molecule multimodal timing of in vivo mRNA synthesis](https://www.biorxiv.org/content/10.1101/2025.04.27.650906v1?rss=1) / 08:00
 - [Cell classification should be based on more than just DNA](https://www.nature.com/articles/d41586-025-01329-z) / 08:00
+- [Insights into the evolution and genetic diversity of the Malus genus from pan-genome analysis](https://www.nature.com/articles/s41588-025-02171-9) / 08:00
 - [Whole-exome tumor-agnostic ctDNA analysis enhances minimal residual disease detection and reveals relapse mechanisms in localized colon cancer](https://www.nature.com/articles/s43018-025-00960-z) / 08:00
 - [Tri-omic single-cell mapping of the 3D epigenome and transcriptome in whole mouse brains throughout the lifespan](https://www.nature.com/articles/s41592-025-02658-7) / 08:00
+- [Maximum lifespan and brain size in mammals are associated with gene family size expansion related to immune system functions](https://www.nature.com/articles/s41598-025-98786-3) / 08:00
 
-**历史记录**
-- [Author Correction: Reconstruction of diploid higher-order human 3D genome interactions from noisy Pore-C data using Dip3D](https://www.nature.com/articles/s41594-025-01571-z) / 04月28日 08:00
-- [Repeated evolution of a complex behaviour](https://www.nature.com/articles/s41559-025-02686-8) / 04月28日 08:00
-- [Pangenome analysis reveals structural variation associated with seed size and weight traits in peanut](https://www.nature.com/articles/s41588-025-02170-w) / 04月28日 08:00
-- [The First Genome Assembly Of The Dogwhelk Nucella lapillus, a Bioindicator Species For The Marine Environment](https://www.nature.com/articles/s41597-025-04764-9) / 04月28日 08:00
-- [Oryza genome evolution through a tetraploid lens](https://www.nature.com/articles/s41588-025-02183-5) / 04月28日 08:00
-- [Comparative transcriptome analysis of bull X- and Y-spermatozoa](https://www.nature.com/articles/s41598-025-99438-2) / 04月26日 08:00
-- [MiT4SL: multi-omics triplet representation learning for cancer cell line-adapted prediction of synthetic lethality](https://www.biorxiv.org/content/10.1101/2025.04.20.649694v1?rss=1) / 04月25日 08:00
-- [Directing stem cell differentiation by chromatin state approximation](https://www.biorxiv.org/content/10.1101/2025.04.24.650451v1?rss=1) / 04月25日 08:00
-- [DNA Methylation Dynamics of Dose-dependent Acute Exercise, Training Adaptation, and Detraining](https://www.biorxiv.org/content/10.1101/2025.04.22.650067v1?rss=1) / 04月25日 08:00
-- [Advances in single-cell DNA sequencing enable insights into human somatic mosaicism](https://www.nature.com/articles/s41576-025-00832-3) / 04月25日 08:00
-- [Gene expression analyses on Dickeya solani strains of diverse virulence levels unveil important pathogenicity factors for this species](https://www.nature.com/articles/s41598-025-98321-4) / 04月25日 08:00
-- [Reference-guided genome assembly at scale using ultra-low-coverage high-fidelity long-reads with HiFiCCL](https://www.biorxiv.org/content/10.1101/2025.04.20.649739v1?rss=1) / 04月24日 08:00
-- [Attention-Based Solution for Synergistic Virus Combination Therapy](https://www.biorxiv.org/content/10.1101/2025.04.22.649915v1?rss=1) / 04月24日 08:00
-- [Task Splitting and Prompt Engineering for Cypher Query Generation in Domain-Specific Knowledge Graphs](https://www.biorxiv.org/content/10.1101/2025.04.23.649790v1?rss=1) / 04月24日 08:00
-- [Comparative analysis of genomic prediction approaches for multiple time-resolved traits in maize](https://www.biorxiv.org/content/10.1101/2025.04.22.649925v1?rss=1) / 04月24日 08:00
-- [BioMiner: A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature](https://www.biorxiv.org/content/10.1101/2025.04.22.648951v1?rss=1) / 04月24日 08:00
-- [Assemblies of long-read metagenomes suffer from diverse errors](https://www.biorxiv.org/content/10.1101/2025.04.22.649783v1?rss=1) / 04月24日 08:00
 <!--rss-papers:end-->
