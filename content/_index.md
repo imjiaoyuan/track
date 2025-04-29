@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月30日 02:24**
+**四川省/成都/成都 2025年04月30日 04:20**
 - 今天周三，白天☁️阴(17°~30°)，空气良(100)
 - 明天周四，白天☁️阴(17°~32°)，空气轻度污染(110)，夜间多云
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月30日 02:24**
+**四川省/宜宾/宜宾 2025年04月30日 04:20**
 - 今天周三，白天☁️阴(16°~28°)，空气良(66)
 - 明天周四，白天☁️阴(17°~32°)，空气良(92)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -53,6 +53,7 @@
 - [Single-molecule multimodal timing of in vivo mRNA synthesis](https://www.biorxiv.org/content/10.1101/2025.04.27.650906v1?rss=1) / 04月29日 08:00
 - [Cell classification should be based on more than just DNA](https://www.nature.com/articles/d41586-025-01329-z) / 04月29日 08:00
 - [Insights into the evolution and genetic diversity of the Malus genus from pan-genome analysis](https://www.nature.com/articles/s41588-025-02171-9) / 04月29日 08:00
+- [Evolutionary history of magnoliid genomes and benzylisoquinoline alkaloid biosynthesis](https://www.nature.com/articles/s41467-025-59343-8) / 04月29日 08:00
 - [Whole-exome tumor-agnostic ctDNA analysis enhances minimal residual disease detection and reveals relapse mechanisms in localized colon cancer](https://www.nature.com/articles/s43018-025-00960-z) / 04月29日 08:00
 - [Tri-omic single-cell mapping of the 3D epigenome and transcriptome in whole mouse brains throughout the lifespan](https://www.nature.com/articles/s41592-025-02658-7) / 04月29日 08:00
 - [Maximum lifespan and brain size in mammals are associated with gene family size expansion related to immune system functions](https://www.nature.com/articles/s41598-025-98786-3) / 04月29日 08:00
@@ -60,5 +61,4 @@
 - [SPAED: Harnessing AlphaFold Output for Accurate Segmentation of Phage Endolysin Domains](https://www.biorxiv.org/content/10.1101/2025.04.25.650745v1?rss=1) / 04月28日 08:00
 - [OrfViralScan 3.0: An intuitive tool for the identification and tracking of open reading frames in viral genomes](https://www.biorxiv.org/content/10.1101/2025.04.26.650794v1?rss=1) / 04月28日 08:00
 - [Assessment of Reported Error Rates in Crosslinking Mass Spectrometry](https://www.biorxiv.org/content/10.1101/2025.04.27.649519v1?rss=1) / 04月28日 08:00
-- [A global survey of intramolecular isopeptide bonds](https://www.biorxiv.org/content/10.1101/2025.04.25.650565v1?rss=1) / 04月28日 08:00
 <!--rss-papers:end-->
