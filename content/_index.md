@@ -1,14 +1,14 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月29日 16:25**
-- 今天周二，白天🌧️小雨(15°~23°)，空气良(55)，夜间阴
-- 明天周三，白天🌤️多云(17°~30°)，空气良(95)，夜间阴
-- 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
+**四川省/成都/成都 2025年04月29日 18:20**
+- 今天周二，白天🌧️小雨(15°~23°)，空气良(53)，夜间阴
+- 明天周三，白天☁️阴(17°~30°)，空气良(99)
+- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月29日 16:25**
-- 今天周二，白天🌧️小雨(14°~18°)，空气优(46)
-- 明天周三，白天☁️阴(16°~28°)，空气良(74)
-- 有降水，能见度不太好且路面湿滑，交通气象条件一般，刹车距离延长，注意车距，务必小心驾驶。
+**四川省/宜宾/宜宾 2025年04月29日 18:20**
+- 今天周二，白天🌧️小雨(15°~18°)，空气优(45)，夜间阴
+- 明天周三，白天☁️阴(16°~28°)，空气良(66)
+- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
@@ -40,6 +40,11 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Cell classification should be based on more than just DNA](https://www.nature.com/articles/d41586-025-01329-z) / 08:00
+- [Whole-exome tumor-agnostic ctDNA analysis enhances minimal residual disease detection and reveals relapse mechanisms in localized colon cancer](https://www.nature.com/articles/s43018-025-00960-z) / 08:00
+- [Tri-omic single-cell mapping of the 3D epigenome and transcriptome in whole mouse brains throughout the lifespan](https://www.nature.com/articles/s41592-025-02658-7) / 08:00
+
 **历史记录**
 - [Author Correction: Reconstruction of diploid higher-order human 3D genome interactions from noisy Pore-C data using Dip3D](https://www.nature.com/articles/s41594-025-01571-z) / 04月28日 08:00
 - [Repeated evolution of a complex behaviour](https://www.nature.com/articles/s41559-025-02686-8) / 04月28日 08:00
@@ -58,7 +63,4 @@
 - [Comparative analysis of genomic prediction approaches for multiple time-resolved traits in maize](https://www.biorxiv.org/content/10.1101/2025.04.22.649925v1?rss=1) / 04月24日 08:00
 - [BioMiner: A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature](https://www.biorxiv.org/content/10.1101/2025.04.22.648951v1?rss=1) / 04月24日 08:00
 - [Assemblies of long-read metagenomes suffer from diverse errors](https://www.biorxiv.org/content/10.1101/2025.04.22.649783v1?rss=1) / 04月24日 08:00
-- [High-quality metagenome assembly from nanopore reads with nanoMDBG](https://www.biorxiv.org/content/10.1101/2025.04.22.649928v1?rss=1) / 04月24日 08:00
-- [Advancing Pediatric and Longitudinal DNA Methylation Studies with CellsPickMe, an Integrated Blood Cell Deconvolution Method](https://www.biorxiv.org/content/10.1101/2025.04.22.649907v1?rss=1) / 04月24日 08:00
-- [INSIGHT: In Silico Drug Screening Platform using Interpretable Deep Learning Network](https://www.biorxiv.org/content/10.1101/2025.04.21.649855v1?rss=1) / 04月24日 08:00
 <!--rss-papers:end-->
