@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月30日 00:22**
+**四川省/成都/成都 2025年04月30日 02:24**
 - 今天周三，白天☁️阴(17°~30°)，空气良(100)
 - 明天周四，白天☁️阴(17°~32°)，空气轻度污染(110)，夜间多云
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月30日 00:22**
+**四川省/宜宾/宜宾 2025年04月30日 02:24**
 - 今天周三，白天☁️阴(16°~28°)，空气良(66)
 - 明天周四，白天☁️阴(17°~32°)，空气良(92)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,7 +41,10 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Telomerase RNA gene duplications drive telomeric repeatdiversity and evolution in Andrena bees](https://www.biorxiv.org/content/10.1101/2025.04.29.651168v1?rss=1) / 04月29日 08:00
+- [Anchors for Homology-Based Scaffolding](https://www.biorxiv.org/content/10.1101/2025.04.28.650980v1?rss=1) / 04月29日 08:00
 - [Identification of the Best Filter-based Feature Selection Techniques for Microarray Datasets](https://www.biorxiv.org/content/10.1101/2025.04.25.650719v1?rss=1) / 04月29日 08:00
+- [Demographic history explains mitochondrial genome capture and mitonuclear discordance among South American collared Tropidurus	 lizards](https://www.biorxiv.org/content/10.1101/2025.04.25.650633v1?rss=1) / 04月29日 08:00
 - [Passive and active demethylation in immune diseases with proliferation driving global hypomethylation](https://www.biorxiv.org/content/10.1101/2025.04.25.650620v1?rss=1) / 04月29日 08:00
 - [Single nucleotide polymorphisms and structural variants reveal complex and variable ploidy in the amoebozoan Acanthamoeba castellanii](https://www.biorxiv.org/content/10.1101/2025.04.25.650682v1?rss=1) / 04月29日 08:00
 - [Chip (Ldb1) is a new cofactor of Zelda forming a functional bridge to CBP during zygotic genome activation](https://www.biorxiv.org/content/10.1101/2025.04.24.650404v1?rss=1) / 04月29日 08:00
@@ -58,7 +61,4 @@
 - [OrfViralScan 3.0: An intuitive tool for the identification and tracking of open reading frames in viral genomes](https://www.biorxiv.org/content/10.1101/2025.04.26.650794v1?rss=1) / 04月28日 08:00
 - [Assessment of Reported Error Rates in Crosslinking Mass Spectrometry](https://www.biorxiv.org/content/10.1101/2025.04.27.649519v1?rss=1) / 04月28日 08:00
 - [A global survey of intramolecular isopeptide bonds](https://www.biorxiv.org/content/10.1101/2025.04.25.650565v1?rss=1) / 04月28日 08:00
-- [A real-time detection and non-destructive warning method for zebrafish body surface anomalies based on improved YOLOv8 framework](https://www.biorxiv.org/content/10.1101/2025.04.28.649888v1?rss=1) / 04月28日 08:00
-- [Systematic discovery of single-cell protein networks in cancer with Shusi](https://www.biorxiv.org/content/10.1101/2025.04.27.649905v1?rss=1) / 04月28日 08:00
-- [Nanopore-Based Whole-Genome Sequencing Reveals a Bioluminescent and Non-Bioluminescent Bacterium Isolated from the Squid Loligo forbesi in the Red Sea.](https://www.biorxiv.org/content/10.1101/2025.04.27.649427v1?rss=1) / 04月28日 08:00
 <!--rss-papers:end-->
