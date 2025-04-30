@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月30日 14:27**
-- 今天周三，白天🌤️多云(16°~29°)，空气良(96)，夜间阴
-- 明天周四，白天☁️阴(16°~33°)，空气轻度污染(114)
+**四川省/成都/成都 2025年04月30日 16:24**
+- 今天周三，白天🌤️多云(16°~29°)，空气轻度污染(103)，夜间阴
+- 明天周四，白天☁️阴(16°~33°)，空气轻度污染(111)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月30日 14:27**
-- 今天周三，白天☁️阴(16°~27°)，空气良(74)
-- 明天周四，白天☁️阴(16°~30°)，空气良(95)
+**四川省/宜宾/宜宾 2025年04月30日 16:24**
+- 今天周三，白天☁️阴(16°~28°)，空气良(66)
+- 明天周四，白天☁️阴(16°~30°)，空气良(97)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -40,6 +40,11 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Transcriptomic analysis reveals immune signatures associated with specific cutaneous manifestations of lupus in systemic lupus erythematosus](https://www.biorxiv.org/content/10.1101/2025.04.27.649460v1?rss=1) / 08:00
+- [Diverse Genomic Landscape of Swine Influenza A Virus in England (2014 - 2021)](https://www.biorxiv.org/content/10.1101/2025.04.28.650978v1?rss=1) / 08:00
+- [Comparative Virome Profiling and Discovery of Novel Viruses in Managed and Wild Bees using RNA-seq](https://www.biorxiv.org/content/10.1101/2025.04.27.650873v1?rss=1) / 08:00
+
 **历史记录**
 - [Telomerase RNA gene duplications drive telomeric repeatdiversity and evolution in Andrena bees](https://www.biorxiv.org/content/10.1101/2025.04.29.651168v1?rss=1) / 04月29日 08:00
 - [Anchors for Homology-Based Scaffolding](https://www.biorxiv.org/content/10.1101/2025.04.28.650980v1?rss=1) / 04月29日 08:00
@@ -58,7 +63,4 @@
 - [Cell classification should be based on more than just DNA](https://www.nature.com/articles/d41586-025-01329-z) / 04月29日 08:00
 - [Insights into the evolution and genetic diversity of the Malus genus from pan-genome analysis](https://www.nature.com/articles/s41588-025-02171-9) / 04月29日 08:00
 - [Evolutionary history of magnoliid genomes and benzylisoquinoline alkaloid biosynthesis](https://www.nature.com/articles/s41467-025-59343-8) / 04月29日 08:00
-- [Whole-exome tumor-agnostic ctDNA analysis enhances minimal residual disease detection and reveals relapse mechanisms in localized colon cancer](https://www.nature.com/articles/s43018-025-00960-z) / 04月29日 08:00
-- [Tri-omic single-cell mapping of the 3D epigenome and transcriptome in whole mouse brains throughout the lifespan](https://www.nature.com/articles/s41592-025-02658-7) / 04月29日 08:00
-- [Maximum lifespan and brain size in mammals are associated with gene family size expansion related to immune system functions](https://www.nature.com/articles/s41598-025-98786-3) / 04月29日 08:00
 <!--rss-papers:end-->
