@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月30日 20:36**
-- 今天周三，白天🌤️多云(16°~29°)，空气轻度污染(101)，夜间阴
-- 明天周四，白天☁️阴(16°~31°)，空气轻度污染(113)
+**四川省/成都/成都 2025年04月30日 22:18**
+- 今天周三，白天🌤️多云(16°~29°)，空气良(95)，夜间阴
+- 明天周四，白天☁️阴(16°~31°)，空气轻度污染(112)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月30日 20:36**
-- 今天周三，白天☁️阴(16°~27°)，空气良(72)
-- 明天周四，白天☁️阴(17°~31°)，空气良(92)
+**四川省/宜宾/宜宾 2025年04月30日 22:18**
+- 今天周三，白天☁️阴(16°~27°)，空气良(73)
+- 明天周四，白天☁️阴(17°~31°)，空气良(95)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Robust Prediction of Multiple Protein Conformations with Entropy Guidance](https://www.biorxiv.org/content/10.1101/2025.04.26.650728v1?rss=1) / 08:00
 - [Transcriptomic analysis reveals immune signatures associated with specific cutaneous manifestations of lupus in systemic lupus erythematosus](https://www.biorxiv.org/content/10.1101/2025.04.27.649460v1?rss=1) / 08:00
 - [Diverse Genomic Landscape of Swine Influenza A Virus in England (2014 - 2021)](https://www.biorxiv.org/content/10.1101/2025.04.28.650978v1?rss=1) / 08:00
 - [Comparative Virome Profiling and Discovery of Novel Viruses in Managed and Wild Bees using RNA-seq](https://www.biorxiv.org/content/10.1101/2025.04.27.650873v1?rss=1) / 08:00
@@ -62,5 +63,4 @@
 - [HaploExplore, first software specifically designed for the detection of minor allele (MiA-) Haploblocks](https://www.biorxiv.org/content/10.1101/2025.04.23.650206v1?rss=1) / 04月29日 08:00
 - [Single-molecule multimodal timing of in vivo mRNA synthesis](https://www.biorxiv.org/content/10.1101/2025.04.27.650906v1?rss=1) / 04月29日 08:00
 - [Cell classification should be based on more than just DNA](https://www.nature.com/articles/d41586-025-01329-z) / 04月29日 08:00
-- [Insights into the evolution and genetic diversity of the Malus genus from pan-genome analysis](https://www.nature.com/articles/s41588-025-02171-9) / 04月29日 08:00
 <!--rss-papers:end-->
