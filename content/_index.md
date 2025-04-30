@@ -1,26 +1,24 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月30日 22:18**
-- 今天周三，白天🌤️多云(16°~29°)，空气良(95)，夜间阴
-- 明天周四，白天☁️阴(16°~31°)，空气轻度污染(112)
+**四川省/成都/成都 2025年05月01日 00:22**
+- 今天周四，白天☁️阴(16°~31°)，空气轻度污染(118)
+- 明天周五，白天☁️阴(19°~31°)，空气轻度污染(120)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月30日 22:18**
-- 今天周三，白天☁️阴(16°~27°)，空气良(73)
-- 明天周四，白天☁️阴(17°~31°)，空气良(95)
+**四川省/宜宾/宜宾 2025年05月01日 00:22**
+- 今天周四，白天☁️阴(17°~31°)，空气良(92)
+- 明天周五，白天☁️阴(20°~32°)，空气轻度污染(101)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [柏林和布拉格](https://www.skyue.com/25043013.html) / 13:54
-- [真正的自信，是什么样子的？](http://m.wufazhuce.com/question/4355) / 06:25
-- [有些人你永远不必等](http://m.wufazhuce.com/article/6775) / 06:25
-- [VOL.4589](http://m.wufazhuce.com/one/4740) / 06:25
-- [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 02:15
-
 **历史记录**
+- [柏林和布拉格](https://www.skyue.com/25043013.html) / 04月30日 13:54
+- [真正的自信，是什么样子的？](http://m.wufazhuce.com/question/4355) / 04月30日 06:25
+- [有些人你永远不必等](http://m.wufazhuce.com/article/6775) / 04月30日 06:25
+- [VOL.4589](http://m.wufazhuce.com/one/4740) / 04月30日 06:25
+- [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 04月30日 02:15
 - [熊猫，走起](https://www.xiangshitan.com/post/3399.html) / 04月29日 23:06
 - [打工记（五）](https://yukieyun.net/roam/gravedigger-of-capitalism-05/) / 04月29日 07:48
 - [暗盒 01](https://ameow.xyz/archives/film-roll-01) / 04月28日 23:57
@@ -40,14 +38,17 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Robust Prediction of Multiple Protein Conformations with Entropy Guidance](https://www.biorxiv.org/content/10.1101/2025.04.26.650728v1?rss=1) / 08:00
-- [Transcriptomic analysis reveals immune signatures associated with specific cutaneous manifestations of lupus in systemic lupus erythematosus](https://www.biorxiv.org/content/10.1101/2025.04.27.649460v1?rss=1) / 08:00
-- [Diverse Genomic Landscape of Swine Influenza A Virus in England (2014 - 2021)](https://www.biorxiv.org/content/10.1101/2025.04.28.650978v1?rss=1) / 08:00
-- [Comparative Virome Profiling and Discovery of Novel Viruses in Managed and Wild Bees using RNA-seq](https://www.biorxiv.org/content/10.1101/2025.04.27.650873v1?rss=1) / 08:00
-- [The Australian LINEAGE Study: advancing and implementing international guidance on genomic data within local governance frameworks](https://www.nature.com/articles/s41525-025-00492-6) / 08:00
-
 **历史记录**
+- [Investigating the prognostic value of KCNN4 gene expression in human pancreatic adenocarcinoma by bioinformatic analysis](https://www.biorxiv.org/content/10.1101/2025.04.26.650766v1?rss=1) / 04月30日 08:00
+- [Singe cell RNA sequencing data processing using cloud-based serverless computing](https://www.biorxiv.org/content/10.1101/2025.04.26.650787v1?rss=1) / 04月30日 08:00
+- [On learning functions over biological sequence space: relating Gaussian process priors, regularization, and gauge fixing](https://www.biorxiv.org/content/10.1101/2025.04.26.650699v1?rss=1) / 04月30日 08:00
+- [Robust Prediction of Multiple Protein Conformations with Entropy Guidance](https://www.biorxiv.org/content/10.1101/2025.04.26.650728v1?rss=1) / 04月30日 08:00
+- [Transcriptomic analysis reveals immune signatures associated with specific cutaneous manifestations of lupus in systemic lupus erythematosus](https://www.biorxiv.org/content/10.1101/2025.04.27.649460v1?rss=1) / 04月30日 08:00
+- [Diverse Genomic Landscape of Swine Influenza A Virus in England (2014 - 2021)](https://www.biorxiv.org/content/10.1101/2025.04.28.650978v1?rss=1) / 04月30日 08:00
+- [Comparative Virome Profiling and Discovery of Novel Viruses in Managed and Wild Bees using RNA-seq](https://www.biorxiv.org/content/10.1101/2025.04.27.650873v1?rss=1) / 04月30日 08:00
+- [The Australian LINEAGE Study: advancing and implementing international guidance on genomic data within local governance frameworks](https://www.nature.com/articles/s41525-025-00492-6) / 04月30日 08:00
+- [Indigenous American tribe’s ancestral history confirmed by genomes](https://www.nature.com/articles/d41586-025-01304-8) / 04月30日 08:00
+- [Picuris Pueblo oral history and genomics reveal continuity in US Southwest](https://www.nature.com/articles/s41586-025-08791-9) / 04月30日 08:00
 - [Telomerase RNA gene duplications drive telomeric repeatdiversity and evolution in Andrena bees](https://www.biorxiv.org/content/10.1101/2025.04.29.651168v1?rss=1) / 04月29日 08:00
 - [Anchors for Homology-Based Scaffolding](https://www.biorxiv.org/content/10.1101/2025.04.28.650980v1?rss=1) / 04月29日 08:00
 - [Identification of the Best Filter-based Feature Selection Techniques for Microarray Datasets](https://www.biorxiv.org/content/10.1101/2025.04.25.650719v1?rss=1) / 04月29日 08:00
@@ -58,9 +59,4 @@
 - [Demographic history explains mitochondrial genome capture and mitonuclear discordance among South American collared Tropidurus	 lizards](https://www.biorxiv.org/content/10.1101/2025.04.25.650633v1?rss=1) / 04月29日 08:00
 - [Passive and active demethylation in immune diseases with proliferation driving global hypomethylation](https://www.biorxiv.org/content/10.1101/2025.04.25.650620v1?rss=1) / 04月29日 08:00
 - [Single nucleotide polymorphisms and structural variants reveal complex and variable ploidy in the amoebozoan Acanthamoeba castellanii](https://www.biorxiv.org/content/10.1101/2025.04.25.650682v1?rss=1) / 04月29日 08:00
-- [Chip (Ldb1) is a new cofactor of Zelda forming a functional bridge to CBP during zygotic genome activation](https://www.biorxiv.org/content/10.1101/2025.04.24.650404v1?rss=1) / 04月29日 08:00
-- [Manual validation finds only ultra-long long-read sequencing enables faithful, population-level structural variant calling in Drosophila melanogaster euchromatin](https://www.biorxiv.org/content/10.1101/2025.04.21.649852v1?rss=1) / 04月29日 08:00
-- [HaploExplore, first software specifically designed for the detection of minor allele (MiA-) Haploblocks](https://www.biorxiv.org/content/10.1101/2025.04.23.650206v1?rss=1) / 04月29日 08:00
-- [Single-molecule multimodal timing of in vivo mRNA synthesis](https://www.biorxiv.org/content/10.1101/2025.04.27.650906v1?rss=1) / 04月29日 08:00
-- [Cell classification should be based on more than just DNA](https://www.nature.com/articles/d41586-025-01329-z) / 04月29日 08:00
 <!--rss-papers:end-->
