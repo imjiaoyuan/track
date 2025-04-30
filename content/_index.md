@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月01日 02:25**
-- 今天周四，白天☁️阴(16°~31°)，空气轻度污染(118)
+**四川省/成都/成都 2025年05月01日 04:19**
+- 今天周四，白天☁️阴(15°~31°)，空气轻度污染(118)
 - 明天周五，白天☁️阴(19°~31°)，空气轻度污染(120)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月01日 02:25**
+**四川省/宜宾/宜宾 2025年05月01日 04:19**
 - 今天周四，白天☁️阴(17°~31°)，空气良(92)
 - 明天周五，白天☁️阴(20°~32°)，空气轻度污染(101)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -21,6 +21,7 @@
 - [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 04月30日 02:15
 - [熊猫，走起](https://www.xiangshitan.com/post/3399.html) / 04月29日 23:06
 - [打工记（五）](https://yukieyun.net/roam/gravedigger-of-capitalism-05/) / 04月29日 07:48
+- [暗盒 01](https://ameow.xyz/archives/film-roll-01) / 04月28日 23:57
 - [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) / 04月28日 10:22
 - [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) / 04月28日 08:00
 - [情绪记录](https://www.skyue.com/25042723.html) / 04月27日 23:07
@@ -33,12 +34,15 @@
 - [学习周刊-总第208期-2025年第17周](https://wiki.eryajf.net/pages/f8507e/) / 04月25日 04:51
 - [PCA and CCA for single-cell annotation](https://divingintogeneticsandgenomics.com/talk/2025-pythia-cell-anno/) / 04月24日 19:00
 - [我若浮云自在游: 湖区和 Tripsy](https://anotherdayu.com/2025/6723/) / 04月24日 03:45
-- [Of Studies](https://imzm.im/of-studies/) / 04月23日 14:32
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [SGCRNA: Spectral Clustering-Guided Co-Expression Network Analysis Without Scale-Free Constraints for Multi-Omic Data](https://www.biorxiv.org/content/10.1101/2025.04.27.650628v1?rss=1) / 04月30日 08:00
+- [Genome-wide identification and expression analysis of CDPK proteins in agarwood-producing Aquilaria agallocha trees](https://www.biorxiv.org/content/10.1101/2025.04.27.650281v1?rss=1) / 04月30日 08:00
+- [TransAgent: Dynamizing Transcriptional Regulation Analysis via Multi-omics-Aware AI Agent](https://www.biorxiv.org/content/10.1101/2025.04.27.650826v1?rss=1) / 04月30日 08:00
+- [SCRIPT: predicting single-cell long-range cis-regulation based on pretrained graph attention networks](https://www.biorxiv.org/content/10.1101/2025.04.27.650894v1?rss=1) / 04月30日 08:00
 - [Investigating the prognostic value of KCNN4 gene expression in human pancreatic adenocarcinoma by bioinformatic analysis](https://www.biorxiv.org/content/10.1101/2025.04.26.650766v1?rss=1) / 04月30日 08:00
 - [Singe cell RNA sequencing data processing using cloud-based serverless computing](https://www.biorxiv.org/content/10.1101/2025.04.26.650787v1?rss=1) / 04月30日 08:00
 - [On learning functions over biological sequence space: relating Gaussian process priors, regularization, and gauge fixing](https://www.biorxiv.org/content/10.1101/2025.04.26.650699v1?rss=1) / 04月30日 08:00
@@ -55,8 +59,4 @@
 - [Telomerase RNA gene duplications drive telomeric repeatdiversity and evolution in Andrena bees](https://www.biorxiv.org/content/10.1101/2025.04.29.651168v1?rss=1) / 04月29日 08:00
 - [Anchors for Homology-Based Scaffolding](https://www.biorxiv.org/content/10.1101/2025.04.28.650980v1?rss=1) / 04月29日 08:00
 - [Identification of the Best Filter-based Feature Selection Techniques for Microarray Datasets](https://www.biorxiv.org/content/10.1101/2025.04.25.650719v1?rss=1) / 04月29日 08:00
-- [Genomic comparison of highly related pairs of E. coli and K. pneumoniae isolated from faeces and blood of the same neonatal patients hospitalized with fever in Dar es Salaam, Tanzania](https://www.biorxiv.org/content/10.1101/2025.04.28.650962v1?rss=1) / 04月29日 08:00
-- [MYC and AP-1 oncogenes synergistically bind enhancers to rewire transcription](https://www.biorxiv.org/content/10.1101/2025.04.28.650480v1?rss=1) / 04月29日 08:00
-- [Discovery of a tRNA-regulatory transcription factor that suppresses breast cancer metastasis](https://www.biorxiv.org/content/10.1101/2025.04.26.650725v1?rss=1) / 04月29日 08:00
-- [Extrachromosomal DNA Gives Cancer a New Evolutionary Pathway](https://www.biorxiv.org/content/10.1101/2025.04.26.650733v1?rss=1) / 04月29日 08:00
 <!--rss-papers:end-->
