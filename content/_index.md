@@ -1,27 +1,27 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年04月30日 06:17**
-- 今天周三，白天🌤️多云(14°~29°)，空气良(100)
-- 明天周四，白天🌤️多云(17°~32°)，空气轻度污染(110)
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**四川省/成都/成都 2025年04月30日 09:24**
+- 今天周三，白天🌤️多云(16°~29°)，空气轻度污染(104)，夜间阴
+- 明天周四，白天☁️阴(16°~33°)，空气轻度污染(113)
+- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年04月30日 06:17**
-- 今天周三，白天☁️阴(16°~27°)，空气良(66)
-- 明天周四，白天☁️阴(16°~30°)，空气良(92)
+**四川省/宜宾/宜宾 2025年04月30日 09:24**
+- 今天周三，白天☁️阴(16°~27°)，空气良(73)
+- 明天周四，白天☁️阴(16°~30°)，空气良(99)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [真正的自信，是什么样子的？](http://m.wufazhuce.com/question/4355) / 06:25
+- [有些人你永远不必等](http://m.wufazhuce.com/article/6775) / 06:25
+- [VOL.4589](http://m.wufazhuce.com/one/4740) / 06:25
 - [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 02:15
 
 **历史记录**
 - [熊猫，走起](https://www.xiangshitan.com/post/3399.html) / 04月29日 23:06
 - [打工记（五）](https://yukieyun.net/roam/gravedigger-of-capitalism-05/) / 04月29日 07:48
-- [享受生活VS存钱，哪个更重要？](http://m.wufazhuce.com/question/4350) / 04月29日 06:25
-- [我们没有人是真正相信爱情的](http://m.wufazhuce.com/article/6779) / 04月29日 06:25
-- [VOL.4588](http://m.wufazhuce.com/one/4739) / 04月29日 06:25
 - [暗盒 01](https://ameow.xyz/archives/film-roll-01) / 04月28日 23:57
 - [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) / 04月28日 10:22
 - [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) / 04月28日 08:00
@@ -44,6 +44,8 @@
 - [Telomerase RNA gene duplications drive telomeric repeatdiversity and evolution in Andrena bees](https://www.biorxiv.org/content/10.1101/2025.04.29.651168v1?rss=1) / 04月29日 08:00
 - [Anchors for Homology-Based Scaffolding](https://www.biorxiv.org/content/10.1101/2025.04.28.650980v1?rss=1) / 04月29日 08:00
 - [Identification of the Best Filter-based Feature Selection Techniques for Microarray Datasets](https://www.biorxiv.org/content/10.1101/2025.04.25.650719v1?rss=1) / 04月29日 08:00
+- [Discovery of a tRNA-regulatory transcription factor that suppresses breast cancer metastasis](https://www.biorxiv.org/content/10.1101/2025.04.26.650725v1?rss=1) / 04月29日 08:00
+- [Extrachromosomal DNA Gives Cancer a New Evolutionary Pathway](https://www.biorxiv.org/content/10.1101/2025.04.26.650733v1?rss=1) / 04月29日 08:00
 - [Demographic history explains mitochondrial genome capture and mitonuclear discordance among South American collared Tropidurus	 lizards](https://www.biorxiv.org/content/10.1101/2025.04.25.650633v1?rss=1) / 04月29日 08:00
 - [Passive and active demethylation in immune diseases with proliferation driving global hypomethylation](https://www.biorxiv.org/content/10.1101/2025.04.25.650620v1?rss=1) / 04月29日 08:00
 - [Single nucleotide polymorphisms and structural variants reveal complex and variable ploidy in the amoebozoan Acanthamoeba castellanii](https://www.biorxiv.org/content/10.1101/2025.04.25.650682v1?rss=1) / 04月29日 08:00
@@ -59,6 +61,4 @@
 - [Maximum lifespan and brain size in mammals are associated with gene family size expansion related to immune system functions](https://www.nature.com/articles/s41598-025-98786-3) / 04月29日 08:00
 - [Learning copy number dependent variation in single tumour cell transcriptomes with deep generative models](https://www.biorxiv.org/content/10.1101/2025.04.21.649842v1?rss=1) / 04月28日 08:00
 - [SPAED: Harnessing AlphaFold Output for Accurate Segmentation of Phage Endolysin Domains](https://www.biorxiv.org/content/10.1101/2025.04.25.650745v1?rss=1) / 04月28日 08:00
-- [OrfViralScan 3.0: An intuitive tool for the identification and tracking of open reading frames in viral genomes](https://www.biorxiv.org/content/10.1101/2025.04.26.650794v1?rss=1) / 04月28日 08:00
-- [Assessment of Reported Error Rates in Crosslinking Mass Spectrometry](https://www.biorxiv.org/content/10.1101/2025.04.27.649519v1?rss=1) / 04月28日 08:00
 <!--rss-papers:end-->
