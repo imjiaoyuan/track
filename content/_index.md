@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月01日 09:40**
-- 今天周四，白天🌤️多云(16°~33°)，空气轻度污染(117)，夜间阴
-- 明天周五，白天🌤️多云(17°~32°)，空气轻度污染(124)，夜间阴
+**四川省/成都/成都 2025年05月01日 11:15**
+- 今天周四，白天🌤️多云(16°~33°)，空气轻度污染(119)，夜间阴
+- 明天周五，白天🌤️多云(17°~32°)，空气轻度污染(129)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月01日 09:40**
+**四川省/宜宾/宜宾 2025年05月01日 11:15**
 - 今天周四，白天☁️阴(18°~32°)，空气良(91)
-- 明天周五，白天☁️阴(20°~32°)，空气轻度污染(105)
+- 明天周五，白天☁️阴(20°~32°)，空气轻度污染(106)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -40,7 +40,11 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [PPARγ promotes urothelial remodeling during urinary tract obstruction](https://www.nature.com/articles/s12276-025-01441-0) / 08:00
+
 **历史记录**
+- [RECUR: Identifying recurrent amino acid substitutions from multiple sequence alignments](https://www.biorxiv.org/content/10.1101/2025.04.29.651261v1?rss=1) / 04月30日 08:00
 - [Small molecule bioactivity benchmarks are often well-predicted by counting cells](https://www.biorxiv.org/content/10.1101/2025.04.27.650853v1?rss=1) / 04月30日 08:00
 - [PepSeek: Universal Functional Peptide Discovery with Cooperation Between Specialized Deep Learning Models and Large Language Model](https://www.biorxiv.org/content/10.1101/2025.04.29.641945v1?rss=1) / 04月30日 08:00
 - [SGCRNA: Spectral Clustering-Guided Co-Expression Network Analysis Without Scale-Free Constraints for Multi-Omic Data](https://www.biorxiv.org/content/10.1101/2025.04.27.650628v1?rss=1) / 04月30日 08:00
@@ -59,6 +63,4 @@
 - [The Australian LINEAGE Study: advancing and implementing international guidance on genomic data within local governance frameworks](https://www.nature.com/articles/s41525-025-00492-6) / 04月30日 08:00
 - [Indigenous American tribe’s ancestral history confirmed by genomes](https://www.nature.com/articles/d41586-025-01304-8) / 04月30日 08:00
 - [Picuris Pueblo oral history and genomics reveal continuity in US Southwest](https://www.nature.com/articles/s41586-025-08791-9) / 04月30日 08:00
-- [Independent domestication and cultivation histories of two West African indigenous fonio millet crops](https://www.nature.com/articles/s41467-025-59454-2) / 04月30日 08:00
-- [Telomerase RNA gene duplications drive telomeric repeatdiversity and evolution in Andrena bees](https://www.biorxiv.org/content/10.1101/2025.04.29.651168v1?rss=1) / 04月29日 08:00
 <!--rss-papers:end-->
