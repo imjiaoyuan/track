@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月02日 02:25**
+**四川省/成都/成都 2025年05月02日 04:18**
 - 今天周五，白天☁️阴(19°~31°)，空气轻度污染(125)
 - 明天周六，白天🌧️小雨(17°~28°)，空气轻度污染(111)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月02日 02:25**
+**四川省/宜宾/宜宾 2025年05月02日 04:18**
 - 今天周五，白天☁️阴(20°~33°)，空气轻度污染(102)，夜间小雨
 - 明天周六，白天🌧️小雨(19°~28°)，空气良(84)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -39,6 +39,10 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [ScIsoX: A Multidimensional Framework for Measuring Transcriptomic Complexity in Single-Cell Long-Read Sequencing Data](https://www.biorxiv.org/content/10.1101/2025.04.28.650897v1?rss=1) / 05月01日 08:00
+- [Precision Through Frequency-Aware Prioritization: Introducing the Bouziane Similarity Index (BSI) for Rare Variants.](https://www.biorxiv.org/content/10.1101/2025.04.28.651048v1?rss=1) / 05月01日 08:00
+- [LipidCruncher: An open-source web application for processing, visualizing, and analyzing lipidomic data](https://www.biorxiv.org/content/10.1101/2025.04.28.650893v1?rss=1) / 05月01日 08:00
+- [Cellpose-SAM: superhuman generalization for cellular segmentation](https://www.biorxiv.org/content/10.1101/2025.04.28.651001v1?rss=1) / 05月01日 08:00
 - [SquiDBase: a community resource of raw nanopore data from microbes](https://www.biorxiv.org/content/10.1101/2025.04.28.650941v1?rss=1) / 05月01日 08:00
 - [Variant Classification Using Proteomics-Informed Large Language Models Increases Power of Rare Variant Association Studies and Enhances Target Discovery](https://www.biorxiv.org/content/10.1101/2025.04.28.650692v1?rss=1) / 05月01日 08:00
 - [Prediction of Antibody Non-Specificity using Protein Language Models and Biophysical Parameters](https://www.biorxiv.org/content/10.1101/2025.04.28.650927v1?rss=1) / 05月01日 08:00
@@ -55,8 +59,4 @@
 - [RECUR: Identifying recurrent amino acid substitutions from multiple sequence alignments](https://www.biorxiv.org/content/10.1101/2025.04.29.651261v1?rss=1) / 04月30日 08:00
 - [Small molecule bioactivity benchmarks are often well-predicted by counting cells](https://www.biorxiv.org/content/10.1101/2025.04.27.650853v1?rss=1) / 04月30日 08:00
 - [PepSeek: Universal Functional Peptide Discovery with Cooperation Between Specialized Deep Learning Models and Large Language Model](https://www.biorxiv.org/content/10.1101/2025.04.29.641945v1?rss=1) / 04月30日 08:00
-- [SGCRNA: Spectral Clustering-Guided Co-Expression Network Analysis Without Scale-Free Constraints for Multi-Omic Data](https://www.biorxiv.org/content/10.1101/2025.04.27.650628v1?rss=1) / 04月30日 08:00
-- [Genome-wide identification and expression analysis of CDPK proteins in agarwood-producing Aquilaria agallocha trees](https://www.biorxiv.org/content/10.1101/2025.04.27.650281v1?rss=1) / 04月30日 08:00
-- [TransAgent: Dynamizing Transcriptional Regulation Analysis via Multi-omics-Aware AI Agent](https://www.biorxiv.org/content/10.1101/2025.04.27.650826v1?rss=1) / 04月30日 08:00
-- [SCRIPT: predicting single-cell long-range cis-regulation based on pretrained graph attention networks](https://www.biorxiv.org/content/10.1101/2025.04.27.650894v1?rss=1) / 04月30日 08:00
 <!--rss-papers:end-->
