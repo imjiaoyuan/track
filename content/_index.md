@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月01日 11:15**
-- 今天周四，白天🌤️多云(16°~33°)，空气轻度污染(119)，夜间阴
-- 明天周五，白天🌤️多云(17°~32°)，空气轻度污染(129)，夜间阴
+**四川省/成都/成都 2025年05月01日 12:23**
+- 今天周四，白天🌤️多云(16°~33°)，空气轻度污染(112)，夜间阴
+- 明天周五，白天🌤️多云(17°~32°)，空气轻度污染(127)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月01日 11:15**
-- 今天周四，白天☁️阴(18°~32°)，空气良(91)
-- 明天周五，白天☁️阴(20°~32°)，空气轻度污染(106)
+**四川省/宜宾/宜宾 2025年05月01日 12:23**
+- 今天周四，白天☁️阴(18°~32°)，空气良(99)
+- 明天周五，白天☁️阴(20°~32°)，空气轻度污染(102)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -40,9 +40,6 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [PPARγ promotes urothelial remodeling during urinary tract obstruction](https://www.nature.com/articles/s12276-025-01441-0) / 08:00
-
 **历史记录**
 - [RECUR: Identifying recurrent amino acid substitutions from multiple sequence alignments](https://www.biorxiv.org/content/10.1101/2025.04.29.651261v1?rss=1) / 04月30日 08:00
 - [Small molecule bioactivity benchmarks are often well-predicted by counting cells](https://www.biorxiv.org/content/10.1101/2025.04.27.650853v1?rss=1) / 04月30日 08:00
@@ -56,11 +53,12 @@
 - [On learning functions over biological sequence space: relating Gaussian process priors, regularization, and gauge fixing](https://www.biorxiv.org/content/10.1101/2025.04.26.650699v1?rss=1) / 04月30日 08:00
 - [Robust Prediction of Multiple Protein Conformations with Entropy Guidance](https://www.biorxiv.org/content/10.1101/2025.04.26.650728v1?rss=1) / 04月30日 08:00
 - [Transcriptomic analysis reveals immune signatures associated with specific cutaneous manifestations of lupus in systemic lupus erythematosus](https://www.biorxiv.org/content/10.1101/2025.04.27.649460v1?rss=1) / 04月30日 08:00
+- [RNase H1 levels dramatically affect mitochondrial genome maintenance with little impact on nuclear R-loops in murine B cells](https://www.biorxiv.org/content/10.1101/2025.04.30.651504v1?rss=1) / 04月30日 08:00
+- [Dissecting regulatory syntax in human development with scalable multiomics and deep learning](https://www.biorxiv.org/content/10.1101/2025.04.30.651381v1?rss=1) / 04月30日 08:00
 - [Diverse Genomic Landscape of Swine Influenza A Virus in England (2014 - 2021)](https://www.biorxiv.org/content/10.1101/2025.04.28.650978v1?rss=1) / 04月30日 08:00
 - [Comparative Virome Profiling and Discovery of Novel Viruses in Managed and Wild Bees using RNA-seq](https://www.biorxiv.org/content/10.1101/2025.04.27.650873v1?rss=1) / 04月30日 08:00
 - [Chromosome-level genome assembly of the small yellow croaker, Larimichthys polyactis (Perciformes: Sciaenidae)](https://www.nature.com/articles/s41597-025-05072-y) / 04月30日 08:00
 - [Native American tribe teams up with genomicists to confirm link to iconic ancient site](https://www.nature.com/articles/d41586-025-01362-y) / 04月30日 08:00
 - [The Australian LINEAGE Study: advancing and implementing international guidance on genomic data within local governance frameworks](https://www.nature.com/articles/s41525-025-00492-6) / 04月30日 08:00
 - [Indigenous American tribe’s ancestral history confirmed by genomes](https://www.nature.com/articles/d41586-025-01304-8) / 04月30日 08:00
-- [Picuris Pueblo oral history and genomics reveal continuity in US Southwest](https://www.nature.com/articles/s41586-025-08791-9) / 04月30日 08:00
 <!--rss-papers:end-->
