@@ -1,12 +1,12 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月01日 18:19**
+**四川省/成都/成都 2025年05月01日 20:35**
 - 今天周四，白天🌤️多云(16°~33°)，空气轻度污染(114)，夜间阴
 - 明天周五，白天☁️阴(19°~31°)，空气轻度污染(128)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月01日 18:19**
-- 今天周四，白天☁️阴(18°~34°)，空气良(92)
+**四川省/宜宾/宜宾 2025年05月01日 20:35**
+- 今天周四，白天☁️阴(18°~32°)，空气良(92)
 - 明天周五，白天☁️阴(20°~33°)，空气良(99)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
@@ -40,6 +40,11 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [An image analysis pipeline to quantify the spatial distribution of cell markers in stroma-rich tumors](https://www.biorxiv.org/content/10.1101/2025.04.28.650414v1?rss=1) / 08:00
+- [Sex-differentiated placental methylation and gene expression regulation has implications for neonatal traits and adult diseases](https://www.nature.com/articles/s41467-025-58128-3) / 08:00
+- [PPARγ promotes urothelial remodeling during urinary tract obstruction](https://www.nature.com/articles/s12276-025-01441-0) / 08:00
+
 **历史记录**
 - [RECUR: Identifying recurrent amino acid substitutions from multiple sequence alignments](https://www.biorxiv.org/content/10.1101/2025.04.29.651261v1?rss=1) / 04月30日 08:00
 - [Small molecule bioactivity benchmarks are often well-predicted by counting cells](https://www.biorxiv.org/content/10.1101/2025.04.27.650853v1?rss=1) / 04月30日 08:00
@@ -58,7 +63,4 @@
 - [Dissecting regulatory syntax in human development with scalable multiomics and deep learning](https://www.biorxiv.org/content/10.1101/2025.04.30.651381v1?rss=1) / 04月30日 08:00
 - [Diverse Genomic Landscape of Swine Influenza A Virus in England (2014 - 2021)](https://www.biorxiv.org/content/10.1101/2025.04.28.650978v1?rss=1) / 04月30日 08:00
 - [Comparative Virome Profiling and Discovery of Novel Viruses in Managed and Wild Bees using RNA-seq](https://www.biorxiv.org/content/10.1101/2025.04.27.650873v1?rss=1) / 04月30日 08:00
-- [Chromosome-level genome assembly of the small yellow croaker, Larimichthys polyactis (Perciformes: Sciaenidae)](https://www.nature.com/articles/s41597-025-05072-y) / 04月30日 08:00
-- [Native American tribe teams up with genomicists to confirm link to iconic ancient site](https://www.nature.com/articles/d41586-025-01362-y) / 04月30日 08:00
-- [The Australian LINEAGE Study: advancing and implementing international guidance on genomic data within local governance frameworks](https://www.nature.com/articles/s41525-025-00492-6) / 04月30日 08:00
 <!--rss-papers:end-->
