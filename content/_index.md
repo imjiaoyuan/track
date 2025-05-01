@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月01日 12:23**
+**四川省/成都/成都 2025年05月01日 14:27**
 - 今天周四，白天🌤️多云(16°~33°)，空气轻度污染(112)，夜间阴
 - 明天周五，白天🌤️多云(17°~32°)，空气轻度污染(127)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月01日 12:23**
+**四川省/宜宾/宜宾 2025年05月01日 14:27**
 - 今天周四，白天☁️阴(18°~32°)，空气良(99)
 - 明天周五，白天☁️阴(20°~32°)，空气轻度污染(102)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -14,6 +14,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 12:26
 - [如何理解“阶段性陪伴”的友情？](http://m.wufazhuce.com/question/4351) / 06:25
 - [月食](http://m.wufazhuce.com/article/6777) / 06:25
 - [VOL.4590](http://m.wufazhuce.com/one/4741) / 06:25
@@ -35,7 +36,6 @@
 - [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) / 04月25日 08:09
 - [学习周刊-总第208期-2025年第17周](https://wiki.eryajf.net/pages/f8507e/) / 04月25日 04:51
 - [PCA and CCA for single-cell annotation](https://divingintogeneticsandgenomics.com/talk/2025-pythia-cell-anno/) / 04月24日 19:00
-- [我若浮云自在游: 湖区和 Tripsy](https://anotherdayu.com/2025/6723/) / 04月24日 03:45
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -53,6 +53,7 @@
 - [On learning functions over biological sequence space: relating Gaussian process priors, regularization, and gauge fixing](https://www.biorxiv.org/content/10.1101/2025.04.26.650699v1?rss=1) / 04月30日 08:00
 - [Robust Prediction of Multiple Protein Conformations with Entropy Guidance](https://www.biorxiv.org/content/10.1101/2025.04.26.650728v1?rss=1) / 04月30日 08:00
 - [Transcriptomic analysis reveals immune signatures associated with specific cutaneous manifestations of lupus in systemic lupus erythematosus](https://www.biorxiv.org/content/10.1101/2025.04.27.649460v1?rss=1) / 04月30日 08:00
+- [Best practices for improving alignment and variant calling on human sex chromosomes](https://www.biorxiv.org/content/10.1101/2025.04.29.651297v1?rss=1) / 04月30日 08:00
 - [RNase H1 levels dramatically affect mitochondrial genome maintenance with little impact on nuclear R-loops in murine B cells](https://www.biorxiv.org/content/10.1101/2025.04.30.651504v1?rss=1) / 04月30日 08:00
 - [Dissecting regulatory syntax in human development with scalable multiomics and deep learning](https://www.biorxiv.org/content/10.1101/2025.04.30.651381v1?rss=1) / 04月30日 08:00
 - [Diverse Genomic Landscape of Swine Influenza A Virus in England (2014 - 2021)](https://www.biorxiv.org/content/10.1101/2025.04.28.650978v1?rss=1) / 04月30日 08:00
@@ -60,5 +61,4 @@
 - [Chromosome-level genome assembly of the small yellow croaker, Larimichthys polyactis (Perciformes: Sciaenidae)](https://www.nature.com/articles/s41597-025-05072-y) / 04月30日 08:00
 - [Native American tribe teams up with genomicists to confirm link to iconic ancient site](https://www.nature.com/articles/d41586-025-01362-y) / 04月30日 08:00
 - [The Australian LINEAGE Study: advancing and implementing international guidance on genomic data within local governance frameworks](https://www.nature.com/articles/s41525-025-00492-6) / 04月30日 08:00
-- [Indigenous American tribe’s ancestral history confirmed by genomes](https://www.nature.com/articles/d41586-025-01304-8) / 04月30日 08:00
 <!--rss-papers:end-->
