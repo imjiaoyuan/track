@@ -1,25 +1,23 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月01日 22:16**
-- 今天周四，白天🌤️多云(16°~33°)，空气轻度污染(112)，夜间阴
-- 明天周五，白天☁️阴(19°~31°)，空气轻度污染(124)
+**四川省/成都/成都 2025年05月02日 00:22**
+- 今天周五，白天☁️阴(19°~31°)，空气轻度污染(125)
+- 明天周六，白天🌧️小雨(17°~28°)，空气轻度污染(111)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月01日 22:16**
-- 今天周四，白天☁️阴(18°~32°)，空气良(96)
-- 明天周五，白天☁️阴(20°~33°)，空气轻度污染(104)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月02日 00:22**
+- 今天周五，白天☁️阴(20°~33°)，空气轻度污染(102)，夜间小雨
+- 明天周六，白天🌧️小雨(19°~28°)，空气良(84)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 12:26
-- [如何理解“阶段性陪伴”的友情？](http://m.wufazhuce.com/question/4351) / 06:25
-- [月食](http://m.wufazhuce.com/article/6777) / 06:25
-- [VOL.4590](http://m.wufazhuce.com/one/4741) / 06:25
-
 **历史记录**
+- [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 05月01日 12:26
+- [如何理解“阶段性陪伴”的友情？](http://m.wufazhuce.com/question/4351) / 05月01日 06:25
+- [月食](http://m.wufazhuce.com/article/6777) / 05月01日 06:25
+- [VOL.4590](http://m.wufazhuce.com/one/4741) / 05月01日 06:25
 - [柏林和布拉格](https://www.skyue.com/25043013.html) / 04月30日 13:54
 - [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 04月30日 02:15
 - [熊猫，走起](https://www.xiangshitan.com/post/3399.html) / 04月29日 23:06
@@ -40,17 +38,14 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Fast and Accurate Peptide - MHC Structure Prediction via an Equivariant Diffusion Model](https://www.biorxiv.org/content/10.1101/2025.04.28.650973v1?rss=1) / 08:00
-- [An image analysis pipeline to quantify the spatial distribution of cell markers in stroma-rich tumors](https://www.biorxiv.org/content/10.1101/2025.04.28.650414v1?rss=1) / 08:00
-- [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes](https://www.biorxiv.org/content/10.1101/2025.04.29.651274v1?rss=1) / 08:00
-- [Small pangenome of Candida parapsilosis reflects overall low intraspecific diversity](https://www.biorxiv.org/content/10.1101/2025.04.30.651475v1?rss=1) / 08:00
-- [Clade-wide proteome analysis shows widespread non-canonical Dcr proteins in fungi.](https://www.biorxiv.org/content/10.1101/2025.04.28.651110v1?rss=1) / 08:00
-- [Characterization and Genomic Analysis of vB_CoeS_P1, the First Vibrio hepatarius Phage, and Definition of the New Family Estovirdae](https://www.biorxiv.org/content/10.1101/2025.04.29.651204v1?rss=1) / 08:00
-- [Sex-differentiated placental methylation and gene expression regulation has implications for neonatal traits and adult diseases](https://www.nature.com/articles/s41467-025-58128-3) / 08:00
-- [PPARγ promotes urothelial remodeling during urinary tract obstruction](https://www.nature.com/articles/s12276-025-01441-0) / 08:00
-
 **历史记录**
+- [Fast and Accurate Peptide - MHC Structure Prediction via an Equivariant Diffusion Model](https://www.biorxiv.org/content/10.1101/2025.04.28.650973v1?rss=1) / 05月01日 08:00
+- [An image analysis pipeline to quantify the spatial distribution of cell markers in stroma-rich tumors](https://www.biorxiv.org/content/10.1101/2025.04.28.650414v1?rss=1) / 05月01日 08:00
+- [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes](https://www.biorxiv.org/content/10.1101/2025.04.29.651274v1?rss=1) / 05月01日 08:00
+- [Small pangenome of Candida parapsilosis reflects overall low intraspecific diversity](https://www.biorxiv.org/content/10.1101/2025.04.30.651475v1?rss=1) / 05月01日 08:00
+- [Clade-wide proteome analysis shows widespread non-canonical Dcr proteins in fungi.](https://www.biorxiv.org/content/10.1101/2025.04.28.651110v1?rss=1) / 05月01日 08:00
+- [Characterization and Genomic Analysis of vB_CoeS_P1, the First Vibrio hepatarius Phage, and Definition of the New Family Estovirdae](https://www.biorxiv.org/content/10.1101/2025.04.29.651204v1?rss=1) / 05月01日 08:00
+- [Sex-differentiated placental methylation and gene expression regulation has implications for neonatal traits and adult diseases](https://www.nature.com/articles/s41467-025-58128-3) / 05月01日 08:00
 - [RECUR: Identifying recurrent amino acid substitutions from multiple sequence alignments](https://www.biorxiv.org/content/10.1101/2025.04.29.651261v1?rss=1) / 04月30日 08:00
 - [Small molecule bioactivity benchmarks are often well-predicted by counting cells](https://www.biorxiv.org/content/10.1101/2025.04.27.650853v1?rss=1) / 04月30日 08:00
 - [PepSeek: Universal Functional Peptide Discovery with Cooperation Between Specialized Deep Learning Models and Large Language Model](https://www.biorxiv.org/content/10.1101/2025.04.29.641945v1?rss=1) / 04月30日 08:00
@@ -63,4 +58,5 @@
 - [On learning functions over biological sequence space: relating Gaussian process priors, regularization, and gauge fixing](https://www.biorxiv.org/content/10.1101/2025.04.26.650699v1?rss=1) / 04月30日 08:00
 - [Robust Prediction of Multiple Protein Conformations with Entropy Guidance](https://www.biorxiv.org/content/10.1101/2025.04.26.650728v1?rss=1) / 04月30日 08:00
 - [Transcriptomic analysis reveals immune signatures associated with specific cutaneous manifestations of lupus in systemic lupus erythematosus](https://www.biorxiv.org/content/10.1101/2025.04.27.649460v1?rss=1) / 04月30日 08:00
+- [Best practices for improving alignment and variant calling on human sex chromosomes](https://www.biorxiv.org/content/10.1101/2025.04.29.651297v1?rss=1) / 04月30日 08:00
 <!--rss-papers:end-->
