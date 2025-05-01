@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月02日 00:22**
+**四川省/成都/成都 2025年05月02日 02:25**
 - 今天周五，白天☁️阴(19°~31°)，空气轻度污染(125)
 - 明天周六，白天🌧️小雨(17°~28°)，空气轻度污染(111)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月02日 00:22**
+**四川省/宜宾/宜宾 2025年05月02日 02:25**
 - 今天周五，白天☁️阴(20°~33°)，空气轻度污染(102)，夜间小雨
 - 明天周六，白天🌧️小雨(19°~28°)，空气良(84)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -39,6 +39,11 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [SquiDBase: a community resource of raw nanopore data from microbes](https://www.biorxiv.org/content/10.1101/2025.04.28.650941v1?rss=1) / 05月01日 08:00
+- [Variant Classification Using Proteomics-Informed Large Language Models Increases Power of Rare Variant Association Studies and Enhances Target Discovery](https://www.biorxiv.org/content/10.1101/2025.04.28.650692v1?rss=1) / 05月01日 08:00
+- [Prediction of Antibody Non-Specificity using Protein Language Models and Biophysical Parameters](https://www.biorxiv.org/content/10.1101/2025.04.28.650927v1?rss=1) / 05月01日 08:00
+- [LC-Inspector: a simple open-source viewer for targeted hyphenated mass spectrometry analysis](https://www.biorxiv.org/content/10.1101/2025.04.28.650946v1?rss=1) / 05月01日 08:00
+- [EXPRESSION GRAPH NETWORK FRAMEWORK FOR BIOMARKERDISCOVERY](https://www.biorxiv.org/content/10.1101/2025.04.28.651033v1?rss=1) / 05月01日 08:00
 - [Fast and Accurate Peptide - MHC Structure Prediction via an Equivariant Diffusion Model](https://www.biorxiv.org/content/10.1101/2025.04.28.650973v1?rss=1) / 05月01日 08:00
 - [An image analysis pipeline to quantify the spatial distribution of cell markers in stroma-rich tumors](https://www.biorxiv.org/content/10.1101/2025.04.28.650414v1?rss=1) / 05月01日 08:00
 - [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes](https://www.biorxiv.org/content/10.1101/2025.04.29.651274v1?rss=1) / 05月01日 08:00
@@ -46,6 +51,7 @@
 - [Clade-wide proteome analysis shows widespread non-canonical Dcr proteins in fungi.](https://www.biorxiv.org/content/10.1101/2025.04.28.651110v1?rss=1) / 05月01日 08:00
 - [Characterization and Genomic Analysis of vB_CoeS_P1, the First Vibrio hepatarius Phage, and Definition of the New Family Estovirdae](https://www.biorxiv.org/content/10.1101/2025.04.29.651204v1?rss=1) / 05月01日 08:00
 - [Sex-differentiated placental methylation and gene expression regulation has implications for neonatal traits and adult diseases](https://www.nature.com/articles/s41467-025-58128-3) / 05月01日 08:00
+- [PPARγ promotes urothelial remodeling during urinary tract obstruction](https://www.nature.com/articles/s12276-025-01441-0) / 05月01日 08:00
 - [RECUR: Identifying recurrent amino acid substitutions from multiple sequence alignments](https://www.biorxiv.org/content/10.1101/2025.04.29.651261v1?rss=1) / 04月30日 08:00
 - [Small molecule bioactivity benchmarks are often well-predicted by counting cells](https://www.biorxiv.org/content/10.1101/2025.04.27.650853v1?rss=1) / 04月30日 08:00
 - [PepSeek: Universal Functional Peptide Discovery with Cooperation Between Specialized Deep Learning Models and Large Language Model](https://www.biorxiv.org/content/10.1101/2025.04.29.641945v1?rss=1) / 04月30日 08:00
@@ -53,10 +59,4 @@
 - [Genome-wide identification and expression analysis of CDPK proteins in agarwood-producing Aquilaria agallocha trees](https://www.biorxiv.org/content/10.1101/2025.04.27.650281v1?rss=1) / 04月30日 08:00
 - [TransAgent: Dynamizing Transcriptional Regulation Analysis via Multi-omics-Aware AI Agent](https://www.biorxiv.org/content/10.1101/2025.04.27.650826v1?rss=1) / 04月30日 08:00
 - [SCRIPT: predicting single-cell long-range cis-regulation based on pretrained graph attention networks](https://www.biorxiv.org/content/10.1101/2025.04.27.650894v1?rss=1) / 04月30日 08:00
-- [Investigating the prognostic value of KCNN4 gene expression in human pancreatic adenocarcinoma by bioinformatic analysis](https://www.biorxiv.org/content/10.1101/2025.04.26.650766v1?rss=1) / 04月30日 08:00
-- [Singe cell RNA sequencing data processing using cloud-based serverless computing](https://www.biorxiv.org/content/10.1101/2025.04.26.650787v1?rss=1) / 04月30日 08:00
-- [On learning functions over biological sequence space: relating Gaussian process priors, regularization, and gauge fixing](https://www.biorxiv.org/content/10.1101/2025.04.26.650699v1?rss=1) / 04月30日 08:00
-- [Robust Prediction of Multiple Protein Conformations with Entropy Guidance](https://www.biorxiv.org/content/10.1101/2025.04.26.650728v1?rss=1) / 04月30日 08:00
-- [Transcriptomic analysis reveals immune signatures associated with specific cutaneous manifestations of lupus in systemic lupus erythematosus](https://www.biorxiv.org/content/10.1101/2025.04.27.649460v1?rss=1) / 04月30日 08:00
-- [Best practices for improving alignment and variant calling on human sex chromosomes](https://www.biorxiv.org/content/10.1101/2025.04.29.651297v1?rss=1) / 04月30日 08:00
 <!--rss-papers:end-->
