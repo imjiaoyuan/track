@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月02日 04:18**
-- 今天周五，白天☁️阴(19°~31°)，空气轻度污染(125)
-- 明天周六，白天🌧️小雨(17°~28°)，空气轻度污染(111)
+**四川省/成都/成都 2025年05月02日 06:17**
+- 今天周五，白天🌤️多云(16°~30°)，空气轻度污染(125)，夜间小雨
+- 明天周六，白天🌤️多云(17°~28°)，空气轻度污染(111)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月02日 04:18**
-- 今天周五，白天☁️阴(20°~33°)，空气轻度污染(102)，夜间小雨
-- 明天周六，白天🌧️小雨(19°~28°)，空气良(84)，夜间阴
+**四川省/宜宾/宜宾 2025年05月02日 06:17**
+- 今天周五，白天☁️阴(18°~33°)，空气轻度污染(102)，夜间小雨
+- 明天周六，白天🌧️小雨(18°~29°)，空气良(84)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -39,6 +39,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [From Pairwise Distances to Neighborhood Preservation: Benchmarking Dimensionality Reduction Algorithms for CyTOF, scRNA-seq, and CITE-seq](https://www.biorxiv.org/content/10.1101/2025.04.28.651069v1?rss=1) / 05月01日 08:00
+- [iSHARC: Integrating scMultiome data for heterogeneity and regulatory analysis in cancer](https://www.biorxiv.org/content/10.1101/2025.04.28.651068v1?rss=1) / 05月01日 08:00
+- [OmiXAI: An Ensemble XAI Pipeline for Interpretable Deep Learning in Omics Data](https://www.biorxiv.org/content/10.1101/2025.04.28.651097v1?rss=1) / 05月01日 08:00
 - [ScIsoX: A Multidimensional Framework for Measuring Transcriptomic Complexity in Single-Cell Long-Read Sequencing Data](https://www.biorxiv.org/content/10.1101/2025.04.28.650897v1?rss=1) / 05月01日 08:00
 - [Precision Through Frequency-Aware Prioritization: Introducing the Bouziane Similarity Index (BSI) for Rare Variants.](https://www.biorxiv.org/content/10.1101/2025.04.28.651048v1?rss=1) / 05月01日 08:00
 - [LipidCruncher: An open-source web application for processing, visualizing, and analyzing lipidomic data](https://www.biorxiv.org/content/10.1101/2025.04.28.650893v1?rss=1) / 05月01日 08:00
@@ -50,13 +53,10 @@
 - [EXPRESSION GRAPH NETWORK FRAMEWORK FOR BIOMARKERDISCOVERY](https://www.biorxiv.org/content/10.1101/2025.04.28.651033v1?rss=1) / 05月01日 08:00
 - [Fast and Accurate Peptide - MHC Structure Prediction via an Equivariant Diffusion Model](https://www.biorxiv.org/content/10.1101/2025.04.28.650973v1?rss=1) / 05月01日 08:00
 - [An image analysis pipeline to quantify the spatial distribution of cell markers in stroma-rich tumors](https://www.biorxiv.org/content/10.1101/2025.04.28.650414v1?rss=1) / 05月01日 08:00
+- [The Consortium for Genomic Diversity, Ancestry, and Health in Colombia (CODIGO): building local capacity in genomics, bioinformatics, and precision medicine](https://www.biorxiv.org/content/10.1101/2025.04.28.651081v1?rss=1) / 05月01日 08:00
 - [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes](https://www.biorxiv.org/content/10.1101/2025.04.29.651274v1?rss=1) / 05月01日 08:00
 - [Small pangenome of Candida parapsilosis reflects overall low intraspecific diversity](https://www.biorxiv.org/content/10.1101/2025.04.30.651475v1?rss=1) / 05月01日 08:00
 - [Clade-wide proteome analysis shows widespread non-canonical Dcr proteins in fungi.](https://www.biorxiv.org/content/10.1101/2025.04.28.651110v1?rss=1) / 05月01日 08:00
 - [Characterization and Genomic Analysis of vB_CoeS_P1, the First Vibrio hepatarius Phage, and Definition of the New Family Estovirdae](https://www.biorxiv.org/content/10.1101/2025.04.29.651204v1?rss=1) / 05月01日 08:00
 - [Sex-differentiated placental methylation and gene expression regulation has implications for neonatal traits and adult diseases](https://www.nature.com/articles/s41467-025-58128-3) / 05月01日 08:00
-- [PPARγ promotes urothelial remodeling during urinary tract obstruction](https://www.nature.com/articles/s12276-025-01441-0) / 05月01日 08:00
-- [RECUR: Identifying recurrent amino acid substitutions from multiple sequence alignments](https://www.biorxiv.org/content/10.1101/2025.04.29.651261v1?rss=1) / 04月30日 08:00
-- [Small molecule bioactivity benchmarks are often well-predicted by counting cells](https://www.biorxiv.org/content/10.1101/2025.04.27.650853v1?rss=1) / 04月30日 08:00
-- [PepSeek: Universal Functional Peptide Discovery with Cooperation Between Specialized Deep Learning Models and Large Language Model](https://www.biorxiv.org/content/10.1101/2025.04.29.641945v1?rss=1) / 04月30日 08:00
 <!--rss-papers:end-->
