@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月03日 04:20**
-- 今天周六，白天☁️阴(18°~30°)，空气轻度污染(110)，夜间小雨
-- 明天周日，白天🌤️多云(18°~28°)，空气轻度污染(104)，夜间小雨
+**四川省/成都/成都 2025年05月03日 06:17**
+- 今天周六，白天☁️阴(18°~30°)，空气轻度污染(110)
+- 明天周日，白天🌤️多云(15°~28°)，空气轻度污染(104)，夜间阵雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月03日 04:20**
-- 今天周六，白天🌧️小雨(20°~32°)，空气良(84)，夜间阴
-- 明天周日，白天🌤️多云(18°~30°)，空气良(93)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月03日 06:17**
+- 今天周六，白天🌧️小雨(20°~30°)，空气良(84)
+- 明天周日，白天🌧️小雨(16°~31°)，空气良(93)，夜间中雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -39,6 +39,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [PhysDock: A Physics-Guided All-Atom Diffusion Model for Protein-Ligand Complex Prediction](https://www.biorxiv.org/content/10.1101/2025.04.28.650887v1?rss=1) / 05月02日 08:00
+- [Chromatix: a differentiable, GPU-accelerated wave-optics library](https://www.biorxiv.org/content/10.1101/2025.04.29.651152v1?rss=1) / 05月02日 08:00
 - [A Case-Based Explainable Graph Neural Network Framework for Mechanistic Drug Repositioning](https://www.biorxiv.org/content/10.1101/2025.04.28.651120v1?rss=1) / 05月02日 08:00
 - [Explainable deep learning for identifying cancer driver genes based on the Cancer Dependency Map](https://www.biorxiv.org/content/10.1101/2025.04.28.651122v1?rss=1) / 05月02日 08:00
 - [Molecular dissection of the genetic architecture of phenology underlying Lupinus hispanicus early flowering and adaptation to winter- or spring sowing](https://www.nature.com/articles/s41598-025-00096-1) / 05月02日 08:00
@@ -57,6 +59,4 @@
 - [SquiDBase: a community resource of raw nanopore data from microbes](https://www.biorxiv.org/content/10.1101/2025.04.28.650941v1?rss=1) / 05月01日 08:00
 - [Variant Classification Using Proteomics-Informed Large Language Models Increases Power of Rare Variant Association Studies and Enhances Target Discovery](https://www.biorxiv.org/content/10.1101/2025.04.28.650692v1?rss=1) / 05月01日 08:00
 - [Prediction of Antibody Non-Specificity using Protein Language Models and Biophysical Parameters](https://www.biorxiv.org/content/10.1101/2025.04.28.650927v1?rss=1) / 05月01日 08:00
-- [LC-Inspector: a simple open-source viewer for targeted hyphenated mass spectrometry analysis](https://www.biorxiv.org/content/10.1101/2025.04.28.650946v1?rss=1) / 05月01日 08:00
-- [EXPRESSION GRAPH NETWORK FRAMEWORK FOR BIOMARKERDISCOVERY](https://www.biorxiv.org/content/10.1101/2025.04.28.651033v1?rss=1) / 05月01日 08:00
 <!--rss-papers:end-->
