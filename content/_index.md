@@ -1,23 +1,26 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月02日 06:17**
-- 今天周五，白天🌤️多云(16°~30°)，空气轻度污染(125)，夜间小雨
-- 明天周六，白天🌤️多云(17°~28°)，空气轻度污染(111)
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**四川省/成都/成都 2025年05月02日 09:25**
+- 今天周五，白天🌤️多云(19°~30°)，空气轻度污染(127)，夜间小雨
+- 明天周六，白天🌤️多云(17°~28°)，空气轻度污染(115)
+- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月02日 06:17**
-- 今天周五，白天☁️阴(18°~33°)，空气轻度污染(102)，夜间小雨
-- 明天周六，白天🌧️小雨(18°~29°)，空气良(84)，夜间阴
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**四川省/宜宾/宜宾 2025年05月02日 09:25**
+- 今天周五，白天☁️阴(20°~33°)，空气良(99)，夜间小雨
+- 明天周六，白天🌧️小雨(18°~29°)，空气良(92)，夜间阴
+- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [活着，以观自在](https://www.xiangshitan.com/post/3400.html) / 08:29
+- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4357) / 06:25
+- [从灰烬里重新生长](http://m.wufazhuce.com/article/6780) / 06:25
+- [VOL.4591](http://m.wufazhuce.com/one/4742) / 06:25
+
 **历史记录**
 - [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 05月01日 12:26
-- [如何理解“阶段性陪伴”的友情？](http://m.wufazhuce.com/question/4351) / 05月01日 06:25
-- [月食](http://m.wufazhuce.com/article/6777) / 05月01日 06:25
-- [VOL.4590](http://m.wufazhuce.com/one/4741) / 05月01日 06:25
 - [柏林和布拉格](https://www.skyue.com/25043013.html) / 04月30日 13:54
 - [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 04月30日 02:15
 - [熊猫，走起](https://www.xiangshitan.com/post/3399.html) / 04月29日 23:06
@@ -33,7 +36,6 @@
 - [日本浮生录 ：一场跨越千年的樱花之旅](https://song.al/sakura) / 04月25日 11:54
 - [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) / 04月25日 08:09
 - [学习周刊-总第208期-2025年第17周](https://wiki.eryajf.net/pages/f8507e/) / 04月25日 04:51
-- [PCA and CCA for single-cell annotation](https://divingintogeneticsandgenomics.com/talk/2025-pythia-cell-anno/) / 04月24日 19:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
