@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月02日 20:35**
-- 今天周五，白天🌤️多云(18°~30°)，空气轻度污染(127)，夜间阴
-- 明天周六，白天☁️阴(18°~30°)，空气轻度污染(116)，夜间小雨
+**四川省/成都/成都 2025年05月02日 22:17**
+- 今天周五，白天🌤️多云(18°~30°)，空气轻度污染(124)，夜间阴
+- 明天周六，白天☁️阴(18°~30°)，空气轻度污染(118)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月02日 20:36**
-- 今天周五，白天☁️阴(21°~33°)，空气轻度污染(101)
-- 明天周六，白天🌧️小雨(20°~32°)，空气良(83)，夜间阴
+**四川省/宜宾/宜宾 2025年05月02日 22:17**
+- 今天周五，白天☁️阴(21°~33°)，空气良(96)
+- 明天周六，白天🌧️小雨(20°~32°)，空气良(87)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -42,6 +42,9 @@
 <!--rss-papers:start-->
 **今日更新**
 - [Molecular dissection of the genetic architecture of phenology underlying Lupinus hispanicus early flowering and adaptation to winter- or spring sowing](https://www.nature.com/articles/s41598-025-00096-1) / 08:00
+- [Multimodal sensor dataset for monitoring older adults post lower limb fractures in community settings](https://www.nature.com/articles/s41597-025-05069-7) / 08:00
+- [De novo non-canonical nanopore basecalling enables private communication using heavily-modified DNA data at single-molecule level](https://www.nature.com/articles/s41467-025-59357-2) / 08:00
+- [TIRE-seq simplifies transcriptomics via integrated RNA capture and library preparation](https://www.nature.com/articles/s41598-025-98282-8) / 08:00
 
 **历史记录**
 - [Integrative multi-omics modelling for cultivated meat production, quality, and safety](https://www.biorxiv.org/content/10.1101/2025.04.30.651459v1?rss=1) / 05月01日 08:00
@@ -60,7 +63,4 @@
 - [EXPRESSION GRAPH NETWORK FRAMEWORK FOR BIOMARKERDISCOVERY](https://www.biorxiv.org/content/10.1101/2025.04.28.651033v1?rss=1) / 05月01日 08:00
 - [Fast and Accurate Peptide - MHC Structure Prediction via an Equivariant Diffusion Model](https://www.biorxiv.org/content/10.1101/2025.04.28.650973v1?rss=1) / 05月01日 08:00
 - [An image analysis pipeline to quantify the spatial distribution of cell markers in stroma-rich tumors](https://www.biorxiv.org/content/10.1101/2025.04.28.650414v1?rss=1) / 05月01日 08:00
-- [The Consortium for Genomic Diversity, Ancestry, and Health in Colombia (CODIGO): building local capacity in genomics, bioinformatics, and precision medicine](https://www.biorxiv.org/content/10.1101/2025.04.28.651081v1?rss=1) / 05月01日 08:00
-- [Phylogenomic framework and virulence gene boundaries of emerging Shiga toxin producing Escherichia coli O118 informed by the comprehensive profiling of 359 O118 genomes](https://www.biorxiv.org/content/10.1101/2025.04.29.651274v1?rss=1) / 05月01日 08:00
-- [Small pangenome of Candida parapsilosis reflects overall low intraspecific diversity](https://www.biorxiv.org/content/10.1101/2025.04.30.651475v1?rss=1) / 05月01日 08:00
 <!--rss-papers:end-->
