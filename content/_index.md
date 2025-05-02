@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月02日 11:06**
-- 今天周五，白天🌤️多云(19°~30°)，空气轻度污染(123)，夜间小雨
-- 明天周六，白天🌤️多云(17°~28°)，空气轻度污染(113)
+**四川省/成都/成都 2025年05月02日 12:20**
+- 今天周五，白天🌤️多云(19°~30°)，空气轻度污染(120)，夜间小雨
+- 明天周六，白天🌤️多云(17°~28°)，空气轻度污染(117)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月02日 11:06**
-- 今天周五，白天☁️阴(20°~33°)，空气良(99)，夜间小雨
-- 明天周六，白天🌧️小雨(18°~29°)，空气良(91)，夜间阴
+**四川省/宜宾/宜宾 2025年05月02日 12:20**
+- 今天周五，白天☁️阴(20°~33°)，空气良(97)，夜间小雨
+- 明天周六，白天🌧️小雨(18°~29°)，空气良(89)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -40,6 +40,9 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Molecular dissection of the genetic architecture of phenology underlying Lupinus hispanicus early flowering and adaptation to winter- or spring sowing](https://www.nature.com/articles/s41598-025-00096-1) / 08:00
+
 **历史记录**
 - [From Pairwise Distances to Neighborhood Preservation: Benchmarking Dimensionality Reduction Algorithms for CyTOF, scRNA-seq, and CITE-seq](https://www.biorxiv.org/content/10.1101/2025.04.28.651069v1?rss=1) / 05月01日 08:00
 - [iSHARC: Integrating scMultiome data for heterogeneity and regulatory analysis in cancer](https://www.biorxiv.org/content/10.1101/2025.04.28.651068v1?rss=1) / 05月01日 08:00
@@ -60,5 +63,4 @@
 - [Small pangenome of Candida parapsilosis reflects overall low intraspecific diversity](https://www.biorxiv.org/content/10.1101/2025.04.30.651475v1?rss=1) / 05月01日 08:00
 - [Clade-wide proteome analysis shows widespread non-canonical Dcr proteins in fungi.](https://www.biorxiv.org/content/10.1101/2025.04.28.651110v1?rss=1) / 05月01日 08:00
 - [Characterization and Genomic Analysis of vB_CoeS_P1, the First Vibrio hepatarius Phage, and Definition of the New Family Estovirdae](https://www.biorxiv.org/content/10.1101/2025.04.29.651204v1?rss=1) / 05月01日 08:00
-- [Sex-differentiated placental methylation and gene expression regulation has implications for neonatal traits and adult diseases](https://www.nature.com/articles/s41467-025-58128-3) / 05月01日 08:00
 <!--rss-papers:end-->
