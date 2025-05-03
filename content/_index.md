@@ -1,29 +1,32 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月03日 06:17**
-- 今天周六，白天☁️阴(18°~30°)，空气轻度污染(110)
-- 明天周日，白天🌤️多云(15°~28°)，空气轻度污染(104)，夜间阵雨
+**四川省/成都/成都 2025年05月03日 09:22**
+- 今天周六，白天☁️阴(19°~30°)，空气轻度污染(113)
+- 明天周日，白天🌤️多云(18°~28°)，空气轻度污染(109)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月03日 06:17**
-- 今天周六，白天🌧️小雨(20°~30°)，空气良(84)
-- 明天周日，白天🌧️小雨(16°~31°)，空气良(93)，夜间中雨
-- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**四川省/宜宾/宜宾 2025年05月03日 09:22**
+- 今天周六，白天🌧️小雨(20°~30°)，空气良(86)
+- 明天周日，白天🌧️小雨(16°~31°)，空气良(92)，夜间中雨
+- 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [你收藏过哪些奇葩物品？](http://m.wufazhuce.com/question/4352) / 06:25
+- [郊游](http://m.wufazhuce.com/article/6778) / 06:25
+- [VOL.4592](http://m.wufazhuce.com/one/4716) / 06:25
+
 **历史记录**
 - [活着，以观自在](https://www.xiangshitan.com/post/3400.html) / 05月02日 08:29
-- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4357) / 05月02日 06:25
-- [从灰烬里重新生长](http://m.wufazhuce.com/article/6780) / 05月02日 06:25
-- [VOL.4591](http://m.wufazhuce.com/one/4742) / 05月02日 06:25
 - [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 05月01日 12:26
 - [柏林和布拉格](https://www.skyue.com/25043013.html) / 04月30日 13:54
 - [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 04月30日 02:15
 - [熊猫，走起](https://www.xiangshitan.com/post/3399.html) / 04月29日 23:06
 - [打工记（五）](https://yukieyun.net/roam/gravedigger-of-capitalism-05/) / 04月29日 07:48
 - [暗盒 01](https://ameow.xyz/archives/film-roll-01) / 04月28日 23:57
+- [使用 ChimeraX 绘制晶体结构小分子密度](https://xxu.do/posts/x-ray/Using-ChimeraX-to-plot-crystal-structure-small-molecule-density) / 04月28日 22:32
 - [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) / 04月28日 10:22
 - [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) / 04月28日 08:00
 - [情绪记录](https://www.skyue.com/25042723.html) / 04月27日 23:07
@@ -32,8 +35,7 @@
 - [一点点展开我的 macOS](https://anotherdayu.com/2025/6733/) / 04月26日 03:31
 - [花瓣里的火焰，转型中的鸣响](https://justgoidea.com/flames-in-petals-sounds-of-transformation/) / 04月25日 18:57
 - [日本浮生录 ：一场跨越千年的樱花之旅](https://song.al/sakura) / 04月25日 11:54
-- [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) / 04月25日 08:09
-- [学习周刊-总第208期-2025年第17周](https://wiki.eryajf.net/pages/f8507e/) / 04月25日 04:51
+- [得！以后谁也别想把手机带进会见区](https://xingbianren.cn/post/304.html) / 04月25日 11:05
 <!--rss-blogs:end-->
 ---
 # Research Papers
