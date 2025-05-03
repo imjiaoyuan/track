@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月03日 14:23**
-- 今天周六，白天☁️阴(19°~32°)，空气轻度污染(110)
-- 明天周日，白天🌤️多云(18°~28°)，空气良(100)，夜间小雨
+**四川省/成都/成都 2025年05月03日 16:21**
+- 今天周六，白天☁️阴(19°~30°)，空气轻度污染(110)
+- 明天周日，白天🌤️多云(18°~28°)，空气轻度污染(107)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月03日 14:23**
-- 今天周六，白天🌧️小雨(20°~31°)，空气良(84)
-- 明天周日，白天🌧️小雨(16°~31°)，空气良(85)，夜间中雨
+**四川省/宜宾/宜宾 2025年05月03日 16:21**
+- 今天周六，白天🌧️小雨(20°~33°)，空气良(85)
+- 明天周日，白天🌧️小雨(16°~31°)，空气良(78)，夜间中雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
@@ -42,6 +42,8 @@
 <!--rss-papers:start-->
 **今日更新**
 - [Comprehensive visceral transcriptome profiling of three pig breeds along altitudinal gradients in Yunnan](https://www.nature.com/articles/s41597-025-05070-0) / 08:00
+- [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 08:00
+- [The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature](https://www.nature.com/articles/s41598-025-99290-4) / 08:00
 
 **历史记录**
 - [PhysDock: A Physics-Guided All-Atom Diffusion Model for Protein-Ligand Complex Prediction](https://www.biorxiv.org/content/10.1101/2025.04.28.650887v1?rss=1) / 05月02日 08:00
@@ -61,6 +63,4 @@
 - [ScIsoX: A Multidimensional Framework for Measuring Transcriptomic Complexity in Single-Cell Long-Read Sequencing Data](https://www.biorxiv.org/content/10.1101/2025.04.28.650897v1?rss=1) / 05月01日 08:00
 - [Precision Through Frequency-Aware Prioritization: Introducing the Bouziane Similarity Index (BSI) for Rare Variants.](https://www.biorxiv.org/content/10.1101/2025.04.28.651048v1?rss=1) / 05月01日 08:00
 - [LipidCruncher: An open-source web application for processing, visualizing, and analyzing lipidomic data](https://www.biorxiv.org/content/10.1101/2025.04.28.650893v1?rss=1) / 05月01日 08:00
-- [Cellpose-SAM: superhuman generalization for cellular segmentation](https://www.biorxiv.org/content/10.1101/2025.04.28.651001v1?rss=1) / 05月01日 08:00
-- [SquiDBase: a community resource of raw nanopore data from microbes](https://www.biorxiv.org/content/10.1101/2025.04.28.650941v1?rss=1) / 05月01日 08:00
 <!--rss-papers:end-->
