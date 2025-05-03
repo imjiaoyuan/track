@@ -1,29 +1,28 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月03日 22:15**
-- 今天周六，白天☁️阴(19°~30°)，空气轻度污染(113)
-- 明天周日，白天🌧️小雨(17°~30°)，空气轻度污染(103)
+**四川省/成都/成都 2025年05月04日 00:20**
+- 今天周日，白天🌧️小雨(17°~30°)，空气轻度污染(109)
+- 明天周一，白天☁️阴(17°~29°)，空气良(76)，夜间小雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月03日 22:15**
-- 今天周六，白天🌧️小雨(20°~30°)，空气良(84)
-- 明天周日，白天🌧️小雨(16°~31°)，空气良(87)，夜间中雨
+**四川省/宜宾/宜宾 2025年05月04日 00:20**
+- 今天周日，白天🌧️小雨(16°~31°)，空气良(79)，夜间中雨
+- 明天周一，白天🌧️小雨(17°~26°)，空气良(73)，夜间中雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
-- [你收藏过哪些奇葩物品？](http://m.wufazhuce.com/question/4352) / 06:25
-- [郊游](http://m.wufazhuce.com/article/6778) / 06:25
-- [VOL.4592](http://m.wufazhuce.com/one/4716) / 06:25
+- [学习周刊-总第209期-2025年第18周](https://wiki.eryajf.net/pages/050366/) / 06:39
 
 **历史记录**
-- [活着，以观自在](https://www.xiangshitan.com/post/3400.html) / 05月02日 08:29
+- [你收藏过哪些奇葩物品？](http://m.wufazhuce.com/question/4352) / 05月03日 06:25
+- [郊游](http://m.wufazhuce.com/article/6778) / 05月03日 06:25
+- [VOL.4592](http://m.wufazhuce.com/one/4716) / 05月03日 06:25
 - [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 05月01日 12:26
 - [柏林和布拉格](https://www.skyue.com/25043013.html) / 04月30日 13:54
 - [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 04月30日 02:15
-- [熊猫，走起](https://www.xiangshitan.com/post/3399.html) / 04月29日 23:06
 - [打工记（五）](https://yukieyun.net/roam/gravedigger-of-capitalism-05/) / 04月29日 07:48
 - [暗盒 01](https://ameow.xyz/archives/film-roll-01) / 04月28日 23:57
 - [使用 ChimeraX 绘制晶体结构小分子密度](https://xxu.do/posts/x-ray/Using-ChimeraX-to-plot-crystal-structure-small-molecule-density) / 04月28日 22:32
@@ -36,19 +35,18 @@
 - [花瓣里的火焰，转型中的鸣响](https://justgoidea.com/flames-in-petals-sounds-of-transformation/) / 04月25日 18:57
 - [日本浮生录 ：一场跨越千年的樱花之旅](https://song.al/sakura) / 04月25日 11:54
 - [得！以后谁也别想把手机带进会见区](https://xingbianren.cn/post/304.html) / 04月25日 11:05
+- [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) / 04月25日 08:09
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Comprehensive visceral transcriptome profiling of three pig breeds along altitudinal gradients in Yunnan](https://www.nature.com/articles/s41597-025-05070-0) / 08:00
-- [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 08:00
-- [Genetic ancestry and population structure in the All of Us Research Program cohort](https://www.nature.com/articles/s41467-025-59351-8) / 08:00
-- [Comprehensive secretome profiling and CRISPR screen identifies SFRP1 as a key inhibitor of epidermal progenitor proliferation](https://www.nature.com/articles/s41419-025-07691-0) / 08:00
-- [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 08:00
-- [The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature](https://www.nature.com/articles/s41598-025-99290-4) / 08:00
-
 **历史记录**
+- [Comprehensive visceral transcriptome profiling of three pig breeds along altitudinal gradients in Yunnan](https://www.nature.com/articles/s41597-025-05070-0) / 05月03日 08:00
+- [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 05月03日 08:00
+- [Genetic ancestry and population structure in the All of Us Research Program cohort](https://www.nature.com/articles/s41467-025-59351-8) / 05月03日 08:00
+- [Comprehensive secretome profiling and CRISPR screen identifies SFRP1 as a key inhibitor of epidermal progenitor proliferation](https://www.nature.com/articles/s41419-025-07691-0) / 05月03日 08:00
+- [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 05月03日 08:00
+- [The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature](https://www.nature.com/articles/s41598-025-99290-4) / 05月03日 08:00
 - [PhysDock: A Physics-Guided All-Atom Diffusion Model for Protein-Ligand Complex Prediction](https://www.biorxiv.org/content/10.1101/2025.04.28.650887v1?rss=1) / 05月02日 08:00
 - [Chromatix: a differentiable, GPU-accelerated wave-optics library](https://www.biorxiv.org/content/10.1101/2025.04.29.651152v1?rss=1) / 05月02日 08:00
 - [A Case-Based Explainable Graph Neural Network Framework for Mechanistic Drug Repositioning](https://www.biorxiv.org/content/10.1101/2025.04.28.651120v1?rss=1) / 05月02日 08:00
