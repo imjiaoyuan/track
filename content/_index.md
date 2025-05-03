@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月04日 04:18**
-- 今天周日，白天🌧️小雨(17°~30°)，空气轻度污染(109)
-- 明天周一，白天☁️阴(17°~29°)，空气良(76)，夜间小雨
+**四川省/成都/成都 2025年05月04日 06:16**
+- 今天周日，白天🌤️多云(16°~27°)，空气轻度污染(109)，夜间小雨
+- 明天周一，白天☁️阴(17°~28°)，空气良(76)，夜间小雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月04日 04:18**
-- 今天周日，白天🌧️小雨(16°~31°)，空气良(79)，夜间中雨
-- 明天周一，白天🌧️小雨(17°~26°)，空气良(73)，夜间中雨
+**四川省/宜宾/宜宾 2025年05月04日 06:16**
+- 今天周日，白天🌧️小雨(15°~32°)，空气良(79)，夜间中雨
+- 明天周一，白天🌧️小雨(16°~25°)，空气良(73)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [The impact of sex, age, and genetic ancestry on DNA methylation across tissues](https://www.biorxiv.org/content/10.1101/2025.04.29.651179v1?rss=1) / 05月03日 08:00
 - [Comprehensive visceral transcriptome profiling of three pig breeds along altitudinal gradients in Yunnan](https://www.nature.com/articles/s41597-025-05070-0) / 05月03日 08:00
 - [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 05月03日 08:00
 - [Genetic ancestry and population structure in the All of Us Research Program cohort](https://www.nature.com/articles/s41467-025-59351-8) / 05月03日 08:00
@@ -60,5 +61,4 @@
 - [Evaluation of epistasis detection methods for quantitative phenotypes](https://www.biorxiv.org/content/10.1101/2025.04.30.651312v1?rss=1) / 05月01日 08:00
 - [From Pairwise Distances to Neighborhood Preservation: Benchmarking Dimensionality Reduction Algorithms for CyTOF, scRNA-seq, and CITE-seq](https://www.biorxiv.org/content/10.1101/2025.04.28.651069v1?rss=1) / 05月01日 08:00
 - [iSHARC: Integrating scMultiome data for heterogeneity and regulatory analysis in cancer](https://www.biorxiv.org/content/10.1101/2025.04.28.651068v1?rss=1) / 05月01日 08:00
-- [OmiXAI: An Ensemble XAI Pipeline for Interpretable Deep Learning in Omics Data](https://www.biorxiv.org/content/10.1101/2025.04.28.651097v1?rss=1) / 05月01日 08:00
 <!--rss-papers:end-->
