@@ -50,7 +50,13 @@ RSS_FEEDS = {
         "https://wiki.eryajf.net/rss.xml",
         "https://anotherdayu.com/feed",
         "https://blog.ops-coffee.cn/feed.xml",
-        "https://www.wordpace.com/feed"
+        "https://www.wordpace.com/feed",
+        "https://xingbianren.cn/feed.php",
+        "https://innei.in/feed",
+        "https://xxu.do/feed",
+        "https://immmmm.com/feed",
+        "https://besscroft.com/feed",
+        "https://ysx.cosine.ren/atom.xml"
     ],
     'papers': [
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics",
