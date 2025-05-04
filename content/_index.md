@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月04日 16:21**
-- 今天周日，白天🌧️小雨(16°~29°)，空气良(100)
-- 明天周一，白天🌧️小雨(17°~28°)，空气良(71)
+**四川省/成都/成都 2025年05月04日 18:17**
+- 今天周日，白天🌧️小雨(15°~28°)，空气轻度污染(103)
+- 明天周一，白天☁️阴(17°~28°)，空气良(70)，夜间小雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月04日 16:21**
-- 今天周日，白天🌧️小雨(15°~32°)，空气良(77)，夜间中雨
-- 明天周一，白天🌧️小雨(16°~25°)，空气良(78)
+**四川省/宜宾/宜宾 2025年05月04日 18:17**
+- 今天周日，白天🌧️小雨(14°~32°)，空气良(80)，夜间中雨
+- 明天周一，白天🌧️小雨(16°~25°)，空气良(72)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
@@ -62,5 +62,5 @@
 - [Comprehensive secretome profiling and CRISPR screen identifies SFRP1 as a key inhibitor of epidermal progenitor proliferation](https://www.nature.com/articles/s41419-025-07691-0) / 05月03日 08:00
 - [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 05月03日 08:00
 - [The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature](https://www.nature.com/articles/s41598-025-99290-4) / 05月03日 08:00
-- [PhysDock: A Physics-Guided All-Atom Diffusion Model for Protein-Ligand Complex Prediction](https://www.biorxiv.org/content/10.1101/2025.04.28.650887v1?rss=1) / 05月02日 08:00
+- [An outlier approach: advancing diagnosis of neurological diseases through integrating proteomics into multi-omics guided exome reanalysis](https://www.nature.com/articles/s41525-025-00493-5) / 05月03日 08:00
 <!--rss-papers:end-->
