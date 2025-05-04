@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月04日 06:16**
-- 今天周日，白天🌤️多云(16°~27°)，空气轻度污染(109)，夜间小雨
-- 明天周一，白天☁️阴(17°~28°)，空气良(76)，夜间小雨
+**四川省/成都/成都 2025年05月04日 09:40**
+- 今天周日，白天🌧️小雨(16°~28°)，空气轻度污染(101)
+- 明天周一，白天🌧️小雨(17°~28°)，空气良(78)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月04日 06:16**
-- 今天周日，白天🌧️小雨(15°~32°)，空气良(79)，夜间中雨
-- 明天周一，白天🌧️小雨(16°~25°)，空气良(73)
+**四川省/宜宾/宜宾 2025年05月04日 09:40**
+- 今天周日，白天🌧️小雨(15°~32°)，空气良(81)，夜间中雨
+- 明天周一，白天🌧️小雨(16°~25°)，空气良(68)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
@@ -16,11 +16,11 @@
 **今日更新**
 - [通过 Proxmox VE 上的 Debian Cloud 虚拟机与 CUPS 共享打印机](https://blog.gxres.net/posts/share-printer-through-vm-on-proxmox-ve-and-cups) / 08:00
 - [学习周刊-总第209期-2025年第18周](https://wiki.eryajf.net/pages/050366/) / 06:39
+- [VOL.4593](http://m.wufazhuce.com/one/4752) / 06:25
 
 **历史记录**
 - [你收藏过哪些奇葩物品？](http://m.wufazhuce.com/question/4352) / 05月03日 06:25
 - [郊游](http://m.wufazhuce.com/article/6778) / 05月03日 06:25
-- [VOL.4592](http://m.wufazhuce.com/one/4716) / 05月03日 06:25
 - [活着，以观自在](https://www.xiangshitan.com/post/3400.html) / 05月02日 08:29
 - [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 05月01日 12:26
 - [柏林和布拉格](https://www.skyue.com/25043013.html) / 04月30日 13:54
@@ -41,6 +41,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Spatialproteomics - an interoperable toolbox for analyzing highly multiplexed fluorescence image data](https://www.biorxiv.org/content/10.1101/2025.04.29.651202v1?rss=1) / 05月03日 08:00
+- [Deciphering Biosynthetic Gene Clusters with a Context-aware Protein Language Model](https://www.biorxiv.org/content/10.1101/2025.04.29.651206v1?rss=1) / 05月03日 08:00
+- [AntiCP3: Prediction of Anticancer Proteins Using Evolutionary Information from Protein Language Models](https://www.biorxiv.org/content/10.1101/2025.04.29.651196v1?rss=1) / 05月03日 08:00
 - [The impact of sex, age, and genetic ancestry on DNA methylation across tissues](https://www.biorxiv.org/content/10.1101/2025.04.29.651179v1?rss=1) / 05月03日 08:00
 - [Comprehensive visceral transcriptome profiling of three pig breeds along altitudinal gradients in Yunnan](https://www.nature.com/articles/s41597-025-05070-0) / 05月03日 08:00
 - [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 05月03日 08:00
@@ -48,6 +51,7 @@
 - [Comprehensive secretome profiling and CRISPR screen identifies SFRP1 as a key inhibitor of epidermal progenitor proliferation](https://www.nature.com/articles/s41419-025-07691-0) / 05月03日 08:00
 - [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 05月03日 08:00
 - [The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature](https://www.nature.com/articles/s41598-025-99290-4) / 05月03日 08:00
+- [An outlier approach: advancing diagnosis of neurological diseases through integrating proteomics into multi-omics guided exome reanalysis](https://www.nature.com/articles/s41525-025-00493-5) / 05月03日 08:00
 - [PhysDock: A Physics-Guided All-Atom Diffusion Model for Protein-Ligand Complex Prediction](https://www.biorxiv.org/content/10.1101/2025.04.28.650887v1?rss=1) / 05月02日 08:00
 - [Chromatix: a differentiable, GPU-accelerated wave-optics library](https://www.biorxiv.org/content/10.1101/2025.04.29.651152v1?rss=1) / 05月02日 08:00
 - [A Case-Based Explainable Graph Neural Network Framework for Mechanistic Drug Repositioning](https://www.biorxiv.org/content/10.1101/2025.04.28.651120v1?rss=1) / 05月02日 08:00
@@ -57,8 +61,4 @@
 - [Multimodal sensor dataset for monitoring older adults post lower limb fractures in community settings](https://www.nature.com/articles/s41597-025-05069-7) / 05月02日 08:00
 - [De novo non-canonical nanopore basecalling enables private communication using heavily-modified DNA data at single-molecule level](https://www.nature.com/articles/s41467-025-59357-2) / 05月02日 08:00
 - [TIRE-seq simplifies transcriptomics via integrated RNA capture and library preparation](https://www.nature.com/articles/s41598-025-98282-8) / 05月02日 08:00
-- [Integrative multi-omics modelling for cultivated meat production, quality, and safety](https://www.biorxiv.org/content/10.1101/2025.04.30.651459v1?rss=1) / 05月01日 08:00
-- [Evaluation of epistasis detection methods for quantitative phenotypes](https://www.biorxiv.org/content/10.1101/2025.04.30.651312v1?rss=1) / 05月01日 08:00
-- [From Pairwise Distances to Neighborhood Preservation: Benchmarking Dimensionality Reduction Algorithms for CyTOF, scRNA-seq, and CITE-seq](https://www.biorxiv.org/content/10.1101/2025.04.28.651069v1?rss=1) / 05月01日 08:00
-- [iSHARC: Integrating scMultiome data for heterogeneity and regulatory analysis in cancer](https://www.biorxiv.org/content/10.1101/2025.04.28.651068v1?rss=1) / 05月01日 08:00
 <!--rss-papers:end-->
