@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月04日 11:15**
+**四川省/成都/成都 2025年05月04日 12:21**
 - 今天周日，白天🌧️小雨(16°~28°)，空气轻度污染(109)
 - 明天周一，白天🌧️小雨(17°~28°)，空气良(79)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月04日 11:15**
+**四川省/宜宾/宜宾 2025年05月04日 12:21**
 - 今天周日，白天🌧️小雨(15°~32°)，空气良(81)，夜间中雨
 - 明天周一，白天🌧️小雨(16°~25°)，空气良(67)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [multideconv - Integrative pipeline for cell type deconvolution from bulk RNAseq using first and second generation methods](https://www.biorxiv.org/content/10.1101/2025.04.29.651220v1?rss=1) / 05月03日 08:00
 - [Lazypipe3: Customizable Virome Analysis Pipeline Enabling Fast and Sensitive Virus Discovery from NGS data](https://www.biorxiv.org/content/10.1101/2025.04.29.651217v1?rss=1) / 05月03日 08:00
 - [AbBFN2: A flexible antibody foundation model based on Bayesian Flow Networks](https://www.biorxiv.org/content/10.1101/2025.04.29.651170v1?rss=1) / 05月03日 08:00
 - [Differential cell signaling testing for cell-cell communication inference from single-cell data by dominoSignal](https://www.biorxiv.org/content/10.1101/2025.05.02.651747v1?rss=1) / 05月03日 08:00
@@ -54,11 +55,10 @@
 - [Comprehensive secretome profiling and CRISPR screen identifies SFRP1 as a key inhibitor of epidermal progenitor proliferation](https://www.nature.com/articles/s41419-025-07691-0) / 05月03日 08:00
 - [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 05月03日 08:00
 - [The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature](https://www.nature.com/articles/s41598-025-99290-4) / 05月03日 08:00
+- [An outlier approach: advancing diagnosis of neurological diseases through integrating proteomics into multi-omics guided exome reanalysis](https://www.nature.com/articles/s41525-025-00493-5) / 05月03日 08:00
 - [PhysDock: A Physics-Guided All-Atom Diffusion Model for Protein-Ligand Complex Prediction](https://www.biorxiv.org/content/10.1101/2025.04.28.650887v1?rss=1) / 05月02日 08:00
 - [Chromatix: a differentiable, GPU-accelerated wave-optics library](https://www.biorxiv.org/content/10.1101/2025.04.29.651152v1?rss=1) / 05月02日 08:00
 - [A Case-Based Explainable Graph Neural Network Framework for Mechanistic Drug Repositioning](https://www.biorxiv.org/content/10.1101/2025.04.28.651120v1?rss=1) / 05月02日 08:00
 - [Explainable deep learning for identifying cancer driver genes based on the Cancer Dependency Map](https://www.biorxiv.org/content/10.1101/2025.04.28.651122v1?rss=1) / 05月02日 08:00
 - [A telomere to telomere phased genome assembly and annotation for the Australian central bearded dragon Pogona vitticeps](https://www.biorxiv.org/content/10.1101/2025.05.01.651798v1?rss=1) / 05月02日 08:00
-- [Molecular dissection of the genetic architecture of phenology underlying Lupinus hispanicus early flowering and adaptation to winter- or spring sowing](https://www.nature.com/articles/s41598-025-00096-1) / 05月02日 08:00
-- [Multimodal sensor dataset for monitoring older adults post lower limb fractures in community settings](https://www.nature.com/articles/s41597-025-05069-7) / 05月02日 08:00
 <!--rss-papers:end-->
