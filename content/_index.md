@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月04日 14:24**
-- 今天周日，白天🌧️小雨(16°~30°)，空气轻度污染(109)
-- 明天周一，白天🌧️小雨(17°~28°)，空气良(79)
+**四川省/成都/成都 2025年05月04日 16:21**
+- 今天周日，白天🌧️小雨(16°~29°)，空气良(100)
+- 明天周一，白天🌧️小雨(17°~28°)，空气良(71)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月04日 14:25**
-- 今天周日，白天🌧️小雨(15°~32°)，空气良(81)，夜间中雨
-- 明天周一，白天🌧️小雨(16°~25°)，空气良(67)
+**四川省/宜宾/宜宾 2025年05月04日 16:21**
+- 今天周日，白天🌧️小雨(15°~32°)，空气良(77)，夜间中雨
+- 明天周一，白天🌧️小雨(16°~25°)，空气良(78)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
@@ -21,6 +21,7 @@
 - [VOL.4593](http://m.wufazhuce.com/one/4752) / 06:25
 
 **历史记录**
+- [久违的不胶囊衣柜｜近些年每次穿都很开心的衣服们](http://bamboobone9.com/favorite-purchases-2025/) / 05月03日 23:54
 - [Exploring Spatial Transcriptomics A Dive into Visium Data Analysis in Python](https://divingintogeneticsandgenomics.com/post/python-visium/) / 05月03日 08:00
 - [你收藏过哪些奇葩物品？](http://m.wufazhuce.com/question/4352) / 05月03日 06:25
 - [郊游](http://m.wufazhuce.com/article/6778) / 05月03日 06:25
@@ -35,11 +36,13 @@
 - [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) / 04月28日 10:22
 - [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) / 04月28日 08:00
 - [情绪记录](https://www.skyue.com/25042723.html) / 04月27日 23:07
-- [燕赵邯郸访古 01](https://blog.pursuitus.com/yan-zhao-handan-visits-01.html) / 04月27日 22:18
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Adaptive dynamics of extrachromosomal circular DNA in rice under nutrient stress](https://www.nature.com/articles/s41467-025-59572-x) / 08:00
+
 **历史记录**
 - [nanoFOLD : sequence design of nanobodies via inverse folding](https://www.biorxiv.org/content/10.1101/2025.04.29.651236v1?rss=1) / 05月03日 08:00
 - [Improving RNA Secondary Structure Prediction Through ExpandedTraining Data](https://www.biorxiv.org/content/10.1101/2025.05.03.652028v1?rss=1) / 05月03日 08:00
@@ -60,5 +63,4 @@
 - [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 05月03日 08:00
 - [The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature](https://www.nature.com/articles/s41598-025-99290-4) / 05月03日 08:00
 - [PhysDock: A Physics-Guided All-Atom Diffusion Model for Protein-Ligand Complex Prediction](https://www.biorxiv.org/content/10.1101/2025.04.28.650887v1?rss=1) / 05月02日 08:00
-- [Chromatix: a differentiable, GPU-accelerated wave-optics library](https://www.biorxiv.org/content/10.1101/2025.04.29.651152v1?rss=1) / 05月02日 08:00
 <!--rss-papers:end-->
