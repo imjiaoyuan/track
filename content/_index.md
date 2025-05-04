@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月05日 02:23**
+**四川省/成都/成都 2025年05月05日 04:18**
 - 今天周一，白天☁️阴(17°~28°)，空气良(73)，夜间小雨
 - 明天周二，白天🌤️多云(17°~27°)，空气良(73)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月05日 02:23**
+**四川省/宜宾/宜宾 2025年05月05日 04:18**
 - 今天周一，白天🌧️小雨(16°~25°)，空气良(76)
 - 明天周二，白天🌧️小雨(17°~23°)，空气良(56)
 - 有降水，能见度不太好且路面湿滑，交通气象条件一般，刹车距离延长，注意车距，务必小心驾驶。
@@ -13,6 +13,9 @@
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [猫鱼周刊 vol. 063 自己煮饭](https://ameow.xyz/archives/weekly-063) / 02:38
+
 **历史记录**
 - [关我辟事 Vol.39：台湾遛弯](https://blog.douchi.space/spark-joy-digest-2025-4b/) / 05月04日 12:11
 - [老王（）](https://hp-l.github.io/2025/05/04/103937/) / 05月04日 10:39
@@ -33,7 +36,6 @@
 - [使用 ChimeraX 绘制晶体结构小分子密度](https://xxu.do/posts/x-ray/Using-ChimeraX-to-plot-crystal-structure-small-molecule-density) / 04月28日 22:32
 - [周报 #93 - 婚礼纪录片与失落的电影院](https://www.pseudoyu.com/posts/weekly_review_93) / 04月28日 10:22
 - [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) / 04月28日 08:00
-- [情绪记录](https://www.skyue.com/25042723.html) / 04月27日 23:07
 <!--rss-blogs:end-->
 ---
 # Research Papers
