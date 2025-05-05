@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月05日 12:22**
-- 今天周一，白天🌤️多云(16°~28°)，空气良(70)，夜间阴
+**四川省/成都/成都 2025年05月05日 14:27**
+- 今天周一，白天🌤️多云(16°~29°)，空气良(70)，夜间阴
 - 明天周二，白天☁️阴(16°~27°)，空气良(68)，夜间多云
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月05日 12:22**
+**四川省/宜宾/宜宾 2025年05月05日 14:27**
 - 今天周一，白天🌧️小雨(16°~26°)，空气良(73)
 - 明天周二，白天🌧️小雨(16°~23°)，空气良(60)
 - 有降水，能见度不太好且路面湿滑，交通气象条件一般，刹车距离延长，注意车距，务必小心驾驶。
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Quantification of single cell-type-specific alternative transcript initiation](https://www.biorxiv.org/content/10.1101/2025.04.29.651292v1?rss=1) / 05月04日 08:00
+- [Gene-based calibration of high-throughput functional assays for clinical variant classification](https://www.biorxiv.org/content/10.1101/2025.04.29.651326v1?rss=1) / 05月04日 08:00
 - [Localized Reactivity on Protein as Riemannian Manifolds:A Geometric and Quantum-Informed Basis for Deterministic, Metal-Aware Reactive-Site Prediction](https://www.biorxiv.org/content/10.1101/2025.04.29.651260v1?rss=1) / 05月04日 08:00
 - [MIST-Explorer: The Comprehensive Toolkit for Spatial Omic Analysis and Visualization of Single-Cell MIST Array Data](https://www.biorxiv.org/content/10.1101/2025.04.29.650640v1?rss=1) / 05月04日 08:00
 - [AI-assisted Drug Re-purposing for Human Liver Fibrosis](https://www.biorxiv.org/content/10.1101/2025.04.29.651320v1?rss=1) / 05月04日 08:00
@@ -59,6 +61,4 @@
 - [Differential cell signaling testing for cell-cell communication inference from single-cell data by dominoSignal](https://www.biorxiv.org/content/10.1101/2025.05.02.651747v1?rss=1) / 05月03日 08:00
 - [Spatialproteomics - an interoperable toolbox for analyzing highly multiplexed fluorescence image data](https://www.biorxiv.org/content/10.1101/2025.04.29.651202v1?rss=1) / 05月03日 08:00
 - [Deciphering Biosynthetic Gene Clusters with a Context-aware Protein Language Model](https://www.biorxiv.org/content/10.1101/2025.04.29.651206v1?rss=1) / 05月03日 08:00
-- [AntiCP3: Prediction of Anticancer Proteins Using Evolutionary Information from Protein Language Models](https://www.biorxiv.org/content/10.1101/2025.04.29.651196v1?rss=1) / 05月03日 08:00
-- [The impact of sex, age, and genetic ancestry on DNA methylation across tissues](https://www.biorxiv.org/content/10.1101/2025.04.29.651179v1?rss=1) / 05月03日 08:00
 <!--rss-papers:end-->
