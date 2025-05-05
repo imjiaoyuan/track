@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月06日 02:21**
+**四川省/成都/成都 2025年05月06日 04:20**
 - 今天周二，白天🌤️多云(17°~27°)，空气良(76)
 - 明天周三，白天🌤️多云(19°~26°)，空气良(92)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月06日 02:21**
+**四川省/宜宾/宜宾 2025年05月06日 04:20**
 - 今天周二，白天🌧️小雨(17°~24°)，空气优(50)
 - 明天周三，白天🌧️小雨(18°~27°)，空气良(63)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
@@ -45,6 +45,7 @@
 - [Athlytics: A Computational Framework for Longitudinal Analysis of Exercise Physiology Metrics from Wearable Sensor Data](https://www.biorxiv.org/content/10.1101/2025.05.01.651597v1?rss=1) / 05月05日 08:00
 - [Uncovering Convergent Cell State Dynamics Across Divergent Genetic Perturbations Through Single-Cell High-Content CRISPR Screening](https://www.biorxiv.org/content/10.1101/2025.05.02.651939v1?rss=1) / 05月05日 08:00
 - [Gene regulatory networks linked to GABA signalling emerge as relevant for glioblastoma pathogenesis](https://www.biorxiv.org/content/10.1101/2025.04.30.651564v1?rss=1) / 05月05日 08:00
+- [Local adaptation has a role in reducing vulnerability to climate change in a widespread Amazonian forest lizard](https://www.nature.com/articles/s41437-025-00765-x) / 05月05日 08:00
 - [48-Hour and 24-Hour Time-lapse Single-nucleus Transcriptomics Reveal Cell-type specific Circadian Rhythms in Arabidopsis](https://www.nature.com/articles/s41467-025-59424-8) / 05月05日 08:00
 - [Near-complete Middle Eastern genomes refine autozygosity and enhance disease-causing and population-specific variant discovery](https://www.nature.com/articles/s41588-025-02173-7) / 05月05日 08:00
 - [Quantification of single cell-type-specific alternative transcript initiation](https://www.biorxiv.org/content/10.1101/2025.04.29.651292v1?rss=1) / 05月04日 08:00
@@ -58,5 +59,4 @@
 - [Understanding the population structure of Moraxella catarrhalis using core genome multilocus sequence typing (cgMLST) and a life identification number (LIN) code classification system](https://www.biorxiv.org/content/10.1101/2025.04.30.651387v1?rss=1) / 05月04日 08:00
 - [Adaptive dynamics of extrachromosomal circular DNA in rice under nutrient stress](https://www.nature.com/articles/s41467-025-59572-x) / 05月04日 08:00
 - [nanoFOLD : sequence design of nanobodies via inverse folding](https://www.biorxiv.org/content/10.1101/2025.04.29.651236v1?rss=1) / 05月03日 08:00
-- [Improving RNA Secondary Structure Prediction Through ExpandedTraining Data](https://www.biorxiv.org/content/10.1101/2025.05.03.652028v1?rss=1) / 05月03日 08:00
 <!--rss-papers:end-->
