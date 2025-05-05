@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月05日 11:11**
+**四川省/成都/成都 2025年05月05日 12:22**
 - 今天周一，白天🌤️多云(16°~28°)，空气良(70)，夜间阴
-- 明天周二，白天☁️阴(16°~27°)，空气良(72)，夜间多云
+- 明天周二，白天☁️阴(16°~27°)，空气良(68)，夜间多云
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月05日 11:11**
-- 今天周一，白天🌧️小雨(16°~26°)，空气良(76)
-- 明天周二，白天🌧️小雨(16°~23°)，空气良(59)
+**四川省/宜宾/宜宾 2025年05月05日 12:22**
+- 今天周一，白天🌧️小雨(16°~26°)，空气良(73)
+- 明天周二，白天🌧️小雨(16°~23°)，空气良(60)
 - 有降水，能见度不太好且路面湿滑，交通气象条件一般，刹车距离延长，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Localized Reactivity on Protein as Riemannian Manifolds:A Geometric and Quantum-Informed Basis for Deterministic, Metal-Aware Reactive-Site Prediction](https://www.biorxiv.org/content/10.1101/2025.04.29.651260v1?rss=1) / 05月04日 08:00
+- [MIST-Explorer: The Comprehensive Toolkit for Spatial Omic Analysis and Visualization of Single-Cell MIST Array Data](https://www.biorxiv.org/content/10.1101/2025.04.29.650640v1?rss=1) / 05月04日 08:00
 - [AI-assisted Drug Re-purposing for Human Liver Fibrosis](https://www.biorxiv.org/content/10.1101/2025.04.29.651320v1?rss=1) / 05月04日 08:00
 - [Genome-wide expression gradient estimation based on local pseudotime in single cell RNA sequencing](https://www.biorxiv.org/content/10.1101/2025.05.01.650773v1?rss=1) / 05月04日 08:00
 - [SarcAsM: AI-based multiscale analysis of sarcomere organization and contractility in cardiomyocytes](https://www.biorxiv.org/content/10.1101/2025.04.29.650605v1?rss=1) / 05月04日 08:00
@@ -59,6 +61,4 @@
 - [Deciphering Biosynthetic Gene Clusters with a Context-aware Protein Language Model](https://www.biorxiv.org/content/10.1101/2025.04.29.651206v1?rss=1) / 05月03日 08:00
 - [AntiCP3: Prediction of Anticancer Proteins Using Evolutionary Information from Protein Language Models](https://www.biorxiv.org/content/10.1101/2025.04.29.651196v1?rss=1) / 05月03日 08:00
 - [The impact of sex, age, and genetic ancestry on DNA methylation across tissues](https://www.biorxiv.org/content/10.1101/2025.04.29.651179v1?rss=1) / 05月03日 08:00
-- [Comprehensive visceral transcriptome profiling of three pig breeds along altitudinal gradients in Yunnan](https://www.nature.com/articles/s41597-025-05070-0) / 05月03日 08:00
-- [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 05月03日 08:00
 <!--rss-papers:end-->
