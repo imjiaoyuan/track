@@ -1,14 +1,14 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月05日 18:20**
+**四川省/成都/成都 2025年05月05日 20:37**
 - 今天周一，白天🌤️多云(18°~28°)，空气良(78)，夜间阴
 - 明天周二，白天🌤️多云(17°~27°)，空气良(72)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月05日 18:20**
+**四川省/宜宾/宜宾 2025年05月05日 20:37**
 - 今天周一，白天🌧️小雨(18°~26°)，空气良(73)
 - 明天周二，白天🌧️小雨(17°~24°)，空气优(48)
-- 有降水，能见度不太好且路面湿滑，交通气象条件一般，刹车距离延长，注意车距，务必小心驾驶。
+- 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
@@ -41,7 +41,11 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [PyCycleBio: modelling non-sinusoidal-oscillator systems in temporal biology](https://www.biorxiv.org/content/10.1101/2025.04.30.651403v1?rss=1) / 08:00
+- [Limits of deep-learning-based RNA prediction methods](https://www.biorxiv.org/content/10.1101/2025.04.30.651414v1?rss=1) / 08:00
+- [Athlytics: A Computational Framework for Longitudinal Analysis of Exercise Physiology Metrics from Wearable Sensor Data](https://www.biorxiv.org/content/10.1101/2025.05.01.651597v1?rss=1) / 08:00
 - [Gene regulatory networks linked to GABA signalling emerge as relevant for glioblastoma pathogenesis](https://www.biorxiv.org/content/10.1101/2025.04.30.651564v1?rss=1) / 08:00
+- [Near-complete Middle Eastern genomes refine autozygosity and enhance disease-causing and population-specific variant discovery](https://www.nature.com/articles/s41588-025-02173-7) / 08:00
 
 **历史记录**
 - [Quantification of single cell-type-specific alternative transcript initiation](https://www.biorxiv.org/content/10.1101/2025.04.29.651292v1?rss=1) / 05月04日 08:00
@@ -59,8 +63,4 @@
 - [Enriching stabilizing mutations through automated analysis of molecular dynamics simulations using BoostMut](https://www.biorxiv.org/content/10.1101/2025.04.29.651183v1?rss=1) / 05月03日 08:00
 - [Strain-level metagenomic profiling using pangenome graphs with PanTax](https://www.biorxiv.org/content/10.1101/2025.04.29.651271v1?rss=1) / 05月03日 08:00
 - [multideconv - Integrative pipeline for cell type deconvolution from bulk RNAseq using first and second generation methods](https://www.biorxiv.org/content/10.1101/2025.04.29.651220v1?rss=1) / 05月03日 08:00
-- [Lazypipe3: Customizable Virome Analysis Pipeline Enabling Fast and Sensitive Virus Discovery from NGS data](https://www.biorxiv.org/content/10.1101/2025.04.29.651217v1?rss=1) / 05月03日 08:00
-- [AbBFN2: A flexible antibody foundation model based on Bayesian Flow Networks](https://www.biorxiv.org/content/10.1101/2025.04.29.651170v1?rss=1) / 05月03日 08:00
-- [Differential cell signaling testing for cell-cell communication inference from single-cell data by dominoSignal](https://www.biorxiv.org/content/10.1101/2025.05.02.651747v1?rss=1) / 05月03日 08:00
-- [Spatialproteomics - an interoperable toolbox for analyzing highly multiplexed fluorescence image data](https://www.biorxiv.org/content/10.1101/2025.04.29.651202v1?rss=1) / 05月03日 08:00
 <!--rss-papers:end-->
