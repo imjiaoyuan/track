@@ -1,19 +1,22 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月05日 06:16**
-- 今天周一，白天🌤️多云(16°~28°)，空气良(73)，夜间阴
-- 明天周二，白天🌤️多云(16°~27°)，空气良(73)，夜间阴
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**四川省/成都/成都 2025年05月05日 09:28**
+- 今天周一，白天🌤️多云(16°~28°)，空气良(72)，夜间阴
+- 明天周二，白天☁️阴(16°~27°)，空气良(73)，夜间多云
+- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月05日 06:16**
-- 今天周一，白天🌧️小雨(16°~26°)，空气良(76)
-- 明天周二，白天🌧️小雨(16°~23°)，空气良(56)
+**四川省/宜宾/宜宾 2025年05月05日 09:28**
+- 今天周一，白天🌧️小雨(16°~26°)，空气良(74)
+- 明天周二，白天🌧️小雨(16°~23°)，空气良(54)
 - 有降水，能见度不太好且路面湿滑，交通气象条件一般，刹车距离延长，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [什么情况下你会放弃坚持？](http://m.wufazhuce.com/question/4353) / 06:25
+- [屋顶水手](http://m.wufazhuce.com/article/6782) / 06:25
+- [VOL.4594](http://m.wufazhuce.com/one/4743) / 06:25
 - [猫鱼周刊 vol. 063 自己煮饭](https://ameow.xyz/archives/weekly-063) / 02:38
 
 **历史记录**
@@ -21,11 +24,8 @@
 - [老王（）](https://hp-l.github.io/2025/05/04/103937/) / 05月04日 10:39
 - [通过 Proxmox VE 上的 Debian Cloud 虚拟机与 CUPS 共享打印机](https://blog.gxres.net/posts/share-printer-through-vm-on-proxmox-ve-and-cups) / 05月04日 08:00
 - [学习周刊-总第209期-2025年第18周](https://wiki.eryajf.net/pages/050366/) / 05月04日 06:39
-- [VOL.4593](http://m.wufazhuce.com/one/4752) / 05月04日 06:25
 - [久违的不胶囊衣柜｜近些年每次穿都很开心的衣服们](http://bamboobone9.com/favorite-purchases-2025/) / 05月03日 23:54
 - [Exploring Spatial Transcriptomics A Dive into Visium Data Analysis in Python](https://divingintogeneticsandgenomics.com/post/python-visium/) / 05月03日 08:00
-- [你收藏过哪些奇葩物品？](http://m.wufazhuce.com/question/4352) / 05月03日 06:25
-- [郊游](http://m.wufazhuce.com/article/6778) / 05月03日 06:25
 - [活着，以观自在](https://www.xiangshitan.com/post/3400.html) / 05月02日 08:29
 - [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 05月01日 12:26
 - [柏林和布拉格](https://www.skyue.com/25043013.html) / 04月30日 13:54
@@ -41,6 +41,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Genome-wide expression gradient estimation based on local pseudotime in single cell RNA sequencing](https://www.biorxiv.org/content/10.1101/2025.05.01.650773v1?rss=1) / 05月04日 08:00
+- [SarcAsM: AI-based multiscale analysis of sarcomere organization and contractility in cardiomyocytes](https://www.biorxiv.org/content/10.1101/2025.04.29.650605v1?rss=1) / 05月04日 08:00
+- [Understanding the population structure of Moraxella catarrhalis using core genome multilocus sequence typing (cgMLST) and a life identification number (LIN) code classification system](https://www.biorxiv.org/content/10.1101/2025.04.30.651387v1?rss=1) / 05月04日 08:00
 - [Adaptive dynamics of extrachromosomal circular DNA in rice under nutrient stress](https://www.nature.com/articles/s41467-025-59572-x) / 05月04日 08:00
 - [nanoFOLD : sequence design of nanobodies via inverse folding](https://www.biorxiv.org/content/10.1101/2025.04.29.651236v1?rss=1) / 05月03日 08:00
 - [Improving RNA Secondary Structure Prediction Through ExpandedTraining Data](https://www.biorxiv.org/content/10.1101/2025.05.03.652028v1?rss=1) / 05月03日 08:00
@@ -58,7 +61,4 @@
 - [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 05月03日 08:00
 - [Genetic ancestry and population structure in the All of Us Research Program cohort](https://www.nature.com/articles/s41467-025-59351-8) / 05月03日 08:00
 - [Comprehensive secretome profiling and CRISPR screen identifies SFRP1 as a key inhibitor of epidermal progenitor proliferation](https://www.nature.com/articles/s41419-025-07691-0) / 05月03日 08:00
-- [Multi-omic integration sets the path for early prevention strategies on healthy individuals](https://www.nature.com/articles/s41525-025-00491-7) / 05月03日 08:00
-- [The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature](https://www.nature.com/articles/s41598-025-99290-4) / 05月03日 08:00
-- [An outlier approach: advancing diagnosis of neurological diseases through integrating proteomics into multi-omics guided exome reanalysis](https://www.nature.com/articles/s41525-025-00493-5) / 05月03日 08:00
 <!--rss-papers:end-->
