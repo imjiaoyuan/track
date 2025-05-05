@@ -1,12 +1,12 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月05日 20:37**
+**四川省/成都/成都 2025年05月05日 22:19**
 - 今天周一，白天🌤️多云(18°~28°)，空气良(78)，夜间阴
-- 明天周二，白天🌤️多云(17°~27°)，空气良(72)
+- 明天周二，白天🌤️多云(17°~27°)，空气良(75)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月05日 20:37**
-- 今天周一，白天🌧️小雨(18°~26°)，空气良(73)
+**四川省/宜宾/宜宾 2025年05月05日 22:19**
+- 今天周一，白天🌧️小雨(18°~26°)，空气良(81)
 - 明天周二，白天🌧️小雨(17°~24°)，空气优(48)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
@@ -14,6 +14,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [燕赵邯郸访古 02](https://blog.pursuitus.com/yan-zhao-handan-visits-02-html.html) / 21:42
 - [人到中年，就会开始养生…](https://blog.douchi.space/middle-age-wellness/) / 14:57
 - [什么情况下你会放弃坚持？](http://m.wufazhuce.com/question/4353) / 06:25
 - [屋顶水手](http://m.wufazhuce.com/article/6782) / 06:25
@@ -29,7 +30,6 @@
 - [Exploring Spatial Transcriptomics A Dive into Visium Data Analysis in Python](https://divingintogeneticsandgenomics.com/post/python-visium/) / 05月03日 08:00
 - [活着，以观自在](https://www.xiangshitan.com/post/3400.html) / 05月02日 08:29
 - [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 05月01日 12:26
-- [柏林和布拉格](https://www.skyue.com/25043013.html) / 04月30日 13:54
 - [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 04月30日 02:15
 - [熊猫，走起](https://www.xiangshitan.com/post/3399.html) / 04月29日 23:06
 - [打工记（五）](https://yukieyun.net/roam/gravedigger-of-capitalism-05/) / 04月29日 07:48
@@ -44,6 +44,7 @@
 - [PyCycleBio: modelling non-sinusoidal-oscillator systems in temporal biology](https://www.biorxiv.org/content/10.1101/2025.04.30.651403v1?rss=1) / 08:00
 - [Limits of deep-learning-based RNA prediction methods](https://www.biorxiv.org/content/10.1101/2025.04.30.651414v1?rss=1) / 08:00
 - [Athlytics: A Computational Framework for Longitudinal Analysis of Exercise Physiology Metrics from Wearable Sensor Data](https://www.biorxiv.org/content/10.1101/2025.05.01.651597v1?rss=1) / 08:00
+- [Uncovering Convergent Cell State Dynamics Across Divergent Genetic Perturbations Through Single-Cell High-Content CRISPR Screening](https://www.biorxiv.org/content/10.1101/2025.05.02.651939v1?rss=1) / 08:00
 - [Gene regulatory networks linked to GABA signalling emerge as relevant for glioblastoma pathogenesis](https://www.biorxiv.org/content/10.1101/2025.04.30.651564v1?rss=1) / 08:00
 - [Near-complete Middle Eastern genomes refine autozygosity and enhance disease-causing and population-specific variant discovery](https://www.nature.com/articles/s41588-025-02173-7) / 08:00
 
@@ -62,5 +63,4 @@
 - [Improving RNA Secondary Structure Prediction Through ExpandedTraining Data](https://www.biorxiv.org/content/10.1101/2025.05.03.652028v1?rss=1) / 05月03日 08:00
 - [Enriching stabilizing mutations through automated analysis of molecular dynamics simulations using BoostMut](https://www.biorxiv.org/content/10.1101/2025.04.29.651183v1?rss=1) / 05月03日 08:00
 - [Strain-level metagenomic profiling using pangenome graphs with PanTax](https://www.biorxiv.org/content/10.1101/2025.04.29.651271v1?rss=1) / 05月03日 08:00
-- [multideconv - Integrative pipeline for cell type deconvolution from bulk RNAseq using first and second generation methods](https://www.biorxiv.org/content/10.1101/2025.04.29.651220v1?rss=1) / 05月03日 08:00
 <!--rss-papers:end-->
