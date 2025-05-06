@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月07日 02:26**
+**四川省/成都/成都 2025年05月07日 04:20**
 - 今天周三，白天🌤️多云(18°~25°)，空气良(72)，夜间小雨
 - 明天周四，白天☁️阴(17°~28°)，空气良(84)，夜间多云
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月07日 02:26**
+**四川省/宜宾/宜宾 2025年05月07日 04:20**
 - 今天周三，白天🌤️多云(17°~27°)，空气良(67)，夜间小雨
 - 明天周四，白天🌧️小雨(18°~27°)，空气良(77)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -39,6 +39,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Single-cell alternative polyadenylation analysis reveals mechanistic insights of COVID-19-associated neurological and psychiatric effects](https://www.biorxiv.org/content/10.1101/2025.05.02.651855v1?rss=1) / 05月06日 08:00
+- [Quantifying uncertainty in Protein Representations Across Models and Task](https://www.biorxiv.org/content/10.1101/2025.04.30.651545v1?rss=1) / 05月06日 08:00
 - [Pathogenic Missense Mutations in Intrinsically Disordered Regions Reveal Functional and Clinical Signals](https://www.biorxiv.org/content/10.1101/2025.05.01.651640v1?rss=1) / 05月06日 08:00
 - [XVCF: Exquisite Visualization of VCF Data from Genomic Experiments](https://www.biorxiv.org/content/10.1101/2025.04.30.651450v1?rss=1) / 05月06日 08:00
 - [SAKPE: A Site Attention Kinetic Parameters Prediction Method for Enzyme Engineering](https://www.biorxiv.org/content/10.1101/2025.04.30.651216v1?rss=1) / 05月06日 08:00
@@ -57,6 +59,4 @@
 - [Quantification of single cell-type-specific alternative transcript initiation](https://www.biorxiv.org/content/10.1101/2025.04.29.651292v1?rss=1) / 05月04日 08:00
 - [Gene-based calibration of high-throughput functional assays for clinical variant classification](https://www.biorxiv.org/content/10.1101/2025.04.29.651326v1?rss=1) / 05月04日 08:00
 - [Localized Reactivity on Protein as Riemannian Manifolds:A Geometric and Quantum-Informed Basis for Deterministic, Metal-Aware Reactive-Site Prediction](https://www.biorxiv.org/content/10.1101/2025.04.29.651260v1?rss=1) / 05月04日 08:00
-- [MIST-Explorer: The Comprehensive Toolkit for Spatial Omic Analysis and Visualization of Single-Cell MIST Array Data](https://www.biorxiv.org/content/10.1101/2025.04.29.650640v1?rss=1) / 05月04日 08:00
-- [AI-assisted Drug Re-purposing for Human Liver Fibrosis](https://www.biorxiv.org/content/10.1101/2025.04.29.651320v1?rss=1) / 05月04日 08:00
 <!--rss-papers:end-->
