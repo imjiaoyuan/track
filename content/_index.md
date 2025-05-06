@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月06日 12:21**
+**四川省/成都/成都 2025年05月06日 14:26**
 - 今天周二，白天🌤️多云(17°~28°)，空气良(72)，夜间阴
 - 明天周三，白天🌤️多云(17°~28°)，空气良(90)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月06日 12:21**
+**四川省/宜宾/宜宾 2025年05月06日 14:26**
 - 今天周二，白天🌧️小雨(17°~21°)，空气优(46)
 - 明天周三，白天☁️阴(18°~27°)，空气良(60)，夜间小雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
@@ -16,6 +16,7 @@
 **今日更新**
 - [七百天后](https://imzm.im/700-days-after/) / 12:20
 - [树莓派64位系统安装WiringPi](https://hp-l.github.io/2025/05/06/091156/) / 09:11
+- [立夏 | 2025 年 4 月小结](https://thirdshire.com/april-recap-2025/) / 08:29
 - [你是否会因一句话而改变人生？](http://m.wufazhuce.com/question/4356) / 06:25
 - [步行去那里](http://m.wufazhuce.com/article/6781) / 06:25
 - [VOL.4595](http://m.wufazhuce.com/one/4744) / 06:25
@@ -35,7 +36,6 @@
 - [柏林和布拉格](https://www.skyue.com/25043013.html) / 04月30日 13:54
 - [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 04月30日 02:15
 - [熊猫，走起](https://www.xiangshitan.com/post/3399.html) / 04月29日 23:06
-- [打工记（五）](https://yukieyun.net/roam/gravedigger-of-capitalism-05/) / 04月29日 07:48
 <!--rss-blogs:end-->
 ---
 # Research Papers
