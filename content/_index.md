@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月06日 20:38**
-- 今天周二，白天🌤️多云(16°~28°)，空气良(79)
-- 明天周三，白天🌤️多云(18°~25°)，空气良(74)，夜间小雨
+**四川省/成都/成都 2025年05月06日 22:18**
+- 今天周二，白天🌤️多云(16°~28°)，空气良(72)
+- 明天周三，白天🌤️多云(18°~25°)，空气良(71)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月06日 20:39**
-- 今天周二，白天🌧️小雨(16°~21°)，空气良(51)
-- 明天周三，白天🌤️多云(17°~27°)，空气良(63)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月06日 22:18**
+- 今天周二，白天🌧️小雨(16°~21°)，空气良(52)
+- 明天周三，白天🌤️多云(17°~27°)，空气良(58)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/) / 22:14
 - [绍兴游记](https://www.ntiy.com/2274.html) / 15:51
 - [七百天后](https://imzm.im/700-days-after/) / 12:20
 - [树莓派64位系统安装WiringPi](https://hp-l.github.io/2025/05/06/091156/) / 09:11
@@ -35,11 +36,15 @@
 - [活着，以观自在](https://www.xiangshitan.com/post/3400.html) / 05月02日 08:29
 - [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 05月01日 12:26
 - [柏林和布拉格](https://www.skyue.com/25043013.html) / 04月30日 13:54
-- [个人网站变现，小网站也能有投放](https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html) / 04月30日 02:15
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [XVCF: Exquisite Visualization of VCF Data from Genomic Experiments](https://www.biorxiv.org/content/10.1101/2025.04.30.651450v1?rss=1) / 08:00
+- [SAKPE: A Site Attention Kinetic Parameters Prediction Method for Enzyme Engineering](https://www.biorxiv.org/content/10.1101/2025.04.30.651216v1?rss=1) / 08:00
+- [Large-scale transcriptome mining enables macrocyclic diversification and improved bioactivity of the stephanotic acid scaffold](https://www.nature.com/articles/s41467-025-59428-4) / 08:00
+
 **历史记录**
 - [mimicDetector: a pipeline for protein motif mimicry detection in host-pathogen systems](https://www.biorxiv.org/content/10.1101/2025.05.02.651971v1?rss=1) / 05月05日 08:00
 - [PyCycleBio: modelling non-sinusoidal-oscillator systems in temporal biology](https://www.biorxiv.org/content/10.1101/2025.04.30.651403v1?rss=1) / 05月05日 08:00
@@ -58,7 +63,4 @@
 - [Genome-wide expression gradient estimation based on local pseudotime in single cell RNA sequencing](https://www.biorxiv.org/content/10.1101/2025.05.01.650773v1?rss=1) / 05月04日 08:00
 - [SarcAsM: AI-based multiscale analysis of sarcomere organization and contractility in cardiomyocytes](https://www.biorxiv.org/content/10.1101/2025.04.29.650605v1?rss=1) / 05月04日 08:00
 - [Evaluation of Nanopore direct RNA sequencing updates for modification detection](https://www.biorxiv.org/content/10.1101/2025.05.01.651717v1?rss=1) / 05月04日 08:00
-- [Understanding the population structure of Moraxella catarrhalis using core genome multilocus sequence typing (cgMLST) and a life identification number (LIN) code classification system](https://www.biorxiv.org/content/10.1101/2025.04.30.651387v1?rss=1) / 05月04日 08:00
-- [Adaptive dynamics of extrachromosomal circular DNA in rice under nutrient stress](https://www.nature.com/articles/s41467-025-59572-x) / 05月04日 08:00
-- [nanoFOLD : sequence design of nanobodies via inverse folding](https://www.biorxiv.org/content/10.1101/2025.04.29.651236v1?rss=1) / 05月03日 08:00
 <!--rss-papers:end-->
