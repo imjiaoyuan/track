@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月06日 09:25**
-- 今天周二，白天🌤️多云(17°~28°)，空气良(70)，夜间阴
-- 明天周三，白天🌤️多云(17°~28°)，空气良(94)，夜间小雨
+**四川省/成都/成都 2025年05月06日 11:07**
+- 今天周二，白天🌤️多云(17°~28°)，空气良(72)，夜间阴
+- 明天周三，白天🌤️多云(17°~28°)，空气良(86)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月06日 09:25**
-- 今天周二，白天🌧️小雨(17°~21°)，空气优(50)
-- 明天周三，白天☁️阴(18°~27°)，空气良(61)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月06日 11:07**
+- 今天周二，白天🌧️小雨(17°~21°)，空气优(48)
+- 明天周三，白天☁️阴(18°~27°)，空气良(59)，夜间小雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [树莓派64位系统安装WiringPi](https://hp-l.github.io/2025/05/06/091156/) / 09:11
 - [你是否会因一句话而改变人生？](http://m.wufazhuce.com/question/4356) / 06:25
 - [步行去那里](http://m.wufazhuce.com/article/6781) / 06:25
 - [VOL.4595](http://m.wufazhuce.com/one/4744) / 06:25
@@ -35,7 +36,6 @@
 - [熊猫，走起](https://www.xiangshitan.com/post/3399.html) / 04月29日 23:06
 - [打工记（五）](https://yukieyun.net/roam/gravedigger-of-capitalism-05/) / 04月29日 07:48
 - [暗盒 01](https://ameow.xyz/archives/film-roll-01) / 04月28日 23:57
-- [使用 ChimeraX 绘制晶体结构小分子密度](https://xxu.do/posts/x-ray/Using-ChimeraX-to-plot-crystal-structure-small-molecule-density) / 04月28日 22:32
 <!--rss-blogs:end-->
 ---
 # Research Papers
