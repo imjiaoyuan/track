@@ -1,29 +1,28 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月06日 22:18**
-- 今天周二，白天🌤️多云(16°~28°)，空气良(72)
-- 明天周三，白天🌤️多云(18°~25°)，空气良(71)，夜间小雨
+**四川省/成都/成都 2025年05月07日 00:21**
+- 今天周三，白天🌤️多云(18°~25°)，空气良(72)，夜间小雨
+- 明天周四，白天☁️阴(17°~28°)，空气良(84)，夜间多云
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月06日 22:18**
-- 今天周二，白天🌧️小雨(16°~21°)，空气良(52)
-- 明天周三，白天🌤️多云(17°~27°)，空气良(58)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月07日 00:21**
+- 今天周三，白天🌤️多云(17°~27°)，空气良(67)，夜间小雨
+- 明天周四，白天🌧️小雨(18°~27°)，空气良(77)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/) / 22:14
-- [绍兴游记](https://www.ntiy.com/2274.html) / 15:51
-- [七百天后](https://imzm.im/700-days-after/) / 12:20
-- [树莓派64位系统安装WiringPi](https://hp-l.github.io/2025/05/06/091156/) / 09:11
-- [立夏 | 2025 年 4 月小结](https://thirdshire.com/april-recap-2025/) / 08:29
-- [你是否会因一句话而改变人生？](http://m.wufazhuce.com/question/4356) / 06:25
-- [步行去那里](http://m.wufazhuce.com/article/6781) / 06:25
-- [VOL.4595](http://m.wufazhuce.com/one/4744) / 06:25
-
 **历史记录**
+- [如果你想使用这套 WordPress 主题](https://anotherdayu.com/2025/6919/) / 05月06日 23:14
+- [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/) / 05月06日 22:14
+- [绍兴游记](https://www.ntiy.com/2274.html) / 05月06日 15:51
+- [七百天后](https://imzm.im/700-days-after/) / 05月06日 12:20
+- [树莓派64位系统安装WiringPi](https://hp-l.github.io/2025/05/06/091156/) / 05月06日 09:11
+- [立夏 | 2025 年 4 月小结](https://thirdshire.com/april-recap-2025/) / 05月06日 08:29
+- [你是否会因一句话而改变人生？](http://m.wufazhuce.com/question/4356) / 05月06日 06:25
+- [步行去那里](http://m.wufazhuce.com/article/6781) / 05月06日 06:25
+- [VOL.4595](http://m.wufazhuce.com/one/4744) / 05月06日 06:25
 - [燕赵邯郸访古 02](https://blog.pursuitus.com/yan-zhao-handan-visits-02-html.html) / 05月05日 21:42
 - [人到中年，就会开始养生…](https://blog.douchi.space/middle-age-wellness/) / 05月05日 14:57
 - [猫鱼周刊 vol. 063 自己煮饭](https://ameow.xyz/archives/weekly-063) / 05月05日 02:38
@@ -35,17 +34,16 @@
 - [Exploring Spatial Transcriptomics A Dive into Visium Data Analysis in Python](https://divingintogeneticsandgenomics.com/post/python-visium/) / 05月03日 08:00
 - [活着，以观自在](https://www.xiangshitan.com/post/3400.html) / 05月02日 08:29
 - [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 05月01日 12:26
-- [柏林和布拉格](https://www.skyue.com/25043013.html) / 04月30日 13:54
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [XVCF: Exquisite Visualization of VCF Data from Genomic Experiments](https://www.biorxiv.org/content/10.1101/2025.04.30.651450v1?rss=1) / 08:00
-- [SAKPE: A Site Attention Kinetic Parameters Prediction Method for Enzyme Engineering](https://www.biorxiv.org/content/10.1101/2025.04.30.651216v1?rss=1) / 08:00
-- [Large-scale transcriptome mining enables macrocyclic diversification and improved bioactivity of the stephanotic acid scaffold](https://www.nature.com/articles/s41467-025-59428-4) / 08:00
-
 **历史记录**
+- [XVCF: Exquisite Visualization of VCF Data from Genomic Experiments](https://www.biorxiv.org/content/10.1101/2025.04.30.651450v1?rss=1) / 05月06日 08:00
+- [SAKPE: A Site Attention Kinetic Parameters Prediction Method for Enzyme Engineering](https://www.biorxiv.org/content/10.1101/2025.04.30.651216v1?rss=1) / 05月06日 08:00
+- [CRISPRi perturbation screens and eQTLs provide complementary and distinct insights into GWAS target genes](https://www.biorxiv.org/content/10.1101/2025.05.05.651929v1?rss=1) / 05月06日 08:00
+- [Evaluating variant pathogenicity prediction tools to establish African inclusive guidelines for germline genetic testing](https://www.nature.com/articles/s43856-025-00883-x) / 05月06日 08:00
+- [Large-scale transcriptome mining enables macrocyclic diversification and improved bioactivity of the stephanotic acid scaffold](https://www.nature.com/articles/s41467-025-59428-4) / 05月06日 08:00
 - [mimicDetector: a pipeline for protein motif mimicry detection in host-pathogen systems](https://www.biorxiv.org/content/10.1101/2025.05.02.651971v1?rss=1) / 05月05日 08:00
 - [PyCycleBio: modelling non-sinusoidal-oscillator systems in temporal biology](https://www.biorxiv.org/content/10.1101/2025.04.30.651403v1?rss=1) / 05月05日 08:00
 - [Limits of deep-learning-based RNA prediction methods](https://www.biorxiv.org/content/10.1101/2025.04.30.651414v1?rss=1) / 05月05日 08:00
@@ -61,6 +59,4 @@
 - [MIST-Explorer: The Comprehensive Toolkit for Spatial Omic Analysis and Visualization of Single-Cell MIST Array Data](https://www.biorxiv.org/content/10.1101/2025.04.29.650640v1?rss=1) / 05月04日 08:00
 - [AI-assisted Drug Re-purposing for Human Liver Fibrosis](https://www.biorxiv.org/content/10.1101/2025.04.29.651320v1?rss=1) / 05月04日 08:00
 - [Genome-wide expression gradient estimation based on local pseudotime in single cell RNA sequencing](https://www.biorxiv.org/content/10.1101/2025.05.01.650773v1?rss=1) / 05月04日 08:00
-- [SarcAsM: AI-based multiscale analysis of sarcomere organization and contractility in cardiomyocytes](https://www.biorxiv.org/content/10.1101/2025.04.29.650605v1?rss=1) / 05月04日 08:00
-- [Evaluation of Nanopore direct RNA sequencing updates for modification detection](https://www.biorxiv.org/content/10.1101/2025.05.01.651717v1?rss=1) / 05月04日 08:00
 <!--rss-papers:end-->
