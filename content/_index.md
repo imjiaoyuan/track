@@ -1,14 +1,12 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月08日 00:24**
-- 今天周四，白天🌤️多云(18°~29°)，空气良(72)，夜间小雨
+**四川省/成都/成都 2025年05月08日 02:26**
+- 今天周四，白天🌤️多云(17°~29°)，空气良(72)，夜间小雨
 - 明天周五，白天🌧️小雨(16°~28°)，空气良(65)，夜间多云
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月08日 00:24**
-- 今天周四，白天☁️阴(19°~28°)，空气良(84)，夜间小雨
-- 明天周五，白天☁️阴(17°~28°)，空气良(78)，夜间小雨
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**Yibin**
+- Failed: Network Error
 <!--qweather:end-->
 ---
 # Blog Posts
@@ -46,6 +44,8 @@
 - [Benchmarking of Quantum SVM and Classical ML Algorithms for Prediction of Therapeutic Proteins](https://www.biorxiv.org/content/10.1101/2025.04.30.651419v1?rss=1) / 05月07日 08:00
 - [AF2Rank Revisited: Reproducing AlphaFold-Based Structure Evaluation and a Hypothesis for Context-Aware Refinement (CAR-AF)](https://www.biorxiv.org/content/10.1101/2025.04.30.651434v1?rss=1) / 05月07日 08:00
 - [HADDOCK3: A modular and versatile platform for integrative modelling of biomolecular complexes](https://www.biorxiv.org/content/10.1101/2025.04.30.651432v1?rss=1) / 05月07日 08:00
+- [Evolution of β-lactam resistance causes fitness reductions and several cases of collateral sensitivities in the human pathogen Haemophilus influenzae](https://www.biorxiv.org/content/10.1101/2025.05.02.651845v1?rss=1) / 05月07日 08:00
+- [Genome structure mapping with high-resolution 3D genomics and deep learning](https://www.biorxiv.org/content/10.1101/2025.05.06.650874v1?rss=1) / 05月07日 08:00
 - [Sequencing and functional analysis of Sphingobium yanoikuyae A-TP genome reveals genes for utilization of limonene, α-pinene, and citronellol](https://www.biorxiv.org/content/10.1101/2025.04.30.651573v1?rss=1) / 05月07日 08:00
 - [Adapter dilution and input optimisation for Qiagen QIAseq miRNA Library kit](https://www.biorxiv.org/content/10.1101/2025.04.30.651388v1?rss=1) / 05月07日 08:00
 - [Development and validation of HIV SMRTcap for the characterization of HIV-1 reservoirs across tissues and subtypes](https://www.biorxiv.org/content/10.1101/2025.05.01.651657v1?rss=1) / 05月07日 08:00
@@ -57,6 +57,4 @@
 - [Single-cell alternative polyadenylation analysis reveals mechanistic insights of COVID-19-associated neurological and psychiatric effects](https://www.biorxiv.org/content/10.1101/2025.05.02.651855v1?rss=1) / 05月06日 08:00
 - [Quantifying uncertainty in Protein Representations Across Models and Task](https://www.biorxiv.org/content/10.1101/2025.04.30.651545v1?rss=1) / 05月06日 08:00
 - [Pathogenic Missense Mutations in Intrinsically Disordered Regions Reveal Functional and Clinical Signals](https://www.biorxiv.org/content/10.1101/2025.05.01.651640v1?rss=1) / 05月06日 08:00
-- [XVCF: Exquisite Visualization of VCF Data from Genomic Experiments](https://www.biorxiv.org/content/10.1101/2025.04.30.651450v1?rss=1) / 05月06日 08:00
-- [SAKPE: A Site Attention Kinetic Parameters Prediction Method for Enzyme Engineering](https://www.biorxiv.org/content/10.1101/2025.04.30.651216v1?rss=1) / 05月06日 08:00
 <!--rss-papers:end-->
