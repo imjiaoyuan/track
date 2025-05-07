@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月07日 09:26**
-- 今天周三，白天☁️阴(15°~26°)，空气良(76)，夜间中雨
-- 明天周四，白天☁️阴(18°~29°)，空气良(82)，夜间多云
-- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**四川省/成都/成都 2025年05月07日 11:09**
+- 今天周三，白天☁️阴(15°~26°)，空气良(72)，夜间中雨
+- 明天周四，白天☁️阴(18°~29°)，空气良(80)，夜间多云
+- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月07日 09:26**
-- 今天周三，白天☁️阴(17°~27°)，空气良(62)，夜间小雨
-- 明天周四，白天☁️阴(19°~28°)，空气良(80)
+**四川省/宜宾/宜宾 2025年05月07日 11:09**
+- 今天周三，白天☁️阴(18°~27°)，空气良(65)，夜间小雨
+- 明天周四，白天☁️阴(19°~28°)，空气良(83)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -21,6 +21,7 @@
 **历史记录**
 - [如果你想使用这套 WordPress 主题](https://anotherdayu.com/2025/6919/) / 05月06日 23:14
 - [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/) / 05月06日 22:14
+- [楠溪江自驾Day1 - 大胆的想法](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-01.html) / 05月06日 21:52
 - [绍兴游记](https://www.ntiy.com/2274.html) / 05月06日 15:51
 - [七百天后](https://imzm.im/700-days-after/) / 05月06日 12:20
 - [树莓派64位系统安装WiringPi](https://hp-l.github.io/2025/05/06/091156/) / 05月06日 09:11
@@ -35,7 +36,6 @@
 - [久违的不胶囊衣柜｜近些年每次穿都很开心的衣服们](http://bamboobone9.com/favorite-purchases-2025/) / 05月03日 23:54
 - [Exploring Spatial Transcriptomics A Dive into Visium Data Analysis in Python](https://divingintogeneticsandgenomics.com/post/python-visium/) / 05月03日 08:00
 - [活着，以观自在](https://www.xiangshitan.com/post/3400.html) / 05月02日 08:29
-- [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) / 05月01日 12:26
 <!--rss-blogs:end-->
 ---
 # Research Papers
