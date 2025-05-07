@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月07日 14:27**
+**四川省/成都/成都 2025年05月07日 16:26**
 - 今天周三，白天☁️阴(15°~26°)，空气良(71)，夜间中雨
-- 明天周四，白天☁️阴(18°~29°)，空气良(83)，夜间多云
+- 明天周四，白天☁️阴(18°~29°)，空气良(72)，夜间多云
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月07日 14:27**
-- 今天周三，白天☁️阴(18°~27°)，空气良(66)，夜间小雨
-- 明天周四，白天☁️阴(19°~28°)，空气良(79)
+**四川省/宜宾/宜宾 2025年05月07日 16:26**
+- 今天周三，白天☁️阴(18°~27°)，空气良(62)，夜间小雨
+- 明天周四，白天☁️阴(19°~28°)，空气良(75)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -40,12 +40,17 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [HADDOCK3: A modular and versatile platform for integrative modelling of biomolecular complexes](https://www.biorxiv.org/content/10.1101/2025.04.30.651432v1?rss=1) / 08:00
+
 **历史记录**
 - [Single-cell alternative polyadenylation analysis reveals mechanistic insights of COVID-19-associated neurological and psychiatric effects](https://www.biorxiv.org/content/10.1101/2025.05.02.651855v1?rss=1) / 05月06日 08:00
 - [Quantifying uncertainty in Protein Representations Across Models and Task](https://www.biorxiv.org/content/10.1101/2025.04.30.651545v1?rss=1) / 05月06日 08:00
 - [Pathogenic Missense Mutations in Intrinsically Disordered Regions Reveal Functional and Clinical Signals](https://www.biorxiv.org/content/10.1101/2025.05.01.651640v1?rss=1) / 05月06日 08:00
 - [XVCF: Exquisite Visualization of VCF Data from Genomic Experiments](https://www.biorxiv.org/content/10.1101/2025.04.30.651450v1?rss=1) / 05月06日 08:00
 - [SAKPE: A Site Attention Kinetic Parameters Prediction Method for Enzyme Engineering](https://www.biorxiv.org/content/10.1101/2025.04.30.651216v1?rss=1) / 05月06日 08:00
+- [NMNAT1 Binding at Promoters and Enhancers Couples NAD+ Synthesis to RNA Polymerase II Engagement](https://www.biorxiv.org/content/10.1101/2025.04.30.651499v1?rss=1) / 05月06日 08:00
+- [Sample-specific CpG loci are important for accurate long-read methylation analysis](https://www.biorxiv.org/content/10.1101/2025.04.30.651558v1?rss=1) / 05月06日 08:00
 - [CRISPRi perturbation screens and eQTLs provide complementary and distinct insights into GWAS target genes](https://www.biorxiv.org/content/10.1101/2025.05.05.651929v1?rss=1) / 05月06日 08:00
 - [Evaluating variant pathogenicity prediction tools to establish African inclusive guidelines for germline genetic testing](https://www.nature.com/articles/s43856-025-00883-x) / 05月06日 08:00
 - [Large-scale transcriptome mining enables macrocyclic diversification and improved bioactivity of the stephanotic acid scaffold](https://www.nature.com/articles/s41467-025-59428-4) / 05月06日 08:00
@@ -58,7 +63,4 @@
 - [Local adaptation has a role in reducing vulnerability to climate change in a widespread Amazonian forest lizard](https://www.nature.com/articles/s41437-025-00765-x) / 05月05日 08:00
 - [48-Hour and 24-Hour Time-lapse Single-nucleus Transcriptomics Reveal Cell-type specific Circadian Rhythms in Arabidopsis](https://www.nature.com/articles/s41467-025-59424-8) / 05月05日 08:00
 - [Near-complete Middle Eastern genomes refine autozygosity and enhance disease-causing and population-specific variant discovery](https://www.nature.com/articles/s41588-025-02173-7) / 05月05日 08:00
-- [Quantification of single cell-type-specific alternative transcript initiation](https://www.biorxiv.org/content/10.1101/2025.04.29.651292v1?rss=1) / 05月04日 08:00
-- [Gene-based calibration of high-throughput functional assays for clinical variant classification](https://www.biorxiv.org/content/10.1101/2025.04.29.651326v1?rss=1) / 05月04日 08:00
-- [Localized Reactivity on Protein as Riemannian Manifolds:A Geometric and Quantum-Informed Basis for Deterministic, Metal-Aware Reactive-Site Prediction](https://www.biorxiv.org/content/10.1101/2025.04.29.651260v1?rss=1) / 05月04日 08:00
 <!--rss-papers:end-->
