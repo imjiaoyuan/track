@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月07日 20:39**
-- 今天周三，白天☁️阴(18°~26°)，空气良(75)，夜间小雨
-- 明天周四，白天🌤️多云(18°~29°)，空气良(72)，夜间小雨
+**四川省/成都/成都 2025年05月07日 22:19**
+- 今天周三，白天☁️阴(18°~26°)，空气良(79)，夜间小雨
+- 明天周四，白天🌤️多云(18°~29°)，空气良(67)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月07日 20:39**
-- 今天周三，白天☁️阴(19°~27°)，空气良(62)，夜间小雨
-- 明天周四，白天☁️阴(19°~28°)，空气良(80)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月07日 22:19**
+- 今天周三，白天☁️阴(19°~27°)，空气良(66)，夜间小雨
+- 明天周四，白天☁️阴(19°~28°)，空气良(79)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -52,6 +52,8 @@
 - [Development and validation of HIV SMRTcap for the characterization of HIV-1 reservoirs across tissues and subtypes](https://www.biorxiv.org/content/10.1101/2025.05.01.651657v1?rss=1) / 08:00
 - [Emergence Risks from Within? Metagenomic Analysis of Mosquito Viromes from Two Zoos Reveals Mosquito-associated Orthobunyaviruses in the UK](https://www.biorxiv.org/content/10.1101/2025.05.01.651672v1?rss=1) / 08:00
 - [Optimizing Single-Cell Long-Read Sequencing for Enhanced Isoform Detection in Pancreatic Islets](https://www.biorxiv.org/content/10.1101/2025.04.30.651101v1?rss=1) / 08:00
+- [Telomere-to-telomere gap-free genome assembly of Euchiloglanis kishinouyei](https://www.nature.com/articles/s41597-025-05068-8) / 08:00
+- [Opportunities and challenges for paediatricians requesting funded genomic tests for children](https://www.nature.com/articles/s41431-025-01864-3) / 08:00
 
 **历史记录**
 - [Single-cell alternative polyadenylation analysis reveals mechanistic insights of COVID-19-associated neurological and psychiatric effects](https://www.biorxiv.org/content/10.1101/2025.05.02.651855v1?rss=1) / 05月06日 08:00
@@ -61,6 +63,4 @@
 - [SAKPE: A Site Attention Kinetic Parameters Prediction Method for Enzyme Engineering](https://www.biorxiv.org/content/10.1101/2025.04.30.651216v1?rss=1) / 05月06日 08:00
 - [NMNAT1 Binding at Promoters and Enhancers Couples NAD+ Synthesis to RNA Polymerase II Engagement](https://www.biorxiv.org/content/10.1101/2025.04.30.651499v1?rss=1) / 05月06日 08:00
 - [Sample-specific CpG loci are important for accurate long-read methylation analysis](https://www.biorxiv.org/content/10.1101/2025.04.30.651558v1?rss=1) / 05月06日 08:00
-- [CRISPRi perturbation screens and eQTLs provide complementary and distinct insights into GWAS target genes](https://www.biorxiv.org/content/10.1101/2025.05.05.651929v1?rss=1) / 05月06日 08:00
-- [Evaluating variant pathogenicity prediction tools to establish African inclusive guidelines for germline genetic testing](https://www.nature.com/articles/s43856-025-00883-x) / 05月06日 08:00
 <!--rss-papers:end-->
