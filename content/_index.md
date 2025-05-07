@@ -1,14 +1,14 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月07日 18:20**
+**四川省/成都/成都 2025年05月07日 20:39**
 - 今天周三，白天☁️阴(18°~26°)，空气良(75)，夜间小雨
 - 明天周四，白天🌤️多云(18°~29°)，空气良(72)，夜间小雨
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月07日 18:20**
+**四川省/宜宾/宜宾 2025年05月07日 20:39**
 - 今天周三，白天☁️阴(19°~27°)，空气良(62)，夜间小雨
 - 明天周四，白天☁️阴(19°~28°)，空气良(80)，夜间小雨
-- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
+- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
@@ -41,7 +41,16 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Identify Alzheimer's disease subtypes and makers from multi-omic data of human brain and blood with a subspace merging algorithm](https://www.biorxiv.org/content/10.1101/2025.04.30.651565v1?rss=1) / 08:00
+- [An automated software-assisted approach for exploring metabolic susceptibility and degradation products in macromolecules using High-Resolution Mass Spectrometry](https://www.biorxiv.org/content/10.1101/2025.05.01.651614v1?rss=1) / 08:00
+- [Incorporating LLM-Derived Information into Hypothesis Testing for Genomics Applications](https://www.biorxiv.org/content/10.1101/2025.04.30.651464v1?rss=1) / 08:00
+- [Benchmarking of Quantum SVM and Classical ML Algorithms for Prediction of Therapeutic Proteins](https://www.biorxiv.org/content/10.1101/2025.04.30.651419v1?rss=1) / 08:00
+- [AF2Rank Revisited: Reproducing AlphaFold-Based Structure Evaluation and a Hypothesis for Context-Aware Refinement (CAR-AF)](https://www.biorxiv.org/content/10.1101/2025.04.30.651434v1?rss=1) / 08:00
 - [HADDOCK3: A modular and versatile platform for integrative modelling of biomolecular complexes](https://www.biorxiv.org/content/10.1101/2025.04.30.651432v1?rss=1) / 08:00
+- [Sequencing and functional analysis of Sphingobium yanoikuyae A-TP genome reveals genes for utilization of limonene, α-pinene, and citronellol](https://www.biorxiv.org/content/10.1101/2025.04.30.651573v1?rss=1) / 08:00
+- [Adapter dilution and input optimisation for Qiagen QIAseq miRNA Library kit](https://www.biorxiv.org/content/10.1101/2025.04.30.651388v1?rss=1) / 08:00
+- [Development and validation of HIV SMRTcap for the characterization of HIV-1 reservoirs across tissues and subtypes](https://www.biorxiv.org/content/10.1101/2025.05.01.651657v1?rss=1) / 08:00
+- [Emergence Risks from Within? Metagenomic Analysis of Mosquito Viromes from Two Zoos Reveals Mosquito-associated Orthobunyaviruses in the UK](https://www.biorxiv.org/content/10.1101/2025.05.01.651672v1?rss=1) / 08:00
 - [Optimizing Single-Cell Long-Read Sequencing for Enhanced Isoform Detection in Pancreatic Islets](https://www.biorxiv.org/content/10.1101/2025.04.30.651101v1?rss=1) / 08:00
 
 **历史记录**
@@ -54,13 +63,4 @@
 - [Sample-specific CpG loci are important for accurate long-read methylation analysis](https://www.biorxiv.org/content/10.1101/2025.04.30.651558v1?rss=1) / 05月06日 08:00
 - [CRISPRi perturbation screens and eQTLs provide complementary and distinct insights into GWAS target genes](https://www.biorxiv.org/content/10.1101/2025.05.05.651929v1?rss=1) / 05月06日 08:00
 - [Evaluating variant pathogenicity prediction tools to establish African inclusive guidelines for germline genetic testing](https://www.nature.com/articles/s43856-025-00883-x) / 05月06日 08:00
-- [Large-scale transcriptome mining enables macrocyclic diversification and improved bioactivity of the stephanotic acid scaffold](https://www.nature.com/articles/s41467-025-59428-4) / 05月06日 08:00
-- [mimicDetector: a pipeline for protein motif mimicry detection in host-pathogen systems](https://www.biorxiv.org/content/10.1101/2025.05.02.651971v1?rss=1) / 05月05日 08:00
-- [PyCycleBio: modelling non-sinusoidal-oscillator systems in temporal biology](https://www.biorxiv.org/content/10.1101/2025.04.30.651403v1?rss=1) / 05月05日 08:00
-- [Limits of deep-learning-based RNA prediction methods](https://www.biorxiv.org/content/10.1101/2025.04.30.651414v1?rss=1) / 05月05日 08:00
-- [Athlytics: A Computational Framework for Longitudinal Analysis of Exercise Physiology Metrics from Wearable Sensor Data](https://www.biorxiv.org/content/10.1101/2025.05.01.651597v1?rss=1) / 05月05日 08:00
-- [Uncovering Convergent Cell State Dynamics Across Divergent Genetic Perturbations Through Single-Cell High-Content CRISPR Screening](https://www.biorxiv.org/content/10.1101/2025.05.02.651939v1?rss=1) / 05月05日 08:00
-- [Gene regulatory networks linked to GABA signalling emerge as relevant for glioblastoma pathogenesis](https://www.biorxiv.org/content/10.1101/2025.04.30.651564v1?rss=1) / 05月05日 08:00
-- [Local adaptation has a role in reducing vulnerability to climate change in a widespread Amazonian forest lizard](https://www.nature.com/articles/s41437-025-00765-x) / 05月05日 08:00
-- [48-Hour and 24-Hour Time-lapse Single-nucleus Transcriptomics Reveal Cell-type specific Circadian Rhythms in Arabidopsis](https://www.nature.com/articles/s41467-025-59424-8) / 05月05日 08:00
 <!--rss-papers:end-->
