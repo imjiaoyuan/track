@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月07日 16:26**
-- 今天周三，白天☁️阴(15°~26°)，空气良(71)，夜间中雨
-- 明天周四，白天☁️阴(18°~29°)，空气良(72)，夜间多云
+**四川省/成都/成都 2025年05月07日 18:20**
+- 今天周三，白天☁️阴(18°~26°)，空气良(75)，夜间小雨
+- 明天周四，白天🌤️多云(18°~29°)，空气良(72)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月07日 16:26**
-- 今天周三，白天☁️阴(18°~27°)，空气良(62)，夜间小雨
-- 明天周四，白天☁️阴(19°~28°)，空气良(75)
+**四川省/宜宾/宜宾 2025年05月07日 18:20**
+- 今天周三，白天☁️阴(19°~27°)，空气良(62)，夜间小雨
+- 明天周四，白天☁️阴(19°~28°)，空气良(80)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -42,6 +42,7 @@
 <!--rss-papers:start-->
 **今日更新**
 - [HADDOCK3: A modular and versatile platform for integrative modelling of biomolecular complexes](https://www.biorxiv.org/content/10.1101/2025.04.30.651432v1?rss=1) / 08:00
+- [Optimizing Single-Cell Long-Read Sequencing for Enhanced Isoform Detection in Pancreatic Islets](https://www.biorxiv.org/content/10.1101/2025.04.30.651101v1?rss=1) / 08:00
 
 **历史记录**
 - [Single-cell alternative polyadenylation analysis reveals mechanistic insights of COVID-19-associated neurological and psychiatric effects](https://www.biorxiv.org/content/10.1101/2025.05.02.651855v1?rss=1) / 05月06日 08:00
@@ -62,5 +63,4 @@
 - [Gene regulatory networks linked to GABA signalling emerge as relevant for glioblastoma pathogenesis](https://www.biorxiv.org/content/10.1101/2025.04.30.651564v1?rss=1) / 05月05日 08:00
 - [Local adaptation has a role in reducing vulnerability to climate change in a widespread Amazonian forest lizard](https://www.nature.com/articles/s41437-025-00765-x) / 05月05日 08:00
 - [48-Hour and 24-Hour Time-lapse Single-nucleus Transcriptomics Reveal Cell-type specific Circadian Rhythms in Arabidopsis](https://www.nature.com/articles/s41467-025-59424-8) / 05月05日 08:00
-- [Near-complete Middle Eastern genomes refine autozygosity and enhance disease-causing and population-specific variant discovery](https://www.nature.com/articles/s41588-025-02173-7) / 05月05日 08:00
 <!--rss-papers:end-->
