@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月08日 14:27**
-- 今天周四，白天🌤️多云(16°~30°)，空气良(68)
-- 明天周五，白天🌤️多云(16°~28°)，空气良(65)，夜间阴
+**四川省/成都/成都 2025年05月08日 16:24**
+- 今天周四，白天🌤️多云(16°~30°)，空气良(75)
+- 明天周五，白天🌤️多云(16°~28°)，空气良(66)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月08日 14:27**
-- 今天周四，白天☁️阴(19°~28°)，空气良(84)
-- 明天周五，白天☁️阴(17°~26°)，空气良(86)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月08日 16:24**
+- 今天周四，白天☁️阴(19°~29°)，空气良(82)
+- 明天周五，白天☁️阴(17°~26°)，空气良(87)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [卡牌构筑类桌游核心规则之七](https://blog.codingnow.com/2025/05/dbg_rules_7.html) / 14:48
 - [楠溪江自驾Day2 - 寻源大青岗](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-02.html) / 06:48
 - [不做人类的话，你更想成为什么？](http://m.wufazhuce.com/question/4359) / 06:25
 - [荒园](http://m.wufazhuce.com/article/6785) / 06:25
@@ -35,7 +36,6 @@
 - [通过 Proxmox VE 上的 Debian Cloud 虚拟机与 CUPS 共享打印机](https://blog.gxres.net/posts/share-printer-through-vm-on-proxmox-ve-and-cups) / 05月04日 08:00
 - [学习周刊-总第209期-2025年第18周](https://wiki.eryajf.net/pages/050366/) / 05月04日 06:39
 - [久违的不胶囊衣柜｜近些年每次穿都很开心的衣服们](http://bamboobone9.com/favorite-purchases-2025/) / 05月03日 23:54
-- [Exploring Spatial Transcriptomics A Dive into Visium Data Analysis in Python](https://divingintogeneticsandgenomics.com/post/python-visium/) / 05月03日 08:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
