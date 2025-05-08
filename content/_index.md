@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月08日 12:22**
+**四川省/成都/成都 2025年05月08日 14:27**
 - 今天周四，白天🌤️多云(16°~30°)，空气良(68)
 - 明天周五，白天🌤️多云(16°~28°)，空气良(65)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月08日 12:22**
+**四川省/宜宾/宜宾 2025年05月08日 14:27**
 - 今天周四，白天☁️阴(19°~28°)，空气良(84)
 - 明天周五，白天☁️阴(17°~26°)，空气良(86)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [EVA: a Foundation Model Advancing Translational Drug Development in Immuno-Inflammation](https://www.biorxiv.org/content/10.1101/2025.05.02.651839v1?rss=1) / 05月07日 08:00
+- [Downscaling local distribution of cattle over Guadeloupe archipelago: an adapted method for disaggregating census data](https://www.biorxiv.org/content/10.1101/2025.05.02.651856v1?rss=1) / 05月07日 08:00
 - [cytoGPNet: Enhancing Clinical Outcome Prediction Accuracy Using Longitudinal Cytometry Data in Small Cohort Studies](https://www.biorxiv.org/content/10.1101/2025.05.01.651729v1?rss=1) / 05月07日 08:00
 - [Bonferroni's correction not Tukey's should be used for making pairwise comparisons in experiments with few replicates.](https://www.biorxiv.org/content/10.1101/2025.05.01.651705v1?rss=1) / 05月07日 08:00
 - [PanScan: A Tool for Tertiary Analysis of Human Pangenome Graphs](https://www.biorxiv.org/content/10.1101/2025.05.01.651685v1?rss=1) / 05月07日 08:00
@@ -59,6 +61,4 @@
 - [Identify Alzheimer's disease subtypes and makers from multi-omic data of human brain and blood with a subspace merging algorithm](https://www.biorxiv.org/content/10.1101/2025.04.30.651565v1?rss=1) / 05月07日 08:00
 - [An automated software-assisted approach for exploring metabolic susceptibility and degradation products in macromolecules using High-Resolution Mass Spectrometry](https://www.biorxiv.org/content/10.1101/2025.05.01.651614v1?rss=1) / 05月07日 08:00
 - [Incorporating LLM-Derived Information into Hypothesis Testing for Genomics Applications](https://www.biorxiv.org/content/10.1101/2025.04.30.651464v1?rss=1) / 05月07日 08:00
-- [Benchmarking of Quantum SVM and Classical ML Algorithms for Prediction of Therapeutic Proteins](https://www.biorxiv.org/content/10.1101/2025.04.30.651419v1?rss=1) / 05月07日 08:00
-- [AF2Rank Revisited: Reproducing AlphaFold-Based Structure Evaluation and a Hypothesis for Context-Aware Refinement (CAR-AF)](https://www.biorxiv.org/content/10.1101/2025.04.30.651434v1?rss=1) / 05月07日 08:00
 <!--rss-papers:end-->
