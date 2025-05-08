@@ -1,22 +1,24 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月08日 06:18**
-- 今天周四，白天🌤️多云(14°~29°)，空气良(72)
-- 明天周五，白天🌤️多云(15°~28°)，空气良(65)
+**四川省/成都/成都 2025年05月08日 09:26**
+- 今天周四，白天🌤️多云(16°~30°)，空气良(70)
+- 明天周五，白天🌤️多云(16°~28°)，空气良(64)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月08日 06:18**
-- 今天周四，白天☁️阴(19°~28°)，空气良(84)
-- 明天周五，白天☁️阴(17°~26°)，空气良(78)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月08日 09:26**
+- 今天周四，白天☁️阴(19°~28°)，空气良(83)
+- 明天周五，白天☁️阴(17°~26°)，空气良(84)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [不做人类的话，你更想成为什么？](http://m.wufazhuce.com/question/4359) / 06:25
+- [荒园](http://m.wufazhuce.com/article/6785) / 06:25
+- [VOL.4597](http://m.wufazhuce.com/one/4746) / 06:25
+
 **历史记录**
-- [面试时，你遇到过哪些糟糕的问题？](http://m.wufazhuce.com/question/4358) / 05月07日 06:25
-- [长安记](http://m.wufazhuce.com/article/6783) / 05月07日 06:25
-- [VOL.4596](http://m.wufazhuce.com/one/4745) / 05月07日 06:25
 - [如果你想使用这套 WordPress 主题](https://anotherdayu.com/2025/6919/) / 05月06日 23:14
 - [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/) / 05月06日 22:14
 - [楠溪江自驾Day1 - 大胆的想法](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-01.html) / 05月06日 21:52
@@ -39,6 +41,11 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Medlib: A Feature-Rich C/C++ Library for Exact Alignment of Nanopore Sequences Using Multiple Edit Distance](https://www.biorxiv.org/content/10.1101/2025.05.01.651420v1?rss=1) / 05月07日 08:00
+- [Separable Spatial Single-cell Transcriptome Representation Learning via Graph Transformer and Hyperspherical Prototype Clustering](https://www.biorxiv.org/content/10.1101/2025.05.01.651634v1?rss=1) / 05月07日 08:00
+- [GENETIC ENGINEERING THROUGH QUANTUM CIRCUITS: CONSTRUCTION OF CODES AND ANALYSIS OF GENETIC ELEMENTS BIOBLOQU](https://www.biorxiv.org/content/10.1101/2025.05.02.651535v1?rss=1) / 05月07日 08:00
+- [RPSLearner: A novel approach based on random projection and deep stacking learning for categorizing NSCLC](https://www.biorxiv.org/content/10.1101/2025.05.01.651699v1?rss=1) / 05月07日 08:00
+- [AWmeta empowers adaptively-weighted transcriptomic meta-analysis](https://www.biorxiv.org/content/10.1101/2025.05.06.650408v1?rss=1) / 05月07日 08:00
 - [HUGMi: Human Uro-Genital Microbiome database and hybrid classifier for improved species level annotation of 16S rRNA amplicon sequences](https://www.biorxiv.org/content/10.1101/2025.05.01.651608v1?rss=1) / 05月07日 08:00
 - [A Gentle Introduction to Spatial Transcriptomic Analysis with 10X Visium Data](https://www.biorxiv.org/content/10.1101/2025.05.01.651786v1?rss=1) / 05月07日 08:00
 - [Spatial profiling of chromatin accessibility reveals alteration of glial cells in Alzheimer's disease mouse brain](https://www.biorxiv.org/content/10.1101/2025.05.01.651759v1?rss=1) / 05月07日 08:00
@@ -50,13 +57,8 @@
 - [Benchmarking of Quantum SVM and Classical ML Algorithms for Prediction of Therapeutic Proteins](https://www.biorxiv.org/content/10.1101/2025.04.30.651419v1?rss=1) / 05月07日 08:00
 - [AF2Rank Revisited: Reproducing AlphaFold-Based Structure Evaluation and a Hypothesis for Context-Aware Refinement (CAR-AF)](https://www.biorxiv.org/content/10.1101/2025.04.30.651434v1?rss=1) / 05月07日 08:00
 - [HADDOCK3: A modular and versatile platform for integrative modelling of biomolecular complexes](https://www.biorxiv.org/content/10.1101/2025.04.30.651432v1?rss=1) / 05月07日 08:00
+- [A Chromosome-Scale Genome of Nanomia septata Reveals Extensive Rearrangement But No Clear Driver of the Unique Colony-Level Organization of Siphonophores](https://www.biorxiv.org/content/10.1101/2025.05.01.651713v1?rss=1) / 05月07日 08:00
 - [Chromosome-level genome assembly of the photobiont alga Trebouxia sp. 'A48' from Xanthoria parietina provides new insight into the lichen symbiosis](https://www.biorxiv.org/content/10.1101/2025.05.01.651714v1?rss=1) / 05月07日 08:00
 - [Evolution of β-lactam resistance causes fitness reductions and several cases of collateral sensitivities in the human pathogen Haemophilus influenzae](https://www.biorxiv.org/content/10.1101/2025.05.02.651845v1?rss=1) / 05月07日 08:00
 - [Genome structure mapping with high-resolution 3D genomics and deep learning](https://www.biorxiv.org/content/10.1101/2025.05.06.650874v1?rss=1) / 05月07日 08:00
-- [Sequencing and functional analysis of Sphingobium yanoikuyae A-TP genome reveals genes for utilization of limonene, α-pinene, and citronellol](https://www.biorxiv.org/content/10.1101/2025.04.30.651573v1?rss=1) / 05月07日 08:00
-- [Adapter dilution and input optimisation for Qiagen QIAseq miRNA Library kit](https://www.biorxiv.org/content/10.1101/2025.04.30.651388v1?rss=1) / 05月07日 08:00
-- [Development and validation of HIV SMRTcap for the characterization of HIV-1 reservoirs across tissues and subtypes](https://www.biorxiv.org/content/10.1101/2025.05.01.651657v1?rss=1) / 05月07日 08:00
-- [Emergence Risks from Within? Metagenomic Analysis of Mosquito Viromes from Two Zoos Reveals Mosquito-associated Orthobunyaviruses in the UK](https://www.biorxiv.org/content/10.1101/2025.05.01.651672v1?rss=1) / 05月07日 08:00
-- [Optimizing Single-Cell Long-Read Sequencing for Enhanced Isoform Detection in Pancreatic Islets](https://www.biorxiv.org/content/10.1101/2025.04.30.651101v1?rss=1) / 05月07日 08:00
-- [Telomere-to-telomere gap-free genome assembly of Euchiloglanis kishinouyei](https://www.nature.com/articles/s41597-025-05068-8) / 05月07日 08:00
 <!--rss-papers:end-->
