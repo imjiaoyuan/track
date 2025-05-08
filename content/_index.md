@@ -1,26 +1,24 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月08日 22:16**
-- 今天周四，白天🌤️多云(18°~30°)，空气良(68)
-- 明天周五，白天🌤️多云(17°~28°)，空气良(60)，夜间阴
+**四川省/成都/成都 2025年05月09日 00:23**
+- 今天周五，白天🌤️多云(17°~28°)，空气良(63)，夜间阴
+- 明天周六，白天🌤️多云(14°~29°)，空气良(90)，夜间晴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月08日 22:16**
-- 今天周四，白天☁️阴(18°~28°)，空气良(79)，夜间小雨
-- 明天周五，白天☁️阴(17°~27°)，空气良(81)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月09日 00:23**
+- 今天周五，白天☁️阴(17°~27°)，空气良(83)，夜间小雨
+- 明天周六，白天🌧️小雨(13°~24°)，空气良(80)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [卡牌构筑类桌游核心规则之七](https://blog.codingnow.com/2025/05/dbg_rules_7.html) / 14:48
-- [楠溪江自驾Day2 - 寻源大青岗](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-02.html) / 06:48
-- [不做人类的话，你更想成为什么？](http://m.wufazhuce.com/question/4359) / 06:25
-- [荒园](http://m.wufazhuce.com/article/6785) / 06:25
-- [VOL.4597](http://m.wufazhuce.com/one/4746) / 06:25
-
 **历史记录**
+- [卡牌构筑类桌游核心规则之七](https://blog.codingnow.com/2025/05/dbg_rules_7.html) / 05月08日 14:48
+- [楠溪江自驾Day2 - 寻源大青岗](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-02.html) / 05月08日 06:48
+- [不做人类的话，你更想成为什么？](http://m.wufazhuce.com/question/4359) / 05月08日 06:25
+- [荒园](http://m.wufazhuce.com/article/6785) / 05月08日 06:25
+- [VOL.4597](http://m.wufazhuce.com/one/4746) / 05月08日 06:25
 - [如果你想使用这套 WordPress 主题](https://anotherdayu.com/2025/6919/) / 05月06日 23:14
 - [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/) / 05月06日 22:14
 - [楠溪江自驾Day1 - 大胆的想法](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-01.html) / 05月06日 21:52
@@ -40,11 +38,14 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Author Correction: Mapping genetic diversity with the GenomeIndia project](https://www.nature.com/articles/s41588-025-02206-1) / 08:00
-- [Regulation of H3K4me3 breadth and MYC expression by the SETD1B catalytic domain in MLL-rearranged leukemia](https://www.nature.com/articles/s41375-025-02638-y) / 08:00
-
 **历史记录**
+- [GeneFix-AI: AI-Powered CRISPR-Cas9 System for Real-Time Detection and Correction of Mutations in Non-Human Species](https://www.biorxiv.org/content/10.1101/2025.05.04.652132v1?rss=1) / 05月08日 08:00
+- [AI-powered integration of multi-source data for TAA discovery to accelerate ADC and TCE drug development (I): TAA Target Identification and Prioritization](https://www.biorxiv.org/content/10.1101/2025.05.06.652559v1?rss=1) / 05月08日 08:00
+- [A novel machine learning-based algorithm for eQTL identification reveals complex pleiotropic effects in the MHC region](https://www.biorxiv.org/content/10.1101/2025.05.06.652558v1?rss=1) / 05月08日 08:00
+- [Identification of a novel transcriptome signature for predicting the response to anti-TNF-α treatment in rheumatoid arthritis patients](https://www.biorxiv.org/content/10.1101/2025.05.05.652166v1?rss=1) / 05月08日 08:00
+- [Author Correction: Mapping genetic diversity with the GenomeIndia project](https://www.nature.com/articles/s41588-025-02206-1) / 05月08日 08:00
+- [Development of a novel amplicon based whole-genome sequencing framework for improved surveillance of Toscana virus](https://www.nature.com/articles/s42003-025-08159-9) / 05月08日 08:00
+- [Regulation of H3K4me3 breadth and MYC expression by the SETD1B catalytic domain in MLL-rearranged leukemia](https://www.nature.com/articles/s41375-025-02638-y) / 05月08日 08:00
 - [EVA: a Foundation Model Advancing Translational Drug Development in Immuno-Inflammation](https://www.biorxiv.org/content/10.1101/2025.05.02.651839v1?rss=1) / 05月07日 08:00
 - [Downscaling local distribution of cattle over Guadeloupe archipelago: an adapted method for disaggregating census data](https://www.biorxiv.org/content/10.1101/2025.05.02.651856v1?rss=1) / 05月07日 08:00
 - [cytoGPNet: Enhancing Clinical Outcome Prediction Accuracy Using Longitudinal Cytometry Data in Small Cohort Studies](https://www.biorxiv.org/content/10.1101/2025.05.01.651729v1?rss=1) / 05月07日 08:00
@@ -58,9 +59,4 @@
 - [RPSLearner: A novel approach based on random projection and deep stacking learning for categorizing NSCLC](https://www.biorxiv.org/content/10.1101/2025.05.01.651699v1?rss=1) / 05月07日 08:00
 - [AWmeta empowers adaptively-weighted transcriptomic meta-analysis](https://www.biorxiv.org/content/10.1101/2025.05.06.650408v1?rss=1) / 05月07日 08:00
 - [HUGMi: Human Uro-Genital Microbiome database and hybrid classifier for improved species level annotation of 16S rRNA amplicon sequences](https://www.biorxiv.org/content/10.1101/2025.05.01.651608v1?rss=1) / 05月07日 08:00
-- [A Gentle Introduction to Spatial Transcriptomic Analysis with 10X Visium Data](https://www.biorxiv.org/content/10.1101/2025.05.01.651786v1?rss=1) / 05月07日 08:00
-- [Spatial profiling of chromatin accessibility reveals alteration of glial cells in Alzheimer's disease mouse brain](https://www.biorxiv.org/content/10.1101/2025.05.01.651759v1?rss=1) / 05月07日 08:00
-- [Antibody-Based Targeting of the SPP1-CD44 Axis in Pediatric High-Grade Glioma through Single-Cell and Structural Bioinformatics](https://www.biorxiv.org/content/10.1101/2025.05.01.651763v1?rss=1) / 05月07日 08:00
-- [Cross-species analysis of experimental PH at single cell resolution reveals prominent contributions Ednrb+ EC and Dhcr24+ macrophage populations](https://www.biorxiv.org/content/10.1101/2025.04.30.651587v1?rss=1) / 05月07日 08:00
-- [Identify Alzheimer's disease subtypes and makers from multi-omic data of human brain and blood with a subspace merging algorithm](https://www.biorxiv.org/content/10.1101/2025.04.30.651565v1?rss=1) / 05月07日 08:00
 <!--rss-papers:end-->
