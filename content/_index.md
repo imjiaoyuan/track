@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月08日 16:24**
-- 今天周四，白天🌤️多云(16°~30°)，空气良(75)
-- 明天周五，白天🌤️多云(16°~28°)，空气良(66)，夜间阴
+**四川省/成都/成都 2025年05月08日 18:20**
+- 今天周四，白天🌤️多云(18°~30°)，空气良(67)
+- 明天周五，白天🌤️多云(17°~28°)，空气良(63)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月08日 16:24**
-- 今天周四，白天☁️阴(19°~29°)，空气良(82)
-- 明天周五，白天☁️阴(17°~26°)，空气良(87)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月08日 18:20**
+- 今天周四，白天☁️阴(18°~28°)，空气良(80)，夜间小雨
+- 明天周五，白天☁️阴(17°~27°)，空气良(84)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -40,6 +40,9 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Regulation of H3K4me3 breadth and MYC expression by the SETD1B catalytic domain in MLL-rearranged leukemia](https://www.nature.com/articles/s41375-025-02638-y) / 08:00
+
 **历史记录**
 - [EVA: a Foundation Model Advancing Translational Drug Development in Immuno-Inflammation](https://www.biorxiv.org/content/10.1101/2025.05.02.651839v1?rss=1) / 05月07日 08:00
 - [Downscaling local distribution of cattle over Guadeloupe archipelago: an adapted method for disaggregating census data](https://www.biorxiv.org/content/10.1101/2025.05.02.651856v1?rss=1) / 05月07日 08:00
@@ -60,5 +63,4 @@
 - [Cross-species analysis of experimental PH at single cell resolution reveals prominent contributions Ednrb+ EC and Dhcr24+ macrophage populations](https://www.biorxiv.org/content/10.1101/2025.04.30.651587v1?rss=1) / 05月07日 08:00
 - [Identify Alzheimer's disease subtypes and makers from multi-omic data of human brain and blood with a subspace merging algorithm](https://www.biorxiv.org/content/10.1101/2025.04.30.651565v1?rss=1) / 05月07日 08:00
 - [An automated software-assisted approach for exploring metabolic susceptibility and degradation products in macromolecules using High-Resolution Mass Spectrometry](https://www.biorxiv.org/content/10.1101/2025.05.01.651614v1?rss=1) / 05月07日 08:00
-- [Incorporating LLM-Derived Information into Hypothesis Testing for Genomics Applications](https://www.biorxiv.org/content/10.1101/2025.04.30.651464v1?rss=1) / 05月07日 08:00
 <!--rss-papers:end-->
