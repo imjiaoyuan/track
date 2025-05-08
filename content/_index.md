@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月08日 11:10**
-- 今天周四，白天🌤️多云(16°~30°)，空气良(72)
-- 明天周五，白天🌤️多云(16°~28°)，空气良(61)，夜间阴
+**四川省/成都/成都 2025年05月08日 12:22**
+- 今天周四，白天🌤️多云(16°~30°)，空气良(68)
+- 明天周五，白天🌤️多云(16°~28°)，空气良(65)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月08日 11:10**
-- 今天周四，白天☁️阴(19°~28°)，空气良(80)
-- 明天周五，白天☁️阴(17°~26°)，空气良(84)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月08日 12:22**
+- 今天周四，白天☁️阴(19°~28°)，空气良(84)
+- 明天周五，白天☁️阴(17°~26°)，空气良(86)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [cytoGPNet: Enhancing Clinical Outcome Prediction Accuracy Using Longitudinal Cytometry Data in Small Cohort Studies](https://www.biorxiv.org/content/10.1101/2025.05.01.651729v1?rss=1) / 05月07日 08:00
+- [Bonferroni's correction not Tukey's should be used for making pairwise comparisons in experiments with few replicates.](https://www.biorxiv.org/content/10.1101/2025.05.01.651705v1?rss=1) / 05月07日 08:00
 - [PanScan: A Tool for Tertiary Analysis of Human Pangenome Graphs](https://www.biorxiv.org/content/10.1101/2025.05.01.651685v1?rss=1) / 05月07日 08:00
 - [Regenie.QRS: computationally efficient whole-genome quantile regression at biobank scale](https://www.biorxiv.org/content/10.1101/2025.05.02.651730v1?rss=1) / 05月07日 08:00
 - [Beyond Natural Antibodies: Scaffold-Based Generation of Novel Anti-3CLpro Nanobody Nb01](https://www.biorxiv.org/content/10.1101/2025.05.06.652338v1?rss=1) / 05月07日 08:00
@@ -59,6 +61,4 @@
 - [Incorporating LLM-Derived Information into Hypothesis Testing for Genomics Applications](https://www.biorxiv.org/content/10.1101/2025.04.30.651464v1?rss=1) / 05月07日 08:00
 - [Benchmarking of Quantum SVM and Classical ML Algorithms for Prediction of Therapeutic Proteins](https://www.biorxiv.org/content/10.1101/2025.04.30.651419v1?rss=1) / 05月07日 08:00
 - [AF2Rank Revisited: Reproducing AlphaFold-Based Structure Evaluation and a Hypothesis for Context-Aware Refinement (CAR-AF)](https://www.biorxiv.org/content/10.1101/2025.04.30.651434v1?rss=1) / 05月07日 08:00
-- [HADDOCK3: A modular and versatile platform for integrative modelling of biomolecular complexes](https://www.biorxiv.org/content/10.1101/2025.04.30.651432v1?rss=1) / 05月07日 08:00
-- [A Chromosome-Scale Genome of Nanomia septata Reveals Extensive Rearrangement But No Clear Driver of the Unique Colony-Level Organization of Siphonophores](https://www.biorxiv.org/content/10.1101/2025.05.01.651713v1?rss=1) / 05月07日 08:00
 <!--rss-papers:end-->
