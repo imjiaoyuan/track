@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月09日 00:23**
+**四川省/成都/成都 2025年05月09日 02:26**
 - 今天周五，白天🌤️多云(17°~28°)，空气良(63)，夜间阴
 - 明天周六，白天🌤️多云(14°~29°)，空气良(90)，夜间晴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月09日 00:23**
+**四川省/宜宾/宜宾 2025年05月09日 02:26**
 - 今天周五，白天☁️阴(17°~27°)，空气良(83)，夜间小雨
 - 明天周六，白天🌧️小雨(13°~24°)，空气良(80)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -13,6 +13,9 @@
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [使用 React Native Screens 构建一个 Simple Navigation](https://innei.in/posts/tech/build-simple-navigation-with-react-native-screens) / 01:01
+
 **历史记录**
 - [卡牌构筑类桌游核心规则之七](https://blog.codingnow.com/2025/05/dbg_rules_7.html) / 05月08日 14:48
 - [楠溪江自驾Day2 - 寻源大青岗](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-02.html) / 05月08日 06:48
@@ -33,12 +36,13 @@
 - [老王（）](https://hp-l.github.io/2025/05/04/103937/) / 05月04日 10:39
 - [通过 Proxmox VE 上的 Debian Cloud 虚拟机与 CUPS 共享打印机](https://blog.gxres.net/posts/share-printer-through-vm-on-proxmox-ve-and-cups) / 05月04日 08:00
 - [学习周刊-总第209期-2025年第18周](https://wiki.eryajf.net/pages/050366/) / 05月04日 06:39
-- [久违的不胶囊衣柜｜近些年每次穿都很开心的衣服们](http://bamboobone9.com/favorite-purchases-2025/) / 05月03日 23:54
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Predicting Molecular Taste: Multi-Label and Multi-Class Classification](https://www.biorxiv.org/content/10.1101/2025.05.02.651828v1?rss=1) / 05月08日 08:00
+- [INLAomics for Scalable and Interpretable Spatial Multiomic Data Integration](https://www.biorxiv.org/content/10.1101/2025.05.02.651831v1?rss=1) / 05月08日 08:00
 - [GeneFix-AI: AI-Powered CRISPR-Cas9 System for Real-Time Detection and Correction of Mutations in Non-Human Species](https://www.biorxiv.org/content/10.1101/2025.05.04.652132v1?rss=1) / 05月08日 08:00
 - [AI-powered integration of multi-source data for TAA discovery to accelerate ADC and TCE drug development (I): TAA Target Identification and Prioritization](https://www.biorxiv.org/content/10.1101/2025.05.06.652559v1?rss=1) / 05月08日 08:00
 - [A novel machine learning-based algorithm for eQTL identification reveals complex pleiotropic effects in the MHC region](https://www.biorxiv.org/content/10.1101/2025.05.06.652558v1?rss=1) / 05月08日 08:00
@@ -57,6 +61,4 @@
 - [Separable Spatial Single-cell Transcriptome Representation Learning via Graph Transformer and Hyperspherical Prototype Clustering](https://www.biorxiv.org/content/10.1101/2025.05.01.651634v1?rss=1) / 05月07日 08:00
 - [GENETIC ENGINEERING THROUGH QUANTUM CIRCUITS: CONSTRUCTION OF CODES AND ANALYSIS OF GENETIC ELEMENTS BIOBLOQU](https://www.biorxiv.org/content/10.1101/2025.05.02.651535v1?rss=1) / 05月07日 08:00
 - [RPSLearner: A novel approach based on random projection and deep stacking learning for categorizing NSCLC](https://www.biorxiv.org/content/10.1101/2025.05.01.651699v1?rss=1) / 05月07日 08:00
-- [AWmeta empowers adaptively-weighted transcriptomic meta-analysis](https://www.biorxiv.org/content/10.1101/2025.05.06.650408v1?rss=1) / 05月07日 08:00
-- [HUGMi: Human Uro-Genital Microbiome database and hybrid classifier for improved species level annotation of 16S rRNA amplicon sequences](https://www.biorxiv.org/content/10.1101/2025.05.01.651608v1?rss=1) / 05月07日 08:00
 <!--rss-papers:end-->
