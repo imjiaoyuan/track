@@ -1,12 +1,12 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月09日 04:20**
-- 今天周五，白天🌤️多云(17°~28°)，空气良(63)，夜间阴
-- 明天周六，白天🌤️多云(14°~29°)，空气良(90)，夜间晴
+**四川省/成都/成都 2025年05月09日 06:17**
+- 今天周五，白天🌤️多云(15°~28°)，空气良(63)
+- 明天周六，白天☀️晴(13°~29°)，空气良(90)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月09日 04:20**
-- 今天周五，白天☁️阴(17°~27°)，空气良(83)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月09日 06:17**
+- 今天周五，白天🌧️小雨(17°~26°)，空气良(83)
 - 明天周六，白天🌧️小雨(13°~24°)，空气良(80)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
@@ -41,11 +41,13 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [ORANGE: A Machine Learning Approach for Modeling Tissue-Specific Aging from Transcriptomic Data](https://www.biorxiv.org/content/10.1101/2025.05.02.651895v1?rss=1) / 05月08日 08:00
 - [Predicting Molecular Taste: Multi-Label and Multi-Class Classification](https://www.biorxiv.org/content/10.1101/2025.05.02.651828v1?rss=1) / 05月08日 08:00
 - [INLAomics for Scalable and Interpretable Spatial Multiomic Data Integration](https://www.biorxiv.org/content/10.1101/2025.05.02.651831v1?rss=1) / 05月08日 08:00
 - [GeneFix-AI: AI-Powered CRISPR-Cas9 System for Real-Time Detection and Correction of Mutations in Non-Human Species](https://www.biorxiv.org/content/10.1101/2025.05.04.652132v1?rss=1) / 05月08日 08:00
 - [AI-powered integration of multi-source data for TAA discovery to accelerate ADC and TCE drug development (I): TAA Target Identification and Prioritization](https://www.biorxiv.org/content/10.1101/2025.05.06.652559v1?rss=1) / 05月08日 08:00
 - [A novel machine learning-based algorithm for eQTL identification reveals complex pleiotropic effects in the MHC region](https://www.biorxiv.org/content/10.1101/2025.05.06.652558v1?rss=1) / 05月08日 08:00
+- [Cryptic diversity arises from glacial cycles in Pacific herring, a critical forage fish](https://www.biorxiv.org/content/10.1101/2025.05.02.651951v1?rss=1) / 05月08日 08:00
 - [Identification of a novel transcriptome signature for predicting the response to anti-TNF-α treatment in rheumatoid arthritis patients](https://www.biorxiv.org/content/10.1101/2025.05.05.652166v1?rss=1) / 05月08日 08:00
 - [Author Correction: Mapping genetic diversity with the GenomeIndia project](https://www.nature.com/articles/s41588-025-02206-1) / 05月08日 08:00
 - [Development of a novel amplicon based whole-genome sequencing framework for improved surveillance of Toscana virus](https://www.nature.com/articles/s42003-025-08159-9) / 05月08日 08:00
@@ -59,6 +61,4 @@
 - [Beyond Natural Antibodies: Scaffold-Based Generation of Novel Anti-3CLpro Nanobody Nb01](https://www.biorxiv.org/content/10.1101/2025.05.06.652338v1?rss=1) / 05月07日 08:00
 - [Medlib: A Feature-Rich C/C++ Library for Exact Alignment of Nanopore Sequences Using Multiple Edit Distance](https://www.biorxiv.org/content/10.1101/2025.05.01.651420v1?rss=1) / 05月07日 08:00
 - [Separable Spatial Single-cell Transcriptome Representation Learning via Graph Transformer and Hyperspherical Prototype Clustering](https://www.biorxiv.org/content/10.1101/2025.05.01.651634v1?rss=1) / 05月07日 08:00
-- [GENETIC ENGINEERING THROUGH QUANTUM CIRCUITS: CONSTRUCTION OF CODES AND ANALYSIS OF GENETIC ELEMENTS BIOBLOQU](https://www.biorxiv.org/content/10.1101/2025.05.02.651535v1?rss=1) / 05月07日 08:00
-- [RPSLearner: A novel approach based on random projection and deep stacking learning for categorizing NSCLC](https://www.biorxiv.org/content/10.1101/2025.05.01.651699v1?rss=1) / 05月07日 08:00
 <!--rss-papers:end-->
