@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月09日 12:22**
+**四川省/成都/成都 2025年05月09日 14:27**
 - 今天周五，白天🌤️多云(18°~29°)，空气良(69)，夜间阴
 - 明天周六，白天☀️晴(14°~29°)，空气良(85)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月09日 12:22**
+**四川省/宜宾/宜宾 2025年05月09日 14:27**
 - 今天周五，白天🌧️小雨(17°~26°)，空气良(87)
 - 明天周六，白天🌧️小雨(13°~24°)，空气良(87)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Bonsai: Tree representations for distortion-free visualization and exploratory analysis of single-cell omics data](https://www.biorxiv.org/content/10.1101/2025.05.08.652944v1?rss=1) / 05月08日 08:00
 - [CRISMER: A transformer-based Interpretable Deep Learning Approach for Genome-wide CRISPR Cas-9 Off-Target Prediction and Optimization](https://www.biorxiv.org/content/10.1101/2025.05.03.652008v1?rss=1) / 05月08日 08:00
 - [In silico analysis and Predictive linkage of Deubiquitinating Enzymes underlying Early Development](https://www.biorxiv.org/content/10.1101/2025.05.03.652026v1?rss=1) / 05月08日 08:00
 - [NanoLoop: A deep learning framework leveraging Nanopore sequencing for chromatin loop prediction](https://www.biorxiv.org/content/10.1101/2025.05.03.651998v1?rss=1) / 05月08日 08:00
@@ -57,8 +58,7 @@
 - [GeneFix-AI: AI-Powered CRISPR-Cas9 System for Real-Time Detection and Correction of Mutations in Non-Human Species](https://www.biorxiv.org/content/10.1101/2025.05.04.652132v1?rss=1) / 05月08日 08:00
 - [AI-powered integration of multi-source data for TAA discovery to accelerate ADC and TCE drug development (I): TAA Target Identification and Prioritization](https://www.biorxiv.org/content/10.1101/2025.05.06.652559v1?rss=1) / 05月08日 08:00
 - [A novel machine learning-based algorithm for eQTL identification reveals complex pleiotropic effects in the MHC region](https://www.biorxiv.org/content/10.1101/2025.05.06.652558v1?rss=1) / 05月08日 08:00
+- [Identity-by-descent captures Shared Environmental Factors at Biobank Scale](https://www.biorxiv.org/content/10.1101/2025.05.03.652048v1?rss=1) / 05月08日 08:00
 - [Spatiotemporal profiling reveals the impact of caloric restriction on mammalian brain aging](https://www.biorxiv.org/content/10.1101/2025.05.04.652093v1?rss=1) / 05月08日 08:00
 - [Integrative analysis of RNA binding proteins identifies DDX55 as a novel regulator of 3'UTR isoform diversity](https://www.biorxiv.org/content/10.1101/2025.05.06.652471v1?rss=1) / 05月08日 08:00
-- [High-Throughput Multiomics Profiling of Model Systems Using the AVITI24 Platform](https://www.biorxiv.org/content/10.1101/2025.05.03.651997v1?rss=1) / 05月08日 08:00
-- [EnrichSci: Transcript-guided Targeted Cell Enrichment for Scalable Single-Cell RNA Sequencing](https://www.biorxiv.org/content/10.1101/2025.05.02.651937v1?rss=1) / 05月08日 08:00
 <!--rss-papers:end-->
