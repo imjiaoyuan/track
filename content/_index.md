@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月09日 18:19**
+**四川省/成都/成都 2025年05月09日 20:36**
 - 今天周五，白天🌤️多云(16°~29°)，空气良(62)，夜间阴
 - 明天周六，白天🌤️多云(13°~27°)，空气轻度污染(112)，夜间晴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月09日 18:19**
+**四川省/宜宾/宜宾 2025年05月09日 20:36**
 - 今天周五，白天🌧️小雨(15°~26°)，空气良(81)
 - 明天周六，白天🌧️小雨(12°~22°)，空气优(49)，夜间阴
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [日本旅游攻略：赴日前的准备与注意事项](https://song.al/japantravel) / 18:39
 - [记录二五年五一之短暂回归家庭](https://wiki.eryajf.net/pages/ad1f6b/) / 18:10
 - [学习周刊-总第210期-2025年第19周](https://wiki.eryajf.net/pages/ff011f/) / 16:28
 - [个人网站博客可以尝试的 100 件事](https://anotherdayu.com/2025/6940/) / 09:45
@@ -35,11 +36,17 @@
 - [树莓派64位系统安装WiringPi](https://hp-l.github.io/2025/05/06/091156/) / 05月06日 09:11
 - [立夏 | 2025 年 4 月小结](https://thirdshire.com/april-recap-2025/) / 05月06日 08:29
 - [燕赵邯郸访古 02](https://blog.pursuitus.com/yan-zhao-handan-visits-02-html.html) / 05月05日 21:42
-- [人到中年，就会开始养生…](https://blog.douchi.space/middle-age-wellness/) / 05月05日 14:57
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Streamlining Multiplexed Tissue Image Analysis with PIP{Sigma}X: An Integrated Automated Pipeline for Image Processing and EXploration for Diverse Tissue Types](https://www.biorxiv.org/content/10.1101/2025.05.04.652145v1?rss=1) / 08:00
+- [Application of spatial transcriptomics across organoids: a high-resolution spatial whole-transcriptome benchmarking dataset](https://www.biorxiv.org/content/10.1101/2025.05.04.651803v1?rss=1) / 08:00
+- [A comprehensive water buffalo pangenome reveals extensive structural variation linked to population specific signatures of selection](https://www.biorxiv.org/content/10.1101/2025.05.04.652079v1?rss=1) / 08:00
+- [Spatially varying graph estimation for spatial transcriptomics cancer data](https://www.biorxiv.org/content/10.1101/2025.05.04.652097v1?rss=1) / 08:00
+- [Chromosome-level genome assembly of the doctor fish (Garra rufa)](https://www.nature.com/articles/s41597-025-05101-w) / 08:00
+
 **历史记录**
 - [Bonsai: Tree representations for distortion-free visualization and exploratory analysis of single-cell omics data](https://www.biorxiv.org/content/10.1101/2025.05.08.652944v1?rss=1) / 05月08日 08:00
 - [CRISMER: A transformer-based Interpretable Deep Learning Approach for Genome-wide CRISPR Cas-9 Off-Target Prediction and Optimization](https://www.biorxiv.org/content/10.1101/2025.05.03.652008v1?rss=1) / 05月08日 08:00
@@ -56,9 +63,4 @@
 - [Predicting Molecular Taste: Multi-Label and Multi-Class Classification](https://www.biorxiv.org/content/10.1101/2025.05.02.651828v1?rss=1) / 05月08日 08:00
 - [INLAomics for Scalable and Interpretable Spatial Multiomic Data Integration](https://www.biorxiv.org/content/10.1101/2025.05.02.651831v1?rss=1) / 05月08日 08:00
 - [GeneFix-AI: AI-Powered CRISPR-Cas9 System for Real-Time Detection and Correction of Mutations in Non-Human Species](https://www.biorxiv.org/content/10.1101/2025.05.04.652132v1?rss=1) / 05月08日 08:00
-- [AI-powered integration of multi-source data for TAA discovery to accelerate ADC and TCE drug development (I): TAA Target Identification and Prioritization](https://www.biorxiv.org/content/10.1101/2025.05.06.652559v1?rss=1) / 05月08日 08:00
-- [A novel machine learning-based algorithm for eQTL identification reveals complex pleiotropic effects in the MHC region](https://www.biorxiv.org/content/10.1101/2025.05.06.652558v1?rss=1) / 05月08日 08:00
-- [Identity-by-descent captures Shared Environmental Factors at Biobank Scale](https://www.biorxiv.org/content/10.1101/2025.05.03.652048v1?rss=1) / 05月08日 08:00
-- [Spatiotemporal profiling reveals the impact of caloric restriction on mammalian brain aging](https://www.biorxiv.org/content/10.1101/2025.05.04.652093v1?rss=1) / 05月08日 08:00
-- [Integrative analysis of RNA binding proteins identifies DDX55 as a novel regulator of 3'UTR isoform diversity](https://www.biorxiv.org/content/10.1101/2025.05.06.652471v1?rss=1) / 05月08日 08:00
 <!--rss-papers:end-->
