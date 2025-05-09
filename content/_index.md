@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月10日 00:22**
+**四川省/成都/成都 2025年05月10日 02:25**
 - 今天周六，白天🌤️多云(13°~27°)，空气轻度污染(114)，夜间晴
 - 明天周日，白天☀️晴(14°~29°)，空气轻度污染(110)，夜间多云
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月10日 00:22**
+**四川省/宜宾/宜宾 2025年05月10日 02:25**
 - 今天周六，白天🌧️小雨(12°~22°)，空气优(50)，夜间阴
 - 明天周日，白天🌤️多云(15°~28°)，空气良(84)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,6 +41,7 @@
 **历史记录**
 - [Streamlining Multiplexed Tissue Image Analysis with PIP{Sigma}X: An Integrated Automated Pipeline for Image Processing and EXploration for Diverse Tissue Types](https://www.biorxiv.org/content/10.1101/2025.05.04.652145v1?rss=1) / 05月09日 08:00
 - [Application of spatial transcriptomics across organoids: a high-resolution spatial whole-transcriptome benchmarking dataset](https://www.biorxiv.org/content/10.1101/2025.05.04.651803v1?rss=1) / 05月09日 08:00
+- [Genome Dynamics and Chromosome Structural Variations in Histoplasma ohiense, a fungal pathogen of humans](https://www.biorxiv.org/content/10.1101/2025.05.05.652209v1?rss=1) / 05月09日 08:00
 - [A comprehensive water buffalo pangenome reveals extensive structural variation linked to population specific signatures of selection](https://www.biorxiv.org/content/10.1101/2025.05.04.652079v1?rss=1) / 05月09日 08:00
 - [Spatially varying graph estimation for spatial transcriptomics cancer data](https://www.biorxiv.org/content/10.1101/2025.05.04.652097v1?rss=1) / 05月09日 08:00
 - [Chromosome-level genome assembly of the doctor fish (Garra rufa)](https://www.nature.com/articles/s41597-025-05101-w) / 05月09日 08:00
@@ -58,5 +59,4 @@
 - [ORANGE: A Machine Learning Approach for Modeling Tissue-Specific Aging from Transcriptomic Data](https://www.biorxiv.org/content/10.1101/2025.05.02.651895v1?rss=1) / 05月08日 08:00
 - [Predicting Molecular Taste: Multi-Label and Multi-Class Classification](https://www.biorxiv.org/content/10.1101/2025.05.02.651828v1?rss=1) / 05月08日 08:00
 - [INLAomics for Scalable and Interpretable Spatial Multiomic Data Integration](https://www.biorxiv.org/content/10.1101/2025.05.02.651831v1?rss=1) / 05月08日 08:00
-- [GeneFix-AI: AI-Powered CRISPR-Cas9 System for Real-Time Detection and Correction of Mutations in Non-Human Species](https://www.biorxiv.org/content/10.1101/2025.05.04.652132v1?rss=1) / 05月08日 08:00
 <!--rss-papers:end-->
