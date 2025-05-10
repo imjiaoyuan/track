@@ -1,18 +1,21 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月11日 00:20**
-- 今天周日，白天☀️晴(14°~29°)，空气良(91)，夜间多云
-- 明天周一，白天☁️阴(18°~29°)，空气轻度污染(111)，夜间小雨
+**四川省/成都/成都 2025年05月11日 02:22**
+- 今天周日，白天☀️晴(14°~29°)，空气良(95)，夜间多云
+- 明天周一，白天☁️阴(18°~29°)，空气轻度污染(115)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月11日 00:20**
-- 今天周日，白天☀️晴(13°~28°)，空气良(80)
+**四川省/宜宾/宜宾 2025年05月11日 02:22**
+- 今天周日，白天☀️晴(13°~28°)，空气良(81)
 - 明天周一，白天🌤️多云(18°~30°)，空气良(100)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [大学时光回忆录](https://innei.in/notes/190) / 01:57
+
 **历史记录**
 - [OneKey Pro & Classic 1S 双机评测：从旗舰到入门，哪一款更适合你？](https://song.al/onekey) / 05月10日 10:01
 - [智力药](http://m.wufazhuce.com/article/6788) / 05月10日 06:25
@@ -33,7 +36,6 @@
 - [楠溪江自驾Day1 - 大胆的想法](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-01.html) / 05月06日 21:52
 - [绍兴游记](https://www.ntiy.com/2274.html) / 05月06日 15:51
 - [七百天后](https://imzm.im/700-days-after/) / 05月06日 12:20
-- [树莓派64位系统安装WiringPi](https://hp-l.github.io/2025/05/06/091156/) / 05月06日 09:11
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -43,6 +45,7 @@
 - [DeSciDe: A tool for unbiased literature searching and gene list cu-ration unveils a new role for the acidic patch mutation H2A E92K](https://www.biorxiv.org/content/10.1101/2025.05.05.652253v1?rss=1) / 05月10日 08:00
 - [A flexible framework for automated STED super-resolution microscopy](https://www.biorxiv.org/content/10.1101/2025.05.05.652196v1?rss=1) / 05月10日 08:00
 - [A chromosome-level genome assembly of the aphid Semiaphis heraclei (Takahashi)](https://www.nature.com/articles/s41597-025-04994-x) / 05月10日 08:00
+- [The unexplored diversity of rough-seeded lupins provides rich genomic resources and insights into lupin evolution](https://www.nature.com/articles/s41467-025-58531-w) / 05月10日 08:00
 - [Time-course liver microarray data from 0 to 14 days in a 70% partial hepatectomy mouse model](https://www.nature.com/articles/s41597-025-05128-z) / 05月10日 08:00
 - [STAT3-mediated upregulation of TRIM6 promotes hepatocellular carcinoma invasion through the DDX58-Snail1 axis](https://www.nature.com/articles/s41598-025-96548-9) / 05月10日 08:00
 - [CRIS: A Centralized Resource for High-Quality RNA Structure and Interaction Data in the AI Era](https://www.biorxiv.org/content/10.1101/2025.05.05.652292v1?rss=1) / 05月09日 08:00
@@ -58,5 +61,4 @@
 - [Bonsai: Tree representations for distortion-free visualization and exploratory analysis of single-cell omics data](https://www.biorxiv.org/content/10.1101/2025.05.08.652944v1?rss=1) / 05月08日 08:00
 - [CRISMER: A transformer-based Interpretable Deep Learning Approach for Genome-wide CRISPR Cas-9 Off-Target Prediction and Optimization](https://www.biorxiv.org/content/10.1101/2025.05.03.652008v1?rss=1) / 05月08日 08:00
 - [In silico analysis and Predictive linkage of Deubiquitinating Enzymes underlying Early Development](https://www.biorxiv.org/content/10.1101/2025.05.03.652026v1?rss=1) / 05月08日 08:00
-- [NanoLoop: A deep learning framework leveraging Nanopore sequencing for chromatin loop prediction](https://www.biorxiv.org/content/10.1101/2025.05.03.651998v1?rss=1) / 05月08日 08:00
 <!--rss-papers:end-->
