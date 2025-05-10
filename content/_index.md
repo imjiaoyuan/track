@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月10日 11:02**
-- 今天周六，白天☀️晴(15°~27°)，空气轻度污染(113)
-- 明天周日，白天☀️晴(14°~29°)，空气轻度污染(105)，夜间阴
+**四川省/成都/成都 2025年05月10日 12:20**
+- 今天周六，白天☀️晴(15°~27°)，空气轻度污染(112)
+- 明天周日，白天☀️晴(14°~29°)，空气轻度污染(107)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月10日 11:03**
-- 今天周六，白天🌧️小雨(12°~22°)，空气良(52)，夜间晴
-- 明天周日，白天☀️晴(15°~28°)，空气良(78)，夜间多云
+**四川省/宜宾/宜宾 2025年05月10日 12:20**
+- 今天周六，白天🌧️小雨(12°~22°)，空气优(45)，夜间晴
+- 明天周日，白天☀️晴(15°~28°)，空气良(81)，夜间多云
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [CRIS: A Centralized Resource for High-Quality RNA Structure and Interaction Data in the AI Era](https://www.biorxiv.org/content/10.1101/2025.05.05.652292v1?rss=1) / 05月09日 08:00
 - [CellTune: An integrative software for accurate cell classification in spatial proteomics](https://www.biorxiv.org/content/10.1101/2025.05.05.652215v1?rss=1) / 05月09日 08:00
 - [Streamlining Multiplexed Tissue Image Analysis with PIP{Sigma}X: An Integrated Automated Pipeline for Image Processing and EXploration for Diverse Tissue Types](https://www.biorxiv.org/content/10.1101/2025.05.04.652145v1?rss=1) / 05月09日 08:00
 - [Application of spatial transcriptomics across organoids: a high-resolution spatial whole-transcriptome benchmarking dataset](https://www.biorxiv.org/content/10.1101/2025.05.04.651803v1?rss=1) / 05月09日 08:00
@@ -60,5 +61,4 @@
 - [Computational Screening of Filamin Mechanical Binding Proteins using AlphaFold2](https://www.biorxiv.org/content/10.1101/2025.05.02.651884v1?rss=1) / 05月08日 08:00
 - [DIST: Distance-based Inference of Species Trees](https://www.biorxiv.org/content/10.1101/2025.05.02.651899v1?rss=1) / 05月08日 08:00
 - [CaneCestry : A Web-based Toolbox for Efficient Pedigree Analysis and Visualization.](https://www.biorxiv.org/content/10.1101/2025.05.02.651868v1?rss=1) / 05月08日 08:00
-- [ORANGE: A Machine Learning Approach for Modeling Tissue-Specific Aging from Transcriptomic Data](https://www.biorxiv.org/content/10.1101/2025.05.02.651895v1?rss=1) / 05月08日 08:00
 <!--rss-papers:end-->
