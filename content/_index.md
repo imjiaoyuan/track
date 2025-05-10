@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月10日 20:33**
-- 今天周六，白天☀️晴(13°~27°)，空气轻度污染(106)
-- 明天周日，白天☀️晴(14°~29°)，空气良(99)，夜间多云
+**四川省/成都/成都 2025年05月10日 22:15**
+- 今天周六，白天☀️晴(13°~27°)，空气轻度污染(114)
+- 明天周日，白天☀️晴(14°~29°)，空气良(91)，夜间多云
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月10日 20:33**
-- 今天周六，白天🌧️小雨(12°~22°)，空气良(53)，夜间阴
-- 明天周日，白天☀️晴(13°~28°)，空气良(85)
+**四川省/宜宾/宜宾 2025年05月10日 22:15**
+- 今天周六，白天🌧️小雨(12°~22°)，空气良(51)，夜间阴
+- 明天周日，白天☀️晴(13°~28°)，空气良(80)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [DeSciDe: A tool for unbiased literature searching and gene list cu-ration unveils a new role for the acidic patch mutation H2A E92K](https://www.biorxiv.org/content/10.1101/2025.05.05.652253v1?rss=1) / 08:00
+- [A flexible framework for automated STED super-resolution microscopy](https://www.biorxiv.org/content/10.1101/2025.05.05.652196v1?rss=1) / 08:00
 - [A chromosome-level genome assembly of the aphid Semiaphis heraclei (Takahashi)](https://www.nature.com/articles/s41597-025-04994-x) / 08:00
 - [Time-course liver microarray data from 0 to 14 days in a 70% partial hepatectomy mouse model](https://www.nature.com/articles/s41597-025-05128-z) / 08:00
 - [STAT3-mediated upregulation of TRIM6 promotes hepatocellular carcinoma invasion through the DDX58-Snail1 axis](https://www.nature.com/articles/s41598-025-96548-9) / 08:00
@@ -61,6 +63,4 @@
 - [In silico analysis and Predictive linkage of Deubiquitinating Enzymes underlying Early Development](https://www.biorxiv.org/content/10.1101/2025.05.03.652026v1?rss=1) / 05月08日 08:00
 - [NanoLoop: A deep learning framework leveraging Nanopore sequencing for chromatin loop prediction](https://www.biorxiv.org/content/10.1101/2025.05.03.651998v1?rss=1) / 05月08日 08:00
 - [Deep learning inference of miRNA expression from bulk and single-cell mRNA expression](https://www.biorxiv.org/content/10.1101/2025.05.03.652014v1?rss=1) / 05月08日 08:00
-- [A computational framework for mapping isoform landscape and regulatory mechanisms from spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2025.05.02.651907v1?rss=1) / 05月08日 08:00
-- [BioMedTools: a language model-powered community for biomedical computational tools](https://www.biorxiv.org/content/10.1101/2025.05.02.651919v1?rss=1) / 05月08日 08:00
 <!--rss-papers:end-->
