@@ -1,25 +1,23 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月10日 22:15**
-- 今天周六，白天☀️晴(13°~27°)，空气轻度污染(114)
-- 明天周日，白天☀️晴(14°~29°)，空气良(91)，夜间多云
+**四川省/成都/成都 2025年05月11日 00:20**
+- 今天周日，白天☀️晴(14°~29°)，空气良(91)，夜间多云
+- 明天周一，白天☁️阴(18°~29°)，空气轻度污染(111)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月10日 22:15**
-- 今天周六，白天🌧️小雨(12°~22°)，空气良(51)，夜间阴
-- 明天周日，白天☀️晴(13°~28°)，空气良(80)
+**四川省/宜宾/宜宾 2025年05月11日 00:20**
+- 今天周日，白天☀️晴(13°~28°)，空气良(80)
+- 明天周一，白天🌤️多云(18°~30°)，空气良(100)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [OneKey Pro & Classic 1S 双机评测：从旗舰到入门，哪一款更适合你？](https://song.al/onekey) / 10:01
-- [智力药](http://m.wufazhuce.com/article/6788) / 06:25
-- [VOL.4599](http://m.wufazhuce.com/one/4748) / 06:25
-- [楠溪江自驾Day4 - 林坑古村落](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-04.html) / 00:06
-
 **历史记录**
+- [OneKey Pro & Classic 1S 双机评测：从旗舰到入门，哪一款更适合你？](https://song.al/onekey) / 05月10日 10:01
+- [智力药](http://m.wufazhuce.com/article/6788) / 05月10日 06:25
+- [VOL.4599](http://m.wufazhuce.com/one/4748) / 05月10日 06:25
+- [楠溪江自驾Day4 - 林坑古村落](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-04.html) / 05月10日 00:06
 - [日本旅游攻略：赴日前的准备与注意事项](https://song.al/japantravel) / 05月09日 18:39
 - [记录二五年五一之短暂回归家庭](https://wiki.eryajf.net/pages/ad1f6b/) / 05月09日 18:10
 - [学习周刊-总第210期-2025年第19周](https://wiki.eryajf.net/pages/ff011f/) / 05月09日 16:28
@@ -40,14 +38,13 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [DeSciDe: A tool for unbiased literature searching and gene list cu-ration unveils a new role for the acidic patch mutation H2A E92K](https://www.biorxiv.org/content/10.1101/2025.05.05.652253v1?rss=1) / 08:00
-- [A flexible framework for automated STED super-resolution microscopy](https://www.biorxiv.org/content/10.1101/2025.05.05.652196v1?rss=1) / 08:00
-- [A chromosome-level genome assembly of the aphid Semiaphis heraclei (Takahashi)](https://www.nature.com/articles/s41597-025-04994-x) / 08:00
-- [Time-course liver microarray data from 0 to 14 days in a 70% partial hepatectomy mouse model](https://www.nature.com/articles/s41597-025-05128-z) / 08:00
-- [STAT3-mediated upregulation of TRIM6 promotes hepatocellular carcinoma invasion through the DDX58-Snail1 axis](https://www.nature.com/articles/s41598-025-96548-9) / 08:00
-
 **历史记录**
+- [Guiding clustering and annotation in single-cell RNA sequencing using the average overlap metric](https://www.biorxiv.org/content/10.1101/2025.05.06.652497v1?rss=1) / 05月10日 08:00
+- [DeSciDe: A tool for unbiased literature searching and gene list cu-ration unveils a new role for the acidic patch mutation H2A E92K](https://www.biorxiv.org/content/10.1101/2025.05.05.652253v1?rss=1) / 05月10日 08:00
+- [A flexible framework for automated STED super-resolution microscopy](https://www.biorxiv.org/content/10.1101/2025.05.05.652196v1?rss=1) / 05月10日 08:00
+- [A chromosome-level genome assembly of the aphid Semiaphis heraclei (Takahashi)](https://www.nature.com/articles/s41597-025-04994-x) / 05月10日 08:00
+- [Time-course liver microarray data from 0 to 14 days in a 70% partial hepatectomy mouse model](https://www.nature.com/articles/s41597-025-05128-z) / 05月10日 08:00
+- [STAT3-mediated upregulation of TRIM6 promotes hepatocellular carcinoma invasion through the DDX58-Snail1 axis](https://www.nature.com/articles/s41598-025-96548-9) / 05月10日 08:00
 - [CRIS: A Centralized Resource for High-Quality RNA Structure and Interaction Data in the AI Era](https://www.biorxiv.org/content/10.1101/2025.05.05.652292v1?rss=1) / 05月09日 08:00
 - [CellTune: An integrative software for accurate cell classification in spatial proteomics](https://www.biorxiv.org/content/10.1101/2025.05.05.652215v1?rss=1) / 05月09日 08:00
 - [Streamlining Multiplexed Tissue Image Analysis with PIP{Sigma}X: An Integrated Automated Pipeline for Image Processing and EXploration for Diverse Tissue Types](https://www.biorxiv.org/content/10.1101/2025.05.04.652145v1?rss=1) / 05月09日 08:00
@@ -62,5 +59,4 @@
 - [CRISMER: A transformer-based Interpretable Deep Learning Approach for Genome-wide CRISPR Cas-9 Off-Target Prediction and Optimization](https://www.biorxiv.org/content/10.1101/2025.05.03.652008v1?rss=1) / 05月08日 08:00
 - [In silico analysis and Predictive linkage of Deubiquitinating Enzymes underlying Early Development](https://www.biorxiv.org/content/10.1101/2025.05.03.652026v1?rss=1) / 05月08日 08:00
 - [NanoLoop: A deep learning framework leveraging Nanopore sequencing for chromatin loop prediction](https://www.biorxiv.org/content/10.1101/2025.05.03.651998v1?rss=1) / 05月08日 08:00
-- [Deep learning inference of miRNA expression from bulk and single-cell mRNA expression](https://www.biorxiv.org/content/10.1101/2025.05.03.652014v1?rss=1) / 05月08日 08:00
 <!--rss-papers:end-->
