@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月11日 02:22**
+**四川省/成都/成都 2025年05月11日 04:18**
 - 今天周日，白天☀️晴(14°~29°)，空气良(95)，夜间多云
 - 明天周一，白天☁️阴(18°~29°)，空气轻度污染(115)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月11日 02:22**
+**四川省/宜宾/宜宾 2025年05月11日 04:18**
 - 今天周日，白天☀️晴(13°~28°)，空气良(81)
 - 明天周一，白天🌤️多云(18°~30°)，空气良(100)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,9 +41,12 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [iComBat: An Incremental Framework for Batch Effect Correction in DNA Methylation Array Data](https://www.biorxiv.org/content/10.1101/2025.05.06.652337v1?rss=1) / 05月10日 08:00
+- [An atlas of gene programs in non-small cell lung cancer delineates novel patterns of lineage vacillation, plasticity, and aggressiveness](https://www.biorxiv.org/content/10.1101/2025.05.06.652317v1?rss=1) / 05月10日 08:00
 - [Guiding clustering and annotation in single-cell RNA sequencing using the average overlap metric](https://www.biorxiv.org/content/10.1101/2025.05.06.652497v1?rss=1) / 05月10日 08:00
 - [DeSciDe: A tool for unbiased literature searching and gene list cu-ration unveils a new role for the acidic patch mutation H2A E92K](https://www.biorxiv.org/content/10.1101/2025.05.05.652253v1?rss=1) / 05月10日 08:00
 - [A flexible framework for automated STED super-resolution microscopy](https://www.biorxiv.org/content/10.1101/2025.05.05.652196v1?rss=1) / 05月10日 08:00
+- [Concerted genome expansion of heritable symbionts in an insect host](https://www.biorxiv.org/content/10.1101/2025.05.06.652349v1?rss=1) / 05月10日 08:00
 - [A chromosome-level genome assembly of the aphid Semiaphis heraclei (Takahashi)](https://www.nature.com/articles/s41597-025-04994-x) / 05月10日 08:00
 - [The unexplored diversity of rough-seeded lupins provides rich genomic resources and insights into lupin evolution](https://www.nature.com/articles/s41467-025-58531-w) / 05月10日 08:00
 - [Time-course liver microarray data from 0 to 14 days in a 70% partial hepatectomy mouse model](https://www.nature.com/articles/s41597-025-05128-z) / 05月10日 08:00
@@ -58,7 +61,4 @@
 - [A comprehensive water buffalo pangenome reveals extensive structural variation linked to population specific signatures of selection](https://www.biorxiv.org/content/10.1101/2025.05.04.652079v1?rss=1) / 05月09日 08:00
 - [Spatially varying graph estimation for spatial transcriptomics cancer data](https://www.biorxiv.org/content/10.1101/2025.05.04.652097v1?rss=1) / 05月09日 08:00
 - [Chromosome-level genome assembly of the doctor fish (Garra rufa)](https://www.nature.com/articles/s41597-025-05101-w) / 05月09日 08:00
-- [Bonsai: Tree representations for distortion-free visualization and exploratory analysis of single-cell omics data](https://www.biorxiv.org/content/10.1101/2025.05.08.652944v1?rss=1) / 05月08日 08:00
-- [CRISMER: A transformer-based Interpretable Deep Learning Approach for Genome-wide CRISPR Cas-9 Off-Target Prediction and Optimization](https://www.biorxiv.org/content/10.1101/2025.05.03.652008v1?rss=1) / 05月08日 08:00
-- [In silico analysis and Predictive linkage of Deubiquitinating Enzymes underlying Early Development](https://www.biorxiv.org/content/10.1101/2025.05.03.652026v1?rss=1) / 05月08日 08:00
 <!--rss-papers:end-->
