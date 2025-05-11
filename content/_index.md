@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月11日 14:24**
-- 今天周日，白天☀️晴(13°~30°)，空气良(97)，夜间多云
-- 明天周一，白天☁️阴(18°~30°)，空气轻度污染(115)，夜间小雨
+**四川省/成都/成都 2025年05月11日 16:21**
+- 今天周日，白天☀️晴(13°~31°)，空气良(91)，夜间多云
+- 明天周一，白天☁️阴(18°~30°)，空气轻度污染(104)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月11日 14:24**
-- 今天周日，白天☀️晴(15°~29°)，空气良(87)
-- 明天周一，白天🌤️多云(18°~30°)，空气良(98)，夜间阴
+**四川省/宜宾/宜宾 2025年05月11日 16:21**
+- 今天周日，白天☀️晴(15°~30°)，空气良(81)
+- 明天周一，白天🌤️多云(18°~30°)，空气良(100)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [我们的婚礼](https://www.skyue.com/25051116.html) / 16:14
 - [麻雀](https://www.xiangshitan.com/post/3401.html) / 13:36
 - [被N+1的那段时日，你的心态是什么样子的？](http://m.wufazhuce.com/question/4360) / 06:25
 - [解腕](http://m.wufazhuce.com/article/6786) / 06:25
@@ -35,12 +36,15 @@
 - [如果你想使用这套 WordPress 主题](https://anotherdayu.com/2025/6919/) / 05月06日 23:14
 - [PIVOT Vol.16 输入法、咖啡和爵士](https://anotherdayu.com/2025/6914/) / 05月06日 22:14
 - [楠溪江自驾Day1 - 大胆的想法](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-01.html) / 05月06日 21:52
-- [绍兴游记](https://www.ntiy.com/2274.html) / 05月06日 15:51
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [An evolutionary approach to predict the orientation of CRISPR arrays](https://www.biorxiv.org/content/10.1101/2025.05.09.653049v1?rss=1) / 08:00
+
 **历史记录**
+- [MettleRNASeq: Complex RNA-Seq Data Analysis and Gene Relationships Exploration Based on Machine Learning](https://www.biorxiv.org/content/10.1101/2025.05.06.652387v1?rss=1) / 05月10日 08:00
 - [Alignment-free integration of single-nucleus ATAC-seq across species with sPYce](https://www.biorxiv.org/content/10.1101/2025.05.07.652648v1?rss=1) / 05月10日 08:00
 - [mtgRNA-db: An annotated database of multi-target CRISPR-Cas9 guide-RNAs in the human genome](https://www.biorxiv.org/content/10.1101/2025.05.07.652656v1?rss=1) / 05月10日 08:00
 - [MetagenBERT: a Transformer Architecture using Foundational DNA Read Embedding Models to enhance Disease Classification](https://www.biorxiv.org/content/10.1101/2025.05.06.652444v1?rss=1) / 05月10日 08:00
@@ -56,9 +60,7 @@
 - [Guiding clustering and annotation in single-cell RNA sequencing using the average overlap metric](https://www.biorxiv.org/content/10.1101/2025.05.06.652497v1?rss=1) / 05月10日 08:00
 - [DeSciDe: A tool for unbiased literature searching and gene list cu-ration unveils a new role for the acidic patch mutation H2A E92K](https://www.biorxiv.org/content/10.1101/2025.05.05.652253v1?rss=1) / 05月10日 08:00
 - [A flexible framework for automated STED super-resolution microscopy](https://www.biorxiv.org/content/10.1101/2025.05.05.652196v1?rss=1) / 05月10日 08:00
+- [Human Messenger RNA Harbors Widespread Noncoding Splice Isoforms](https://www.biorxiv.org/content/10.1101/2025.05.06.652571v1?rss=1) / 05月10日 08:00
+- [Unraveling Tyrosine-Kinase Inhibitor Resistance in NSCLC Cells via Same-cell Measurement of RNA, Protein, and Morphological Responses](https://www.biorxiv.org/content/10.1101/2025.05.06.652479v1?rss=1) / 05月10日 08:00
 - [eLaRodON: identification of large genomic rearrangements in Oxford Nanopore sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.07.652628v1?rss=1) / 05月10日 08:00
-- [Patterns and drivers of genome-wide codon usage bias in the fungal order Sordariales](https://www.biorxiv.org/content/10.1101/2025.05.07.652452v1?rss=1) / 05月10日 08:00
-- [Genomic alterations in persistently infecting oncolytic Newcastle disease virus reveal mechanisms of viral persistence in bladder cancer cells](https://www.biorxiv.org/content/10.1101/2025.05.06.652422v1?rss=1) / 05月10日 08:00
-- [Concerted genome expansion of heritable symbionts in an insect host](https://www.biorxiv.org/content/10.1101/2025.05.06.652349v1?rss=1) / 05月10日 08:00
-- [A chromosome-level genome assembly of the aphid Semiaphis heraclei (Takahashi)](https://www.nature.com/articles/s41597-025-04994-x) / 05月10日 08:00
 <!--rss-papers:end-->
