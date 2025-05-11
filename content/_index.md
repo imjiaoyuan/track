@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月11日 09:38**
-- 今天周日，白天☀️晴(13°~30°)，空气良(93)，夜间多云
-- 明天周一，白天☁️阴(18°~30°)，空气轻度污染(115)，夜间小雨
+**四川省/成都/成都 2025年05月11日 11:13**
+- 今天周日，白天☀️晴(13°~30°)，空气良(96)，夜间多云
+- 明天周一，白天☁️阴(18°~30°)，空气轻度污染(119)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月11日 09:38**
+**四川省/宜宾/宜宾 2025年05月11日 11:13**
 - 今天周日，白天☀️晴(15°~28°)，空气良(84)
-- 明天周一，白天🌤️多云(18°~30°)，空气良(97)，夜间阴
+- 明天周一，白天🌤️多云(18°~30°)，空气良(100)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,11 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [g.nome, A Transparent Bioinformatics Pipeline that Enables Differential Expression and Alternative Splicing Analysis by Non-Computational Biologists](https://www.biorxiv.org/content/10.1101/2025.05.09.652286v1?rss=1) / 05月10日 08:00
+- [Expanding the definition of MHC Class I peptide binding promiscuity to support vaccine discovery across cancers with CARMEN](https://www.biorxiv.org/content/10.1101/2025.05.08.651510v1?rss=1) / 05月10日 08:00
+- [CLONEID: A Framework for Monitoring and Steering Subclonal Dynamics](https://www.biorxiv.org/content/10.1101/2025.05.07.652202v1?rss=1) / 05月10日 08:00
+- [CORGIAS: identifying correlated gene pairs by considering evolutionary history in a large-scale prokaryotic genome dataset](https://www.biorxiv.org/content/10.1101/2025.05.07.652372v1?rss=1) / 05月10日 08:00
+- [Transfer learning framework via Bayesian group factor analysis incorporating feature-wise dependencies](https://www.biorxiv.org/content/10.1101/2025.05.07.648613v1?rss=1) / 05月10日 08:00
 - [GENESIS: Generating scRNA-Seq data from Multiome Gene Expression](https://www.biorxiv.org/content/10.1101/2025.05.06.652399v1?rss=1) / 05月10日 08:00
 - [Tool Choice drastically Impacts CRISPR Spacer-Protospacer Detection](https://www.biorxiv.org/content/10.1101/2025.05.06.652306v1?rss=1) / 05月10日 08:00
 - [iComBat: An Incremental Framework for Batch Effect Correction in DNA Methylation Array Data](https://www.biorxiv.org/content/10.1101/2025.05.06.652337v1?rss=1) / 05月10日 08:00
@@ -56,9 +61,4 @@
 - [Time-course liver microarray data from 0 to 14 days in a 70% partial hepatectomy mouse model](https://www.nature.com/articles/s41597-025-05128-z) / 05月10日 08:00
 - [STAT3-mediated upregulation of TRIM6 promotes hepatocellular carcinoma invasion through the DDX58-Snail1 axis](https://www.nature.com/articles/s41598-025-96548-9) / 05月10日 08:00
 - [CRIS: A Centralized Resource for High-Quality RNA Structure and Interaction Data in the AI Era](https://www.biorxiv.org/content/10.1101/2025.05.05.652292v1?rss=1) / 05月09日 08:00
-- [CellTune: An integrative software for accurate cell classification in spatial proteomics](https://www.biorxiv.org/content/10.1101/2025.05.05.652215v1?rss=1) / 05月09日 08:00
-- [Streamlining Multiplexed Tissue Image Analysis with PIP{Sigma}X: An Integrated Automated Pipeline for Image Processing and EXploration for Diverse Tissue Types](https://www.biorxiv.org/content/10.1101/2025.05.04.652145v1?rss=1) / 05月09日 08:00
-- [Application of spatial transcriptomics across organoids: a high-resolution spatial whole-transcriptome benchmarking dataset](https://www.biorxiv.org/content/10.1101/2025.05.04.651803v1?rss=1) / 05月09日 08:00
-- [Isoswitching drives the aging process in human brains](https://www.biorxiv.org/content/10.1101/2025.05.05.652255v1?rss=1) / 05月09日 08:00
-- [A Super-Loop Extrusion Mechanism Shapes the 3D Mitotic Chromosome Folding](https://www.biorxiv.org/content/10.1101/2025.05.05.652288v1?rss=1) / 05月09日 08:00
 <!--rss-papers:end-->
