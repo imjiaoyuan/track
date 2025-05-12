@@ -1,12 +1,12 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月12日 18:21**
+**四川省/成都/成都 2025年05月12日 20:38**
 - 今天周一，白天🌤️多云(17°~32°)，空气轻度污染(108)，夜间小雨
 - 明天周二，白天🌤️多云(18°~28°)，空气良(73)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月12日 18:21**
-- 今天周一，白天☁️阴(20°~32°)，空气良(96)
+**四川省/宜宾/宜宾 2025年05月12日 20:38**
+- 今天周一，白天☁️阴(20°~30°)，空气良(96)
 - 明天周二，白天☁️阴(20°~28°)，空气良(99)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
@@ -41,8 +41,10 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Simultaneous single-cell sequencing of RNA and DNA at scale with DEFND-seq](https://www.nature.com/articles/s41576-025-00853-y) / 08:00
 - [Psychological and behavioural considerations for integrating polygenic risk scores for disease into clinical practice](https://www.nature.com/articles/s41562-025-02200-x) / 08:00
 - [Spectrum of genetic mutations in methylmalonic aciduria among Iranian patients](https://www.nature.com/articles/s41598-025-01563-5) / 08:00
+- [Author Correction: Single-cell and spatial RNA sequencing identify divergent microenvironments and progression signatures in early- versus late-onset prostate cancer](https://www.nature.com/articles/s43587-025-00892-4) / 08:00
 
 **历史记录**
 - [UniCell: Towards a Unified Solution for Cell Annotation, Nomenclature Harmonization, Atlas Construction in Single-Cell Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.06.652331v1?rss=1) / 05月11日 08:00
@@ -61,6 +63,4 @@
 - [CLONEID: A Framework for Monitoring and Steering Subclonal Dynamics](https://www.biorxiv.org/content/10.1101/2025.05.07.652202v1?rss=1) / 05月10日 08:00
 - [CORGIAS: identifying correlated gene pairs by considering evolutionary history in a large-scale prokaryotic genome dataset](https://www.biorxiv.org/content/10.1101/2025.05.07.652372v1?rss=1) / 05月10日 08:00
 - [Transfer learning framework via Bayesian group factor analysis incorporating feature-wise dependencies](https://www.biorxiv.org/content/10.1101/2025.05.07.648613v1?rss=1) / 05月10日 08:00
-- [GENESIS: Generating scRNA-Seq data from Multiome Gene Expression](https://www.biorxiv.org/content/10.1101/2025.05.06.652399v1?rss=1) / 05月10日 08:00
-- [Tool Choice drastically Impacts CRISPR Spacer-Protospacer Detection](https://www.biorxiv.org/content/10.1101/2025.05.06.652306v1?rss=1) / 05月10日 08:00
 <!--rss-papers:end-->
