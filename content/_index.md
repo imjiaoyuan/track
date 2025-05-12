@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月12日 11:13**
-- 今天周一，白天🌤️多云(15°~32°)，空气轻度污染(106)，夜间小雨
-- 明天周二，白天🌤️多云(19°~28°)，空气良(66)，夜间阴
+**四川省/成都/成都 2025年05月12日 12:23**
+- 今天周一，白天🌤️多云(15°~32°)，空气轻度污染(103)，夜间小雨
+- 明天周二，白天🌤️多云(19°~28°)，空气良(67)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月12日 11:13**
-- 今天周一，白天☁️阴(18°~30°)，空气轻度污染(102)
-- 明天周二，白天🌤️多云(20°~27°)，空气轻度污染(102)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月12日 12:23**
+- 今天周一，白天☁️阴(18°~30°)，空气轻度污染(101)
+- 明天周二，白天🌤️多云(20°~27°)，空气轻度污染(106)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,9 +41,11 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [GeoFlow-V2: A Unified Atomic Diffusion Model for Protein Structure Prediction and De Novo Design](https://www.biorxiv.org/content/10.1101/2025.05.06.652551v1?rss=1) / 05月11日 08:00
 - [TurbOmics: a web-based platform for the analysis of metabolomics data using a multi-omics integrative approach](https://www.biorxiv.org/content/10.1101/2025.05.09.653072v1?rss=1) / 05月11日 08:00
 - [Non-Intestinal Microbial Signatures in Stool as Predictors of Cancer Immunotherapy Outcome](https://www.biorxiv.org/content/10.1101/2025.05.07.652660v1?rss=1) / 05月11日 08:00
 - [An evolutionary approach to predict the orientation of CRISPR arrays](https://www.biorxiv.org/content/10.1101/2025.05.09.653049v1?rss=1) / 05月11日 08:00
+- [Diverse horizontally transferred cellulose biosynthesis gene clusters in Escherichia coli strains](https://www.biorxiv.org/content/10.1101/2025.05.09.653004v1?rss=1) / 05月11日 08:00
 - [MettleRNASeq: Complex RNA-Seq Data Analysis and Gene Relationships Exploration Based on Machine Learning](https://www.biorxiv.org/content/10.1101/2025.05.06.652387v1?rss=1) / 05月10日 08:00
 - [Alignment-free integration of single-nucleus ATAC-seq across species with sPYce](https://www.biorxiv.org/content/10.1101/2025.05.07.652648v1?rss=1) / 05月10日 08:00
 - [mtgRNA-db: An annotated database of multi-target CRISPR-Cas9 guide-RNAs in the human genome](https://www.biorxiv.org/content/10.1101/2025.05.07.652656v1?rss=1) / 05月10日 08:00
@@ -59,6 +61,4 @@
 - [An atlas of gene programs in non-small cell lung cancer delineates novel patterns of lineage vacillation, plasticity, and aggressiveness](https://www.biorxiv.org/content/10.1101/2025.05.06.652317v1?rss=1) / 05月10日 08:00
 - [Guiding clustering and annotation in single-cell RNA sequencing using the average overlap metric](https://www.biorxiv.org/content/10.1101/2025.05.06.652497v1?rss=1) / 05月10日 08:00
 - [DeSciDe: A tool for unbiased literature searching and gene list cu-ration unveils a new role for the acidic patch mutation H2A E92K](https://www.biorxiv.org/content/10.1101/2025.05.05.652253v1?rss=1) / 05月10日 08:00
-- [A flexible framework for automated STED super-resolution microscopy](https://www.biorxiv.org/content/10.1101/2025.05.05.652196v1?rss=1) / 05月10日 08:00
-- [Human Messenger RNA Harbors Widespread Noncoding Splice Isoforms](https://www.biorxiv.org/content/10.1101/2025.05.06.652571v1?rss=1) / 05月10日 08:00
 <!--rss-papers:end-->
