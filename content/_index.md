@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月12日 20:38**
+**四川省/成都/成都 2025年05月12日 22:19**
 - 今天周一，白天🌤️多云(17°~32°)，空气轻度污染(108)，夜间小雨
-- 明天周二，白天🌤️多云(18°~28°)，空气良(73)，夜间阴
+- 明天周二，白天🌤️多云(18°~28°)，空气良(78)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月12日 20:38**
-- 今天周一，白天☁️阴(20°~30°)，空气良(96)
-- 明天周二，白天☁️阴(20°~28°)，空气良(99)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月12日 22:19**
+- 今天周一，白天☁️阴(20°~30°)，空气良(99)
+- 明天周二，白天☁️阴(20°~28°)，空气轻度污染(103)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,7 +41,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Defective But Promising: Evaluating Bioinformatic Pipelines for Utility of Defective Interfering RNA Discovery in Plant Viral Infections](https://www.biorxiv.org/content/10.1101/2025.05.09.653214v1?rss=1) / 08:00
 - [Simultaneous single-cell sequencing of RNA and DNA at scale with DEFND-seq](https://www.nature.com/articles/s41576-025-00853-y) / 08:00
+- [Chromosome-scale assembly of Artemia tibetiana genome, first aquatic invertebrate genome from Tibet Plateau](https://www.nature.com/articles/s41597-025-05136-z) / 08:00
 - [Psychological and behavioural considerations for integrating polygenic risk scores for disease into clinical practice](https://www.nature.com/articles/s41562-025-02200-x) / 08:00
 - [Spectrum of genetic mutations in methylmalonic aciduria among Iranian patients](https://www.nature.com/articles/s41598-025-01563-5) / 08:00
 - [Author Correction: Single-cell and spatial RNA sequencing identify divergent microenvironments and progression signatures in early- versus late-onset prostate cancer](https://www.nature.com/articles/s43587-025-00892-4) / 08:00
@@ -61,6 +63,4 @@
 - [g.nome, A Transparent Bioinformatics Pipeline that Enables Differential Expression and Alternative Splicing Analysis by Non-Computational Biologists](https://www.biorxiv.org/content/10.1101/2025.05.09.652286v1?rss=1) / 05月10日 08:00
 - [Expanding the definition of MHC Class I peptide binding promiscuity to support vaccine discovery across cancers with CARMEN](https://www.biorxiv.org/content/10.1101/2025.05.08.651510v1?rss=1) / 05月10日 08:00
 - [CLONEID: A Framework for Monitoring and Steering Subclonal Dynamics](https://www.biorxiv.org/content/10.1101/2025.05.07.652202v1?rss=1) / 05月10日 08:00
-- [CORGIAS: identifying correlated gene pairs by considering evolutionary history in a large-scale prokaryotic genome dataset](https://www.biorxiv.org/content/10.1101/2025.05.07.652372v1?rss=1) / 05月10日 08:00
-- [Transfer learning framework via Bayesian group factor analysis incorporating feature-wise dependencies](https://www.biorxiv.org/content/10.1101/2025.05.07.648613v1?rss=1) / 05月10日 08:00
 <!--rss-papers:end-->
