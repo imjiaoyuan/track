@@ -1,18 +1,21 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月13日 04:20**
-- 今天周二，白天🌤️多云(18°~28°)，空气良(78)，夜间阴
-- 明天周三，白天☁️阴(19°~29°)，空气良(64)
+**四川省/成都/成都 2025年05月13日 06:17**
+- 今天周二，白天🌤️多云(18°~27°)，空气良(78)，夜间阴
+- 明天周三，白天🌤️多云(18°~30°)，空气良(64)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月13日 04:20**
-- 今天周二，白天☁️阴(20°~28°)，空气良(95)，夜间小雨
-- 明天周三，白天🌧️小雨(20°~29°)，空气轻度污染(105)，夜间阴
+**四川省/宜宾/宜宾 2025年05月13日 06:17**
+- 今天周二，白天🌧️小雨(20°~28°)，空气良(95)
+- 明天周三，白天☁️阴(21°~29°)，空气轻度污染(105)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [汉字的不可拼音化](https://justgoidea.com/the-impossibility-of-pinyin-for-chinese-characters/) / 05:18
+
 **历史记录**
 - [匮乏思维](https://blog.douchi.space/scarcity-mindset/) / 05月12日 09:23
 - [什么决定改变了你的人生轨迹？](http://m.wufazhuce.com/question/4362) / 05月12日 06:25
@@ -33,12 +36,12 @@
 - [个人网站博客可以尝试的 100 件事](https://anotherdayu.com/2025/6940/) / 05月09日 09:45
 - [科技爱好者周刊（第 347 期）：冷启动的破解之道](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html) / 05月09日 08:09
 - [使用 React Native Screens 构建一个 Simple Navigation](https://innei.in/posts/tech/build-simple-navigation-with-react-native-screens) / 05月09日 01:01
-- [楠溪江自驾Day3 - 探秘暨家寨](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-03.html) / 05月09日 00:39
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Aird-MSI: a high compression rate and decompression speed format for mass spectrometry imaging data](https://www.biorxiv.org/content/10.1101/2025.05.07.652785v1?rss=1) / 05月12日 08:00
 - [Bridging 3D Molecular Structures and Artificial Intelligence by a Conformation Description Language](https://www.biorxiv.org/content/10.1101/2025.05.07.652440v1?rss=1) / 05月12日 08:00
 - [Defective But Promising: Evaluating Bioinformatic Pipelines for Utility of Defective Interfering RNA Discovery in Plant Viral Infections](https://www.biorxiv.org/content/10.1101/2025.05.09.653214v1?rss=1) / 05月12日 08:00
 - [Genomics of Root System Architecture Adaptation in Sorghum under Nitrogen and Phosphorus Deficiency](https://www.biorxiv.org/content/10.1101/2025.05.07.652720v1?rss=1) / 05月12日 08:00
@@ -58,5 +61,4 @@
 - [Diverse horizontally transferred cellulose biosynthesis gene clusters in Escherichia coli strains](https://www.biorxiv.org/content/10.1101/2025.05.09.653004v1?rss=1) / 05月11日 08:00
 - [MettleRNASeq: Complex RNA-Seq Data Analysis and Gene Relationships Exploration Based on Machine Learning](https://www.biorxiv.org/content/10.1101/2025.05.06.652387v1?rss=1) / 05月10日 08:00
 - [Alignment-free integration of single-nucleus ATAC-seq across species with sPYce](https://www.biorxiv.org/content/10.1101/2025.05.07.652648v1?rss=1) / 05月10日 08:00
-- [mtgRNA-db: An annotated database of multi-target CRISPR-Cas9 guide-RNAs in the human genome](https://www.biorxiv.org/content/10.1101/2025.05.07.652656v1?rss=1) / 05月10日 08:00
 <!--rss-papers:end-->
