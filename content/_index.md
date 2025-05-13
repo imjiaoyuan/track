@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月14日 04:20**
-- 今天周三，白天☁️阴(19°~30°)，空气良(64)
-- 明天周四，白天🌤️多云(19°~30°)，空气良(78)，夜间小雨
+**四川省/成都/成都 2025年05月14日 06:17**
+- 今天周三，白天🌤️多云(19°~29°)，空气良(64)，夜间阴
+- 明天周四，白天🌤️多云(17°~30°)，空气良(78)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月14日 04:20**
-- 今天周三，白天🌧️小雨(21°~28°)，空气轻度污染(114)，夜间阴
-- 明天周四，白天☁️阴(21°~30°)，空气轻度污染(103)
+**四川省/宜宾/宜宾 2025年05月14日 06:18**
+- 今天周三，白天☁️阴(20°~28°)，空气轻度污染(114)
+- 明天周四，白天☁️阴(20°~31°)，空气轻度污染(103)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -39,11 +39,17 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [GnnDebugger: GNN based error correction in De Bruijn Graphs](https://www.biorxiv.org/content/10.1101/2025.05.07.652713v1?rss=1) / 05月13日 08:00
+- [Explainable Multimodal Machine Learning Using Combined Environmental DNA and Biogeographic Features for Ecosystem Biomonitoring](https://www.biorxiv.org/content/10.1101/2025.05.07.652781v1?rss=1) / 05月13日 08:00
+- [Locus-specific Convergent Evolution and Interchromosomal Rearrangements Contribute Type I Interferon Diversification in Amniotes](https://www.biorxiv.org/content/10.1101/2025.05.08.652797v1?rss=1) / 05月13日 08:00
+- [Single-Cell Trajectory Inference for Detecting Transient Events in Biological Processes](https://www.biorxiv.org/content/10.1101/2025.05.07.652753v1?rss=1) / 05月13日 08:00
+- [scGenAI: A generative AI platform with biological context embedding of multimodal features enhances single cell state classification](https://www.biorxiv.org/content/10.1101/2025.05.07.652733v1?rss=1) / 05月13日 08:00
+- [Pseudoassembly of k-mers](https://www.biorxiv.org/content/10.1101/2025.05.11.653354v1?rss=1) / 05月13日 08:00
+- [rDNAcaller: a fast and robust pipeline to call ribosomal DNA variants](https://www.biorxiv.org/content/10.1101/2025.05.13.653643v1?rss=1) / 05月13日 08:00
 - [An inductive, supervised approach for predicting gene--disease associations using phenotype ontologies](https://www.biorxiv.org/content/10.1101/2025.05.07.652682v1?rss=1) / 05月13日 08:00
 - [The Dynamic Nature of Genetic Risk for Schizophrenia Within Genes Regulated by FOXP1 During Neurodevelopment](https://www.biorxiv.org/content/10.1101/2025.05.12.653444v1?rss=1) / 05月13日 08:00
 - [Integrating GWAS and spatial omics](https://www.nature.com/articles/s41592-025-02711-5) / 05月13日 08:00
 - [Sex differences in the genetic regulation of the human plasma proteome](https://www.nature.com/articles/s41467-025-59034-4) / 05月13日 08:00
-- [DNA data storage for biomedical images using HELIX](https://www.nature.com/articles/s43588-025-00793-x) / 05月13日 08:00
 - [Extrinsic biological stochasticity and technical noise normalization of single-cell RNA sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.11.653373v1?rss=1) / 05月12日 08:00
 - [Discrimination of Normal from Slow-Aging Mice by Plasma Metabolomic and Proteomic Features](https://www.biorxiv.org/content/10.1101/2025.05.11.651908v1?rss=1) / 05月12日 08:00
 - [Efficient evidence-based genome annotation with EviAnn](https://www.biorxiv.org/content/10.1101/2025.05.07.652745v1?rss=1) / 05月12日 08:00
@@ -53,10 +59,4 @@
 - [The Impact of Exogenous Mutagens on Human Mitochondrial DNA Ploidy: Analysis of Changes and Possible Protective Mechanisms.](https://www.biorxiv.org/content/10.1101/2025.05.09.648561v1?rss=1) / 05月12日 08:00
 - [Sex-Based Transcriptomic Differences in Psoriatic Lesions: A Comprehensive Meta-Analysis](https://www.biorxiv.org/content/10.1101/2025.05.07.652611v1?rss=1) / 05月12日 08:00
 - [Evaluating selection at intermediate scales within genes provides robust identification of genes under positive selection in M. tuberculosis clinical isolates](https://www.biorxiv.org/content/10.1101/2025.05.07.652684v1?rss=1) / 05月12日 08:00
-- [Aird-MSI: a high compression rate and decompression speed format for mass spectrometry imaging data](https://www.biorxiv.org/content/10.1101/2025.05.07.652785v1?rss=1) / 05月12日 08:00
-- [Bridging 3D Molecular Structures and Artificial Intelligence by a Conformation Description Language](https://www.biorxiv.org/content/10.1101/2025.05.07.652440v1?rss=1) / 05月12日 08:00
-- [Defective But Promising: Evaluating Bioinformatic Pipelines for Utility of Defective Interfering RNA Discovery in Plant Viral Infections](https://www.biorxiv.org/content/10.1101/2025.05.09.653214v1?rss=1) / 05月12日 08:00
-- [BMDD: A Probabilistic Framework for Accurate Imputation of Zero-inflated Microbiome Sequencing Data](https://www.biorxiv.org/content/10.1101/2025.05.08.652808v1?rss=1) / 05月12日 08:00
-- [Two high-quality rose genomes underpin a novel Rosa pangenome to advance rose genomics, phylogenetics, and breeding](https://www.biorxiv.org/content/10.1101/2025.05.07.652600v1?rss=1) / 05月12日 08:00
-- [Cenchrus purpureus and Cenchrus americanus repeatome provide chromosomal markers to distinguish subgenomes](https://www.biorxiv.org/content/10.1101/2025.05.10.652685v1?rss=1) / 05月12日 08:00
 <!--rss-papers:end-->
