@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月13日 12:22**
-- 今天周二，白天🌤️多云(21°~29°)，空气良(77)，夜间阴
+**四川省/成都/成都 2025年05月13日 14:27**
+- 今天周二，白天🌤️多云(21°~31°)，空气良(77)，夜间阴
 - 明天周三，白天☁️阴(19°~31°)，空气良(69)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月13日 12:22**
+**四川省/宜宾/宜宾 2025年05月13日 14:27**
 - 今天周二，白天🌧️小雨(20°~28°)，空气良(95)
 - 明天周三，白天☁️阴(21°~29°)，空气轻度污染(103)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,12 +41,19 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Discrimination of Normal from Slow-Aging Mice by Plasma Metabolomic and Proteomic Features](https://www.biorxiv.org/content/10.1101/2025.05.11.651908v1?rss=1) / 05月12日 08:00
+- [Efficient evidence-based genome annotation with EviAnn](https://www.biorxiv.org/content/10.1101/2025.05.07.652745v1?rss=1) / 05月12日 08:00
+- [P3ANUT: An enhanced DNA sequencing analysis platform for uncovering and correcting errors in peptide phage display library screening](https://www.biorxiv.org/content/10.1101/2025.05.12.648809v1?rss=1) / 05月12日 08:00
+- [Molecular dynamics simulations of intrinsically disordered protein regions enable biophysical interpretation of variant effect predictors](https://www.biorxiv.org/content/10.1101/2025.05.07.652723v1?rss=1) / 05月12日 08:00
+- [Identification of HIV-Associated Gene Expression Biomarkers Using Machine Learning and Interpretable Artificial Intelligence](https://www.biorxiv.org/content/10.1101/2025.05.08.652807v1?rss=1) / 05月12日 08:00
 - [The Impact of Exogenous Mutagens on Human Mitochondrial DNA Ploidy: Analysis of Changes and Possible Protective Mechanisms.](https://www.biorxiv.org/content/10.1101/2025.05.09.648561v1?rss=1) / 05月12日 08:00
 - [Sex-Based Transcriptomic Differences in Psoriatic Lesions: A Comprehensive Meta-Analysis](https://www.biorxiv.org/content/10.1101/2025.05.07.652611v1?rss=1) / 05月12日 08:00
 - [Evaluating selection at intermediate scales within genes provides robust identification of genes under positive selection in M. tuberculosis clinical isolates](https://www.biorxiv.org/content/10.1101/2025.05.07.652684v1?rss=1) / 05月12日 08:00
 - [Aird-MSI: a high compression rate and decompression speed format for mass spectrometry imaging data](https://www.biorxiv.org/content/10.1101/2025.05.07.652785v1?rss=1) / 05月12日 08:00
 - [Bridging 3D Molecular Structures and Artificial Intelligence by a Conformation Description Language](https://www.biorxiv.org/content/10.1101/2025.05.07.652440v1?rss=1) / 05月12日 08:00
 - [Defective But Promising: Evaluating Bioinformatic Pipelines for Utility of Defective Interfering RNA Discovery in Plant Viral Infections](https://www.biorxiv.org/content/10.1101/2025.05.09.653214v1?rss=1) / 05月12日 08:00
+- [BMDD: A Probabilistic Framework for Accurate Imputation of Zero-inflated Microbiome Sequencing Data](https://www.biorxiv.org/content/10.1101/2025.05.08.652808v1?rss=1) / 05月12日 08:00
+- [Two high-quality rose genomes underpin a novel Rosa pangenome to advance rose genomics, phylogenetics, and breeding](https://www.biorxiv.org/content/10.1101/2025.05.07.652600v1?rss=1) / 05月12日 08:00
 - [Cenchrus purpureus and Cenchrus americanus repeatome provide chromosomal markers to distinguish subgenomes](https://www.biorxiv.org/content/10.1101/2025.05.10.652685v1?rss=1) / 05月12日 08:00
 - [Genomics of Root System Architecture Adaptation in Sorghum under Nitrogen and Phosphorus Deficiency](https://www.biorxiv.org/content/10.1101/2025.05.07.652720v1?rss=1) / 05月12日 08:00
 - [Simultaneous single-cell sequencing of RNA and DNA at scale with DEFND-seq](https://www.nature.com/articles/s41576-025-00853-y) / 05月12日 08:00
@@ -54,11 +61,4 @@
 - [Psychological and behavioural considerations for integrating polygenic risk scores for disease into clinical practice](https://www.nature.com/articles/s41562-025-02200-x) / 05月12日 08:00
 - [Transcriptome analysis of archived tumors by Visium, GeoMx DSP, and Chromium reveals patient heterogeneity](https://www.nature.com/articles/s41467-025-59005-9) / 05月12日 08:00
 - [Spectrum of genetic mutations in methylmalonic aciduria among Iranian patients](https://www.nature.com/articles/s41598-025-01563-5) / 05月12日 08:00
-- [Author Correction: Single-cell and spatial RNA sequencing identify divergent microenvironments and progression signatures in early- versus late-onset prostate cancer](https://www.nature.com/articles/s43587-025-00892-4) / 05月12日 08:00
-- [Unraveling the molecular mechanisms of paclitaxel in high-grade serous ovarian cancer through network pharmacology](https://www.nature.com/articles/s41598-025-00658-3) / 05月12日 08:00
-- [UniCell: Towards a Unified Solution for Cell Annotation, Nomenclature Harmonization, Atlas Construction in Single-Cell Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.06.652331v1?rss=1) / 05月11日 08:00
-- [Multimodal Bonds Reconstruction Towards Generative Molecular Design](https://www.biorxiv.org/content/10.1101/2025.05.06.652517v1?rss=1) / 05月11日 08:00
-- [GeoFlow-V2: A Unified Atomic Diffusion Model for Protein Structure Prediction and De Novo Design](https://www.biorxiv.org/content/10.1101/2025.05.06.652551v1?rss=1) / 05月11日 08:00
-- [TurbOmics: a web-based platform for the analysis of metabolomics data using a multi-omics integrative approach](https://www.biorxiv.org/content/10.1101/2025.05.09.653072v1?rss=1) / 05月11日 08:00
-- [Non-Intestinal Microbial Signatures in Stool as Predictors of Cancer Immunotherapy Outcome](https://www.biorxiv.org/content/10.1101/2025.05.07.652660v1?rss=1) / 05月11日 08:00
 <!--rss-papers:end-->
