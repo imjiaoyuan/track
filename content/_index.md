@@ -1,12 +1,12 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月13日 11:10**
+**四川省/成都/成都 2025年05月13日 12:22**
 - 今天周二，白天🌤️多云(21°~29°)，空气良(77)，夜间阴
-- 明天周三，白天☁️阴(19°~31°)，空气良(68)
+- 明天周三，白天☁️阴(19°~31°)，空气良(69)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月13日 11:10**
-- 今天周二，白天🌧️小雨(20°~28°)，空气良(100)
+**四川省/宜宾/宜宾 2025年05月13日 12:22**
+- 今天周二，白天🌧️小雨(20°~28°)，空气良(95)
 - 明天周三，白天☁️阴(21°~29°)，空气轻度污染(103)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
@@ -41,9 +41,13 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [The Impact of Exogenous Mutagens on Human Mitochondrial DNA Ploidy: Analysis of Changes and Possible Protective Mechanisms.](https://www.biorxiv.org/content/10.1101/2025.05.09.648561v1?rss=1) / 05月12日 08:00
+- [Sex-Based Transcriptomic Differences in Psoriatic Lesions: A Comprehensive Meta-Analysis](https://www.biorxiv.org/content/10.1101/2025.05.07.652611v1?rss=1) / 05月12日 08:00
+- [Evaluating selection at intermediate scales within genes provides robust identification of genes under positive selection in M. tuberculosis clinical isolates](https://www.biorxiv.org/content/10.1101/2025.05.07.652684v1?rss=1) / 05月12日 08:00
 - [Aird-MSI: a high compression rate and decompression speed format for mass spectrometry imaging data](https://www.biorxiv.org/content/10.1101/2025.05.07.652785v1?rss=1) / 05月12日 08:00
 - [Bridging 3D Molecular Structures and Artificial Intelligence by a Conformation Description Language](https://www.biorxiv.org/content/10.1101/2025.05.07.652440v1?rss=1) / 05月12日 08:00
 - [Defective But Promising: Evaluating Bioinformatic Pipelines for Utility of Defective Interfering RNA Discovery in Plant Viral Infections](https://www.biorxiv.org/content/10.1101/2025.05.09.653214v1?rss=1) / 05月12日 08:00
+- [Cenchrus purpureus and Cenchrus americanus repeatome provide chromosomal markers to distinguish subgenomes](https://www.biorxiv.org/content/10.1101/2025.05.10.652685v1?rss=1) / 05月12日 08:00
 - [Genomics of Root System Architecture Adaptation in Sorghum under Nitrogen and Phosphorus Deficiency](https://www.biorxiv.org/content/10.1101/2025.05.07.652720v1?rss=1) / 05月12日 08:00
 - [Simultaneous single-cell sequencing of RNA and DNA at scale with DEFND-seq](https://www.nature.com/articles/s41576-025-00853-y) / 05月12日 08:00
 - [Chromosome-scale assembly of Artemia tibetiana genome, first aquatic invertebrate genome from Tibet Plateau](https://www.nature.com/articles/s41597-025-05136-z) / 05月12日 08:00
@@ -57,8 +61,4 @@
 - [GeoFlow-V2: A Unified Atomic Diffusion Model for Protein Structure Prediction and De Novo Design](https://www.biorxiv.org/content/10.1101/2025.05.06.652551v1?rss=1) / 05月11日 08:00
 - [TurbOmics: a web-based platform for the analysis of metabolomics data using a multi-omics integrative approach](https://www.biorxiv.org/content/10.1101/2025.05.09.653072v1?rss=1) / 05月11日 08:00
 - [Non-Intestinal Microbial Signatures in Stool as Predictors of Cancer Immunotherapy Outcome](https://www.biorxiv.org/content/10.1101/2025.05.07.652660v1?rss=1) / 05月11日 08:00
-- [An evolutionary approach to predict the orientation of CRISPR arrays](https://www.biorxiv.org/content/10.1101/2025.05.09.653049v1?rss=1) / 05月11日 08:00
-- [Diverse horizontally transferred cellulose biosynthesis gene clusters in Escherichia coli strains](https://www.biorxiv.org/content/10.1101/2025.05.09.653004v1?rss=1) / 05月11日 08:00
-- [MettleRNASeq: Complex RNA-Seq Data Analysis and Gene Relationships Exploration Based on Machine Learning](https://www.biorxiv.org/content/10.1101/2025.05.06.652387v1?rss=1) / 05月10日 08:00
-- [Alignment-free integration of single-nucleus ATAC-seq across species with sPYce](https://www.biorxiv.org/content/10.1101/2025.05.07.652648v1?rss=1) / 05月10日 08:00
 <!--rss-papers:end-->
