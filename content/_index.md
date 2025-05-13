@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月13日 20:38**
-- 今天周二，白天🌤️多云(20°~29°)，空气良(74)，夜间阴
-- 明天周三，白天☁️阴(19°~30°)，空气良(63)
+**四川省/成都/成都 2025年05月13日 22:19**
+- 今天周二，白天🌤️多云(20°~29°)，空气良(71)，夜间阴
+- 明天周三，白天☁️阴(19°~30°)，空气良(62)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月13日 20:38**
-- 今天周二，白天🌧️小雨(21°~28°)，空气轻度污染(102)，夜间阴
-- 明天周三，白天🌧️小雨(21°~28°)，空气轻度污染(107)，夜间阴
+**四川省/宜宾/宜宾 2025年05月13日 22:19**
+- 今天周二，白天🌧️小雨(21°~28°)，空气良(95)，夜间阴
+- 明天周三，白天🌧️小雨(21°~28°)，空气轻度污染(110)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -43,6 +43,7 @@
 **今日更新**
 - [The Dynamic Nature of Genetic Risk for Schizophrenia Within Genes Regulated by FOXP1 During Neurodevelopment](https://www.biorxiv.org/content/10.1101/2025.05.12.653444v1?rss=1) / 08:00
 - [Sex differences in the genetic regulation of the human plasma proteome](https://www.nature.com/articles/s41467-025-59034-4) / 08:00
+- [DNA data storage for biomedical images using HELIX](https://www.nature.com/articles/s43588-025-00793-x) / 08:00
 
 **历史记录**
 - [Extrinsic biological stochasticity and technical noise normalization of single-cell RNA sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.11.653373v1?rss=1) / 05月12日 08:00
@@ -62,5 +63,4 @@
 - [Cenchrus purpureus and Cenchrus americanus repeatome provide chromosomal markers to distinguish subgenomes](https://www.biorxiv.org/content/10.1101/2025.05.10.652685v1?rss=1) / 05月12日 08:00
 - [Genomics of Root System Architecture Adaptation in Sorghum under Nitrogen and Phosphorus Deficiency](https://www.biorxiv.org/content/10.1101/2025.05.07.652720v1?rss=1) / 05月12日 08:00
 - [Simultaneous single-cell sequencing of RNA and DNA at scale with DEFND-seq](https://www.nature.com/articles/s41576-025-00853-y) / 05月12日 08:00
-- [Chromosome-scale assembly of Artemia tibetiana genome, first aquatic invertebrate genome from Tibet Plateau](https://www.nature.com/articles/s41597-025-05136-z) / 05月12日 08:00
 <!--rss-papers:end-->
