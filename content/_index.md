@@ -1,26 +1,26 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月13日 06:17**
-- 今天周二，白天🌤️多云(18°~27°)，空气良(78)，夜间阴
-- 明天周三，白天🌤️多云(18°~30°)，空气良(64)，夜间阴
+**四川省/成都/成都 2025年05月13日 09:27**
+- 今天周二，白天🌤️多云(21°~29°)，空气良(77)，夜间阴
+- 明天周三，白天☁️阴(19°~31°)，空气良(68)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月13日 06:17**
-- 今天周二，白天🌧️小雨(20°~28°)，空气良(95)
-- 明天周三，白天☁️阴(21°~29°)，空气轻度污染(105)
+**四川省/宜宾/宜宾 2025年05月13日 09:27**
+- 今天周二，白天🌧️小雨(20°~28°)，空气轻度污染(102)
+- 明天周三，白天☁️阴(21°~29°)，空气轻度污染(101)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [这个时代知识是不是贬值了？](http://m.wufazhuce.com/question/4363) / 06:25
+- [水边的阿狄丽娜](http://m.wufazhuce.com/article/6791) / 06:25
+- [VOL.4602](http://m.wufazhuce.com/one/4753) / 06:25
 - [汉字的不可拼音化](https://justgoidea.com/the-impossibility-of-pinyin-for-chinese-characters/) / 05:18
 
 **历史记录**
 - [匮乏思维](https://blog.douchi.space/scarcity-mindset/) / 05月12日 09:23
-- [什么决定改变了你的人生轨迹？](http://m.wufazhuce.com/question/4362) / 05月12日 06:25
-- [造火的人](http://m.wufazhuce.com/article/6787) / 05月12日 06:25
-- [VOL.4601](http://m.wufazhuce.com/one/4750) / 05月12日 06:25
 - [楠溪江自驾Day5 - 泛舟楠溪江](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-05.html) / 05月12日 04:26
 - [随手拍的烂片](https://innei.in/notes/191) / 05月11日 21:28
 - [猫鱼周刊 vol. 064 创作和变现](https://ameow.xyz/archives/weekly-064) / 05月11日 17:46
@@ -51,7 +51,6 @@
 - [Transcriptome analysis of archived tumors by Visium, GeoMx DSP, and Chromium reveals patient heterogeneity](https://www.nature.com/articles/s41467-025-59005-9) / 05月12日 08:00
 - [Spectrum of genetic mutations in methylmalonic aciduria among Iranian patients](https://www.nature.com/articles/s41598-025-01563-5) / 05月12日 08:00
 - [Author Correction: Single-cell and spatial RNA sequencing identify divergent microenvironments and progression signatures in early- versus late-onset prostate cancer](https://www.nature.com/articles/s43587-025-00892-4) / 05月12日 08:00
-- [Unraveling the molecular mechanisms of paclitaxel in high-grade serous ovarian cancer through network pharmacology](https://www.nature.com/articles/s41598-025-00658-3) / 05月12日 08:00
 - [UniCell: Towards a Unified Solution for Cell Annotation, Nomenclature Harmonization, Atlas Construction in Single-Cell Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.06.652331v1?rss=1) / 05月11日 08:00
 - [Multimodal Bonds Reconstruction Towards Generative Molecular Design](https://www.biorxiv.org/content/10.1101/2025.05.06.652517v1?rss=1) / 05月11日 08:00
 - [GeoFlow-V2: A Unified Atomic Diffusion Model for Protein Structure Prediction and De Novo Design](https://www.biorxiv.org/content/10.1101/2025.05.06.652551v1?rss=1) / 05月11日 08:00
@@ -61,4 +60,5 @@
 - [Diverse horizontally transferred cellulose biosynthesis gene clusters in Escherichia coli strains](https://www.biorxiv.org/content/10.1101/2025.05.09.653004v1?rss=1) / 05月11日 08:00
 - [MettleRNASeq: Complex RNA-Seq Data Analysis and Gene Relationships Exploration Based on Machine Learning](https://www.biorxiv.org/content/10.1101/2025.05.06.652387v1?rss=1) / 05月10日 08:00
 - [Alignment-free integration of single-nucleus ATAC-seq across species with sPYce](https://www.biorxiv.org/content/10.1101/2025.05.07.652648v1?rss=1) / 05月10日 08:00
+- [mtgRNA-db: An annotated database of multi-target CRISPR-Cas9 guide-RNAs in the human genome](https://www.biorxiv.org/content/10.1101/2025.05.07.652656v1?rss=1) / 05月10日 08:00
 <!--rss-papers:end-->
