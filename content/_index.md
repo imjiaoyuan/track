@@ -1,27 +1,26 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月13日 22:19**
-- 今天周二，白天🌤️多云(20°~29°)，空气良(71)，夜间阴
-- 明天周三，白天☁️阴(19°~30°)，空气良(62)
+**四川省/成都/成都 2025年05月14日 00:24**
+- 今天周三，白天☁️阴(19°~30°)，空气良(64)
+- 明天周四，白天🌤️多云(19°~30°)，空气良(78)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月13日 22:19**
-- 今天周二，白天🌧️小雨(21°~28°)，空气良(95)，夜间阴
-- 明天周三，白天🌧️小雨(21°~28°)，空气轻度污染(110)，夜间阴
+**四川省/宜宾/宜宾 2025年05月14日 00:24**
+- 今天周三，白天🌧️小雨(21°~28°)，空气轻度污染(114)，夜间阴
+- 明天周四，白天☁️阴(21°~30°)，空气轻度污染(103)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [2025 再回顾 Orion 浏览器](https://anotherdayu.com/2025/6953/) / 19:43
-- [楠溪江自驾Day6 - 交汇瓯江口](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-06.html) / 07:30
-- [这个时代知识是不是贬值了？](http://m.wufazhuce.com/question/4363) / 06:25
-- [水边的阿狄丽娜](http://m.wufazhuce.com/article/6791) / 06:25
-- [VOL.4602](http://m.wufazhuce.com/one/4753) / 06:25
-- [汉字的不可拼音化](https://justgoidea.com/the-impossibility-of-pinyin-for-chinese-characters/) / 05:18
-
 **历史记录**
+- [富春芳草地&amp;只有河南](https://www.skyue.com/25051323.html) / 05月13日 23:50
+- [2025 再回顾 Orion 浏览器](https://anotherdayu.com/2025/6953/) / 05月13日 19:43
+- [楠溪江自驾Day6 - 交汇瓯江口](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-06.html) / 05月13日 07:30
+- [这个时代知识是不是贬值了？](http://m.wufazhuce.com/question/4363) / 05月13日 06:25
+- [水边的阿狄丽娜](http://m.wufazhuce.com/article/6791) / 05月13日 06:25
+- [VOL.4602](http://m.wufazhuce.com/one/4753) / 05月13日 06:25
+- [汉字的不可拼音化](https://justgoidea.com/the-impossibility-of-pinyin-for-chinese-characters/) / 05月13日 05:18
 - [匮乏思维](https://blog.douchi.space/scarcity-mindset/) / 05月12日 09:23
 - [楠溪江自驾Day5 - 泛舟楠溪江](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-05.html) / 05月12日 04:26
 - [随手拍的烂片](https://innei.in/notes/191) / 05月11日 21:28
@@ -35,17 +34,15 @@
 - [日本旅游攻略：赴日前的准备与注意事项](https://song.al/japantravel) / 05月09日 18:39
 - [记录二五年五一之短暂回归家庭](https://wiki.eryajf.net/pages/ad1f6b/) / 05月09日 18:10
 - [学习周刊-总第210期-2025年第19周](https://wiki.eryajf.net/pages/ff011f/) / 05月09日 16:28
-- [个人网站博客可以尝试的 100 件事](https://anotherdayu.com/2025/6940/) / 05月09日 09:45
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [The Dynamic Nature of Genetic Risk for Schizophrenia Within Genes Regulated by FOXP1 During Neurodevelopment](https://www.biorxiv.org/content/10.1101/2025.05.12.653444v1?rss=1) / 08:00
-- [Sex differences in the genetic regulation of the human plasma proteome](https://www.nature.com/articles/s41467-025-59034-4) / 08:00
-- [DNA data storage for biomedical images using HELIX](https://www.nature.com/articles/s43588-025-00793-x) / 08:00
-
 **历史记录**
+- [An inductive, supervised approach for predicting gene--disease associations using phenotype ontologies](https://www.biorxiv.org/content/10.1101/2025.05.07.652682v1?rss=1) / 05月13日 08:00
+- [The Dynamic Nature of Genetic Risk for Schizophrenia Within Genes Regulated by FOXP1 During Neurodevelopment](https://www.biorxiv.org/content/10.1101/2025.05.12.653444v1?rss=1) / 05月13日 08:00
+- [Integrating GWAS and spatial omics](https://www.nature.com/articles/s41592-025-02711-5) / 05月13日 08:00
+- [Sex differences in the genetic regulation of the human plasma proteome](https://www.nature.com/articles/s41467-025-59034-4) / 05月13日 08:00
 - [Extrinsic biological stochasticity and technical noise normalization of single-cell RNA sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.11.653373v1?rss=1) / 05月12日 08:00
 - [Discrimination of Normal from Slow-Aging Mice by Plasma Metabolomic and Proteomic Features](https://www.biorxiv.org/content/10.1101/2025.05.11.651908v1?rss=1) / 05月12日 08:00
 - [Efficient evidence-based genome annotation with EviAnn](https://www.biorxiv.org/content/10.1101/2025.05.07.652745v1?rss=1) / 05月12日 08:00
@@ -62,5 +59,4 @@
 - [Two high-quality rose genomes underpin a novel Rosa pangenome to advance rose genomics, phylogenetics, and breeding](https://www.biorxiv.org/content/10.1101/2025.05.07.652600v1?rss=1) / 05月12日 08:00
 - [Cenchrus purpureus and Cenchrus americanus repeatome provide chromosomal markers to distinguish subgenomes](https://www.biorxiv.org/content/10.1101/2025.05.10.652685v1?rss=1) / 05月12日 08:00
 - [Genomics of Root System Architecture Adaptation in Sorghum under Nitrogen and Phosphorus Deficiency](https://www.biorxiv.org/content/10.1101/2025.05.07.652720v1?rss=1) / 05月12日 08:00
-- [Simultaneous single-cell sequencing of RNA and DNA at scale with DEFND-seq](https://www.nature.com/articles/s41576-025-00853-y) / 05月12日 08:00
 <!--rss-papers:end-->
