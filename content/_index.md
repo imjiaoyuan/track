@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月14日 16:25**
-- 今天周三，白天☁️阴(20°~30°)，空气良(65)
-- 明天周四，白天🌤️多云(19°~30°)，空气良(79)，夜间阴
+**四川省/成都/成都 2025年05月14日 18:20**
+- 今天周三，白天☁️阴(20°~30°)，空气良(62)
+- 明天周四，白天🌤️多云(19°~32°)，空气良(94)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月14日 16:25**
-- 今天周三，白天☁️阴(20°~28°)，空气轻度污染(110)
-- 明天周四，白天☁️阴(20°~31°)，空气轻度污染(108)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月14日 18:20**
+- 今天周三，白天☁️阴(20°~28°)，空气轻度污染(114)
+- 明天周四，白天☁️阴(20°~30°)，空气良(98)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,11 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Large Language Models Can Extract Metadata for Annotation of Human Neuroimaging Publications](https://www.biorxiv.org/content/10.1101/2025.05.13.653828v1?rss=1) / 08:00
+- [Beyond the Leaderboard: Leveraging Predictive Modeling for Protein-Ligand Insights and Discovery](https://www.biorxiv.org/content/10.1101/2025.05.12.653449v1?rss=1) / 08:00
+- [Novel features of miRNA and isomiR-mRNA interactions](https://www.biorxiv.org/content/10.1101/2025.05.12.653582v1?rss=1) / 08:00
+- [DNA-methylation markers associated with lung function at birth and childhood reveal early life programming of inflammatory pathways](https://www.biorxiv.org/content/10.1101/2025.05.12.653131v1?rss=1) / 08:00
+- [A phased chromosome-level genome resource for a myrtle rust susceptible Syzygium luehmannii](https://www.biorxiv.org/content/10.1101/2025.05.12.653576v1?rss=1) / 08:00
 - [Subcellular level spatial transcriptomics with PHOTON](https://www.nature.com/articles/s41467-025-59801-3) / 08:00
 
 **历史记录**
@@ -58,9 +63,4 @@
 - [scGenAI: A generative AI platform with biological context embedding of multimodal features enhances single cell state classification](https://www.biorxiv.org/content/10.1101/2025.05.07.652733v1?rss=1) / 05月13日 08:00
 - [Pseudoassembly of k-mers](https://www.biorxiv.org/content/10.1101/2025.05.11.653354v1?rss=1) / 05月13日 08:00
 - [rDNAcaller: a fast and robust pipeline to call ribosomal DNA variants](https://www.biorxiv.org/content/10.1101/2025.05.13.653643v1?rss=1) / 05月13日 08:00
-- [An inductive, supervised approach for predicting gene--disease associations using phenotype ontologies](https://www.biorxiv.org/content/10.1101/2025.05.07.652682v1?rss=1) / 05月13日 08:00
-- [New gene annotations for three pea aphid genome assemblies allow comparative analyses of genes and gene family evolution](https://www.biorxiv.org/content/10.1101/2025.05.08.652899v1?rss=1) / 05月13日 08:00
-- [The mouse pangenome reveals the structural complexity of the murine protein coding landscape](https://www.biorxiv.org/content/10.1101/2025.05.13.653481v1?rss=1) / 05月13日 08:00
-- [A generative language model decodes contextual constraints on codon choice for mRNA design](https://www.biorxiv.org/content/10.1101/2025.05.13.653614v1?rss=1) / 05月13日 08:00
-- [Combining pangenomics and population genetics finds chromosomal re-arrangements, accessory-like chromosome segments, copy number variations and transposon polymorphisms in wheat and rye powdery mildew](https://www.biorxiv.org/content/10.1101/2025.05.08.652814v1?rss=1) / 05月13日 08:00
 <!--rss-papers:end-->
