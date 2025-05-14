@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月14日 18:20**
+**四川省/成都/成都 2025年05月14日 20:37**
 - 今天周三，白天☁️阴(20°~30°)，空气良(62)
 - 明天周四，白天🌤️多云(19°~32°)，空气良(94)，夜间阴
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月14日 18:20**
+**四川省/宜宾/宜宾 2025年05月14日 20:37**
 - 今天周三，白天☁️阴(20°~28°)，空气轻度污染(114)
 - 明天周四，白天☁️阴(20°~30°)，空气良(98)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -14,6 +14,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) / 20:06
 - [急救 & CPR 培训笔记](https://blog.douchi.space/first-aid-training/) / 15:37
 - [一个简单的 A star 寻路算法实现](https://blog.codingnow.com/2025/05/a_star_pathfinding.html) / 12:05
 - [认知 觉醒了吗？](https://imzm.im/cognitive-awakening/) / 10:45
@@ -35,15 +36,21 @@
 - [如何培养爱好](https://yufree.cn/cn/2025/05/11/how-to-enjoy-life/) / 05月11日 08:00
 - [大学时光回忆录](https://innei.in/notes/190) / 05月11日 01:57
 - [OneKey Pro & Classic 1S 双机评测：从旗舰到入门，哪一款更适合你？](https://song.al/onekey) / 05月10日 10:01
-- [楠溪江自驾Day4 - 林坑古村落](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-04.html) / 05月10日 00:06
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [DynaMiCs - Dynamic cell-type deconvolution ensembles for Mapping in mixed Conditions](https://www.biorxiv.org/content/10.1101/2025.05.08.652868v1?rss=1) / 08:00
+- [Mapping the Structural Landscape of Amyloid Fibrils to Guide Polymorph-Specific Therapeutics](https://www.biorxiv.org/content/10.1101/2025.05.08.652887v1?rss=1) / 08:00
+- [Identification and In Silico Characterization of Novel lncRNAs Associated with Dengue Infection](https://www.biorxiv.org/content/10.1101/2025.05.08.652916v1?rss=1) / 08:00
+- [Discovering disease genetic variation impacting gene expression in 103 brain tissues with the Brain Ontology Expression (BRONTE) graph neural network model](https://www.biorxiv.org/content/10.1101/2025.05.08.652857v1?rss=1) / 08:00
+- [Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge](https://www.biorxiv.org/content/10.1101/2025.05.08.652986v1?rss=1) / 08:00
+- [AI4CellFate: Interpretable Early Cell Fate Prediction with Generative AI](https://www.biorxiv.org/content/10.1101/2025.05.12.653464v1?rss=1) / 08:00
 - [Large Language Models Can Extract Metadata for Annotation of Human Neuroimaging Publications](https://www.biorxiv.org/content/10.1101/2025.05.13.653828v1?rss=1) / 08:00
 - [Beyond the Leaderboard: Leveraging Predictive Modeling for Protein-Ligand Insights and Discovery](https://www.biorxiv.org/content/10.1101/2025.05.12.653449v1?rss=1) / 08:00
 - [Novel features of miRNA and isomiR-mRNA interactions](https://www.biorxiv.org/content/10.1101/2025.05.12.653582v1?rss=1) / 08:00
+- [Resources for molecular studies of unculturable obligate biotrophic fungal plant pathogens using their saprotrophic relatives](https://www.biorxiv.org/content/10.1101/2025.05.08.652889v1?rss=1) / 08:00
 - [DNA-methylation markers associated with lung function at birth and childhood reveal early life programming of inflammatory pathways](https://www.biorxiv.org/content/10.1101/2025.05.12.653131v1?rss=1) / 08:00
 - [A phased chromosome-level genome resource for a myrtle rust susceptible Syzygium luehmannii](https://www.biorxiv.org/content/10.1101/2025.05.12.653576v1?rss=1) / 08:00
 - [Subcellular level spatial transcriptomics with PHOTON](https://www.nature.com/articles/s41467-025-59801-3) / 08:00
@@ -56,11 +63,4 @@
 - [POPARI: Modeling multisample variation in spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.08.652741v1?rss=1) / 05月13日 08:00
 - [Toward Reliable Synthetic Omics: Statistical Distances for Generative Models Evaluation](https://www.biorxiv.org/content/10.1101/2025.05.08.652855v1?rss=1) / 05月13日 08:00
 - [Generative model of SARS-CoV-2 variants under functional and immune pressure unveils viral escape potential and antibody resilience](https://www.biorxiv.org/content/10.1101/2025.05.12.653592v1?rss=1) / 05月13日 08:00
-- [GnnDebugger: GNN based error correction in De Bruijn Graphs](https://www.biorxiv.org/content/10.1101/2025.05.07.652713v1?rss=1) / 05月13日 08:00
-- [Explainable Multimodal Machine Learning Using Combined Environmental DNA and Biogeographic Features for Ecosystem Biomonitoring](https://www.biorxiv.org/content/10.1101/2025.05.07.652781v1?rss=1) / 05月13日 08:00
-- [Locus-specific Convergent Evolution and Interchromosomal Rearrangements Contribute Type I Interferon Diversification in Amniotes](https://www.biorxiv.org/content/10.1101/2025.05.08.652797v1?rss=1) / 05月13日 08:00
-- [Single-Cell Trajectory Inference for Detecting Transient Events in Biological Processes](https://www.biorxiv.org/content/10.1101/2025.05.07.652753v1?rss=1) / 05月13日 08:00
-- [scGenAI: A generative AI platform with biological context embedding of multimodal features enhances single cell state classification](https://www.biorxiv.org/content/10.1101/2025.05.07.652733v1?rss=1) / 05月13日 08:00
-- [Pseudoassembly of k-mers](https://www.biorxiv.org/content/10.1101/2025.05.11.653354v1?rss=1) / 05月13日 08:00
-- [rDNAcaller: a fast and robust pipeline to call ribosomal DNA variants](https://www.biorxiv.org/content/10.1101/2025.05.13.653643v1?rss=1) / 05月13日 08:00
 <!--rss-papers:end-->
