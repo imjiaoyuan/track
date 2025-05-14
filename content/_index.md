@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月14日 09:25**
-- 今天周三，白天☁️阴(20°~30°)，空气良(61)
-- 明天周四，白天🌤️多云(19°~30°)，空气良(71)，夜间阴
+**四川省/成都/成都 2025年05月14日 11:09**
+- 今天周三，白天☁️阴(20°~30°)，空气良(62)
+- 明天周四，白天🌤️多云(19°~30°)，空气良(77)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月14日 09:25**
-- 今天周三，白天☁️阴(20°~28°)，空气轻度污染(111)
-- 明天周四，白天☁️阴(20°~31°)，空气轻度污染(105)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月14日 11:09**
+- 今天周三，白天☁️阴(20°~28°)，空气轻度污染(106)
+- 明天周四，白天☁️阴(20°~31°)，空气轻度污染(107)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [认知 觉醒了吗？](https://imzm.im/cognitive-awakening/) / 10:45
 - [分享欲消失是否代表爱意消亡？](http://m.wufazhuce.com/question/4364) / 06:25
 - [请你自己告诉他（她）](http://m.wufazhuce.com/article/6789) / 06:25
 - [VOL.4603](http://m.wufazhuce.com/one/4754) / 06:25
@@ -35,12 +36,12 @@
 - [楠溪江自驾Day4 - 林坑古村落](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-04.html) / 05月10日 00:06
 - [日本旅游攻略：赴日前的准备与注意事项](https://song.al/japantravel) / 05月09日 18:39
 - [记录二五年五一之短暂回归家庭](https://wiki.eryajf.net/pages/ad1f6b/) / 05月09日 18:10
-- [学习周刊-总第210期-2025年第19周](https://wiki.eryajf.net/pages/ff011f/) / 05月09日 16:28
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Generative model of SARS-CoV-2 variants under functional and immune pressure unveils viral escape potential and antibody resilience](https://www.biorxiv.org/content/10.1101/2025.05.12.653592v1?rss=1) / 05月13日 08:00
 - [GnnDebugger: GNN based error correction in De Bruijn Graphs](https://www.biorxiv.org/content/10.1101/2025.05.07.652713v1?rss=1) / 05月13日 08:00
 - [Explainable Multimodal Machine Learning Using Combined Environmental DNA and Biogeographic Features for Ecosystem Biomonitoring](https://www.biorxiv.org/content/10.1101/2025.05.07.652781v1?rss=1) / 05月13日 08:00
 - [Locus-specific Convergent Evolution and Interchromosomal Rearrangements Contribute Type I Interferon Diversification in Amniotes](https://www.biorxiv.org/content/10.1101/2025.05.08.652797v1?rss=1) / 05月13日 08:00
@@ -60,5 +61,4 @@
 - [Efficient evidence-based genome annotation with EviAnn](https://www.biorxiv.org/content/10.1101/2025.05.07.652745v1?rss=1) / 05月12日 08:00
 - [P3ANUT: An enhanced DNA sequencing analysis platform for uncovering and correcting errors in peptide phage display library screening](https://www.biorxiv.org/content/10.1101/2025.05.12.648809v1?rss=1) / 05月12日 08:00
 - [Molecular dynamics simulations of intrinsically disordered protein regions enable biophysical interpretation of variant effect predictors](https://www.biorxiv.org/content/10.1101/2025.05.07.652723v1?rss=1) / 05月12日 08:00
-- [Identification of HIV-Associated Gene Expression Biomarkers Using Machine Learning and Interpretable Artificial Intelligence](https://www.biorxiv.org/content/10.1101/2025.05.08.652807v1?rss=1) / 05月12日 08:00
 <!--rss-papers:end-->
