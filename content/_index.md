@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月14日 20:37**
-- 今天周三，白天☁️阴(20°~30°)，空气良(62)
-- 明天周四，白天🌤️多云(19°~32°)，空气良(94)，夜间阴
+**四川省/成都/成都 2025年05月14日 22:19**
+- 今天周三，白天☁️阴(20°~30°)，空气良(69)
+- 明天周四，白天🌤️多云(19°~32°)，空气良(90)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月14日 20:37**
+**四川省/宜宾/宜宾 2025年05月14日 22:19**
 - 今天周三，白天☁️阴(20°~28°)，空气轻度污染(114)
-- 明天周四，白天☁️阴(20°~30°)，空气良(98)
+- 明天周四，白天☁️阴(20°~30°)，空气轻度污染(101)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Generative AI-driven artificial DNA design for enhancing inter-species gene activation and enzymatic degradation of PET](https://www.biorxiv.org/content/10.1101/2025.05.08.652991v1?rss=1) / 08:00
 - [DynaMiCs - Dynamic cell-type deconvolution ensembles for Mapping in mixed Conditions](https://www.biorxiv.org/content/10.1101/2025.05.08.652868v1?rss=1) / 08:00
 - [Mapping the Structural Landscape of Amyloid Fibrils to Guide Polymorph-Specific Therapeutics](https://www.biorxiv.org/content/10.1101/2025.05.08.652887v1?rss=1) / 08:00
 - [Identification and In Silico Characterization of Novel lncRNAs Associated with Dengue Infection](https://www.biorxiv.org/content/10.1101/2025.05.08.652916v1?rss=1) / 08:00
@@ -54,13 +55,12 @@
 - [DNA-methylation markers associated with lung function at birth and childhood reveal early life programming of inflammatory pathways](https://www.biorxiv.org/content/10.1101/2025.05.12.653131v1?rss=1) / 08:00
 - [A phased chromosome-level genome resource for a myrtle rust susceptible Syzygium luehmannii](https://www.biorxiv.org/content/10.1101/2025.05.12.653576v1?rss=1) / 08:00
 - [Subcellular level spatial transcriptomics with PHOTON](https://www.nature.com/articles/s41467-025-59801-3) / 08:00
+- [Two haplotype-resolved telomere-to-telomere genome assemblies of Xanthoceras sorbifolium](https://www.nature.com/articles/s41597-025-05057-x) / 08:00
+- [Cell-type deconvolution methods for spatial transcriptomics](https://www.nature.com/articles/s41576-025-00845-y) / 08:00
+- [Metagenomic biodiversity assessment within an offshore wind farm](https://www.nature.com/articles/s41598-025-01541-x) / 08:00
 
 **历史记录**
 - [Assessing genomic reproducibility of read alignment tools](https://www.biorxiv.org/content/10.1101/2025.05.08.652934v1?rss=1) / 05月13日 08:00
 - [RAMEN: Dissecting individual, additive and interactive gene-environment contributions to DNA methylome variability in cord blood](https://www.biorxiv.org/content/10.1101/2025.05.08.652964v1?rss=1) / 05月13日 08:00
 - [Automating AI Discovery for Biomedicine Through Knowledge Graphs And LLM Agents](https://www.biorxiv.org/content/10.1101/2025.05.08.652829v1?rss=1) / 05月13日 08:00
-- [Magnetically controlled tension of cytoskeletal elements with magnetic nanoparticles affects the expression of signaling pathway genes associated with cytoskeletal elements](https://www.biorxiv.org/content/10.1101/2025.05.08.652598v1?rss=1) / 05月13日 08:00
-- [POPARI: Modeling multisample variation in spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.08.652741v1?rss=1) / 05月13日 08:00
-- [Toward Reliable Synthetic Omics: Statistical Distances for Generative Models Evaluation](https://www.biorxiv.org/content/10.1101/2025.05.08.652855v1?rss=1) / 05月13日 08:00
-- [Generative model of SARS-CoV-2 variants under functional and immune pressure unveils viral escape potential and antibody resilience](https://www.biorxiv.org/content/10.1101/2025.05.12.653592v1?rss=1) / 05月13日 08:00
 <!--rss-papers:end-->
