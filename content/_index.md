@@ -1,25 +1,27 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月14日 06:17**
-- 今天周三，白天🌤️多云(19°~29°)，空气良(64)，夜间阴
-- 明天周四，白天🌤️多云(17°~30°)，空气良(78)，夜间阴
+**四川省/成都/成都 2025年05月14日 09:25**
+- 今天周三，白天☁️阴(20°~30°)，空气良(61)
+- 明天周四，白天🌤️多云(19°~30°)，空气良(71)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月14日 06:18**
-- 今天周三，白天☁️阴(20°~28°)，空气轻度污染(114)
-- 明天周四，白天☁️阴(20°~31°)，空气轻度污染(103)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月14日 09:25**
+- 今天周三，白天☁️阴(20°~28°)，空气轻度污染(111)
+- 明天周四，白天☁️阴(20°~31°)，空气轻度污染(105)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [分享欲消失是否代表爱意消亡？](http://m.wufazhuce.com/question/4364) / 06:25
+- [请你自己告诉他（她）](http://m.wufazhuce.com/article/6789) / 06:25
+- [VOL.4603](http://m.wufazhuce.com/one/4754) / 06:25
+
 **历史记录**
 - [富春芳草地&amp;只有河南](https://www.skyue.com/25051323.html) / 05月13日 23:50
 - [2025 再回顾 Orion 浏览器](https://anotherdayu.com/2025/6953/) / 05月13日 19:43
 - [楠溪江自驾Day6 - 交汇瓯江口](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-06.html) / 05月13日 07:30
-- [这个时代知识是不是贬值了？](http://m.wufazhuce.com/question/4363) / 05月13日 06:25
-- [水边的阿狄丽娜](http://m.wufazhuce.com/article/6791) / 05月13日 06:25
-- [VOL.4602](http://m.wufazhuce.com/one/4753) / 05月13日 06:25
 - [汉字的不可拼音化](https://justgoidea.com/the-impossibility-of-pinyin-for-chinese-characters/) / 05月13日 05:18
 - [匮乏思维](https://blog.douchi.space/scarcity-mindset/) / 05月12日 09:23
 - [楠溪江自驾Day5 - 泛舟楠溪江](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-05.html) / 05月12日 04:26
@@ -47,16 +49,16 @@
 - [Pseudoassembly of k-mers](https://www.biorxiv.org/content/10.1101/2025.05.11.653354v1?rss=1) / 05月13日 08:00
 - [rDNAcaller: a fast and robust pipeline to call ribosomal DNA variants](https://www.biorxiv.org/content/10.1101/2025.05.13.653643v1?rss=1) / 05月13日 08:00
 - [An inductive, supervised approach for predicting gene--disease associations using phenotype ontologies](https://www.biorxiv.org/content/10.1101/2025.05.07.652682v1?rss=1) / 05月13日 08:00
+- [A generative language model decodes contextual constraints on codon choice for mRNA design](https://www.biorxiv.org/content/10.1101/2025.05.13.653614v1?rss=1) / 05月13日 08:00
+- [Combining pangenomics and population genetics finds chromosomal re-arrangements, accessory-like chromosome segments, copy number variations and transposon polymorphisms in wheat and rye powdery mildew](https://www.biorxiv.org/content/10.1101/2025.05.08.652814v1?rss=1) / 05月13日 08:00
 - [The Dynamic Nature of Genetic Risk for Schizophrenia Within Genes Regulated by FOXP1 During Neurodevelopment](https://www.biorxiv.org/content/10.1101/2025.05.12.653444v1?rss=1) / 05月13日 08:00
 - [Integrating GWAS and spatial omics](https://www.nature.com/articles/s41592-025-02711-5) / 05月13日 08:00
 - [Sex differences in the genetic regulation of the human plasma proteome](https://www.nature.com/articles/s41467-025-59034-4) / 05月13日 08:00
+- [DNA data storage for biomedical images using HELIX](https://www.nature.com/articles/s43588-025-00793-x) / 05月13日 08:00
 - [Extrinsic biological stochasticity and technical noise normalization of single-cell RNA sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.11.653373v1?rss=1) / 05月12日 08:00
 - [Discrimination of Normal from Slow-Aging Mice by Plasma Metabolomic and Proteomic Features](https://www.biorxiv.org/content/10.1101/2025.05.11.651908v1?rss=1) / 05月12日 08:00
 - [Efficient evidence-based genome annotation with EviAnn](https://www.biorxiv.org/content/10.1101/2025.05.07.652745v1?rss=1) / 05月12日 08:00
 - [P3ANUT: An enhanced DNA sequencing analysis platform for uncovering and correcting errors in peptide phage display library screening](https://www.biorxiv.org/content/10.1101/2025.05.12.648809v1?rss=1) / 05月12日 08:00
 - [Molecular dynamics simulations of intrinsically disordered protein regions enable biophysical interpretation of variant effect predictors](https://www.biorxiv.org/content/10.1101/2025.05.07.652723v1?rss=1) / 05月12日 08:00
 - [Identification of HIV-Associated Gene Expression Biomarkers Using Machine Learning and Interpretable Artificial Intelligence](https://www.biorxiv.org/content/10.1101/2025.05.08.652807v1?rss=1) / 05月12日 08:00
-- [The Impact of Exogenous Mutagens on Human Mitochondrial DNA Ploidy: Analysis of Changes and Possible Protective Mechanisms.](https://www.biorxiv.org/content/10.1101/2025.05.09.648561v1?rss=1) / 05月12日 08:00
-- [Sex-Based Transcriptomic Differences in Psoriatic Lesions: A Comprehensive Meta-Analysis](https://www.biorxiv.org/content/10.1101/2025.05.07.652611v1?rss=1) / 05月12日 08:00
-- [Evaluating selection at intermediate scales within genes provides robust identification of genes under positive selection in M. tuberculosis clinical isolates](https://www.biorxiv.org/content/10.1101/2025.05.07.652684v1?rss=1) / 05月12日 08:00
 <!--rss-papers:end-->
