@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月16日 02:26**
+**四川省/成都/成都 2025年05月16日 04:20**
 - 今天周五，白天☁️阴(19°~28°)，空气良(97)
 - 明天周六，白天☁️阴(20°~30°)，空气良(95)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月16日 02:26**
+**四川省/宜宾/宜宾 2025年05月16日 04:20**
 - 今天周五，白天☁️阴(20°~28°)，空气良(70)，夜间小雨
 - 明天周六，白天☁️阴(20°~29°)，空气良(88)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,6 +41,11 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Spatial geometry-aware deep learning for deciphering tissue structure from spatially resolved transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.11.652625v1?rss=1) / 05月15日 08:00
+- [AF3Score: A Score-Only Adaptation of AlphaFold3 for Biomolecular Structure Evaluation](https://www.biorxiv.org/content/10.1101/2025.05.10.653251v1?rss=1) / 05月15日 08:00
+- [MARTS-DB: A Database of Mechanisms And Reactions of Terpene Synthases](https://www.biorxiv.org/content/10.1101/2025.05.11.653183v1?rss=1) / 05月15日 08:00
+- [Dotplotic: a lightweight visualization tool for BLAST+ alignments and genomic annotations](https://www.biorxiv.org/content/10.1101/2025.05.12.653581v1?rss=1) / 05月15日 08:00
+- [Lossless Pangenome Indexing Using Tag Arrays](https://www.biorxiv.org/content/10.1101/2025.05.12.653561v1?rss=1) / 05月15日 08:00
 - [Artificial Intelligence And First Principle Methods In Protein Redesign: A Marriage Of Convenience?](https://www.biorxiv.org/content/10.1101/2025.05.12.653318v1?rss=1) / 05月15日 08:00
 - [TITANiAN: Robust Prediction of T-cell Epitope Immunogenicity using Adversarial Domain Adaptation Network](https://www.biorxiv.org/content/10.1101/2025.05.11.653308v1?rss=1) / 05月15日 08:00
 - [Forskolin as a multi-target modulator of the oncogenic PI3K/Akt signaling pathway: An in silico integrative GO/KEGG enrichment analysis and network pharmacology](https://www.biorxiv.org/content/10.1101/2025.05.11.653344v1?rss=1) / 05月15日 08:00
@@ -54,11 +59,6 @@
 - [A genome-wide, machine learning-guided exploration of the cis-regulatory code involved in neuronal differentiation](https://www.biorxiv.org/content/10.1101/2025.05.14.653995v1?rss=1) / 05月15日 08:00
 - [TCRanalyzer: A user-friendly tool for comprehensive analysis of T-cell diversity, dynamics and potential antigen targets](https://www.biorxiv.org/content/10.1101/2025.05.09.652820v1?rss=1) / 05月15日 08:00
 - [Harmonizing single cell 3D genome data with STARK and scNucleome](https://www.biorxiv.org/content/10.1101/2025.05.10.653247v1?rss=1) / 05月15日 08:00
-- [Organism-wide cellular dynamics and epigenomic remodeling in mammalian aging](https://www.biorxiv.org/content/10.1101/2025.05.12.653376v1?rss=1) / 05月15日 08:00
-- [UV laser crosslinking uncovers novel DNA-binding pattern of CTCF](https://www.biorxiv.org/content/10.1101/2025.05.12.653382v1?rss=1) / 05月15日 08:00
-- [Intra-Strain Genetic Heterogeneity in Toxoplasma gondii ME49: Oxford Nanopore Long-Read Sequencing Reveals Copy Number Variation in the ROP8-ROP2A Locus](https://www.biorxiv.org/content/10.1101/2025.05.10.653050v1?rss=1) / 05月15日 08:00
-- [Mapping the transcriptional regulatory network of a fungal pathogen by exploiting transcription factor perturbation](https://www.biorxiv.org/content/10.1101/2025.05.10.653149v1?rss=1) / 05月15日 08:00
-- [Pangenome analysis provides insights into the evolution of mango (Mangifera spp.)](https://www.biorxiv.org/content/10.1101/2025.05.09.653124v1?rss=1) / 05月15日 08:00
-- [decemedip: hierarchical Bayesian modeling for cell type deconvolution of immunoprecipitation-based DNA methylomes](https://www.biorxiv.org/content/10.1101/2025.05.09.653152v1?rss=1) / 05月15日 08:00
-- [World’s first personalized CRISPR therapy given to baby with genetic disease](https://www.nature.com/articles/d41586-025-01496-z) / 05月15日 08:00
+- [Nucleosome positioning and sensitivity suggest novel functional organization of the purple sea urchin (Strongylocentrotus purpuratus) genome](https://www.biorxiv.org/content/10.1101/2025.05.12.653534v1?rss=1) / 05月15日 08:00
+- [Genetic Surveillance Reveals Differential Evolutionary Dynamic of Anopheles gambiae Under Contrasting Insecticidal Tools used in Malaria control](https://www.biorxiv.org/content/10.1101/2025.05.12.653619v1?rss=1) / 05月15日 08:00
 <!--rss-papers:end-->
