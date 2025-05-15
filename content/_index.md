@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月15日 11:08**
-- 今天周四，白天🌤️多云(20°~31°)，空气良(86)
-- 明天周五，白天☁️阴(19°~29°)，空气良(97)
+**四川省/成都/成都 2025年05月15日 12:22**
+- 今天周四，白天🌤️多云(20°~31°)，空气良(91)
+- 明天周五，白天☁️阴(19°~29°)，空气良(99)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月15日 11:08**
-- 今天周四，白天☁️阴(20°~29°)，空气轻度污染(104)
-- 明天周五，白天☁️阴(20°~28°)，空气良(88)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月15日 12:22**
+- 今天周四，白天☁️阴(20°~29°)，空气良(98)
+- 明天周五，白天☁️阴(20°~28°)，空气良(87)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [24/7 时间记录两年后的经验总结](https://thirdshire.com/timetracking/) / 11:36
 - [VXNA 和 Folo](https://anotherdayu.com/2025/6972/) / 10:00
 - [为什么，生活总弥漫着不真实感？](http://m.wufazhuce.com/question/4365) / 06:25
 - [在雨天放一把火](http://m.wufazhuce.com/article/6792) / 06:25
@@ -35,7 +36,6 @@
 - [随手拍的烂片](https://innei.in/notes/191) / 05月11日 21:28
 - [猫鱼周刊 vol. 064 创作和变现](https://ameow.xyz/archives/weekly-064) / 05月11日 17:46
 - [我们的婚礼](https://www.skyue.com/25051116.html) / 05月11日 16:14
-- [麻雀](https://www.xiangshitan.com/post/3401.html) / 05月11日 13:36
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -44,6 +44,10 @@
 - [Methodological opportunities in genomic data analysis to advance health equity](https://www.nature.com/articles/s41576-025-00839-w) / 08:00
 
 **历史记录**
+- [Universal Transformer-Based Tracker for Accurate Tracking of Particles and Cells in Microscopy](https://www.biorxiv.org/content/10.1101/2025.05.09.653028v1?rss=1) / 05月14日 08:00
+- [MALER: a web server to build, evaluate, and apply machine learning models for numerical biomedical data analysis](https://www.biorxiv.org/content/10.1101/2025.05.09.653008v1?rss=1) / 05月14日 08:00
+- [Reducing Manual Labour in Forensic Microtrace Recognition with Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.09.653056v1?rss=1) / 05月14日 08:00
+- [VEFill: a model for accurate and generalizable deep mutational scanning score imputation across protein domains](https://www.biorxiv.org/content/10.1101/2025.05.14.653991v1?rss=1) / 05月14日 08:00
 - [ProGenFixer: an ultra-fast and accurate tool for correcting prokaryotic genome sequences using a mapping-free algorithm](https://www.biorxiv.org/content/10.1101/2025.05.09.653025v1?rss=1) / 05月14日 08:00
 - [Hierarchical Approaches for Integrating Sparse, Multivariate Toxicological Effect Data in Whole Organism Molecular Dynamics Models](https://www.biorxiv.org/content/10.1101/2025.05.09.652942v1?rss=1) / 05月14日 08:00
 - [Analysis of Microsatellite Instability Intensity in Single-Cell Resolution with scMnT reveals Tumor Heterogeneity in Colorectal Cancer](https://www.biorxiv.org/content/10.1101/2025.05.09.653227v1?rss=1) / 05月14日 08:00
@@ -59,8 +63,4 @@
 - [Discovering disease genetic variation impacting gene expression in 103 brain tissues with the Brain Ontology Expression (BRONTE) graph neural network model](https://www.biorxiv.org/content/10.1101/2025.05.08.652857v1?rss=1) / 05月14日 08:00
 - [Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge](https://www.biorxiv.org/content/10.1101/2025.05.08.652986v1?rss=1) / 05月14日 08:00
 - [AI4CellFate: Interpretable Early Cell Fate Prediction with Generative AI](https://www.biorxiv.org/content/10.1101/2025.05.12.653464v1?rss=1) / 05月14日 08:00
-- [Large Language Models Can Extract Metadata for Annotation of Human Neuroimaging Publications](https://www.biorxiv.org/content/10.1101/2025.05.13.653828v1?rss=1) / 05月14日 08:00
-- [Beyond the Leaderboard: Leveraging Predictive Modeling for Protein-Ligand Insights and Discovery](https://www.biorxiv.org/content/10.1101/2025.05.12.653449v1?rss=1) / 05月14日 08:00
-- [Novel features of miRNA and isomiR-mRNA interactions](https://www.biorxiv.org/content/10.1101/2025.05.12.653582v1?rss=1) / 05月14日 08:00
-- [Spatial epigenomic niches underlie glioblastoma cell state plasticity](https://www.biorxiv.org/content/10.1101/2025.05.09.653178v1?rss=1) / 05月14日 08:00
 <!--rss-papers:end-->
