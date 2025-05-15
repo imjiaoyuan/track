@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月16日 00:23**
+**四川省/成都/成都 2025年05月16日 02:26**
 - 今天周五，白天☁️阴(19°~28°)，空气良(97)
 - 明天周六，白天☁️阴(20°~30°)，空气良(95)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月16日 00:23**
+**四川省/宜宾/宜宾 2025年05月16日 02:26**
 - 今天周五，白天☁️阴(20°~28°)，空气良(70)，夜间小雨
 - 明天周六，白天☁️阴(20°~29°)，空气良(88)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,24 +41,24 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Artificial Intelligence And First Principle Methods In Protein Redesign: A Marriage Of Convenience?](https://www.biorxiv.org/content/10.1101/2025.05.12.653318v1?rss=1) / 05月15日 08:00
+- [TITANiAN: Robust Prediction of T-cell Epitope Immunogenicity using Adversarial Domain Adaptation Network](https://www.biorxiv.org/content/10.1101/2025.05.11.653308v1?rss=1) / 05月15日 08:00
+- [Forskolin as a multi-target modulator of the oncogenic PI3K/Akt signaling pathway: An in silico integrative GO/KEGG enrichment analysis and network pharmacology](https://www.biorxiv.org/content/10.1101/2025.05.11.653344v1?rss=1) / 05月15日 08:00
+- [SynLS: A novel diffusion-transformer framework for generating high-quality wearable sensor time series data to enhance health monitoring](https://www.biorxiv.org/content/10.1101/2025.05.11.653212v1?rss=1) / 05月15日 08:00
+- [A Multimodal Graph Learning Framework for Versatile Spatial Transcriptomics Analysis with SpatialModal](https://www.biorxiv.org/content/10.1101/2025.05.11.653070v1?rss=1) / 05月15日 08:00
+- [Evaluating Foundation Models for In-Silico Perturbation](https://www.biorxiv.org/content/10.1101/2025.05.11.653338v1?rss=1) / 05月15日 08:00
+- [A Comparative Assessment of edgeR and methylKit Pipelines for DNA Methylation Detection](https://www.biorxiv.org/content/10.1101/2025.05.11.653026v1?rss=1) / 05月15日 08:00
+- [scDenorm: a denormalisation tool for integrating single-cell transcriptomics data](https://www.biorxiv.org/content/10.1101/2025.05.10.653289v1?rss=1) / 05月15日 08:00
+- [MADRe: Strain-Level Metagenomic Classification Through Assembly-Driven Database Reduction](https://www.biorxiv.org/content/10.1101/2025.05.12.653324v1?rss=1) / 05月15日 08:00
 - [Harnessing machine learning models for epigenome to transcriptome association studies](https://www.biorxiv.org/content/10.1101/2025.05.09.653095v1?rss=1) / 05月15日 08:00
 - [A genome-wide, machine learning-guided exploration of the cis-regulatory code involved in neuronal differentiation](https://www.biorxiv.org/content/10.1101/2025.05.14.653995v1?rss=1) / 05月15日 08:00
 - [TCRanalyzer: A user-friendly tool for comprehensive analysis of T-cell diversity, dynamics and potential antigen targets](https://www.biorxiv.org/content/10.1101/2025.05.09.652820v1?rss=1) / 05月15日 08:00
 - [Harmonizing single cell 3D genome data with STARK and scNucleome](https://www.biorxiv.org/content/10.1101/2025.05.10.653247v1?rss=1) / 05月15日 08:00
+- [Organism-wide cellular dynamics and epigenomic remodeling in mammalian aging](https://www.biorxiv.org/content/10.1101/2025.05.12.653376v1?rss=1) / 05月15日 08:00
+- [UV laser crosslinking uncovers novel DNA-binding pattern of CTCF](https://www.biorxiv.org/content/10.1101/2025.05.12.653382v1?rss=1) / 05月15日 08:00
+- [Intra-Strain Genetic Heterogeneity in Toxoplasma gondii ME49: Oxford Nanopore Long-Read Sequencing Reveals Copy Number Variation in the ROP8-ROP2A Locus](https://www.biorxiv.org/content/10.1101/2025.05.10.653050v1?rss=1) / 05月15日 08:00
+- [Mapping the transcriptional regulatory network of a fungal pathogen by exploiting transcription factor perturbation](https://www.biorxiv.org/content/10.1101/2025.05.10.653149v1?rss=1) / 05月15日 08:00
 - [Pangenome analysis provides insights into the evolution of mango (Mangifera spp.)](https://www.biorxiv.org/content/10.1101/2025.05.09.653124v1?rss=1) / 05月15日 08:00
 - [decemedip: hierarchical Bayesian modeling for cell type deconvolution of immunoprecipitation-based DNA methylomes](https://www.biorxiv.org/content/10.1101/2025.05.09.653152v1?rss=1) / 05月15日 08:00
-- [Ultrafast and accurate sequence alignment and clustering of viral genomes](https://www.nature.com/articles/s41592-025-02701-7) / 05月15日 08:00
-- [Methodological opportunities in genomic data analysis to advance health equity](https://www.nature.com/articles/s41576-025-00839-w) / 05月15日 08:00
-- [Hemolytik2: An Updated Database of Hemolytic Peptides and Proteins](https://www.biorxiv.org/content/10.1101/2025.05.12.653624v1?rss=1) / 05月14日 08:00
-- [VaMiAnalyzer: An open source, python-based application for analysis of 3D in vitro vasculogenic mimicry assays](https://www.biorxiv.org/content/10.1101/2025.05.13.653881v1?rss=1) / 05月14日 08:00
-- [Atlas-scale metabolic activities inferred from single-cell and spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.09.653038v1?rss=1) / 05月14日 08:00
-- [SANTON: Sequencing Analysis Toolkits for Off-target Nomination](https://www.biorxiv.org/content/10.1101/2025.05.09.653082v1?rss=1) / 05月14日 08:00
-- [Universal Transformer-Based Tracker for Accurate Tracking of Particles and Cells in Microscopy](https://www.biorxiv.org/content/10.1101/2025.05.09.653028v1?rss=1) / 05月14日 08:00
-- [MALER: a web server to build, evaluate, and apply machine learning models for numerical biomedical data analysis](https://www.biorxiv.org/content/10.1101/2025.05.09.653008v1?rss=1) / 05月14日 08:00
-- [Reducing Manual Labour in Forensic Microtrace Recognition with Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.09.653056v1?rss=1) / 05月14日 08:00
-- [VEFill: a model for accurate and generalizable deep mutational scanning score imputation across protein domains](https://www.biorxiv.org/content/10.1101/2025.05.14.653991v1?rss=1) / 05月14日 08:00
-- [ProGenFixer: an ultra-fast and accurate tool for correcting prokaryotic genome sequences using a mapping-free algorithm](https://www.biorxiv.org/content/10.1101/2025.05.09.653025v1?rss=1) / 05月14日 08:00
-- [Hierarchical Approaches for Integrating Sparse, Multivariate Toxicological Effect Data in Whole Organism Molecular Dynamics Models](https://www.biorxiv.org/content/10.1101/2025.05.09.652942v1?rss=1) / 05月14日 08:00
-- [Analysis of Microsatellite Instability Intensity in Single-Cell Resolution with scMnT reveals Tumor Heterogeneity in Colorectal Cancer](https://www.biorxiv.org/content/10.1101/2025.05.09.653227v1?rss=1) / 05月14日 08:00
-- [A unified multimodal model for generalizable zero-shot and supervised protein function prediction](https://www.biorxiv.org/content/10.1101/2025.05.09.653226v1?rss=1) / 05月14日 08:00
+- [World’s first personalized CRISPR therapy given to baby with genetic disease](https://www.nature.com/articles/d41586-025-01496-z) / 05月15日 08:00
 <!--rss-papers:end-->
