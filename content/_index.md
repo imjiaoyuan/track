@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月15日 20:37**
+**四川省/成都/成都 2025年05月15日 22:19**
 - 今天周四，白天🌤️多云(19°~31°)，空气良(94)
-- 明天周五，白天☁️阴(19°~28°)，空气良(95)
+- 明天周五，白天☁️阴(19°~28°)，空气良(97)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月15日 20:37**
-- 今天周四，白天☁️阴(20°~29°)，空气轻度污染(104)
-- 明天周五，白天☁️阴(20°~28°)，空气良(74)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月15日 22:19**
+- 今天周四，白天☁️阴(20°~29°)，空气轻度污染(101)
+- 明天周五，白天☁️阴(20°~28°)，空气良(70)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Harnessing machine learning models for epigenome to transcriptome association studies](https://www.biorxiv.org/content/10.1101/2025.05.09.653095v1?rss=1) / 08:00
 - [A genome-wide, machine learning-guided exploration of the cis-regulatory code involved in neuronal differentiation](https://www.biorxiv.org/content/10.1101/2025.05.14.653995v1?rss=1) / 08:00
 - [TCRanalyzer: A user-friendly tool for comprehensive analysis of T-cell diversity, dynamics and potential antigen targets](https://www.biorxiv.org/content/10.1101/2025.05.09.652820v1?rss=1) / 08:00
 - [Harmonizing single cell 3D genome data with STARK and scNucleome](https://www.biorxiv.org/content/10.1101/2025.05.10.653247v1?rss=1) / 08:00
@@ -62,5 +63,4 @@
 - [Hierarchical Approaches for Integrating Sparse, Multivariate Toxicological Effect Data in Whole Organism Molecular Dynamics Models](https://www.biorxiv.org/content/10.1101/2025.05.09.652942v1?rss=1) / 05月14日 08:00
 - [Analysis of Microsatellite Instability Intensity in Single-Cell Resolution with scMnT reveals Tumor Heterogeneity in Colorectal Cancer](https://www.biorxiv.org/content/10.1101/2025.05.09.653227v1?rss=1) / 05月14日 08:00
 - [A unified multimodal model for generalizable zero-shot and supervised protein function prediction](https://www.biorxiv.org/content/10.1101/2025.05.09.653226v1?rss=1) / 05月14日 08:00
-- [A synergistic generative-ranking framework for tailored design of therapeutic single-domain antibodies](https://www.biorxiv.org/content/10.1101/2025.05.09.653014v1?rss=1) / 05月14日 08:00
 <!--rss-papers:end-->
