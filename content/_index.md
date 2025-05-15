@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月15日 12:22**
+**四川省/成都/成都 2025年05月15日 14:27**
 - 今天周四，白天🌤️多云(20°~31°)，空气良(91)
 - 明天周五，白天☁️阴(19°~29°)，空气良(99)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月15日 12:22**
+**四川省/宜宾/宜宾 2025年05月15日 14:27**
 - 今天周四，白天☁️阴(20°~29°)，空气良(98)
 - 明天周五，白天☁️阴(20°~28°)，空气良(87)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -44,6 +44,10 @@
 - [Methodological opportunities in genomic data analysis to advance health equity](https://www.nature.com/articles/s41576-025-00839-w) / 08:00
 
 **历史记录**
+- [Hemolytik2: An Updated Database of Hemolytic Peptides and Proteins](https://www.biorxiv.org/content/10.1101/2025.05.12.653624v1?rss=1) / 05月14日 08:00
+- [VaMiAnalyzer: An open source, python-based application for analysis of 3D in vitro vasculogenic mimicry assays](https://www.biorxiv.org/content/10.1101/2025.05.13.653881v1?rss=1) / 05月14日 08:00
+- [Atlas-scale metabolic activities inferred from single-cell and spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.09.653038v1?rss=1) / 05月14日 08:00
+- [SANTON: Sequencing Analysis Toolkits for Off-target Nomination](https://www.biorxiv.org/content/10.1101/2025.05.09.653082v1?rss=1) / 05月14日 08:00
 - [Universal Transformer-Based Tracker for Accurate Tracking of Particles and Cells in Microscopy](https://www.biorxiv.org/content/10.1101/2025.05.09.653028v1?rss=1) / 05月14日 08:00
 - [MALER: a web server to build, evaluate, and apply machine learning models for numerical biomedical data analysis](https://www.biorxiv.org/content/10.1101/2025.05.09.653008v1?rss=1) / 05月14日 08:00
 - [Reducing Manual Labour in Forensic Microtrace Recognition with Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.09.653056v1?rss=1) / 05月14日 08:00
@@ -59,8 +63,4 @@
 - [Generative AI-driven artificial DNA design for enhancing inter-species gene activation and enzymatic degradation of PET](https://www.biorxiv.org/content/10.1101/2025.05.08.652991v1?rss=1) / 05月14日 08:00
 - [DynaMiCs - Dynamic cell-type deconvolution ensembles for Mapping in mixed Conditions](https://www.biorxiv.org/content/10.1101/2025.05.08.652868v1?rss=1) / 05月14日 08:00
 - [Mapping the Structural Landscape of Amyloid Fibrils to Guide Polymorph-Specific Therapeutics](https://www.biorxiv.org/content/10.1101/2025.05.08.652887v1?rss=1) / 05月14日 08:00
-- [Identification and In Silico Characterization of Novel lncRNAs Associated with Dengue Infection](https://www.biorxiv.org/content/10.1101/2025.05.08.652916v1?rss=1) / 05月14日 08:00
-- [Discovering disease genetic variation impacting gene expression in 103 brain tissues with the Brain Ontology Expression (BRONTE) graph neural network model](https://www.biorxiv.org/content/10.1101/2025.05.08.652857v1?rss=1) / 05月14日 08:00
-- [Developing a general AI model for integrating diverse genomic modalities and comprehensive genomic knowledge](https://www.biorxiv.org/content/10.1101/2025.05.08.652986v1?rss=1) / 05月14日 08:00
-- [AI4CellFate: Interpretable Early Cell Fate Prediction with Generative AI](https://www.biorxiv.org/content/10.1101/2025.05.12.653464v1?rss=1) / 05月14日 08:00
 <!--rss-papers:end-->
