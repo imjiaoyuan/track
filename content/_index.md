@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月15日 18:20**
+**四川省/成都/成都 2025年05月15日 20:37**
 - 今天周四，白天🌤️多云(19°~31°)，空气良(94)
 - 明天周五，白天☁️阴(19°~28°)，空气良(95)
-- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
+- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月15日 18:20**
+**四川省/宜宾/宜宾 2025年05月15日 20:37**
 - 今天周四，白天☁️阴(20°~29°)，空气轻度污染(104)
 - 明天周五，白天☁️阴(20°~28°)，空气良(74)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,6 +41,11 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [A genome-wide, machine learning-guided exploration of the cis-regulatory code involved in neuronal differentiation](https://www.biorxiv.org/content/10.1101/2025.05.14.653995v1?rss=1) / 08:00
+- [TCRanalyzer: A user-friendly tool for comprehensive analysis of T-cell diversity, dynamics and potential antigen targets](https://www.biorxiv.org/content/10.1101/2025.05.09.652820v1?rss=1) / 08:00
+- [Harmonizing single cell 3D genome data with STARK and scNucleome](https://www.biorxiv.org/content/10.1101/2025.05.10.653247v1?rss=1) / 08:00
+- [Pangenome analysis provides insights into the evolution of mango (Mangifera spp.)](https://www.biorxiv.org/content/10.1101/2025.05.09.653124v1?rss=1) / 08:00
+- [decemedip: hierarchical Bayesian modeling for cell type deconvolution of immunoprecipitation-based DNA methylomes](https://www.biorxiv.org/content/10.1101/2025.05.09.653152v1?rss=1) / 08:00
 - [Ultrafast and accurate sequence alignment and clustering of viral genomes](https://www.nature.com/articles/s41592-025-02701-7) / 08:00
 - [Methodological opportunities in genomic data analysis to advance health equity](https://www.nature.com/articles/s41576-025-00839-w) / 08:00
 
@@ -58,9 +63,4 @@
 - [Analysis of Microsatellite Instability Intensity in Single-Cell Resolution with scMnT reveals Tumor Heterogeneity in Colorectal Cancer](https://www.biorxiv.org/content/10.1101/2025.05.09.653227v1?rss=1) / 05月14日 08:00
 - [A unified multimodal model for generalizable zero-shot and supervised protein function prediction](https://www.biorxiv.org/content/10.1101/2025.05.09.653226v1?rss=1) / 05月14日 08:00
 - [A synergistic generative-ranking framework for tailored design of therapeutic single-domain antibodies](https://www.biorxiv.org/content/10.1101/2025.05.09.653014v1?rss=1) / 05月14日 08:00
-- [Molecular biointerface characterisation for an implanted medical device using cryogenic orbitrap secondary ion mass spectrometry (Cryo-OrbiSIMS)](https://www.biorxiv.org/content/10.1101/2025.05.09.652996v1?rss=1) / 05月14日 08:00
-- [SoftAlign: End-to-end protein structures alignment](https://www.biorxiv.org/content/10.1101/2025.05.09.653096v1?rss=1) / 05月14日 08:00
-- [TidyMass2: Advancing LC-MS Untargeted Metabolomics Through Metabolite Origin Inference and Metabolic Feature-based Functional Module Analysis](https://www.biorxiv.org/content/10.1101/2025.05.09.652992v1?rss=1) / 05月14日 08:00
-- [Generative AI-driven artificial DNA design for enhancing inter-species gene activation and enzymatic degradation of PET](https://www.biorxiv.org/content/10.1101/2025.05.08.652991v1?rss=1) / 05月14日 08:00
-- [DynaMiCs - Dynamic cell-type deconvolution ensembles for Mapping in mixed Conditions](https://www.biorxiv.org/content/10.1101/2025.05.08.652868v1?rss=1) / 05月14日 08:00
 <!--rss-papers:end-->
