@@ -1,26 +1,28 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月15日 22:19**
-- 今天周四，白天🌤️多云(19°~31°)，空气良(94)
-- 明天周五，白天☁️阴(19°~28°)，空气良(97)
+**四川省/成都/成都 2025年05月16日 00:23**
+- 今天周五，白天☁️阴(19°~28°)，空气良(97)
+- 明天周六，白天☁️阴(20°~30°)，空气良(95)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月15日 22:19**
-- 今天周四，白天☁️阴(20°~29°)，空气轻度污染(101)
-- 明天周五，白天☁️阴(20°~28°)，空气良(70)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月16日 00:23**
+- 今天周五，白天☁️阴(20°~28°)，空气良(70)，夜间小雨
+- 明天周六，白天☁️阴(20°~29°)，空气良(88)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
-- [24/7 时间记录两年后的经验总结](https://thirdshire.com/timetracking/) / 11:36
-- [VXNA 和 Folo](https://anotherdayu.com/2025/6972/) / 10:00
-- [为什么，生活总弥漫着不真实感？](http://m.wufazhuce.com/question/4365) / 06:25
-- [在雨天放一把火](http://m.wufazhuce.com/article/6792) / 06:25
-- [VOL.4604](http://m.wufazhuce.com/one/4755) / 06:25
+- [学习周刊-总第211期-2025年第20周](https://wiki.eryajf.net/pages/a0fa42/) / 06:15
 
 **历史记录**
+- [中国互联网上，到底还能用什么获取信息](https://cyp0633.icu/timeline/2025/05/fsou-lawsuit/) / 05月15日 23:14
+- [24/7 时间记录两年后的经验总结](https://thirdshire.com/timetracking/) / 05月15日 11:36
+- [VXNA 和 Folo](https://anotherdayu.com/2025/6972/) / 05月15日 10:00
+- [为什么，生活总弥漫着不真实感？](http://m.wufazhuce.com/question/4365) / 05月15日 06:25
+- [在雨天放一把火](http://m.wufazhuce.com/article/6792) / 05月15日 06:25
+- [VOL.4604](http://m.wufazhuce.com/one/4755) / 05月15日 06:25
 - [生信爱好者周刊（第 165 期）：明星期刊“落选”引发科学界震动，在中国做学术期刊有多难？](https://openbiox.github.io/weekly/issue-165/) / 05月14日 22:16
 - [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) / 05月14日 20:06
 - [急救 & CPR 培训笔记](https://blog.douchi.space/first-aid-training/) / 05月14日 15:37
@@ -34,23 +36,19 @@
 - [匮乏思维](https://blog.douchi.space/scarcity-mindset/) / 05月12日 09:23
 - [楠溪江自驾Day5 - 泛舟楠溪江](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-05.html) / 05月12日 04:26
 - [随手拍的烂片](https://innei.in/notes/191) / 05月11日 21:28
-- [猫鱼周刊 vol. 064 创作和变现](https://ameow.xyz/archives/weekly-064) / 05月11日 17:46
-- [我们的婚礼](https://www.skyue.com/25051116.html) / 05月11日 16:14
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Harnessing machine learning models for epigenome to transcriptome association studies](https://www.biorxiv.org/content/10.1101/2025.05.09.653095v1?rss=1) / 08:00
-- [A genome-wide, machine learning-guided exploration of the cis-regulatory code involved in neuronal differentiation](https://www.biorxiv.org/content/10.1101/2025.05.14.653995v1?rss=1) / 08:00
-- [TCRanalyzer: A user-friendly tool for comprehensive analysis of T-cell diversity, dynamics and potential antigen targets](https://www.biorxiv.org/content/10.1101/2025.05.09.652820v1?rss=1) / 08:00
-- [Harmonizing single cell 3D genome data with STARK and scNucleome](https://www.biorxiv.org/content/10.1101/2025.05.10.653247v1?rss=1) / 08:00
-- [Pangenome analysis provides insights into the evolution of mango (Mangifera spp.)](https://www.biorxiv.org/content/10.1101/2025.05.09.653124v1?rss=1) / 08:00
-- [decemedip: hierarchical Bayesian modeling for cell type deconvolution of immunoprecipitation-based DNA methylomes](https://www.biorxiv.org/content/10.1101/2025.05.09.653152v1?rss=1) / 08:00
-- [Ultrafast and accurate sequence alignment and clustering of viral genomes](https://www.nature.com/articles/s41592-025-02701-7) / 08:00
-- [Methodological opportunities in genomic data analysis to advance health equity](https://www.nature.com/articles/s41576-025-00839-w) / 08:00
-
 **历史记录**
+- [Harnessing machine learning models for epigenome to transcriptome association studies](https://www.biorxiv.org/content/10.1101/2025.05.09.653095v1?rss=1) / 05月15日 08:00
+- [A genome-wide, machine learning-guided exploration of the cis-regulatory code involved in neuronal differentiation](https://www.biorxiv.org/content/10.1101/2025.05.14.653995v1?rss=1) / 05月15日 08:00
+- [TCRanalyzer: A user-friendly tool for comprehensive analysis of T-cell diversity, dynamics and potential antigen targets](https://www.biorxiv.org/content/10.1101/2025.05.09.652820v1?rss=1) / 05月15日 08:00
+- [Harmonizing single cell 3D genome data with STARK and scNucleome](https://www.biorxiv.org/content/10.1101/2025.05.10.653247v1?rss=1) / 05月15日 08:00
+- [Pangenome analysis provides insights into the evolution of mango (Mangifera spp.)](https://www.biorxiv.org/content/10.1101/2025.05.09.653124v1?rss=1) / 05月15日 08:00
+- [decemedip: hierarchical Bayesian modeling for cell type deconvolution of immunoprecipitation-based DNA methylomes](https://www.biorxiv.org/content/10.1101/2025.05.09.653152v1?rss=1) / 05月15日 08:00
+- [Ultrafast and accurate sequence alignment and clustering of viral genomes](https://www.nature.com/articles/s41592-025-02701-7) / 05月15日 08:00
+- [Methodological opportunities in genomic data analysis to advance health equity](https://www.nature.com/articles/s41576-025-00839-w) / 05月15日 08:00
 - [Hemolytik2: An Updated Database of Hemolytic Peptides and Proteins](https://www.biorxiv.org/content/10.1101/2025.05.12.653624v1?rss=1) / 05月14日 08:00
 - [VaMiAnalyzer: An open source, python-based application for analysis of 3D in vitro vasculogenic mimicry assays](https://www.biorxiv.org/content/10.1101/2025.05.13.653881v1?rss=1) / 05月14日 08:00
 - [Atlas-scale metabolic activities inferred from single-cell and spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.09.653038v1?rss=1) / 05月14日 08:00
