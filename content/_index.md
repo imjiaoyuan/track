@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月15日 16:25**
-- 今天周四，白天🌤️多云(20°~31°)，空气良(86)
-- 明天周五，白天☁️阴(19°~29°)，空气良(100)
+**四川省/成都/成都 2025年05月15日 18:20**
+- 今天周四，白天🌤️多云(19°~31°)，空气良(94)
+- 明天周五，白天☁️阴(19°~28°)，空气良(95)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月15日 16:25**
-- 今天周四，白天☁️阴(20°~29°)，空气轻度污染(103)
-- 明天周五，白天☁️阴(20°~28°)，空气良(79)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月15日 18:20**
+- 今天周四，白天☁️阴(20°~29°)，空气轻度污染(104)
+- 明天周五，白天☁️阴(20°~28°)，空气良(74)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Ultrafast and accurate sequence alignment and clustering of viral genomes](https://www.nature.com/articles/s41592-025-02701-7) / 08:00
 - [Methodological opportunities in genomic data analysis to advance health equity](https://www.nature.com/articles/s41576-025-00839-w) / 08:00
 
 **历史记录**
@@ -62,5 +63,4 @@
 - [TidyMass2: Advancing LC-MS Untargeted Metabolomics Through Metabolite Origin Inference and Metabolic Feature-based Functional Module Analysis](https://www.biorxiv.org/content/10.1101/2025.05.09.652992v1?rss=1) / 05月14日 08:00
 - [Generative AI-driven artificial DNA design for enhancing inter-species gene activation and enzymatic degradation of PET](https://www.biorxiv.org/content/10.1101/2025.05.08.652991v1?rss=1) / 05月14日 08:00
 - [DynaMiCs - Dynamic cell-type deconvolution ensembles for Mapping in mixed Conditions](https://www.biorxiv.org/content/10.1101/2025.05.08.652868v1?rss=1) / 05月14日 08:00
-- [Mapping the Structural Landscape of Amyloid Fibrils to Guide Polymorph-Specific Therapeutics](https://www.biorxiv.org/content/10.1101/2025.05.08.652887v1?rss=1) / 05月14日 08:00
 <!--rss-papers:end-->
