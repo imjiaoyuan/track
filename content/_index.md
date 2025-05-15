@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月16日 04:20**
+**四川省/成都/成都 2025年05月16日 06:17**
 - 今天周五，白天☁️阴(19°~28°)，空气良(97)
-- 明天周六，白天☁️阴(20°~30°)，空气良(95)
+- 明天周六，白天🌤️多云(18°~30°)，空气良(95)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月16日 04:20**
+**四川省/宜宾/宜宾 2025年05月16日 06:17**
 - 今天周五，白天☁️阴(20°~28°)，空气良(70)，夜间小雨
 - 明天周六，白天☁️阴(20°~29°)，空气良(88)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Probing as a new technique to assess single-cell RNA-seq batch correction](https://www.biorxiv.org/content/10.1101/2025.05.12.653389v1?rss=1) / 05月15日 08:00
+- [Autocycler: long-read consensus assembly for bacterial genomes](https://www.biorxiv.org/content/10.1101/2025.05.12.653612v1?rss=1) / 05月15日 08:00
 - [Spatial geometry-aware deep learning for deciphering tissue structure from spatially resolved transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.11.652625v1?rss=1) / 05月15日 08:00
 - [AF3Score: A Score-Only Adaptation of AlphaFold3 for Biomolecular Structure Evaluation](https://www.biorxiv.org/content/10.1101/2025.05.10.653251v1?rss=1) / 05月15日 08:00
 - [MARTS-DB: A Database of Mechanisms And Reactions of Terpene Synthases](https://www.biorxiv.org/content/10.1101/2025.05.11.653183v1?rss=1) / 05月15日 08:00
@@ -59,6 +61,4 @@
 - [A genome-wide, machine learning-guided exploration of the cis-regulatory code involved in neuronal differentiation](https://www.biorxiv.org/content/10.1101/2025.05.14.653995v1?rss=1) / 05月15日 08:00
 - [TCRanalyzer: A user-friendly tool for comprehensive analysis of T-cell diversity, dynamics and potential antigen targets](https://www.biorxiv.org/content/10.1101/2025.05.09.652820v1?rss=1) / 05月15日 08:00
 - [Harmonizing single cell 3D genome data with STARK and scNucleome](https://www.biorxiv.org/content/10.1101/2025.05.10.653247v1?rss=1) / 05月15日 08:00
-- [Nucleosome positioning and sensitivity suggest novel functional organization of the purple sea urchin (Strongylocentrotus purpuratus) genome](https://www.biorxiv.org/content/10.1101/2025.05.12.653534v1?rss=1) / 05月15日 08:00
-- [Genetic Surveillance Reveals Differential Evolutionary Dynamic of Anopheles gambiae Under Contrasting Insecticidal Tools used in Malaria control](https://www.biorxiv.org/content/10.1101/2025.05.12.653619v1?rss=1) / 05月15日 08:00
 <!--rss-papers:end-->
