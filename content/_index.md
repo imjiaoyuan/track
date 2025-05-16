@@ -1,12 +1,12 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月16日 12:23**
+**四川省/成都/成都 2025年05月16日 14:27**
 - 今天周五，白天☁️阴(20°~30°)，空气良(95)
 - 明天周六，白天🌤️多云(20°~32°)，空气良(97)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月16日 12:23**
-- 今天周五，白天☁️阴(18°~24°)，空气良(74)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月16日 14:27**
+- 今天周五，白天☁️阴(18°~26°)，空气良(74)，夜间小雨
 - 明天周六，白天🌧️小雨(17°~23°)，空气良(87)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
@@ -14,6 +14,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [关我辟事 Vol.40：不务正业](https://blog.douchi.space/spark-joy-digest-2025-5a/) / 14:04
 - [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html) / 08:05
 - [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4366) / 06:25
 - [爱，异国以及变化的女友](http://m.wufazhuce.com/article/6793) / 06:25
@@ -35,7 +36,6 @@
 - [2025 再回顾 Orion 浏览器](https://anotherdayu.com/2025/6953/) / 05月13日 19:43
 - [楠溪江自驾Day6 - 交汇瓯江口](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-06.html) / 05月13日 07:30
 - [汉字的不可拼音化](https://justgoidea.com/the-impossibility-of-pinyin-for-chinese-characters/) / 05月13日 05:18
-- [匮乏思维](https://blog.douchi.space/scarcity-mindset/) / 05月12日 09:23
 <!--rss-blogs:end-->
 ---
 # Research Papers
