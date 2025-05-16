@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月16日 09:27**
-- 今天周五，白天☁️阴(20°~30°)，空气良(98)
+**四川省/成都/成都 2025年05月16日 11:11**
+- 今天周五，白天☁️阴(20°~30°)，空气轻度污染(101)
 - 明天周六，白天🌤️多云(20°~32°)，空气良(91)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月16日 09:27**
-- 今天周五，白天☁️阴(18°~24°)，空气良(77)，夜间小雨
-- 明天周六，白天🌧️小雨(17°~23°)，空气良(92)，夜间阴
+**四川省/宜宾/宜宾 2025年05月16日 11:11**
+- 今天周五，白天☁️阴(18°~24°)，空气良(78)，夜间小雨
+- 明天周六，白天🌧️小雨(17°~23°)，空气良(84)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Deconstructing the Cancer Epigenome using Reduced Representation Bisulfite Sequencing (RRBS)](https://www.biorxiv.org/content/10.1101/2025.05.12.653548v1?rss=1) / 05月15日 08:00
+- [Integrating the ENCODE blocklist for machine learning quality control of ChIP-seq with seqQscorer](https://www.biorxiv.org/content/10.1101/2025.05.12.653555v1?rss=1) / 05月15日 08:00
+- [A computational strategy to uncover fusion genes in prostate cancer cell lines](https://www.biorxiv.org/content/10.1101/2025.05.12.653554v1?rss=1) / 05月15日 08:00
 - [ngsAMOVA: A Probabilistic Framework for Analysis of Molecular Variance, dXY and Neighbor-Joining Trees with Low Depth Sequencing Data](https://www.biorxiv.org/content/10.1101/2025.05.12.653431v1?rss=1) / 05月15日 08:00
 - [Community-promoted antibiotic resistance genes show increased dissemination among pathogens](https://www.biorxiv.org/content/10.1101/2025.05.12.653433v1?rss=1) / 05月15日 08:00
 - [Probing as a new technique to assess single-cell RNA-seq batch correction](https://www.biorxiv.org/content/10.1101/2025.05.12.653389v1?rss=1) / 05月15日 08:00
@@ -58,7 +61,4 @@
 - [Evaluating Foundation Models for In-Silico Perturbation](https://www.biorxiv.org/content/10.1101/2025.05.11.653338v1?rss=1) / 05月15日 08:00
 - [A Comparative Assessment of edgeR and methylKit Pipelines for DNA Methylation Detection](https://www.biorxiv.org/content/10.1101/2025.05.11.653026v1?rss=1) / 05月15日 08:00
 - [scDenorm: a denormalisation tool for integrating single-cell transcriptomics data](https://www.biorxiv.org/content/10.1101/2025.05.10.653289v1?rss=1) / 05月15日 08:00
-- [MADRe: Strain-Level Metagenomic Classification Through Assembly-Driven Database Reduction](https://www.biorxiv.org/content/10.1101/2025.05.12.653324v1?rss=1) / 05月15日 08:00
-- [Harnessing machine learning models for epigenome to transcriptome association studies](https://www.biorxiv.org/content/10.1101/2025.05.09.653095v1?rss=1) / 05月15日 08:00
-- [A genome-wide, machine learning-guided exploration of the cis-regulatory code involved in neuronal differentiation](https://www.biorxiv.org/content/10.1101/2025.05.14.653995v1?rss=1) / 05月15日 08:00
 <!--rss-papers:end-->
