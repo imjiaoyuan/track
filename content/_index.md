@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月17日 00:22**
+**四川省/成都/成都 2025年05月17日 02:25**
 - 今天周六，白天🌤️多云(19°~29°)，空气良(90)，夜间阴
 - 明天周日，白天☁️阴(19°~29°)，空气轻度污染(113)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月17日 00:22**
+**四川省/宜宾/宜宾 2025年05月17日 02:25**
 - 今天周六，白天🌧️小雨(19°~29°)，空气良(90)
 - 明天周日，白天☁️阴(19°~29°)，空气良(95)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -52,13 +52,13 @@
 - [Chromosome-level genome assembly of Norwegian wild alpine reindeer (Rangifer tarandus tarandus)](https://www.biorxiv.org/content/10.1101/2025.05.15.652595v1?rss=1) / 05月16日 08:00
 - [Empowering medaka fish biology with versatile genomic resources in MedakaBase](https://www.biorxiv.org/content/10.1101/2025.05.13.653297v1?rss=1) / 05月16日 08:00
 - [Suppression of plastid-to-nucleus gene transfer by DNA double-strand break repair](https://www.nature.com/articles/s41477-025-02005-w) / 05月16日 08:00
+- [Nucleosome dynamics render heterochromatin accessible in living human cells](https://www.nature.com/articles/s41467-025-59994-7) / 05月16日 08:00
 - [Genome wide locus-specific ancestry analysis revealed adaptive admixtures in crossbred cattle of India](https://www.nature.com/articles/s41598-025-01971-7) / 05月16日 08:00
+- [Tracing human genetic histories and natural selection with precise local ancestry inference](https://www.nature.com/articles/s41467-025-59936-3) / 05月16日 08:00
 - [Deconstructing the Cancer Epigenome using Reduced Representation Bisulfite Sequencing (RRBS)](https://www.biorxiv.org/content/10.1101/2025.05.12.653548v1?rss=1) / 05月15日 08:00
 - [Integrating the ENCODE blocklist for machine learning quality control of ChIP-seq with seqQscorer](https://www.biorxiv.org/content/10.1101/2025.05.12.653555v1?rss=1) / 05月15日 08:00
 - [A computational strategy to uncover fusion genes in prostate cancer cell lines](https://www.biorxiv.org/content/10.1101/2025.05.12.653554v1?rss=1) / 05月15日 08:00
 - [ngsAMOVA: A Probabilistic Framework for Analysis of Molecular Variance, dXY and Neighbor-Joining Trees with Low Depth Sequencing Data](https://www.biorxiv.org/content/10.1101/2025.05.12.653431v1?rss=1) / 05月15日 08:00
 - [Community-promoted antibiotic resistance genes show increased dissemination among pathogens](https://www.biorxiv.org/content/10.1101/2025.05.12.653433v1?rss=1) / 05月15日 08:00
 - [Probing as a new technique to assess single-cell RNA-seq batch correction](https://www.biorxiv.org/content/10.1101/2025.05.12.653389v1?rss=1) / 05月15日 08:00
-- [Autocycler: long-read consensus assembly for bacterial genomes](https://www.biorxiv.org/content/10.1101/2025.05.12.653612v1?rss=1) / 05月15日 08:00
-- [Spatial geometry-aware deep learning for deciphering tissue structure from spatially resolved transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.11.652625v1?rss=1) / 05月15日 08:00
 <!--rss-papers:end-->
