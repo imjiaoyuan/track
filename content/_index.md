@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月16日 20:37**
-- 今天周五，白天☁️阴(20°~30°)，空气良(95)
-- 明天周六，白天🌤️多云(19°~29°)，空气良(99)，夜间阴
+**四川省/成都/成都 2025年05月16日 22:17**
+- 今天周五，白天☁️阴(20°~30°)，空气轻度污染(104)
+- 明天周六，白天🌤️多云(19°~29°)，空气良(97)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月16日 20:37**
-- 今天周五，白天☁️阴(20°~24°)，空气良(77)，夜间小雨
-- 明天周六，白天🌧️小雨(19°~29°)，空气良(89)
+**四川省/宜宾/宜宾 2025年05月16日 22:17**
+- 今天周五，白天☁️阴(20°~24°)，空气良(70)，夜间小雨
+- 明天周六，白天🌧️小雨(19°~29°)，空气良(87)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -30,12 +30,12 @@
 - [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) / 05月14日 20:06
 - [急救 & CPR 培训笔记](https://blog.douchi.space/first-aid-training/) / 05月14日 15:37
 - [一个简单的 A star 寻路算法实现](https://blog.codingnow.com/2025/05/a_star_pathfinding.html) / 05月14日 12:05
-- [认知 觉醒了吗？](https://imzm.im/cognitive-awakening/) / 05月14日 10:45
 - [南极谋杀案（十五）- 翻译机](https://yufree.cn/cn/2025/05/14/anterictic-murder/) / 05月14日 08:00
 - [富春芳草地&amp;只有河南](https://www.skyue.com/25051323.html) / 05月13日 23:50
 - [2025 再回顾 Orion 浏览器](https://anotherdayu.com/2025/6953/) / 05月13日 19:43
 - [楠溪江自驾Day6 - 交汇瓯江口](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-06.html) / 05月13日 07:30
 - [汉字的不可拼音化](https://justgoidea.com/the-impossibility-of-pinyin-for-chinese-characters/) / 05月13日 05:18
+- [匮乏思维](https://blog.douchi.space/scarcity-mindset/) / 05月12日 09:23
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -49,6 +49,7 @@
 - [Chromosome-level genome assembly of Norwegian wild alpine reindeer (Rangifer tarandus tarandus)](https://www.biorxiv.org/content/10.1101/2025.05.15.652595v1?rss=1) / 08:00
 - [Empowering medaka fish biology with versatile genomic resources in MedakaBase](https://www.biorxiv.org/content/10.1101/2025.05.13.653297v1?rss=1) / 08:00
 - [Suppression of plastid-to-nucleus gene transfer by DNA double-strand break repair](https://www.nature.com/articles/s41477-025-02005-w) / 08:00
+- [Genome wide locus-specific ancestry analysis revealed adaptive admixtures in crossbred cattle of India](https://www.nature.com/articles/s41598-025-01971-7) / 08:00
 
 **历史记录**
 - [Deconstructing the Cancer Epigenome using Reduced Representation Bisulfite Sequencing (RRBS)](https://www.biorxiv.org/content/10.1101/2025.05.12.653548v1?rss=1) / 05月15日 08:00
@@ -62,5 +63,4 @@
 - [AF3Score: A Score-Only Adaptation of AlphaFold3 for Biomolecular Structure Evaluation](https://www.biorxiv.org/content/10.1101/2025.05.10.653251v1?rss=1) / 05月15日 08:00
 - [MARTS-DB: A Database of Mechanisms And Reactions of Terpene Synthases](https://www.biorxiv.org/content/10.1101/2025.05.11.653183v1?rss=1) / 05月15日 08:00
 - [Dotplotic: a lightweight visualization tool for BLAST+ alignments and genomic annotations](https://www.biorxiv.org/content/10.1101/2025.05.12.653581v1?rss=1) / 05月15日 08:00
-- [Lossless Pangenome Indexing Using Tag Arrays](https://www.biorxiv.org/content/10.1101/2025.05.12.653561v1?rss=1) / 05月15日 08:00
 <!--rss-papers:end-->
