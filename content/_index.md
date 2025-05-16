@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月16日 16:25**
-- 今天周五，白天☁️阴(20°~30°)，空气良(100)
-- 明天周六，白天🌤️多云(20°~32°)，空气良(95)，夜间阴
+**四川省/成都/成都 2025年05月16日 18:19**
+- 今天周五，白天☁️阴(20°~30°)，空气良(95)
+- 明天周六，白天🌤️多云(19°~29°)，空气良(99)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月16日 16:25**
-- 今天周五，白天☁️阴(18°~27°)，空气良(79)，夜间小雨
-- 明天周六，白天🌧️小雨(17°~23°)，空气良(88)，夜间阴
+**四川省/宜宾/宜宾 2025年05月16日 18:19**
+- 今天周五，白天☁️阴(20°~27°)，空气良(77)，夜间小雨
+- 明天周六，白天🌧️小雨(19°~29°)，空气良(89)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -40,6 +40,9 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Suppression of plastid-to-nucleus gene transfer by DNA double-strand break repair](https://www.nature.com/articles/s41477-025-02005-w) / 08:00
+
 **历史记录**
 - [Deconstructing the Cancer Epigenome using Reduced Representation Bisulfite Sequencing (RRBS)](https://www.biorxiv.org/content/10.1101/2025.05.12.653548v1?rss=1) / 05月15日 08:00
 - [Integrating the ENCODE blocklist for machine learning quality control of ChIP-seq with seqQscorer](https://www.biorxiv.org/content/10.1101/2025.05.12.653555v1?rss=1) / 05月15日 08:00
@@ -60,5 +63,4 @@
 - [A Multimodal Graph Learning Framework for Versatile Spatial Transcriptomics Analysis with SpatialModal](https://www.biorxiv.org/content/10.1101/2025.05.11.653070v1?rss=1) / 05月15日 08:00
 - [Evaluating Foundation Models for In-Silico Perturbation](https://www.biorxiv.org/content/10.1101/2025.05.11.653338v1?rss=1) / 05月15日 08:00
 - [A Comparative Assessment of edgeR and methylKit Pipelines for DNA Methylation Detection](https://www.biorxiv.org/content/10.1101/2025.05.11.653026v1?rss=1) / 05月15日 08:00
-- [scDenorm: a denormalisation tool for integrating single-cell transcriptomics data](https://www.biorxiv.org/content/10.1101/2025.05.10.653289v1?rss=1) / 05月15日 08:00
 <!--rss-papers:end-->
