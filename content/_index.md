@@ -1,12 +1,12 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月16日 18:19**
+**四川省/成都/成都 2025年05月16日 20:37**
 - 今天周五，白天☁️阴(20°~30°)，空气良(95)
 - 明天周六，白天🌤️多云(19°~29°)，空气良(99)，夜间阴
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月16日 18:19**
-- 今天周五，白天☁️阴(20°~27°)，空气良(77)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月16日 20:37**
+- 今天周五，白天☁️阴(20°~24°)，空气良(77)，夜间小雨
 - 明天周六，白天🌧️小雨(19°~29°)，空气良(89)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
@@ -41,6 +41,13 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [ECCFP: a consecutive full pass based bioinformatic analysis for eccDNA identification using Nanopore sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.13.653627v1?rss=1) / 08:00
+- [RP3Net: a deep learning model for predicting recombinant protein production in Escherichia coli](https://www.biorxiv.org/content/10.1101/2025.05.13.652824v1?rss=1) / 08:00
+- [Gene co-expression networks highlight key nodes associated with Ammonium nitrate in sugarcane](https://www.biorxiv.org/content/10.1101/2025.05.14.652917v1?rss=1) / 08:00
+- [SKiM: Accurately Classifying Metagenomic ONT Reads in Limited Memory](https://www.biorxiv.org/content/10.1101/2025.05.13.653326v1?rss=1) / 08:00
+- [The planktonic microbiome of the Great Barrier Reef](https://www.biorxiv.org/content/10.1101/2025.05.13.653689v1?rss=1) / 08:00
+- [Chromosome-level genome assembly of Norwegian wild alpine reindeer (Rangifer tarandus tarandus)](https://www.biorxiv.org/content/10.1101/2025.05.15.652595v1?rss=1) / 08:00
+- [Empowering medaka fish biology with versatile genomic resources in MedakaBase](https://www.biorxiv.org/content/10.1101/2025.05.13.653297v1?rss=1) / 08:00
 - [Suppression of plastid-to-nucleus gene transfer by DNA double-strand break repair](https://www.nature.com/articles/s41477-025-02005-w) / 08:00
 
 **历史记录**
@@ -56,11 +63,4 @@
 - [MARTS-DB: A Database of Mechanisms And Reactions of Terpene Synthases](https://www.biorxiv.org/content/10.1101/2025.05.11.653183v1?rss=1) / 05月15日 08:00
 - [Dotplotic: a lightweight visualization tool for BLAST+ alignments and genomic annotations](https://www.biorxiv.org/content/10.1101/2025.05.12.653581v1?rss=1) / 05月15日 08:00
 - [Lossless Pangenome Indexing Using Tag Arrays](https://www.biorxiv.org/content/10.1101/2025.05.12.653561v1?rss=1) / 05月15日 08:00
-- [Artificial Intelligence And First Principle Methods In Protein Redesign: A Marriage Of Convenience?](https://www.biorxiv.org/content/10.1101/2025.05.12.653318v1?rss=1) / 05月15日 08:00
-- [TITANiAN: Robust Prediction of T-cell Epitope Immunogenicity using Adversarial Domain Adaptation Network](https://www.biorxiv.org/content/10.1101/2025.05.11.653308v1?rss=1) / 05月15日 08:00
-- [Forskolin as a multi-target modulator of the oncogenic PI3K/Akt signaling pathway: An in silico integrative GO/KEGG enrichment analysis and network pharmacology](https://www.biorxiv.org/content/10.1101/2025.05.11.653344v1?rss=1) / 05月15日 08:00
-- [SynLS: A novel diffusion-transformer framework for generating high-quality wearable sensor time series data to enhance health monitoring](https://www.biorxiv.org/content/10.1101/2025.05.11.653212v1?rss=1) / 05月15日 08:00
-- [A Multimodal Graph Learning Framework for Versatile Spatial Transcriptomics Analysis with SpatialModal](https://www.biorxiv.org/content/10.1101/2025.05.11.653070v1?rss=1) / 05月15日 08:00
-- [Evaluating Foundation Models for In-Silico Perturbation](https://www.biorxiv.org/content/10.1101/2025.05.11.653338v1?rss=1) / 05月15日 08:00
-- [A Comparative Assessment of edgeR and methylKit Pipelines for DNA Methylation Detection](https://www.biorxiv.org/content/10.1101/2025.05.11.653026v1?rss=1) / 05月15日 08:00
 <!--rss-papers:end-->
