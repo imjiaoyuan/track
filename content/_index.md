@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月17日 04:20**
+**四川省/成都/成都 2025年05月17日 06:17**
 - 今天周六，白天🌤️多云(19°~29°)，空气良(90)，夜间阴
 - 明天周日，白天☁️阴(19°~29°)，空气轻度污染(113)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月17日 04:20**
+**四川省/宜宾/宜宾 2025年05月17日 06:17**
 - 今天周六，白天🌧️小雨(19°~29°)，空气良(90)
 - 明天周日，白天☁️阴(19°~29°)，空气良(95)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [A Graph-Attention-Based Deep Learning Network for Predicting Biotech-Small-Molecule Drug Interactions](https://www.biorxiv.org/content/10.1101/2025.05.13.653666v1?rss=1) / 05月16日 08:00
+- [PEPlife2: A Updated Repository of the Half-life of Peptides](https://www.biorxiv.org/content/10.1101/2025.05.13.653654v1?rss=1) / 05月16日 08:00
 - [NuclePhaser: a YOLO-based framework for cell nuclei detection and counting in phase contrast images of arbitrary size with support of fast calibration and testing on specific use cases](https://www.biorxiv.org/content/10.1101/2025.05.13.653705v1?rss=1) / 05月16日 08:00
 - [ECCFP: a consecutive full pass based bioinformatic analysis for eccDNA identification using Nanopore sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.13.653627v1?rss=1) / 05月16日 08:00
 - [RP3Net: a deep learning model for predicting recombinant protein production in Escherichia coli](https://www.biorxiv.org/content/10.1101/2025.05.13.652824v1?rss=1) / 05月16日 08:00
@@ -59,6 +61,4 @@
 - [Integrating the ENCODE blocklist for machine learning quality control of ChIP-seq with seqQscorer](https://www.biorxiv.org/content/10.1101/2025.05.12.653555v1?rss=1) / 05月15日 08:00
 - [A computational strategy to uncover fusion genes in prostate cancer cell lines](https://www.biorxiv.org/content/10.1101/2025.05.12.653554v1?rss=1) / 05月15日 08:00
 - [ngsAMOVA: A Probabilistic Framework for Analysis of Molecular Variance, dXY and Neighbor-Joining Trees with Low Depth Sequencing Data](https://www.biorxiv.org/content/10.1101/2025.05.12.653431v1?rss=1) / 05月15日 08:00
-- [Community-promoted antibiotic resistance genes show increased dissemination among pathogens](https://www.biorxiv.org/content/10.1101/2025.05.12.653433v1?rss=1) / 05月15日 08:00
-- [Probing as a new technique to assess single-cell RNA-seq batch correction](https://www.biorxiv.org/content/10.1101/2025.05.12.653389v1?rss=1) / 05月15日 08:00
 <!--rss-papers:end-->
