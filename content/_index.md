@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月17日 20:33**
-- 今天周六，白天☁️阴(19°~29°)，空气良(96)
-- 明天周日，白天☁️阴(19°~29°)，空气轻度污染(104)
+**四川省/成都/成都 2025年05月17日 22:15**
+- 今天周六，白天☁️阴(19°~29°)，空气良(94)
+- 明天周日，白天☁️阴(19°~29°)，空气轻度污染(103)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月17日 20:33**
-- 今天周六，白天🌧️小雨(20°~28°)，空气良(91)，夜间阴
-- 明天周日，白天☁️阴(19°~30°)，空气良(92)
+**四川省/宜宾/宜宾 2025年05月17日 22:15**
+- 今天周六，白天🌧️小雨(20°~28°)，空气良(95)，夜间阴
+- 明天周日，白天☁️阴(19°~30°)，空气良(91)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -44,7 +44,6 @@
 - [Metagenomic analysis of mosquitoes from Kangerlussuaq, Greenland reveals a unique virome](https://www.nature.com/articles/s41598-025-01086-z) / 08:00
 - [The evolution and convergence of mutation spectra across mammals](https://www.nature.com/articles/s42003-025-08181-x) / 08:00
 - [Chromosome-level genome assembly of the parasitoid wasp Aenasius arizonensis](https://www.nature.com/articles/s41597-025-05020-w) / 08:00
-- [Metagenomic analysis of mosquitoes from Kangerlussuaq, Greenland reveals a unique virome](https://www.nature.com/articles/s41598-025-01086-z) / 08:00
 
 **历史记录**
 - [Structure-based identification of GIRK2-PIP2 modulators among known drugs and metabolites using docking, MM-GBSA, ADMET, and molecular dynamics](https://www.biorxiv.org/content/10.1101/2025.05.13.653795v1?rss=1) / 05月16日 08:00
@@ -63,4 +62,5 @@
 - [ATaRVa: Analysis of Tandem Repeat Variation from Long Read Sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.13.653434v1?rss=1) / 05月16日 08:00
 - [Natural diversity of telomere length distributions across 100 yeast strains](https://www.biorxiv.org/content/10.1101/2025.05.13.653712v1?rss=1) / 05月16日 08:00
 - [The planktonic microbiome of the Great Barrier Reef](https://www.biorxiv.org/content/10.1101/2025.05.13.653689v1?rss=1) / 05月16日 08:00
+- [Chromosome-level genome assembly of Norwegian wild alpine reindeer (Rangifer tarandus tarandus)](https://www.biorxiv.org/content/10.1101/2025.05.15.652595v1?rss=1) / 05月16日 08:00
 <!--rss-papers:end-->
