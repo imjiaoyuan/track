@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月17日 14:24**
-- 今天周六，白天☁️阴(19°~29°)，空气良(99)
-- 明天周日，白天☁️阴(19°~31°)，空气轻度污染(113)
+**四川省/成都/成都 2025年05月17日 16:21**
+- 今天周六，白天☁️阴(19°~29°)，空气良(98)
+- 明天周日，白天☁️阴(19°~31°)，空气轻度污染(101)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月17日 14:24**
-- 今天周六，白天🌧️小雨(20°~28°)，空气良(87)，夜间阴
-- 明天周日，白天☁️阴(20°~30°)，空气良(96)
+**四川省/宜宾/宜宾 2025年05月17日 16:21**
+- 今天周六，白天🌧️小雨(20°~28°)，空气良(88)，夜间阴
+- 明天周日，白天☁️阴(20°~30°)，空气良(95)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -15,6 +15,7 @@
 <!--rss-blogs:start-->
 **今日更新**
 - [楠溪江自驾六天，花费1200元，总结推荐](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang.html) / 21:52
+- [日本办卡指南 2.0：初来乍到，日本信用卡推荐](https://song.al/creditcard2) / 15:15
 - [游戏组件的一生: 从加载到上屏](https://blog.ursb.me/posts/game-engine-renderer/) / 12:46
 - [从赵心童世锦赛夺冠聊聊我的斯诺克情缘](https://wiki.eryajf.net/pages/a49f60/) / 07:42
 - [你的自我意识觉醒，是在一瞬间完成的吗？](http://m.wufazhuce.com/question/4367) / 06:25
@@ -35,7 +36,6 @@
 - [一个简单的 A star 寻路算法实现](https://blog.codingnow.com/2025/05/a_star_pathfinding.html) / 05月14日 12:05
 - [认知 觉醒了吗？](https://imzm.im/cognitive-awakening/) / 05月14日 10:45
 - [南极谋杀案（十五）- 翻译机](https://yufree.cn/cn/2025/05/14/anterictic-murder/) / 05月14日 08:00
-- [富春芳草地&amp;只有河南](https://www.skyue.com/25051323.html) / 05月13日 23:50
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -55,6 +55,7 @@
 - [RP3Net: a deep learning model for predicting recombinant protein production in Escherichia coli](https://www.biorxiv.org/content/10.1101/2025.05.13.652824v1?rss=1) / 05月16日 08:00
 - [Gene co-expression networks highlight key nodes associated with Ammonium nitrate in sugarcane](https://www.biorxiv.org/content/10.1101/2025.05.14.652917v1?rss=1) / 05月16日 08:00
 - [SKiM: Accurately Classifying Metagenomic ONT Reads in Limited Memory](https://www.biorxiv.org/content/10.1101/2025.05.13.653326v1?rss=1) / 05月16日 08:00
+- [Alcohol Use Disorder Associated Gene FNDC4 Alters Glutamatergic and GABAergic Neurogenesis](https://www.biorxiv.org/content/10.1101/2025.05.15.654319v1?rss=1) / 05月16日 08:00
 - [Sequence based prediction of cell type specific microRNA binding and mRNA degradation for therapeutic discovery](https://www.biorxiv.org/content/10.1101/2025.05.15.654105v1?rss=1) / 05月16日 08:00
 - [Biophysical Modeling Uncovers Transcription Factor and Nucleosome Binding on Single DNA Molecules](https://www.biorxiv.org/content/10.1101/2025.05.13.653852v1?rss=1) / 05月16日 08:00
 - [Mitochondrial Genome of the lesser known - Madras Hedgehog (Paraechinus nudiventris): Genomic characterization and comparative analysis within Erinaceidae](https://www.biorxiv.org/content/10.1101/2025.05.13.653780v1?rss=1) / 05月16日 08:00
@@ -62,5 +63,4 @@
 - [Natural diversity of telomere length distributions across 100 yeast strains](https://www.biorxiv.org/content/10.1101/2025.05.13.653712v1?rss=1) / 05月16日 08:00
 - [The planktonic microbiome of the Great Barrier Reef](https://www.biorxiv.org/content/10.1101/2025.05.13.653689v1?rss=1) / 05月16日 08:00
 - [Chromosome-level genome assembly of Norwegian wild alpine reindeer (Rangifer tarandus tarandus)](https://www.biorxiv.org/content/10.1101/2025.05.15.652595v1?rss=1) / 05月16日 08:00
-- [Empowering medaka fish biology with versatile genomic resources in MedakaBase](https://www.biorxiv.org/content/10.1101/2025.05.13.653297v1?rss=1) / 05月16日 08:00
 <!--rss-papers:end-->
