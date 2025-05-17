@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月17日 09:24**
-- 今天周六，白天☁️阴(19°~29°)，空气良(92)
-- 明天周日，白天☁️阴(19°~31°)，空气轻度污染(110)
+**四川省/成都/成都 2025年05月17日 11:06**
+- 今天周六，白天☁️阴(19°~29°)，空气良(99)
+- 明天周日，白天☁️阴(19°~31°)，空气轻度污染(117)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月17日 09:25**
-- 今天周六，白天🌧️小雨(20°~28°)，空气良(86)，夜间阴
-- 明天周日，白天☁️阴(20°~30°)，空气良(93)
+**四川省/宜宾/宜宾 2025年05月17日 11:06**
+- 今天周六，白天🌧️小雨(20°~28°)，空气良(87)，夜间阴
+- 明天周日，白天☁️阴(20°~30°)，空气良(90)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Poxvirus targeted by RFdiffusion peptide-binders](https://www.biorxiv.org/content/10.1101/2025.05.14.654163v1?rss=1) / 05月16日 08:00
 - [A Graph-Attention-Based Deep Learning Network for Predicting Biotech-Small-Molecule Drug Interactions](https://www.biorxiv.org/content/10.1101/2025.05.13.653666v1?rss=1) / 05月16日 08:00
 - [PEPlife2: A Updated Repository of the Half-life of Peptides](https://www.biorxiv.org/content/10.1101/2025.05.13.653654v1?rss=1) / 05月16日 08:00
 - [NuclePhaser: a YOLO-based framework for cell nuclei detection and counting in phase contrast images of arbitrary size with support of fast calibration and testing on specific use cases](https://www.biorxiv.org/content/10.1101/2025.05.13.653705v1?rss=1) / 05月16日 08:00
@@ -60,5 +61,4 @@
 - [Deconstructing the Cancer Epigenome using Reduced Representation Bisulfite Sequencing (RRBS)](https://www.biorxiv.org/content/10.1101/2025.05.12.653548v1?rss=1) / 05月15日 08:00
 - [Integrating the ENCODE blocklist for machine learning quality control of ChIP-seq with seqQscorer](https://www.biorxiv.org/content/10.1101/2025.05.12.653555v1?rss=1) / 05月15日 08:00
 - [A computational strategy to uncover fusion genes in prostate cancer cell lines](https://www.biorxiv.org/content/10.1101/2025.05.12.653554v1?rss=1) / 05月15日 08:00
-- [ngsAMOVA: A Probabilistic Framework for Analysis of Molecular Variance, dXY and Neighbor-Joining Trees with Low Depth Sequencing Data](https://www.biorxiv.org/content/10.1101/2025.05.12.653431v1?rss=1) / 05月15日 08:00
 <!--rss-papers:end-->
