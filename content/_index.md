@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月17日 11:06**
+**四川省/成都/成都 2025年05月17日 12:21**
 - 今天周六，白天☁️阴(19°~29°)，空气良(99)
-- 明天周日，白天☁️阴(19°~31°)，空气轻度污染(117)
+- 明天周日，白天☁️阴(19°~31°)，空气轻度污染(113)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月17日 11:06**
+**四川省/宜宾/宜宾 2025年05月17日 12:21**
 - 今天周六，白天🌧️小雨(20°~28°)，空气良(87)，夜间阴
-- 明天周日，白天☁️阴(20°~30°)，空气良(90)
+- 明天周日，白天☁️阴(20°~30°)，空气良(96)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -40,7 +40,11 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [The evolution and convergence of mutation spectra across mammals](https://www.nature.com/articles/s42003-025-08181-x) / 08:00
+
 **历史记录**
+- [Structure-based identification of GIRK2-PIP2 modulators among known drugs and metabolites using docking, MM-GBSA, ADMET, and molecular dynamics](https://www.biorxiv.org/content/10.1101/2025.05.13.653795v1?rss=1) / 05月16日 08:00
 - [Poxvirus targeted by RFdiffusion peptide-binders](https://www.biorxiv.org/content/10.1101/2025.05.14.654163v1?rss=1) / 05月16日 08:00
 - [A Graph-Attention-Based Deep Learning Network for Predicting Biotech-Small-Molecule Drug Interactions](https://www.biorxiv.org/content/10.1101/2025.05.13.653666v1?rss=1) / 05月16日 08:00
 - [PEPlife2: A Updated Repository of the Half-life of Peptides](https://www.biorxiv.org/content/10.1101/2025.05.13.653654v1?rss=1) / 05月16日 08:00
@@ -49,6 +53,7 @@
 - [RP3Net: a deep learning model for predicting recombinant protein production in Escherichia coli](https://www.biorxiv.org/content/10.1101/2025.05.13.652824v1?rss=1) / 05月16日 08:00
 - [Gene co-expression networks highlight key nodes associated with Ammonium nitrate in sugarcane](https://www.biorxiv.org/content/10.1101/2025.05.14.652917v1?rss=1) / 05月16日 08:00
 - [SKiM: Accurately Classifying Metagenomic ONT Reads in Limited Memory](https://www.biorxiv.org/content/10.1101/2025.05.13.653326v1?rss=1) / 05月16日 08:00
+- [Mitochondrial Genome of the lesser known - Madras Hedgehog (Paraechinus nudiventris): Genomic characterization and comparative analysis within Erinaceidae](https://www.biorxiv.org/content/10.1101/2025.05.13.653780v1?rss=1) / 05月16日 08:00
 - [ATaRVa: Analysis of Tandem Repeat Variation from Long Read Sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.13.653434v1?rss=1) / 05月16日 08:00
 - [Natural diversity of telomere length distributions across 100 yeast strains](https://www.biorxiv.org/content/10.1101/2025.05.13.653712v1?rss=1) / 05月16日 08:00
 - [The planktonic microbiome of the Great Barrier Reef](https://www.biorxiv.org/content/10.1101/2025.05.13.653689v1?rss=1) / 05月16日 08:00
@@ -58,7 +63,4 @@
 - [Nucleosome dynamics render heterochromatin accessible in living human cells](https://www.nature.com/articles/s41467-025-59994-7) / 05月16日 08:00
 - [Genome wide locus-specific ancestry analysis revealed adaptive admixtures in crossbred cattle of India](https://www.nature.com/articles/s41598-025-01971-7) / 05月16日 08:00
 - [Tracing human genetic histories and natural selection with precise local ancestry inference](https://www.nature.com/articles/s41467-025-59936-3) / 05月16日 08:00
-- [Deconstructing the Cancer Epigenome using Reduced Representation Bisulfite Sequencing (RRBS)](https://www.biorxiv.org/content/10.1101/2025.05.12.653548v1?rss=1) / 05月15日 08:00
-- [Integrating the ENCODE blocklist for machine learning quality control of ChIP-seq with seqQscorer](https://www.biorxiv.org/content/10.1101/2025.05.12.653555v1?rss=1) / 05月15日 08:00
-- [A computational strategy to uncover fusion genes in prostate cancer cell lines](https://www.biorxiv.org/content/10.1101/2025.05.12.653554v1?rss=1) / 05月15日 08:00
 <!--rss-papers:end-->
