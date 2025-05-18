@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月18日 09:39**
-- 今天周日，白天🌤️多云(18°~31°)，空气轻度污染(108)，夜间阴
-- 明天周一，白天☀️晴(20°~32°)，空气轻度污染(118)
+**四川省/成都/成都 2025年05月18日 11:16**
+- 今天周日，白天🌤️多云(18°~31°)，空气轻度污染(103)，夜间阴
+- 明天周一，白天☀️晴(20°~32°)，空气轻度污染(125)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月18日 09:40**
-- 今天周日，白天🌧️小雨(18°~28°)，空气良(92)，夜间多云
-- 明天周一，白天🌤️多云(20°~32°)，空气良(99)，夜间阴
+**四川省/宜宾/宜宾 2025年05月18日 11:16**
+- 今天周日，白天🌧️小雨(18°~28°)，空气良(85)，夜间多云
+- 明天周一，白天🌤️多云(20°~32°)，空气轻度污染(102)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,10 +41,14 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Genome complexity, not ploidy, dictates long-read variant-calling accuracy](https://www.biorxiv.org/content/10.1101/2025.05.14.653922v1?rss=1) / 05月17日 08:00
+- [Hi-Compass resolves cell-type chromatin interactions by single-cell and spatial ATAC-seq data across biological scales](https://www.biorxiv.org/content/10.1101/2025.05.14.654019v1?rss=1) / 05月17日 08:00
+- [A Deep Learning approach for time-consistent cell cycle phase prediction from microscopy data](https://www.biorxiv.org/content/10.1101/2025.05.16.654306v1?rss=1) / 05月17日 08:00
 - [Visual analytics framework for survival analysis and biomarker discovery](https://www.biorxiv.org/content/10.1101/2025.05.14.654136v1?rss=1) / 05月17日 08:00
 - [ProtFun: A Protein Function Prediction Model Using Graph Attention Networks with a Protein Large Language Model](https://www.biorxiv.org/content/10.1101/2025.05.13.653854v1?rss=1) / 05月17日 08:00
 - [A novel bioinformatics approach reveals key transcription factors regulating type 1 diabetes-associated transcriptomes](https://www.biorxiv.org/content/10.1101/2025.05.13.653885v1?rss=1) / 05月17日 08:00
 - [Fast barcode calling based on k-mer distances](https://www.biorxiv.org/content/10.1101/2025.05.12.653416v1?rss=1) / 05月17日 08:00
+- [Chromosomal fusions and subsequent rearrangements shaped octopus genomes](https://www.biorxiv.org/content/10.1101/2025.05.16.652989v1?rss=1) / 05月17日 08:00
 - [Three-dimensional genome architecture connects chromatin structure and function in a major wheat pathogen](https://www.biorxiv.org/content/10.1101/2025.05.13.653796v1?rss=1) / 05月17日 08:00
 - [Metagenomic analysis of mosquitoes from Kangerlussuaq, Greenland reveals a unique virome](https://www.nature.com/articles/s41598-025-01086-z) / 05月17日 08:00
 - [The evolution and convergence of mutation spectra across mammals](https://www.nature.com/articles/s42003-025-08181-x) / 05月17日 08:00
@@ -57,8 +61,4 @@
 - [NuclePhaser: a YOLO-based framework for cell nuclei detection and counting in phase contrast images of arbitrary size with support of fast calibration and testing on specific use cases](https://www.biorxiv.org/content/10.1101/2025.05.13.653705v1?rss=1) / 05月16日 08:00
 - [ECCFP: a consecutive full pass based bioinformatic analysis for eccDNA identification using Nanopore sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.13.653627v1?rss=1) / 05月16日 08:00
 - [RP3Net: a deep learning model for predicting recombinant protein production in Escherichia coli](https://www.biorxiv.org/content/10.1101/2025.05.13.652824v1?rss=1) / 05月16日 08:00
-- [Gene co-expression networks highlight key nodes associated with Ammonium nitrate in sugarcane](https://www.biorxiv.org/content/10.1101/2025.05.14.652917v1?rss=1) / 05月16日 08:00
-- [SKiM: Accurately Classifying Metagenomic ONT Reads in Limited Memory](https://www.biorxiv.org/content/10.1101/2025.05.13.653326v1?rss=1) / 05月16日 08:00
-- [Alcohol Use Disorder Associated Gene FNDC4 Alters Glutamatergic and GABAergic Neurogenesis](https://www.biorxiv.org/content/10.1101/2025.05.15.654319v1?rss=1) / 05月16日 08:00
-- [Sequence based prediction of cell type specific microRNA binding and mRNA degradation for therapeutic discovery](https://www.biorxiv.org/content/10.1101/2025.05.15.654105v1?rss=1) / 05月16日 08:00
 <!--rss-papers:end-->
