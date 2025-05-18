@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月18日 12:24**
+**四川省/成都/成都 2025年05月18日 14:25**
 - 今天周日，白天🌤️多云(18°~31°)，空气轻度污染(103)，夜间阴
 - 明天周一，白天☀️晴(20°~32°)，空气轻度污染(125)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月18日 12:24**
+**四川省/宜宾/宜宾 2025年05月18日 14:25**
 - 今天周日，白天🌧️小雨(18°~28°)，空气良(85)，夜间多云
 - 明天周一，白天🌤️多云(20°~32°)，空气轻度污染(102)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -20,6 +20,7 @@
 - [楠溪江自驾六天，花费1200元，总结推荐](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang.html) / 05月17日 21:52
 - [日本办卡指南 2.0：初来乍到，日本信用卡推荐](https://song.al/creditcard2) / 05月17日 15:15
 - [游戏组件的一生: 从加载到上屏](https://blog.ursb.me/posts/game-engine-renderer/) / 05月17日 12:46
+- [Multi-Omics Integration Strategy and Deep Diving into MOFA2](https://divingintogeneticsandgenomics.com/post/multiomics-mofa2/) / 05月17日 08:00
 - [从赵心童世锦赛夺冠聊聊我的斯诺克情缘](https://wiki.eryajf.net/pages/a49f60/) / 05月17日 07:42
 - [你的自我意识觉醒，是在一瞬间完成的吗？](http://m.wufazhuce.com/question/4367) / 05月17日 06:25
 - [危楼](http://m.wufazhuce.com/article/6794) / 05月17日 06:25
@@ -35,12 +36,14 @@
 - [急救 & CPR 培训笔记](https://blog.douchi.space/first-aid-training/) / 05月14日 15:37
 - [一个简单的 A star 寻路算法实现](https://blog.codingnow.com/2025/05/a_star_pathfinding.html) / 05月14日 12:05
 - [认知 觉醒了吗？](https://imzm.im/cognitive-awakening/) / 05月14日 10:45
-- [南极谋杀案（十五）- 翻译机](https://yufree.cn/cn/2025/05/14/anterictic-murder/) / 05月14日 08:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Estimation of substitution and indel rates via k-mer statistics](https://www.biorxiv.org/content/10.1101/2025.05.14.653858v1?rss=1) / 05月17日 08:00
+- [Case Study of Using AI as Co-Pilot in Biotech Research: Functional Network Analysis of Invasive Cancer](https://www.biorxiv.org/content/10.1101/2025.05.14.654152v1?rss=1) / 05月17日 08:00
+- [A Systems Biology Approach to Unveil Shared Therapeutic Targets and Pathological Pathways Across Major Human Cancers](https://www.biorxiv.org/content/10.1101/2025.05.14.653945v1?rss=1) / 05月17日 08:00
 - [Genome complexity, not ploidy, dictates long-read variant-calling accuracy](https://www.biorxiv.org/content/10.1101/2025.05.14.653922v1?rss=1) / 05月17日 08:00
 - [Hi-Compass resolves cell-type chromatin interactions by single-cell and spatial ATAC-seq data across biological scales](https://www.biorxiv.org/content/10.1101/2025.05.14.654019v1?rss=1) / 05月17日 08:00
 - [A Deep Learning approach for time-consistent cell cycle phase prediction from microscopy data](https://www.biorxiv.org/content/10.1101/2025.05.16.654306v1?rss=1) / 05月17日 08:00
@@ -48,6 +51,8 @@
 - [ProtFun: A Protein Function Prediction Model Using Graph Attention Networks with a Protein Large Language Model](https://www.biorxiv.org/content/10.1101/2025.05.13.653854v1?rss=1) / 05月17日 08:00
 - [A novel bioinformatics approach reveals key transcription factors regulating type 1 diabetes-associated transcriptomes](https://www.biorxiv.org/content/10.1101/2025.05.13.653885v1?rss=1) / 05月17日 08:00
 - [Fast barcode calling based on k-mer distances](https://www.biorxiv.org/content/10.1101/2025.05.12.653416v1?rss=1) / 05月17日 08:00
+- [LSD1 serine 166 is a phosphorylation switch for chromatinlandscaping, gene activation, and tissue remodeling](https://www.biorxiv.org/content/10.1101/2025.05.14.653937v1?rss=1) / 05月17日 08:00
+- [Genome reorganization and its functional impact during breast cancer progression](https://www.biorxiv.org/content/10.1101/2025.05.14.654144v1?rss=1) / 05月17日 08:00
 - [Chromosomal fusions and subsequent rearrangements shaped octopus genomes](https://www.biorxiv.org/content/10.1101/2025.05.16.652989v1?rss=1) / 05月17日 08:00
 - [Three-dimensional genome architecture connects chromatin structure and function in a major wheat pathogen](https://www.biorxiv.org/content/10.1101/2025.05.13.653796v1?rss=1) / 05月17日 08:00
 - [Metagenomic analysis of mosquitoes from Kangerlussuaq, Greenland reveals a unique virome](https://www.nature.com/articles/s41598-025-01086-z) / 05月17日 08:00
@@ -56,9 +61,4 @@
 - [Metagenomic analysis of mosquitoes from Kangerlussuaq, Greenland reveals a unique virome](https://www.nature.com/articles/s41598-025-01086-z) / 05月17日 08:00
 - [Structure-based identification of GIRK2-PIP2 modulators among known drugs and metabolites using docking, MM-GBSA, ADMET, and molecular dynamics](https://www.biorxiv.org/content/10.1101/2025.05.13.653795v1?rss=1) / 05月16日 08:00
 - [Poxvirus targeted by RFdiffusion peptide-binders](https://www.biorxiv.org/content/10.1101/2025.05.14.654163v1?rss=1) / 05月16日 08:00
-- [A Graph-Attention-Based Deep Learning Network for Predicting Biotech-Small-Molecule Drug Interactions](https://www.biorxiv.org/content/10.1101/2025.05.13.653666v1?rss=1) / 05月16日 08:00
-- [PEPlife2: A Updated Repository of the Half-life of Peptides](https://www.biorxiv.org/content/10.1101/2025.05.13.653654v1?rss=1) / 05月16日 08:00
-- [NuclePhaser: a YOLO-based framework for cell nuclei detection and counting in phase contrast images of arbitrary size with support of fast calibration and testing on specific use cases](https://www.biorxiv.org/content/10.1101/2025.05.13.653705v1?rss=1) / 05月16日 08:00
-- [ECCFP: a consecutive full pass based bioinformatic analysis for eccDNA identification using Nanopore sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.13.653627v1?rss=1) / 05月16日 08:00
-- [RP3Net: a deep learning model for predicting recombinant protein production in Escherichia coli](https://www.biorxiv.org/content/10.1101/2025.05.13.652824v1?rss=1) / 05月16日 08:00
 <!--rss-papers:end-->
