@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月19日 02:23**
+**四川省/成都/成都 2025年05月19日 04:18**
 - 今天周一，白天☀️晴(19°~32°)，空气轻度污染(123)
 - 明天周二，白天🌤️多云(22°~34°)，空气轻度污染(122)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月19日 02:23**
+**四川省/宜宾/宜宾 2025年05月19日 04:19**
 - 今天周一，白天☁️阴(20°~33°)，空气良(97)
 - 明天周二，白天☁️阴(23°~35°)，空气轻度污染(107)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -39,6 +39,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Integrative analysis across metagenomic taxonomic classifiers: A case study of the gut microbiome in aging and longevity](https://www.biorxiv.org/content/10.1101/2025.05.14.654104v1?rss=1) / 05月18日 08:00
+- [fMRIPrep Lifespan: Extending A Robust Pipeline for Functional MRI Preprocessing to Developmental Neuroimaging](https://www.biorxiv.org/content/10.1101/2025.05.14.654069v1?rss=1) / 05月18日 08:00
+- [Aggregating multimodal cancer data across unaligned embedding spaces maintains tumor of origin signal](https://www.biorxiv.org/content/10.1101/2025.05.14.653900v1?rss=1) / 05月18日 08:00
 - [Estimation of substitution and indel rates via k-mer statistics](https://www.biorxiv.org/content/10.1101/2025.05.14.653858v1?rss=1) / 05月17日 08:00
 - [Case Study of Using AI as Co-Pilot in Biotech Research: Functional Network Analysis of Invasive Cancer](https://www.biorxiv.org/content/10.1101/2025.05.14.654152v1?rss=1) / 05月17日 08:00
 - [A Systems Biology Approach to Unveil Shared Therapeutic Targets and Pathological Pathways Across Major Human Cancers](https://www.biorxiv.org/content/10.1101/2025.05.14.653945v1?rss=1) / 05月17日 08:00
@@ -56,7 +59,4 @@
 - [Metagenomic analysis of mosquitoes from Kangerlussuaq, Greenland reveals a unique virome](https://www.nature.com/articles/s41598-025-01086-z) / 05月17日 08:00
 - [The evolution and convergence of mutation spectra across mammals](https://www.nature.com/articles/s42003-025-08181-x) / 05月17日 08:00
 - [Chromosome-level genome assembly of the parasitoid wasp Aenasius arizonensis](https://www.nature.com/articles/s41597-025-05020-w) / 05月17日 08:00
-- [Metagenomic analysis of mosquitoes from Kangerlussuaq, Greenland reveals a unique virome](https://www.nature.com/articles/s41598-025-01086-z) / 05月17日 08:00
-- [Structure-based identification of GIRK2-PIP2 modulators among known drugs and metabolites using docking, MM-GBSA, ADMET, and molecular dynamics](https://www.biorxiv.org/content/10.1101/2025.05.13.653795v1?rss=1) / 05月16日 08:00
-- [Poxvirus targeted by RFdiffusion peptide-binders](https://www.biorxiv.org/content/10.1101/2025.05.14.654163v1?rss=1) / 05月16日 08:00
 <!--rss-papers:end-->
