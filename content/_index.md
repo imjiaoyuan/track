@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月19日 20:39**
-- 今天周一，白天🌤️多云(20°~33°)，空气轻度污染(124)，夜间晴
-- 明天周二，白天🌤️多云(23°~35°)，空气轻度污染(130)，夜间晴
+**四川省/成都/成都 2025年05月19日 22:18**
+- 今天周一，白天🌤️多云(20°~33°)，空气轻度污染(121)，夜间晴
+- 明天周二，白天🌤️多云(23°~35°)，空气轻度污染(128)，夜间晴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月19日 20:39**
-- 今天周一，白天☀️晴(21°~33°)，空气轻度污染(104)，夜间阴
-- 明天周二，白天☁️阴(23°~35°)，空气轻度污染(108)，夜间多云
+**四川省/宜宾/宜宾 2025年05月19日 22:18**
+- 今天周一，白天☀️晴(21°~33°)，空气轻度污染(103)，夜间阴
+- 明天周二，白天☁️阴(23°~35°)，空气轻度污染(106)，夜间多云
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Immune Spatial Organization Predicts Metastasis Risk in Aggressive Localized Prostate Cancer](https://www.biorxiv.org/content/10.1101/2025.05.15.654324v1?rss=1) / 08:00
 - [SWANS: A highly configurable analysis pipeline for single-cell and single-nuclei RNA-sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.14.654073v1?rss=1) / 08:00
 - [CPP2Vec: a Representation Learning Approach for Cell-Penetrating Peptides Prediction](https://www.biorxiv.org/content/10.1101/2025.05.15.654208v1?rss=1) / 08:00
 - [Transcription factors overcome the repressive impact of Polycomb-associated methylation in tumors](https://www.biorxiv.org/content/10.1101/2025.05.15.654174v1?rss=1) / 08:00
@@ -62,5 +63,4 @@
 - [Case Study of Using AI as Co-Pilot in Biotech Research: Functional Network Analysis of Invasive Cancer](https://www.biorxiv.org/content/10.1101/2025.05.14.654152v1?rss=1) / 05月17日 08:00
 - [A Systems Biology Approach to Unveil Shared Therapeutic Targets and Pathological Pathways Across Major Human Cancers](https://www.biorxiv.org/content/10.1101/2025.05.14.653945v1?rss=1) / 05月17日 08:00
 - [Genome complexity, not ploidy, dictates long-read variant-calling accuracy](https://www.biorxiv.org/content/10.1101/2025.05.14.653922v1?rss=1) / 05月17日 08:00
-- [Hi-Compass resolves cell-type chromatin interactions by single-cell and spatial ATAC-seq data across biological scales](https://www.biorxiv.org/content/10.1101/2025.05.14.654019v1?rss=1) / 05月17日 08:00
 <!--rss-papers:end-->
