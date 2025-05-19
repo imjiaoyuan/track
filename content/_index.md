@@ -1,26 +1,24 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月19日 22:18**
-- 今天周一，白天🌤️多云(20°~33°)，空气轻度污染(121)，夜间晴
-- 明天周二，白天🌤️多云(23°~35°)，空气轻度污染(128)，夜间晴
+**四川省/成都/成都 2025年05月20日 00:23**
+- 今天周二，白天🌤️多云(23°~35°)，空气轻度污染(131)，夜间晴
+- 明天周三，白天🌤️多云(22°~35°)，空气轻度污染(148)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月19日 22:18**
-- 今天周一，白天☀️晴(21°~33°)，空气轻度污染(103)，夜间阴
-- 明天周二，白天☁️阴(23°~35°)，空气轻度污染(106)，夜间多云
+**四川省/宜宾/宜宾 2025年05月20日 00:23**
+- 今天周二，白天☁️阴(23°~35°)，空气轻度污染(114)，夜间多云
+- 明天周三，白天🌤️多云(24°~36°)，空气轻度污染(103)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [周报 #95 - All AI 与 No AI](https://www.pseudoyu.com/posts/weekly_review_95) / 11:02
-- [周报 #94 - 生活的界限与真实感](https://www.pseudoyu.com/posts/weekly_review_94) / 09:03
-- [你曾主动舍弃过一段关系吗？](http://m.wufazhuce.com/question/4368) / 06:25
-- [幸运日](http://m.wufazhuce.com/article/6795) / 06:25
-- [VOL.4608](http://m.wufazhuce.com/one/4759) / 06:25
-
 **历史记录**
+- [周报 #95 - All AI 与 No AI](https://www.pseudoyu.com/posts/weekly_review_95) / 05月19日 11:02
+- [周报 #94 - 生活的界限与真实感](https://www.pseudoyu.com/posts/weekly_review_94) / 05月19日 09:03
+- [你曾主动舍弃过一段关系吗？](http://m.wufazhuce.com/question/4368) / 05月19日 06:25
+- [幸运日](http://m.wufazhuce.com/article/6795) / 05月19日 06:25
+- [VOL.4608](http://m.wufazhuce.com/one/4759) / 05月19日 06:25
 - [猫鱼周刊 vol. 065 深度游览一座城市的方法](https://ameow.xyz/archives/weekly-065) / 05月18日 20:23
 - [楠溪江自驾六天，花费1200元，总结推荐](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang.html) / 05月17日 21:52
 - [日本办卡指南 2.0：初来乍到，日本信用卡推荐](https://song.al/creditcard2) / 05月17日 15:15
@@ -40,13 +38,15 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Immune Spatial Organization Predicts Metastasis Risk in Aggressive Localized Prostate Cancer](https://www.biorxiv.org/content/10.1101/2025.05.15.654324v1?rss=1) / 08:00
-- [SWANS: A highly configurable analysis pipeline for single-cell and single-nuclei RNA-sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.14.654073v1?rss=1) / 08:00
-- [CPP2Vec: a Representation Learning Approach for Cell-Penetrating Peptides Prediction](https://www.biorxiv.org/content/10.1101/2025.05.15.654208v1?rss=1) / 08:00
-- [Transcription factors overcome the repressive impact of Polycomb-associated methylation in tumors](https://www.biorxiv.org/content/10.1101/2025.05.15.654174v1?rss=1) / 08:00
-
 **历史记录**
+- [Immune Spatial Organization Predicts Metastasis Risk in Aggressive Localized Prostate Cancer](https://www.biorxiv.org/content/10.1101/2025.05.15.654324v1?rss=1) / 05月19日 08:00
+- [SWANS: A highly configurable analysis pipeline for single-cell and single-nuclei RNA-sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.14.654073v1?rss=1) / 05月19日 08:00
+- [CPP2Vec: a Representation Learning Approach for Cell-Penetrating Peptides Prediction](https://www.biorxiv.org/content/10.1101/2025.05.15.654208v1?rss=1) / 05月19日 08:00
+- [Transcription factors overcome the repressive impact of Polycomb-associated methylation in tumors](https://www.biorxiv.org/content/10.1101/2025.05.15.654174v1?rss=1) / 05月19日 08:00
+- [DNA methylation marks associated with body composition in children from India and the Gambia - findings from the EMPHASIS study](https://www.biorxiv.org/content/10.1101/2025.05.15.654252v1?rss=1) / 05月19日 08:00
+- [Sex-Specific Differential DNA Methylation in Mild Cognitive Impairment and Alzheimers Disease](https://www.biorxiv.org/content/10.1101/2025.05.15.654279v1?rss=1) / 05月19日 08:00
+- [A rapid and inexpensive universal PCR protocol for DNA (meta)barcoding using a one-tube, 2-step PCR](https://www.biorxiv.org/content/10.1101/2025.05.16.654411v1?rss=1) / 05月19日 08:00
+- [Chromosome-level genome assembly and annotation of Gypsophila vaccaria](https://www.nature.com/articles/s41597-025-05121-6) / 05月19日 08:00
 - [Towards foundation models that learn across biological scales](https://www.biorxiv.org/content/10.1101/2025.05.16.653447v1?rss=1) / 05月18日 08:00
 - [Amira: gene-space de Bruijn graphs to improve the detection of AMR genes from bacterial long reads](https://www.biorxiv.org/content/10.1101/2025.05.16.654303v1?rss=1) / 05月18日 08:00
 - [InstaNovo-P: A de novo peptide sequencing model for phosphoproteomics](https://www.biorxiv.org/content/10.1101/2025.05.14.654049v1?rss=1) / 05月18日 08:00
@@ -59,8 +59,4 @@
 - [Aggregating multimodal cancer data across unaligned embedding spaces maintains tumor of origin signal](https://www.biorxiv.org/content/10.1101/2025.05.14.653900v1?rss=1) / 05月18日 08:00
 - [An Updated Polygenic Index Repository: Expanded Phenotypes, New Cohorts, and Improved Causal Inference](https://www.biorxiv.org/content/10.1101/2025.05.14.653986v1?rss=1) / 05月18日 08:00
 - [Exploring the interplay of complex carbohydrate intake, the microbiome CAZymes pool and short-chain fatty acid production in the human gut: insights from different cohorts in the Argentine population](https://www.biorxiv.org/content/10.1101/2025.05.15.654276v1?rss=1) / 05月18日 08:00
-- [Estimation of substitution and indel rates via k-mer statistics](https://www.biorxiv.org/content/10.1101/2025.05.14.653858v1?rss=1) / 05月17日 08:00
-- [Case Study of Using AI as Co-Pilot in Biotech Research: Functional Network Analysis of Invasive Cancer](https://www.biorxiv.org/content/10.1101/2025.05.14.654152v1?rss=1) / 05月17日 08:00
-- [A Systems Biology Approach to Unveil Shared Therapeutic Targets and Pathological Pathways Across Major Human Cancers](https://www.biorxiv.org/content/10.1101/2025.05.14.653945v1?rss=1) / 05月17日 08:00
-- [Genome complexity, not ploidy, dictates long-read variant-calling accuracy](https://www.biorxiv.org/content/10.1101/2025.05.14.653922v1?rss=1) / 05月17日 08:00
 <!--rss-papers:end-->
