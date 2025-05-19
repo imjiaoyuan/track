@@ -1,12 +1,12 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月19日 09:39**
-- 今天周一，白天🌤️多云(18°~33°)，空气轻度污染(122)，夜间晴
-- 明天周二，白天🌤️多云(23°~35°)，空气轻度污染(126)
+**四川省/成都/成都 2025年05月19日 11:17**
+- 今天周一，白天🌤️多云(18°~33°)，空气轻度污染(124)，夜间晴
+- 明天周二，白天🌤️多云(23°~35°)，空气轻度污染(124)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月19日 09:39**
-- 今天周一，白天☀️晴(20°~33°)，空气良(96)，夜间多云
+**四川省/宜宾/宜宾 2025年05月19日 11:17**
+- 今天周一，白天☀️晴(20°~33°)，空气轻度污染(101)，夜间多云
 - 明天周二，白天🌤️多云(23°~34°)，空气轻度污染(106)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
@@ -14,6 +14,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [周报 #95 - All AI 与 No AI](https://www.pseudoyu.com/posts/weekly_review_95) / 11:02
 - [周报 #94 - 生活的界限与真实感](https://www.pseudoyu.com/posts/weekly_review_94) / 09:03
 - [你曾主动舍弃过一段关系吗？](http://m.wufazhuce.com/question/4368) / 06:25
 - [幸运日](http://m.wufazhuce.com/article/6795) / 06:25
@@ -35,12 +36,13 @@
 - [VXNA 和 Folo](https://anotherdayu.com/2025/6972/) / 05月15日 10:00
 - [生信爱好者周刊（第 165 期）：明星期刊“落选”引发科学界震动，在中国做学术期刊有多难？](https://openbiox.github.io/weekly/issue-165/) / 05月14日 22:16
 - [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) / 05月14日 20:06
-- [急救 & CPR 培训笔记](https://blog.douchi.space/first-aid-training/) / 05月14日 15:37
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [DNA methylation networks during pig fetal development: a joint fused ridge estimation approach](https://www.biorxiv.org/content/10.1101/2025.05.15.654211v1?rss=1) / 05月18日 08:00
+- [Macroscopic Analyses of RNA-Seq Data to Reveal Chromatin Modifications in Aging and Disease](https://www.biorxiv.org/content/10.1101/2025.05.14.654062v1?rss=1) / 05月18日 08:00
 - [Integrative analysis across metagenomic taxonomic classifiers: A case study of the gut microbiome in aging and longevity](https://www.biorxiv.org/content/10.1101/2025.05.14.654104v1?rss=1) / 05月18日 08:00
 - [fMRIPrep Lifespan: Extending A Robust Pipeline for Functional MRI Preprocessing to Developmental Neuroimaging](https://www.biorxiv.org/content/10.1101/2025.05.14.654069v1?rss=1) / 05月18日 08:00
 - [Aggregating multimodal cancer data across unaligned embedding spaces maintains tumor of origin signal](https://www.biorxiv.org/content/10.1101/2025.05.14.653900v1?rss=1) / 05月18日 08:00
@@ -59,6 +61,4 @@
 - [Chromosomal fusions and subsequent rearrangements shaped octopus genomes](https://www.biorxiv.org/content/10.1101/2025.05.16.652989v1?rss=1) / 05月17日 08:00
 - [Three-dimensional genome architecture connects chromatin structure and function in a major wheat pathogen](https://www.biorxiv.org/content/10.1101/2025.05.13.653796v1?rss=1) / 05月17日 08:00
 - [Metagenomic analysis of mosquitoes from Kangerlussuaq, Greenland reveals a unique virome](https://www.nature.com/articles/s41598-025-01086-z) / 05月17日 08:00
-- [The evolution and convergence of mutation spectra across mammals](https://www.nature.com/articles/s42003-025-08181-x) / 05月17日 08:00
-- [Chromosome-level genome assembly of the parasitoid wasp Aenasius arizonensis](https://www.nature.com/articles/s41597-025-05020-w) / 05月17日 08:00
 <!--rss-papers:end-->
