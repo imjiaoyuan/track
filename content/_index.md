@@ -1,28 +1,31 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月19日 06:16**
-- 今天周一，白天🌤️多云(17°~32°)，空气轻度污染(123)，夜间晴
-- 明天周二，白天🌤️多云(21°~34°)，空气轻度污染(122)，夜间阵雨
+**四川省/成都/成都 2025年05月19日 09:39**
+- 今天周一，白天🌤️多云(18°~33°)，空气轻度污染(122)，夜间晴
+- 明天周二，白天🌤️多云(23°~35°)，空气轻度污染(126)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月19日 06:16**
-- 今天周一，白天☀️晴(20°~33°)，空气良(97)，夜间多云
-- 明天周二，白天🌤️多云(23°~34°)，空气轻度污染(107)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月19日 09:39**
+- 今天周一，白天☀️晴(20°~33°)，空气良(96)，夜间多云
+- 明天周二，白天🌤️多云(23°~34°)，空气轻度污染(106)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [周报 #94 - 生活的界限与真实感](https://www.pseudoyu.com/posts/weekly_review_94) / 09:03
+- [你曾主动舍弃过一段关系吗？](http://m.wufazhuce.com/question/4368) / 06:25
+- [幸运日](http://m.wufazhuce.com/article/6795) / 06:25
+- [VOL.4608](http://m.wufazhuce.com/one/4759) / 06:25
+
 **历史记录**
 - [猫鱼周刊 vol. 065 深度游览一座城市的方法](https://ameow.xyz/archives/weekly-065) / 05月18日 20:23
-- [VOL.4607](http://m.wufazhuce.com/one/4770) / 05月18日 06:25
 - [楠溪江自驾六天，花费1200元，总结推荐](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang.html) / 05月17日 21:52
 - [日本办卡指南 2.0：初来乍到，日本信用卡推荐](https://song.al/creditcard2) / 05月17日 15:15
 - [游戏组件的一生: 从加载到上屏](https://blog.ursb.me/posts/game-engine-renderer/) / 05月17日 12:46
 - [Multi-Omics Integration Strategy and Deep Diving into MOFA2](https://divingintogeneticsandgenomics.com/post/multiomics-mofa2/) / 05月17日 08:00
 - [从赵心童世锦赛夺冠聊聊我的斯诺克情缘](https://wiki.eryajf.net/pages/a49f60/) / 05月17日 07:42
-- [你的自我意识觉醒，是在一瞬间完成的吗？](http://m.wufazhuce.com/question/4367) / 05月17日 06:25
-- [危楼](http://m.wufazhuce.com/article/6794) / 05月17日 06:25
 - [关我辟事 Vol.40：不务正业](https://blog.douchi.space/spark-joy-digest-2025-5a/) / 05月16日 14:04
 - [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html) / 05月16日 08:05
 - [众生牛马](https://www.xiangshitan.com/post/3402.html) / 05月16日 06:24
@@ -33,7 +36,6 @@
 - [生信爱好者周刊（第 165 期）：明星期刊“落选”引发科学界震动，在中国做学术期刊有多难？](https://openbiox.github.io/weekly/issue-165/) / 05月14日 22:16
 - [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) / 05月14日 20:06
 - [急救 & CPR 培训笔记](https://blog.douchi.space/first-aid-training/) / 05月14日 15:37
-- [一个简单的 A star 寻路算法实现](https://blog.codingnow.com/2025/05/a_star_pathfinding.html) / 05月14日 12:05
 <!--rss-blogs:end-->
 ---
 # Research Papers
