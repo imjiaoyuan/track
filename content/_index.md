@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月20日 02:26**
+**四川省/成都/成都 2025年05月20日 04:20**
 - 今天周二，白天🌤️多云(23°~35°)，空气轻度污染(131)，夜间晴
 - 明天周三，白天🌤️多云(22°~35°)，空气轻度污染(148)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月20日 02:26**
+**四川省/宜宾/宜宾 2025年05月20日 04:20**
 - 今天周二，白天☁️阴(23°~35°)，空气轻度污染(114)，夜间多云
 - 明天周三，白天🌤️多云(24°~36°)，空气轻度污染(103)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -39,11 +39,13 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Chromatin interaction-based annotation of distal cis-regulatory elements reveals highly dynamic promoter-enhancer interactions in lymphocyte development](https://www.biorxiv.org/content/10.1101/2025.05.15.653418v1?rss=1) / 05月19日 08:00
 - [difFUBAR: Scalable Bayesian comparison of adaptive evolution](https://www.biorxiv.org/content/10.1101/2025.05.19.654647v1?rss=1) / 05月19日 08:00
 - [Immune Spatial Organization Predicts Metastasis Risk in Aggressive Localized Prostate Cancer](https://www.biorxiv.org/content/10.1101/2025.05.15.654324v1?rss=1) / 05月19日 08:00
 - [SWANS: A highly configurable analysis pipeline for single-cell and single-nuclei RNA-sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.14.654073v1?rss=1) / 05月19日 08:00
 - [CPP2Vec: a Representation Learning Approach for Cell-Penetrating Peptides Prediction](https://www.biorxiv.org/content/10.1101/2025.05.15.654208v1?rss=1) / 05月19日 08:00
 - [Transcription factors overcome the repressive impact of Polycomb-associated methylation in tumors](https://www.biorxiv.org/content/10.1101/2025.05.15.654174v1?rss=1) / 05月19日 08:00
+- [Coexisting with humans: genomic and behavioural consequences in a small and isolated bear population](https://www.biorxiv.org/content/10.1101/2025.05.15.654188v1?rss=1) / 05月19日 08:00
 - [DNA methylation marks associated with body composition in children from India and the Gambia - findings from the EMPHASIS study](https://www.biorxiv.org/content/10.1101/2025.05.15.654252v1?rss=1) / 05月19日 08:00
 - [Sex-Specific Differential DNA Methylation in Mild Cognitive Impairment and Alzheimers Disease](https://www.biorxiv.org/content/10.1101/2025.05.15.654279v1?rss=1) / 05月19日 08:00
 - [A rapid and inexpensive universal PCR protocol for DNA (meta)barcoding using a one-tube, 2-step PCR](https://www.biorxiv.org/content/10.1101/2025.05.16.654411v1?rss=1) / 05月19日 08:00
@@ -57,6 +59,4 @@
 - [Macroscopic Analyses of RNA-Seq Data to Reveal Chromatin Modifications in Aging and Disease](https://www.biorxiv.org/content/10.1101/2025.05.14.654062v1?rss=1) / 05月18日 08:00
 - [Integrative analysis across metagenomic taxonomic classifiers: A case study of the gut microbiome in aging and longevity](https://www.biorxiv.org/content/10.1101/2025.05.14.654104v1?rss=1) / 05月18日 08:00
 - [fMRIPrep Lifespan: Extending A Robust Pipeline for Functional MRI Preprocessing to Developmental Neuroimaging](https://www.biorxiv.org/content/10.1101/2025.05.14.654069v1?rss=1) / 05月18日 08:00
-- [Aggregating multimodal cancer data across unaligned embedding spaces maintains tumor of origin signal](https://www.biorxiv.org/content/10.1101/2025.05.14.653900v1?rss=1) / 05月18日 08:00
-- [An Updated Polygenic Index Repository: Expanded Phenotypes, New Cohorts, and Improved Causal Inference](https://www.biorxiv.org/content/10.1101/2025.05.14.653986v1?rss=1) / 05月18日 08:00
 <!--rss-papers:end-->
