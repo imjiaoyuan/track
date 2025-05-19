@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月19日 12:26**
+**四川省/成都/成都 2025年05月19日 14:28**
 - 今天周一，白天🌤️多云(18°~33°)，空气轻度污染(124)，夜间晴
 - 明天周二，白天🌤️多云(23°~35°)，空气轻度污染(124)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月19日 12:26**
+**四川省/宜宾/宜宾 2025年05月19日 14:28**
 - 今天周一，白天☀️晴(20°~33°)，空气轻度污染(101)，夜间多云
 - 明天周二，白天🌤️多云(23°~34°)，空气轻度污染(106)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,12 +41,18 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Towards foundation models that learn across biological scales](https://www.biorxiv.org/content/10.1101/2025.05.16.653447v1?rss=1) / 05月18日 08:00
+- [Amira: gene-space de Bruijn graphs to improve the detection of AMR genes from bacterial long reads](https://www.biorxiv.org/content/10.1101/2025.05.16.654303v1?rss=1) / 05月18日 08:00
+- [InstaNovo-P: A de novo peptide sequencing model for phosphoproteomics](https://www.biorxiv.org/content/10.1101/2025.05.14.654049v1?rss=1) / 05月18日 08:00
+- [Snekmer Learn/Apply: A kmer-based vector similarity approach to proteinclassification suitable for metagenomic datasets](https://www.biorxiv.org/content/10.1101/2025.05.16.654600v1?rss=1) / 05月18日 08:00
 - [eSPred: Explainable scRNA-seq Prediction via Customized Foundation Models and Pathway-Aware Fine-tuning](https://www.biorxiv.org/content/10.1101/2025.05.14.654052v1?rss=1) / 05月18日 08:00
 - [DNA methylation networks during pig fetal development: a joint fused ridge estimation approach](https://www.biorxiv.org/content/10.1101/2025.05.15.654211v1?rss=1) / 05月18日 08:00
 - [Macroscopic Analyses of RNA-Seq Data to Reveal Chromatin Modifications in Aging and Disease](https://www.biorxiv.org/content/10.1101/2025.05.14.654062v1?rss=1) / 05月18日 08:00
 - [Integrative analysis across metagenomic taxonomic classifiers: A case study of the gut microbiome in aging and longevity](https://www.biorxiv.org/content/10.1101/2025.05.14.654104v1?rss=1) / 05月18日 08:00
 - [fMRIPrep Lifespan: Extending A Robust Pipeline for Functional MRI Preprocessing to Developmental Neuroimaging](https://www.biorxiv.org/content/10.1101/2025.05.14.654069v1?rss=1) / 05月18日 08:00
 - [Aggregating multimodal cancer data across unaligned embedding spaces maintains tumor of origin signal](https://www.biorxiv.org/content/10.1101/2025.05.14.653900v1?rss=1) / 05月18日 08:00
+- [An Updated Polygenic Index Repository: Expanded Phenotypes, New Cohorts, and Improved Causal Inference](https://www.biorxiv.org/content/10.1101/2025.05.14.653986v1?rss=1) / 05月18日 08:00
+- [Exploring the interplay of complex carbohydrate intake, the microbiome CAZymes pool and short-chain fatty acid production in the human gut: insights from different cohorts in the Argentine population](https://www.biorxiv.org/content/10.1101/2025.05.15.654276v1?rss=1) / 05月18日 08:00
 - [Estimation of substitution and indel rates via k-mer statistics](https://www.biorxiv.org/content/10.1101/2025.05.14.653858v1?rss=1) / 05月17日 08:00
 - [Case Study of Using AI as Co-Pilot in Biotech Research: Functional Network Analysis of Invasive Cancer](https://www.biorxiv.org/content/10.1101/2025.05.14.654152v1?rss=1) / 05月17日 08:00
 - [A Systems Biology Approach to Unveil Shared Therapeutic Targets and Pathological Pathways Across Major Human Cancers](https://www.biorxiv.org/content/10.1101/2025.05.14.653945v1?rss=1) / 05月17日 08:00
@@ -55,10 +61,4 @@
 - [A Deep Learning approach for time-consistent cell cycle phase prediction from microscopy data](https://www.biorxiv.org/content/10.1101/2025.05.16.654306v1?rss=1) / 05月17日 08:00
 - [Visual analytics framework for survival analysis and biomarker discovery](https://www.biorxiv.org/content/10.1101/2025.05.14.654136v1?rss=1) / 05月17日 08:00
 - [ProtFun: A Protein Function Prediction Model Using Graph Attention Networks with a Protein Large Language Model](https://www.biorxiv.org/content/10.1101/2025.05.13.653854v1?rss=1) / 05月17日 08:00
-- [A novel bioinformatics approach reveals key transcription factors regulating type 1 diabetes-associated transcriptomes](https://www.biorxiv.org/content/10.1101/2025.05.13.653885v1?rss=1) / 05月17日 08:00
-- [Fast barcode calling based on k-mer distances](https://www.biorxiv.org/content/10.1101/2025.05.12.653416v1?rss=1) / 05月17日 08:00
-- [LSD1 serine 166 is a phosphorylation switch for chromatinlandscaping, gene activation, and tissue remodeling](https://www.biorxiv.org/content/10.1101/2025.05.14.653937v1?rss=1) / 05月17日 08:00
-- [Genome reorganization and its functional impact during breast cancer progression](https://www.biorxiv.org/content/10.1101/2025.05.14.654144v1?rss=1) / 05月17日 08:00
-- [Chromosomal fusions and subsequent rearrangements shaped octopus genomes](https://www.biorxiv.org/content/10.1101/2025.05.16.652989v1?rss=1) / 05月17日 08:00
-- [Three-dimensional genome architecture connects chromatin structure and function in a major wheat pathogen](https://www.biorxiv.org/content/10.1101/2025.05.13.653796v1?rss=1) / 05月17日 08:00
 <!--rss-papers:end-->
