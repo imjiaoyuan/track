@@ -1,28 +1,26 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月20日 22:18**
-- 今天周二，白天🌤️多云(24°~35°)，空气轻度污染(122)
-- 明天周三，白天🌤️多云(22°~35°)，空气轻度污染(146)，夜间小雨
+**四川省/成都/成都 2025年05月21日 00:23**
+- 今天周三，白天🌤️多云(22°~35°)，空气轻度污染(145)，夜间小雨
+- 明天周四，白天🌤️多云(22°~32°)，空气良(92)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月20日 22:18**
-- 今天周二，白天☁️阴(23°~35°)，空气轻度污染(110)，夜间小雨
-- 明天周三，白天🌧️小雨(23°~35°)，空气轻度污染(107)，夜间中雨
+**四川省/宜宾/宜宾 2025年05月21日 00:23**
+- 今天周三，白天🌧️小雨(23°~35°)，空气轻度污染(107)，夜间中雨
+- 明天周四，白天🌧️小雨(21°~31°)，空气良(71)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [上海野生动物园](https://www.skyue.com/25052013.html) / 13:25
-- [没有任何证据的手机](https://xingbianren.cn/post/305.html) / 12:09
-- [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) / 09:35
-- [角度](https://www.xiangshitan.com/post/3403.html) / 06:25
-- [如何消解“已读不回”的压力？](http://m.wufazhuce.com/question/4369) / 06:25
-- [这个爱情贬值的年代](http://m.wufazhuce.com/article/6802) / 06:25
-- [VOL.4609](http://m.wufazhuce.com/one/4760) / 06:25
-
 **历史记录**
+- [上海野生动物园](https://www.skyue.com/25052013.html) / 05月20日 13:25
+- [没有任何证据的手机](https://xingbianren.cn/post/305.html) / 05月20日 12:09
+- [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) / 05月20日 09:35
+- [角度](https://www.xiangshitan.com/post/3403.html) / 05月20日 06:25
+- [如何消解“已读不回”的压力？](http://m.wufazhuce.com/question/4369) / 05月20日 06:25
+- [这个爱情贬值的年代](http://m.wufazhuce.com/article/6802) / 05月20日 06:25
+- [VOL.4609](http://m.wufazhuce.com/one/4760) / 05月20日 06:25
 - [周报 #95 - All AI 与 No AI](https://www.pseudoyu.com/posts/weekly_review_95) / 05月19日 11:02
 - [周报 #94 - 生活的界限与真实感](https://www.pseudoyu.com/posts/weekly_review_94) / 05月19日 09:03
 - [猫鱼周刊 vol. 065 深度游览一座城市的方法](https://ameow.xyz/archives/weekly-065) / 05月18日 20:23
@@ -40,21 +38,18 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Interpreting biochemical text with language models:a machine learning framework for reaction extraction and cheminformatic validation](https://www.biorxiv.org/content/10.1101/2025.05.15.654376v1?rss=1) / 08:00
-- [Rapid and accurate protein structure database search using inverse folding model and contrastive learning](https://www.biorxiv.org/content/10.1101/2025.05.15.654382v1?rss=1) / 08:00
-- [Benchmarking Spectral Library and Database Search Approaches for Metaproteomics Using a Ground-Truth Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.15.654320v1?rss=1) / 08:00
-- [Medical Images as Biomarkers of Ageing - From Global and Local Patterns to Digital Twins](https://www.biorxiv.org/content/10.1101/2025.05.18.654705v1?rss=1) / 08:00
-- [Multimodal data analysis reveals asynchronous aging dynamics across female reproductive organs](https://www.biorxiv.org/content/10.1101/2025.05.16.654406v1?rss=1) / 08:00
-- [A high-quality draft genome assembly of the Neotropical butterfly, Batesia hypochlora (Nymphalidae: Biblidinae)](https://www.biorxiv.org/content/10.1101/2025.05.17.654659v1?rss=1) / 08:00
-- [Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality](https://www.biorxiv.org/content/10.1101/2025.05.16.648988v1?rss=1) / 08:00
-- [Data resources must be protected from political interference](https://www.nature.com/articles/d41586-025-01601-2) / 08:00
-- [Optimization of multi-ancestry polygenic risk score disease prediction models](https://www.nature.com/articles/s41598-025-02903-1) / 08:00
-- [A chromosome-level genome assembly of Ficus benjamina, a fig tree with great ecological and ornamental value](https://www.nature.com/articles/s41597-025-05155-w) / 08:00
-- [Chromosome-scale whole genome assembly and annotation of the Jamaican field cricket Gryllus assimilis](https://www.nature.com/articles/s41597-025-05197-0) / 08:00
-- [CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells](https://www.nature.com/articles/s41467-025-59926-5) / 08:00
-
 **历史记录**
+- [Interpreting biochemical text with language models:a machine learning framework for reaction extraction and cheminformatic validation](https://www.biorxiv.org/content/10.1101/2025.05.15.654376v1?rss=1) / 05月20日 08:00
+- [Rapid and accurate protein structure database search using inverse folding model and contrastive learning](https://www.biorxiv.org/content/10.1101/2025.05.15.654382v1?rss=1) / 05月20日 08:00
+- [Benchmarking Spectral Library and Database Search Approaches for Metaproteomics Using a Ground-Truth Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.15.654320v1?rss=1) / 05月20日 08:00
+- [Medical Images as Biomarkers of Ageing - From Global and Local Patterns to Digital Twins](https://www.biorxiv.org/content/10.1101/2025.05.18.654705v1?rss=1) / 05月20日 08:00
+- [Multimodal data analysis reveals asynchronous aging dynamics across female reproductive organs](https://www.biorxiv.org/content/10.1101/2025.05.16.654406v1?rss=1) / 05月20日 08:00
+- [A high-quality draft genome assembly of the Neotropical butterfly, Batesia hypochlora (Nymphalidae: Biblidinae)](https://www.biorxiv.org/content/10.1101/2025.05.17.654659v1?rss=1) / 05月20日 08:00
+- [Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality](https://www.biorxiv.org/content/10.1101/2025.05.16.648988v1?rss=1) / 05月20日 08:00
+- [Data resources must be protected from political interference](https://www.nature.com/articles/d41586-025-01601-2) / 05月20日 08:00
+- [Optimization of multi-ancestry polygenic risk score disease prediction models](https://www.nature.com/articles/s41598-025-02903-1) / 05月20日 08:00
+- [A chromosome-level genome assembly of Ficus benjamina, a fig tree with great ecological and ornamental value](https://www.nature.com/articles/s41597-025-05155-w) / 05月20日 08:00
+- [Chromosome-scale whole genome assembly and annotation of the Jamaican field cricket Gryllus assimilis](https://www.nature.com/articles/s41597-025-05197-0) / 05月20日 08:00
 - [Assessing Large Language Model Alignment Towards Radio-logical Myths and Misconceptions](https://www.biorxiv.org/content/10.1101/2025.05.16.652427v1?rss=1) / 05月19日 08:00
 - [Multiscale Segmentation using Hierarchical Phase-contrast Tomography and Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.15.654263v1?rss=1) / 05月19日 08:00
 - [Triad-LMF: A Hierarchical Low-Rank Multimodal Fusion Framework for Robust Cancer Subtype Classification Using Multi-Omics Data](https://www.biorxiv.org/content/10.1101/2025.05.15.653805v1?rss=1) / 05月19日 08:00
@@ -63,4 +58,5 @@
 - [Chromatin interaction-based annotation of distal cis-regulatory elements reveals highly dynamic promoter-enhancer interactions in lymphocyte development](https://www.biorxiv.org/content/10.1101/2025.05.15.653418v1?rss=1) / 05月19日 08:00
 - [difFUBAR: Scalable Bayesian comparison of adaptive evolution](https://www.biorxiv.org/content/10.1101/2025.05.19.654647v1?rss=1) / 05月19日 08:00
 - [Immune Spatial Organization Predicts Metastasis Risk in Aggressive Localized Prostate Cancer](https://www.biorxiv.org/content/10.1101/2025.05.15.654324v1?rss=1) / 05月19日 08:00
+- [SWANS: A highly configurable analysis pipeline for single-cell and single-nuclei RNA-sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.14.654073v1?rss=1) / 05月19日 08:00
 <!--rss-papers:end-->
