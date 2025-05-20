@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月20日 18:20**
+**四川省/成都/成都 2025年05月20日 20:39**
 - 今天周二，白天🌤️多云(24°~35°)，空气轻度污染(124)
 - 明天周三，白天🌤️多云(22°~35°)，空气轻度污染(143)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月20日 18:20**
+**四川省/宜宾/宜宾 2025年05月20日 20:39**
 - 今天周二，白天☁️阴(23°~35°)，空气轻度污染(105)，夜间小雨
 - 明天周三，白天🌧️小雨(23°~35°)，空气轻度污染(110)，夜间中雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,8 +41,16 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Benchmarking Spectral Library and Database Search Approaches for Metaproteomics Using a Ground-Truth Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.15.654320v1?rss=1) / 08:00
+- [Medical Images as Biomarkers of Ageing - From Global and Local Patterns to Digital Twins](https://www.biorxiv.org/content/10.1101/2025.05.18.654705v1?rss=1) / 08:00
+- [Multimodal data analysis reveals asynchronous aging dynamics across female reproductive organs](https://www.biorxiv.org/content/10.1101/2025.05.16.654406v1?rss=1) / 08:00
+- [A high-quality draft genome assembly of the Neotropical butterfly, Batesia hypochlora (Nymphalidae: Biblidinae)](https://www.biorxiv.org/content/10.1101/2025.05.17.654659v1?rss=1) / 08:00
 - [Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality](https://www.biorxiv.org/content/10.1101/2025.05.16.648988v1?rss=1) / 08:00
 - [Data resources must be protected from political interference](https://www.nature.com/articles/d41586-025-01601-2) / 08:00
+- [Optimization of multi-ancestry polygenic risk score disease prediction models](https://www.nature.com/articles/s41598-025-02903-1) / 08:00
+- [A chromosome-level genome assembly of Ficus benjamina, a fig tree with great ecological and ornamental value](https://www.nature.com/articles/s41597-025-05155-w) / 08:00
+- [Chromosome-scale whole genome assembly and annotation of the Jamaican field cricket Gryllus assimilis](https://www.nature.com/articles/s41597-025-05197-0) / 08:00
+- [CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells](https://www.nature.com/articles/s41467-025-59926-5) / 08:00
 
 **历史记录**
 - [Assessing Large Language Model Alignment Towards Radio-logical Myths and Misconceptions](https://www.biorxiv.org/content/10.1101/2025.05.16.652427v1?rss=1) / 05月19日 08:00
@@ -55,12 +63,4 @@
 - [Immune Spatial Organization Predicts Metastasis Risk in Aggressive Localized Prostate Cancer](https://www.biorxiv.org/content/10.1101/2025.05.15.654324v1?rss=1) / 05月19日 08:00
 - [SWANS: A highly configurable analysis pipeline for single-cell and single-nuclei RNA-sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.14.654073v1?rss=1) / 05月19日 08:00
 - [CPP2Vec: a Representation Learning Approach for Cell-Penetrating Peptides Prediction](https://www.biorxiv.org/content/10.1101/2025.05.15.654208v1?rss=1) / 05月19日 08:00
-- [Transcription factors overcome the repressive impact of Polycomb-associated methylation in tumors](https://www.biorxiv.org/content/10.1101/2025.05.15.654174v1?rss=1) / 05月19日 08:00
-- [De novo whole genome assembly of the globally invasive green shore crab Carcinus maenas (Linnaeus, 1758) via long-read Oxford Nanopore MinION sequencing](https://www.biorxiv.org/content/10.1101/2025.05.19.654951v1?rss=1) / 05月19日 08:00
-- [Efficient Estimation of Nucleotide Diversity and Divergence using Depth Information](https://www.biorxiv.org/content/10.1101/2025.05.15.654353v1?rss=1) / 05月19日 08:00
-- [Coexisting with humans: genomic and behavioural consequences in a small and isolated bear population](https://www.biorxiv.org/content/10.1101/2025.05.15.654188v1?rss=1) / 05月19日 08:00
-- [DNA methylation marks associated with body composition in children from India and the Gambia - findings from the EMPHASIS study](https://www.biorxiv.org/content/10.1101/2025.05.15.654252v1?rss=1) / 05月19日 08:00
-- [Sex-Specific Differential DNA Methylation in Mild Cognitive Impairment and Alzheimers Disease](https://www.biorxiv.org/content/10.1101/2025.05.15.654279v1?rss=1) / 05月19日 08:00
-- [A rapid and inexpensive universal PCR protocol for DNA (meta)barcoding using a one-tube, 2-step PCR](https://www.biorxiv.org/content/10.1101/2025.05.16.654411v1?rss=1) / 05月19日 08:00
-- [Chromosome-level genome assembly and annotation of Gypsophila vaccaria](https://www.nature.com/articles/s41597-025-05121-6) / 05月19日 08:00
 <!--rss-papers:end-->
