@@ -1,24 +1,27 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月20日 06:17**
-- 今天周二，白天☀️晴(19°~34°)，空气轻度污染(131)，夜间多云
-- 明天周三，白天🌤️多云(20°~34°)，空气轻度污染(148)，夜间小雨
+**四川省/成都/成都 2025年05月20日 09:27**
+- 今天周二，白天🌤️多云(22°~35°)，空气轻度污染(125)
+- 明天周三，白天🌤️多云(21°~35°)，空气轻度污染(149)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月20日 06:17**
-- 今天周二，白天☁️阴(22°~35°)，空气轻度污染(114)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月20日 09:27**
+- 今天周二，白天☁️阴(23°~35°)，空气轻度污染(108)，夜间小雨
 - 明天周三，白天🌧️小雨(23°~34°)，空气轻度污染(103)，夜间中雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [角度](https://www.xiangshitan.com/post/3403.html) / 06:25
+- [如何消解“已读不回”的压力？](http://m.wufazhuce.com/question/4369) / 06:25
+- [这个爱情贬值的年代](http://m.wufazhuce.com/article/6802) / 06:25
+- [VOL.4609](http://m.wufazhuce.com/one/4760) / 06:25
+
 **历史记录**
 - [周报 #95 - All AI 与 No AI](https://www.pseudoyu.com/posts/weekly_review_95) / 05月19日 11:02
 - [周报 #94 - 生活的界限与真实感](https://www.pseudoyu.com/posts/weekly_review_94) / 05月19日 09:03
-- [你曾主动舍弃过一段关系吗？](http://m.wufazhuce.com/question/4368) / 05月19日 06:25
-- [幸运日](http://m.wufazhuce.com/article/6795) / 05月19日 06:25
-- [VOL.4608](http://m.wufazhuce.com/one/4759) / 05月19日 06:25
 - [猫鱼周刊 vol. 065 深度游览一座城市的方法](https://ameow.xyz/archives/weekly-065) / 05月18日 20:23
 - [楠溪江自驾六天，花费1200元，总结推荐](https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang.html) / 05月17日 21:52
 - [日本办卡指南 2.0：初来乍到，日本信用卡推荐](https://song.al/creditcard2) / 05月17日 15:15
@@ -33,7 +36,6 @@
 - [24/7 时间记录两年后的经验总结](https://thirdshire.com/timetracking/) / 05月15日 11:36
 - [VXNA 和 Folo](https://anotherdayu.com/2025/6972/) / 05月15日 10:00
 - [生信爱好者周刊（第 165 期）：明星期刊“落选”引发科学界震动，在中国做学术期刊有多难？](https://openbiox.github.io/weekly/issue-165/) / 05月14日 22:16
-- [PIVOT Vol.17 云儿在天上飘](https://anotherdayu.com/2025/6966/) / 05月14日 20:06
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -45,6 +47,7 @@
 - [SWANS: A highly configurable analysis pipeline for single-cell and single-nuclei RNA-sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.14.654073v1?rss=1) / 05月19日 08:00
 - [CPP2Vec: a Representation Learning Approach for Cell-Penetrating Peptides Prediction](https://www.biorxiv.org/content/10.1101/2025.05.15.654208v1?rss=1) / 05月19日 08:00
 - [Transcription factors overcome the repressive impact of Polycomb-associated methylation in tumors](https://www.biorxiv.org/content/10.1101/2025.05.15.654174v1?rss=1) / 05月19日 08:00
+- [Efficient Estimation of Nucleotide Diversity and Divergence using Depth Information](https://www.biorxiv.org/content/10.1101/2025.05.15.654353v1?rss=1) / 05月19日 08:00
 - [Coexisting with humans: genomic and behavioural consequences in a small and isolated bear population](https://www.biorxiv.org/content/10.1101/2025.05.15.654188v1?rss=1) / 05月19日 08:00
 - [DNA methylation marks associated with body composition in children from India and the Gambia - findings from the EMPHASIS study](https://www.biorxiv.org/content/10.1101/2025.05.15.654252v1?rss=1) / 05月19日 08:00
 - [Sex-Specific Differential DNA Methylation in Mild Cognitive Impairment and Alzheimers Disease](https://www.biorxiv.org/content/10.1101/2025.05.15.654279v1?rss=1) / 05月19日 08:00
@@ -58,5 +61,4 @@
 - [DNA methylation networks during pig fetal development: a joint fused ridge estimation approach](https://www.biorxiv.org/content/10.1101/2025.05.15.654211v1?rss=1) / 05月18日 08:00
 - [Macroscopic Analyses of RNA-Seq Data to Reveal Chromatin Modifications in Aging and Disease](https://www.biorxiv.org/content/10.1101/2025.05.14.654062v1?rss=1) / 05月18日 08:00
 - [Integrative analysis across metagenomic taxonomic classifiers: A case study of the gut microbiome in aging and longevity](https://www.biorxiv.org/content/10.1101/2025.05.14.654104v1?rss=1) / 05月18日 08:00
-- [fMRIPrep Lifespan: Extending A Robust Pipeline for Functional MRI Preprocessing to Developmental Neuroimaging](https://www.biorxiv.org/content/10.1101/2025.05.14.654069v1?rss=1) / 05月18日 08:00
 <!--rss-papers:end-->
