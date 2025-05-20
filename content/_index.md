@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月20日 11:11**
-- 今天周二，白天🌤️多云(22°~35°)，空气轻度污染(130)
-- 明天周三，白天🌤️多云(21°~35°)，空气轻度污染(144)，夜间小雨
+**四川省/成都/成都 2025年05月20日 12:22**
+- 今天周二，白天🌤️多云(22°~35°)，空气轻度污染(131)
+- 明天周三，白天🌤️多云(21°~35°)，空气轻度污染(143)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月20日 11:11**
-- 今天周二，白天☁️阴(23°~35°)，空气轻度污染(107)，夜间小雨
-- 明天周三，白天🌧️小雨(23°~34°)，空气轻度污染(109)，夜间中雨
+**四川省/宜宾/宜宾 2025年05月20日 12:22**
+- 今天周二，白天☁️阴(23°~35°)，空气轻度污染(112)，夜间小雨
+- 明天周三，白天🌧️小雨(23°~34°)，空气轻度污染(102)，夜间中雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [没有任何证据的手机](https://xingbianren.cn/post/305.html) / 12:09
 - [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) / 09:35
 - [角度](https://www.xiangshitan.com/post/3403.html) / 06:25
 - [如何消解“已读不回”的压力？](http://m.wufazhuce.com/question/4369) / 06:25
@@ -35,12 +36,13 @@
 - [学习周刊-总第211期-2025年第20周](https://wiki.eryajf.net/pages/a0fa42/) / 05月16日 06:15
 - [中国互联网上，到底还能用什么获取信息](https://cyp0633.icu/timeline/2025/05/fsou-lawsuit/) / 05月15日 23:14
 - [24/7 时间记录两年后的经验总结](https://thirdshire.com/timetracking/) / 05月15日 11:36
-- [VXNA 和 Folo](https://anotherdayu.com/2025/6972/) / 05月15日 10:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [BEstimate: a computational tool for the design and interpretation of CRISPR base editing experiments](https://www.biorxiv.org/content/10.1101/2025.05.19.654892v1?rss=1) / 05月19日 08:00
+- [Fast, flexible gene cluster family delineation with IGUA](https://www.biorxiv.org/content/10.1101/2025.05.15.654203v1?rss=1) / 05月19日 08:00
 - [Chromatin interaction-based annotation of distal cis-regulatory elements reveals highly dynamic promoter-enhancer interactions in lymphocyte development](https://www.biorxiv.org/content/10.1101/2025.05.15.653418v1?rss=1) / 05月19日 08:00
 - [difFUBAR: Scalable Bayesian comparison of adaptive evolution](https://www.biorxiv.org/content/10.1101/2025.05.19.654647v1?rss=1) / 05月19日 08:00
 - [Immune Spatial Organization Predicts Metastasis Risk in Aggressive Localized Prostate Cancer](https://www.biorxiv.org/content/10.1101/2025.05.15.654324v1?rss=1) / 05月19日 08:00
@@ -59,6 +61,4 @@
 - [Snekmer Learn/Apply: A kmer-based vector similarity approach to proteinclassification suitable for metagenomic datasets](https://www.biorxiv.org/content/10.1101/2025.05.16.654600v1?rss=1) / 05月18日 08:00
 - [eSPred: Explainable scRNA-seq Prediction via Customized Foundation Models and Pathway-Aware Fine-tuning](https://www.biorxiv.org/content/10.1101/2025.05.14.654052v1?rss=1) / 05月18日 08:00
 - [DNA methylation networks during pig fetal development: a joint fused ridge estimation approach](https://www.biorxiv.org/content/10.1101/2025.05.15.654211v1?rss=1) / 05月18日 08:00
-- [Macroscopic Analyses of RNA-Seq Data to Reveal Chromatin Modifications in Aging and Disease](https://www.biorxiv.org/content/10.1101/2025.05.14.654062v1?rss=1) / 05月18日 08:00
-- [Integrative analysis across metagenomic taxonomic classifiers: A case study of the gut microbiome in aging and longevity](https://www.biorxiv.org/content/10.1101/2025.05.14.654104v1?rss=1) / 05月18日 08:00
 <!--rss-papers:end-->
