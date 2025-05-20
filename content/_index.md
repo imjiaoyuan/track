@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月20日 12:22**
+**四川省/成都/成都 2025年05月20日 14:27**
 - 今天周二，白天🌤️多云(22°~35°)，空气轻度污染(131)
 - 明天周三，白天🌤️多云(21°~35°)，空气轻度污染(143)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月20日 12:22**
+**四川省/宜宾/宜宾 2025年05月20日 14:27**
 - 今天周二，白天☁️阴(23°~35°)，空气轻度污染(112)，夜间小雨
 - 明天周三，白天🌧️小雨(23°~34°)，空气轻度污染(102)，夜间中雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -14,6 +14,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [上海野生动物园](https://www.skyue.com/25052013.html) / 13:25
 - [没有任何证据的手机](https://xingbianren.cn/post/305.html) / 12:09
 - [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) / 09:35
 - [角度](https://www.xiangshitan.com/post/3403.html) / 06:25
@@ -35,12 +36,13 @@
 - [众生牛马](https://www.xiangshitan.com/post/3402.html) / 05月16日 06:24
 - [学习周刊-总第211期-2025年第20周](https://wiki.eryajf.net/pages/a0fa42/) / 05月16日 06:15
 - [中国互联网上，到底还能用什么获取信息](https://cyp0633.icu/timeline/2025/05/fsou-lawsuit/) / 05月15日 23:14
-- [24/7 时间记录两年后的经验总结](https://thirdshire.com/timetracking/) / 05月15日 11:36
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Multiscale Segmentation using Hierarchical Phase-contrast Tomography and Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.15.654263v1?rss=1) / 05月19日 08:00
+- [Triad-LMF: A Hierarchical Low-Rank Multimodal Fusion Framework for Robust Cancer Subtype Classification Using Multi-Omics Data](https://www.biorxiv.org/content/10.1101/2025.05.15.653805v1?rss=1) / 05月19日 08:00
 - [BEstimate: a computational tool for the design and interpretation of CRISPR base editing experiments](https://www.biorxiv.org/content/10.1101/2025.05.19.654892v1?rss=1) / 05月19日 08:00
 - [Fast, flexible gene cluster family delineation with IGUA](https://www.biorxiv.org/content/10.1101/2025.05.15.654203v1?rss=1) / 05月19日 08:00
 - [Chromatin interaction-based annotation of distal cis-regulatory elements reveals highly dynamic promoter-enhancer interactions in lymphocyte development](https://www.biorxiv.org/content/10.1101/2025.05.15.653418v1?rss=1) / 05月19日 08:00
@@ -49,6 +51,7 @@
 - [SWANS: A highly configurable analysis pipeline for single-cell and single-nuclei RNA-sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.14.654073v1?rss=1) / 05月19日 08:00
 - [CPP2Vec: a Representation Learning Approach for Cell-Penetrating Peptides Prediction](https://www.biorxiv.org/content/10.1101/2025.05.15.654208v1?rss=1) / 05月19日 08:00
 - [Transcription factors overcome the repressive impact of Polycomb-associated methylation in tumors](https://www.biorxiv.org/content/10.1101/2025.05.15.654174v1?rss=1) / 05月19日 08:00
+- [De novo whole genome assembly of the globally invasive green shore crab Carcinus maenas (Linnaeus, 1758) via long-read Oxford Nanopore MinION sequencing](https://www.biorxiv.org/content/10.1101/2025.05.19.654951v1?rss=1) / 05月19日 08:00
 - [Efficient Estimation of Nucleotide Diversity and Divergence using Depth Information](https://www.biorxiv.org/content/10.1101/2025.05.15.654353v1?rss=1) / 05月19日 08:00
 - [Coexisting with humans: genomic and behavioural consequences in a small and isolated bear population](https://www.biorxiv.org/content/10.1101/2025.05.15.654188v1?rss=1) / 05月19日 08:00
 - [DNA methylation marks associated with body composition in children from India and the Gambia - findings from the EMPHASIS study](https://www.biorxiv.org/content/10.1101/2025.05.15.654252v1?rss=1) / 05月19日 08:00
@@ -58,7 +61,4 @@
 - [Towards foundation models that learn across biological scales](https://www.biorxiv.org/content/10.1101/2025.05.16.653447v1?rss=1) / 05月18日 08:00
 - [Amira: gene-space de Bruijn graphs to improve the detection of AMR genes from bacterial long reads](https://www.biorxiv.org/content/10.1101/2025.05.16.654303v1?rss=1) / 05月18日 08:00
 - [InstaNovo-P: A de novo peptide sequencing model for phosphoproteomics](https://www.biorxiv.org/content/10.1101/2025.05.14.654049v1?rss=1) / 05月18日 08:00
-- [Snekmer Learn/Apply: A kmer-based vector similarity approach to proteinclassification suitable for metagenomic datasets](https://www.biorxiv.org/content/10.1101/2025.05.16.654600v1?rss=1) / 05月18日 08:00
-- [eSPred: Explainable scRNA-seq Prediction via Customized Foundation Models and Pathway-Aware Fine-tuning](https://www.biorxiv.org/content/10.1101/2025.05.14.654052v1?rss=1) / 05月18日 08:00
-- [DNA methylation networks during pig fetal development: a joint fused ridge estimation approach](https://www.biorxiv.org/content/10.1101/2025.05.15.654211v1?rss=1) / 05月18日 08:00
 <!--rss-papers:end-->
