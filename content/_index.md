@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月20日 16:26**
-- 今天周二，白天🌤️多云(22°~35°)，空气轻度污染(131)
-- 明天周三，白天🌤️多云(21°~35°)，空气轻度污染(143)，夜间小雨
+**四川省/成都/成都 2025年05月20日 18:20**
+- 今天周二，白天🌤️多云(24°~35°)，空气轻度污染(124)
+- 明天周三，白天🌤️多云(22°~35°)，空气轻度污染(143)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月20日 16:26**
-- 今天周二，白天☁️阴(23°~35°)，空气轻度污染(112)，夜间小雨
-- 明天周三，白天🌧️小雨(23°~34°)，空气轻度污染(102)，夜间中雨
+**四川省/宜宾/宜宾 2025年05月20日 18:20**
+- 今天周二，白天☁️阴(23°~35°)，空气轻度污染(105)，夜间小雨
+- 明天周三，白天🌧️小雨(23°~35°)，空气轻度污染(110)，夜间中雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -42,6 +42,7 @@
 <!--rss-papers:start-->
 **今日更新**
 - [Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality](https://www.biorxiv.org/content/10.1101/2025.05.16.648988v1?rss=1) / 08:00
+- [Data resources must be protected from political interference](https://www.nature.com/articles/d41586-025-01601-2) / 08:00
 
 **历史记录**
 - [Assessing Large Language Model Alignment Towards Radio-logical Myths and Misconceptions](https://www.biorxiv.org/content/10.1101/2025.05.16.652427v1?rss=1) / 05月19日 08:00
@@ -62,5 +63,4 @@
 - [Sex-Specific Differential DNA Methylation in Mild Cognitive Impairment and Alzheimers Disease](https://www.biorxiv.org/content/10.1101/2025.05.15.654279v1?rss=1) / 05月19日 08:00
 - [A rapid and inexpensive universal PCR protocol for DNA (meta)barcoding using a one-tube, 2-step PCR](https://www.biorxiv.org/content/10.1101/2025.05.16.654411v1?rss=1) / 05月19日 08:00
 - [Chromosome-level genome assembly and annotation of Gypsophila vaccaria](https://www.nature.com/articles/s41597-025-05121-6) / 05月19日 08:00
-- [Towards foundation models that learn across biological scales](https://www.biorxiv.org/content/10.1101/2025.05.16.653447v1?rss=1) / 05月18日 08:00
 <!--rss-papers:end-->
