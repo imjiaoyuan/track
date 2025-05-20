@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月20日 20:39**
-- 今天周二，白天🌤️多云(24°~35°)，空气轻度污染(124)
-- 明天周三，白天🌤️多云(22°~35°)，空气轻度污染(143)，夜间小雨
+**四川省/成都/成都 2025年05月20日 22:18**
+- 今天周二，白天🌤️多云(24°~35°)，空气轻度污染(122)
+- 明天周三，白天🌤️多云(22°~35°)，空气轻度污染(146)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月20日 20:39**
-- 今天周二，白天☁️阴(23°~35°)，空气轻度污染(105)，夜间小雨
-- 明天周三，白天🌧️小雨(23°~35°)，空气轻度污染(110)，夜间中雨
+**四川省/宜宾/宜宾 2025年05月20日 22:18**
+- 今天周二，白天☁️阴(23°~35°)，空气轻度污染(110)，夜间小雨
+- 明天周三，白天🌧️小雨(23°~35°)，空气轻度污染(107)，夜间中雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Interpreting biochemical text with language models:a machine learning framework for reaction extraction and cheminformatic validation](https://www.biorxiv.org/content/10.1101/2025.05.15.654376v1?rss=1) / 08:00
+- [Rapid and accurate protein structure database search using inverse folding model and contrastive learning](https://www.biorxiv.org/content/10.1101/2025.05.15.654382v1?rss=1) / 08:00
 - [Benchmarking Spectral Library and Database Search Approaches for Metaproteomics Using a Ground-Truth Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.15.654320v1?rss=1) / 08:00
 - [Medical Images as Biomarkers of Ageing - From Global and Local Patterns to Digital Twins](https://www.biorxiv.org/content/10.1101/2025.05.18.654705v1?rss=1) / 08:00
 - [Multimodal data analysis reveals asynchronous aging dynamics across female reproductive organs](https://www.biorxiv.org/content/10.1101/2025.05.16.654406v1?rss=1) / 08:00
@@ -61,6 +63,4 @@
 - [Chromatin interaction-based annotation of distal cis-regulatory elements reveals highly dynamic promoter-enhancer interactions in lymphocyte development](https://www.biorxiv.org/content/10.1101/2025.05.15.653418v1?rss=1) / 05月19日 08:00
 - [difFUBAR: Scalable Bayesian comparison of adaptive evolution](https://www.biorxiv.org/content/10.1101/2025.05.19.654647v1?rss=1) / 05月19日 08:00
 - [Immune Spatial Organization Predicts Metastasis Risk in Aggressive Localized Prostate Cancer](https://www.biorxiv.org/content/10.1101/2025.05.15.654324v1?rss=1) / 05月19日 08:00
-- [SWANS: A highly configurable analysis pipeline for single-cell and single-nuclei RNA-sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.14.654073v1?rss=1) / 05月19日 08:00
-- [CPP2Vec: a Representation Learning Approach for Cell-Penetrating Peptides Prediction](https://www.biorxiv.org/content/10.1101/2025.05.15.654208v1?rss=1) / 05月19日 08:00
 <!--rss-papers:end-->
