@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月21日 00:23**
+**四川省/成都/成都 2025年05月21日 02:26**
 - 今天周三，白天🌤️多云(22°~35°)，空气轻度污染(145)，夜间小雨
 - 明天周四，白天🌤️多云(22°~32°)，空气良(92)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月21日 00:23**
+**四川省/宜宾/宜宾 2025年05月21日 02:26**
 - 今天周三，白天🌧️小雨(23°~35°)，空气轻度污染(107)，夜间中雨
 - 明天周四，白天🌧️小雨(21°~31°)，空气良(71)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -50,6 +50,8 @@
 - [Optimization of multi-ancestry polygenic risk score disease prediction models](https://www.nature.com/articles/s41598-025-02903-1) / 05月20日 08:00
 - [A chromosome-level genome assembly of Ficus benjamina, a fig tree with great ecological and ornamental value](https://www.nature.com/articles/s41597-025-05155-w) / 05月20日 08:00
 - [Chromosome-scale whole genome assembly and annotation of the Jamaican field cricket Gryllus assimilis](https://www.nature.com/articles/s41597-025-05197-0) / 05月20日 08:00
+- [Genomic diversity in functionally relevant genes modifies neurodevelopmental versus neoplastic risks in individuals with germline PTEN variants](https://www.nature.com/articles/s41525-025-00495-3) / 05月20日 08:00
+- [CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells](https://www.nature.com/articles/s41467-025-59926-5) / 05月20日 08:00
 - [Assessing Large Language Model Alignment Towards Radio-logical Myths and Misconceptions](https://www.biorxiv.org/content/10.1101/2025.05.16.652427v1?rss=1) / 05月19日 08:00
 - [Multiscale Segmentation using Hierarchical Phase-contrast Tomography and Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.15.654263v1?rss=1) / 05月19日 08:00
 - [Triad-LMF: A Hierarchical Low-Rank Multimodal Fusion Framework for Robust Cancer Subtype Classification Using Multi-Omics Data](https://www.biorxiv.org/content/10.1101/2025.05.15.653805v1?rss=1) / 05月19日 08:00
@@ -57,6 +59,4 @@
 - [Fast, flexible gene cluster family delineation with IGUA](https://www.biorxiv.org/content/10.1101/2025.05.15.654203v1?rss=1) / 05月19日 08:00
 - [Chromatin interaction-based annotation of distal cis-regulatory elements reveals highly dynamic promoter-enhancer interactions in lymphocyte development](https://www.biorxiv.org/content/10.1101/2025.05.15.653418v1?rss=1) / 05月19日 08:00
 - [difFUBAR: Scalable Bayesian comparison of adaptive evolution](https://www.biorxiv.org/content/10.1101/2025.05.19.654647v1?rss=1) / 05月19日 08:00
-- [Immune Spatial Organization Predicts Metastasis Risk in Aggressive Localized Prostate Cancer](https://www.biorxiv.org/content/10.1101/2025.05.15.654324v1?rss=1) / 05月19日 08:00
-- [SWANS: A highly configurable analysis pipeline for single-cell and single-nuclei RNA-sequencing data](https://www.biorxiv.org/content/10.1101/2025.05.14.654073v1?rss=1) / 05月19日 08:00
 <!--rss-papers:end-->
