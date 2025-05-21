@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月22日 00:24**
+**四川省/成都/成都 2025年05月22日 02:26**
 ⚠️ **预警信息**
 -  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月21日15时50分发布暴雨蓝色预警：5月21日20时到22日20时：盆地普遍有雷雨或阵雨，其中达州、广安、南充3市和巴中东部南部、泸州北部、宜宾东部、乐山南部有大雨到暴雨（雨量30～80毫米），达州局地有大暴雨（100～150毫米），最大小时雨量50～80毫米。盆地普遍有4～6级风，北部、东部部分地方可达7级或以上，个别地方有冰雹。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
 
@@ -8,7 +8,7 @@
 - 明天周五，白天☁️阴(21°~32°)，空气良(72)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月22日 00:24**
+**四川省/宜宾/宜宾 2025年05月22日 02:26**
 ⚠️ **预警信息**
 -  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月21日15时50分发布暴雨蓝色预警：5月21日20时到22日20时：盆地普遍有雷雨或阵雨，其中达州、广安、南充3市和巴中东部南部、泸州北部、宜宾东部、乐山南部有大雨到暴雨（雨量30～80毫米），达州局地有大暴雨（100～150毫米），最大小时雨量50～80毫米。盆地普遍有4～6级风，北部、东部部分地方可达7级或以上，个别地方有冰雹。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
 
@@ -45,10 +45,13 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [From Movement to METs: A Validation of ActTrust(R) for Energy Expenditure Estimation and Physical Activity Classification in Young Adults](https://www.biorxiv.org/content/10.1101/2025.05.16.654458v1?rss=1) / 05月21日 08:00
+- [Accelerate the discovery of genetic variants in mitochondrial diseases with VIOLA: Variant PrIOritization using Latent space](https://www.biorxiv.org/content/10.1101/2025.05.16.654430v1?rss=1) / 05月21日 08:00
 - [Kaminari: a resource-frugal index for approximate colored k-mer queries](https://www.biorxiv.org/content/10.1101/2025.05.16.654317v1?rss=1) / 05月21日 08:00
 - [Riemann-GNN: Causal Reasoning on Hyperbolic Riemannian Manifolds for Interpretable Drug-Disease Prediction](https://www.biorxiv.org/content/10.1101/2025.05.16.654434v1?rss=1) / 05月21日 08:00
 - [CROCKETA: An automated framework for comprehensive multi-omic analysis of gene expression and clonotype immune repertoire at a single-cell level](https://www.biorxiv.org/content/10.1101/2025.05.16.654451v1?rss=1) / 05月21日 08:00
 - [Transcriptomic Signatures of Neuroinflammation and Adaptive Immunity in the Human SCG During Cardiac Disease: A Bulk RNA-seq Reanalysis](https://www.biorxiv.org/content/10.1101/2025.05.18.654713v1?rss=1) / 05月21日 08:00
+- [Fusion transcription factor dosage controls cell state in rhabdomyosarcoma](https://www.biorxiv.org/content/10.1101/2025.05.16.654522v1?rss=1) / 05月21日 08:00
 - [Genomic landscape of multiple myeloma and its precursor conditions](https://www.nature.com/articles/s41588-025-02196-0) / 05月21日 08:00
 - [Interpreting biochemical text with language models:a machine learning framework for reaction extraction and cheminformatic validation](https://www.biorxiv.org/content/10.1101/2025.05.15.654376v1?rss=1) / 05月20日 08:00
 - [Rapid and accurate protein structure database search using inverse folding model and contrastive learning](https://www.biorxiv.org/content/10.1101/2025.05.15.654382v1?rss=1) / 05月20日 08:00
@@ -62,7 +65,4 @@
 - [A chromosome-level genome assembly of Ficus benjamina, a fig tree with great ecological and ornamental value](https://www.nature.com/articles/s41597-025-05155-w) / 05月20日 08:00
 - [Chromosome-scale whole genome assembly and annotation of the Jamaican field cricket Gryllus assimilis](https://www.nature.com/articles/s41597-025-05197-0) / 05月20日 08:00
 - [Genomic diversity in functionally relevant genes modifies neurodevelopmental versus neoplastic risks in individuals with germline PTEN variants](https://www.nature.com/articles/s41525-025-00495-3) / 05月20日 08:00
-- [CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells](https://www.nature.com/articles/s41467-025-59926-5) / 05月20日 08:00
-- [Assessing Large Language Model Alignment Towards Radio-logical Myths and Misconceptions](https://www.biorxiv.org/content/10.1101/2025.05.16.652427v1?rss=1) / 05月19日 08:00
-- [Multiscale Segmentation using Hierarchical Phase-contrast Tomography and Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.15.654263v1?rss=1) / 05月19日 08:00
 <!--rss-papers:end-->
