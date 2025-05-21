@@ -1,31 +1,29 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月21日 22:19**
+**四川省/成都/成都 2025年05月22日 00:24**
 ⚠️ **预警信息**
 -  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月21日15时50分发布暴雨蓝色预警：5月21日20时到22日20时：盆地普遍有雷雨或阵雨，其中达州、广安、南充3市和巴中东部南部、泸州北部、宜宾东部、乐山南部有大雨到暴雨（雨量30～80毫米），达州局地有大暴雨（100～150毫米），最大小时雨量50～80毫米。盆地普遍有4～6级风，北部、东部部分地方可达7级或以上，个别地方有冰雹。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
 
-- 今天周三，白天🌤️多云(23°~35°)，空气轻度污染(149)，夜间小雨
-- 明天周四，白天🌤️多云(23°~33°)，空气良(94)，夜间阴
+- 今天周四，白天🌤️多云(23°~33°)，空气良(89)，夜间阴
+- 明天周五，白天☁️阴(21°~32°)，空气良(72)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月21日 22:19**
+**四川省/宜宾/宜宾 2025年05月22日 00:24**
 ⚠️ **预警信息**
 -  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月21日15时50分发布暴雨蓝色预警：5月21日20时到22日20时：盆地普遍有雷雨或阵雨，其中达州、广安、南充3市和巴中东部南部、泸州北部、宜宾东部、乐山南部有大雨到暴雨（雨量30～80毫米），达州局地有大暴雨（100～150毫米），最大小时雨量50～80毫米。盆地普遍有4～6级风，北部、东部部分地方可达7级或以上，个别地方有冰雹。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
 
-- 今天周三，白天🌧️小雨(23°~35°)，空气轻度污染(108)，夜间中雨
-- 明天周四，白天🌧️小雨(22°~32°)，空气良(63)，夜间阴
+- 今天周四，白天🌧️小雨(22°~32°)，空气良(61)，夜间阴
+- 明天周五，白天☁️阴(20°~33°)，空气良(85)
 - 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [关于开往近期事情的一些个人见解](https://blog.gxres.net/posts/some-misc-about-travellings) / 08:00
-- [学习新技能时，最大的阻碍是自己还是外界因素？](http://m.wufazhuce.com/question/4371) / 06:25
-- [夏日序曲](http://m.wufazhuce.com/article/6799) / 06:25
-- [VOL.4610](http://m.wufazhuce.com/one/4761) / 06:25
-
 **历史记录**
+- [关于开往近期事情的一些个人见解](https://blog.gxres.net/posts/some-misc-about-travellings) / 05月21日 08:00
+- [学习新技能时，最大的阻碍是自己还是外界因素？](http://m.wufazhuce.com/question/4371) / 05月21日 06:25
+- [夏日序曲](http://m.wufazhuce.com/article/6799) / 05月21日 06:25
+- [VOL.4610](http://m.wufazhuce.com/one/4761) / 05月21日 06:25
 - [上海野生动物园](https://www.skyue.com/25052013.html) / 05月20日 13:25
 - [没有任何证据的手机](https://xingbianren.cn/post/305.html) / 05月20日 12:09
 - [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) / 05月20日 09:35
@@ -46,14 +44,12 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Kaminari: a resource-frugal index for approximate colored k-mer queries](https://www.biorxiv.org/content/10.1101/2025.05.16.654317v1?rss=1) / 08:00
-- [Riemann-GNN: Causal Reasoning on Hyperbolic Riemannian Manifolds for Interpretable Drug-Disease Prediction](https://www.biorxiv.org/content/10.1101/2025.05.16.654434v1?rss=1) / 08:00
-- [CROCKETA: An automated framework for comprehensive multi-omic analysis of gene expression and clonotype immune repertoire at a single-cell level](https://www.biorxiv.org/content/10.1101/2025.05.16.654451v1?rss=1) / 08:00
-- [Transcriptomic Signatures of Neuroinflammation and Adaptive Immunity in the Human SCG During Cardiac Disease: A Bulk RNA-seq Reanalysis](https://www.biorxiv.org/content/10.1101/2025.05.18.654713v1?rss=1) / 08:00
-- [Genomic landscape of multiple myeloma and its precursor conditions](https://www.nature.com/articles/s41588-025-02196-0) / 08:00
-
 **历史记录**
+- [Kaminari: a resource-frugal index for approximate colored k-mer queries](https://www.biorxiv.org/content/10.1101/2025.05.16.654317v1?rss=1) / 05月21日 08:00
+- [Riemann-GNN: Causal Reasoning on Hyperbolic Riemannian Manifolds for Interpretable Drug-Disease Prediction](https://www.biorxiv.org/content/10.1101/2025.05.16.654434v1?rss=1) / 05月21日 08:00
+- [CROCKETA: An automated framework for comprehensive multi-omic analysis of gene expression and clonotype immune repertoire at a single-cell level](https://www.biorxiv.org/content/10.1101/2025.05.16.654451v1?rss=1) / 05月21日 08:00
+- [Transcriptomic Signatures of Neuroinflammation and Adaptive Immunity in the Human SCG During Cardiac Disease: A Bulk RNA-seq Reanalysis](https://www.biorxiv.org/content/10.1101/2025.05.18.654713v1?rss=1) / 05月21日 08:00
+- [Genomic landscape of multiple myeloma and its precursor conditions](https://www.nature.com/articles/s41588-025-02196-0) / 05月21日 08:00
 - [Interpreting biochemical text with language models:a machine learning framework for reaction extraction and cheminformatic validation](https://www.biorxiv.org/content/10.1101/2025.05.15.654376v1?rss=1) / 05月20日 08:00
 - [Rapid and accurate protein structure database search using inverse folding model and contrastive learning](https://www.biorxiv.org/content/10.1101/2025.05.15.654382v1?rss=1) / 05月20日 08:00
 - [Benchmarking Spectral Library and Database Search Approaches for Metaproteomics Using a Ground-Truth Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.15.654320v1?rss=1) / 05月20日 08:00
