@@ -1,6 +1,6 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月21日 18:20**
+**四川省/成都/成都 2025年05月21日 20:38**
 ⚠️ **预警信息**
 -  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月21日15时50分发布暴雨蓝色预警：5月21日20时到22日20时：盆地普遍有雷雨或阵雨，其中达州、广安、南充3市和巴中东部南部、泸州北部、宜宾东部、乐山南部有大雨到暴雨（雨量30～80毫米），达州局地有大暴雨（100～150毫米），最大小时雨量50～80毫米。盆地普遍有4～6级风，北部、东部部分地方可达7级或以上，个别地方有冰雹。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
 
@@ -8,7 +8,7 @@
 - 明天周四，白天🌤️多云(23°~33°)，空气良(88)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月21日 18:20**
+**四川省/宜宾/宜宾 2025年05月21日 20:38**
 ⚠️ **预警信息**
 -  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月21日15时50分发布暴雨蓝色预警：5月21日20时到22日20时：盆地普遍有雷雨或阵雨，其中达州、广安、南充3市和巴中东部南部、泸州北部、宜宾东部、乐山南部有大雨到暴雨（雨量30～80毫米），达州局地有大暴雨（100～150毫米），最大小时雨量50～80毫米。盆地普遍有4～6级风，北部、东部部分地方可达7级或以上，个别地方有冰雹。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
 
@@ -20,6 +20,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [关于开往近期事情的一些个人见解](https://blog.gxres.net/posts/some-misc-about-travellings) / 08:00
 - [学习新技能时，最大的阻碍是自己还是外界因素？](http://m.wufazhuce.com/question/4371) / 06:25
 - [夏日序曲](http://m.wufazhuce.com/article/6799) / 06:25
 - [VOL.4610](http://m.wufazhuce.com/one/4761) / 06:25
@@ -41,12 +42,15 @@
 - [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html) / 05月16日 08:05
 - [众生牛马](https://www.xiangshitan.com/post/3402.html) / 05月16日 06:24
 - [学习周刊-总第211期-2025年第20周](https://wiki.eryajf.net/pages/a0fa42/) / 05月16日 06:15
-- [中国互联网上，到底还能用什么获取信息](https://cyp0633.icu/timeline/2025/05/fsou-lawsuit/) / 05月15日 23:14
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Kaminari: a resource-frugal index for approximate colored k-mer queries](https://www.biorxiv.org/content/10.1101/2025.05.16.654317v1?rss=1) / 08:00
+- [Riemann-GNN: Causal Reasoning on Hyperbolic Riemannian Manifolds for Interpretable Drug-Disease Prediction](https://www.biorxiv.org/content/10.1101/2025.05.16.654434v1?rss=1) / 08:00
+- [CROCKETA: An automated framework for comprehensive multi-omic analysis of gene expression and clonotype immune repertoire at a single-cell level](https://www.biorxiv.org/content/10.1101/2025.05.16.654451v1?rss=1) / 08:00
+- [Transcriptomic Signatures of Neuroinflammation and Adaptive Immunity in the Human SCG During Cardiac Disease: A Bulk RNA-seq Reanalysis](https://www.biorxiv.org/content/10.1101/2025.05.18.654713v1?rss=1) / 08:00
 - [Genomic landscape of multiple myeloma and its precursor conditions](https://www.nature.com/articles/s41588-025-02196-0) / 08:00
 
 **历史记录**
@@ -65,8 +69,4 @@
 - [CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells](https://www.nature.com/articles/s41467-025-59926-5) / 05月20日 08:00
 - [Assessing Large Language Model Alignment Towards Radio-logical Myths and Misconceptions](https://www.biorxiv.org/content/10.1101/2025.05.16.652427v1?rss=1) / 05月19日 08:00
 - [Multiscale Segmentation using Hierarchical Phase-contrast Tomography and Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.15.654263v1?rss=1) / 05月19日 08:00
-- [Triad-LMF: A Hierarchical Low-Rank Multimodal Fusion Framework for Robust Cancer Subtype Classification Using Multi-Omics Data](https://www.biorxiv.org/content/10.1101/2025.05.15.653805v1?rss=1) / 05月19日 08:00
-- [BEstimate: a computational tool for the design and interpretation of CRISPR base editing experiments](https://www.biorxiv.org/content/10.1101/2025.05.19.654892v1?rss=1) / 05月19日 08:00
-- [Fast, flexible gene cluster family delineation with IGUA](https://www.biorxiv.org/content/10.1101/2025.05.15.654203v1?rss=1) / 05月19日 08:00
-- [Chromatin interaction-based annotation of distal cis-regulatory elements reveals highly dynamic promoter-enhancer interactions in lymphocyte development](https://www.biorxiv.org/content/10.1101/2025.05.15.653418v1?rss=1) / 05月19日 08:00
 <!--rss-papers:end-->
