@@ -1,14 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月21日 16:25**
-- 今天周三，白天🌤️多云(22°~35°)，空气轻度污染(142)，夜间小雨
-- 明天周四，白天🌤️多云(22°~33°)，空气良(91)，夜间阴
+**四川省/成都/成都 2025年05月21日 18:20**
+⚠️ **预警信息**
+-  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月21日15时50分发布暴雨蓝色预警：5月21日20时到22日20时：盆地普遍有雷雨或阵雨，其中达州、广安、南充3市和巴中东部南部、泸州北部、宜宾东部、乐山南部有大雨到暴雨（雨量30～80毫米），达州局地有大暴雨（100～150毫米），最大小时雨量50～80毫米。盆地普遍有4～6级风，北部、东部部分地方可达7级或以上，个别地方有冰雹。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
+
+- 今天周三，白天🌤️多云(23°~35°)，空气轻度污染(141)，夜间小雨
+- 明天周四，白天🌤️多云(23°~33°)，空气良(88)，夜间阴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月21日 16:25**
-- 今天周三，白天🌧️小雨(23°~35°)，空气轻度污染(111)，夜间中雨
-- 明天周四，白天🌧️小雨(21°~31°)，空气良(66)，夜间阴
-- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**四川省/宜宾/宜宾 2025年05月21日 18:20**
+⚠️ **预警信息**
+-  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月21日15时50分发布暴雨蓝色预警：5月21日20时到22日20时：盆地普遍有雷雨或阵雨，其中达州、广安、南充3市和巴中东部南部、泸州北部、宜宾东部、乐山南部有大雨到暴雨（雨量30～80毫米），达州局地有大暴雨（100～150毫米），最大小时雨量50～80毫米。盆地普遍有4～6级风，北部、东部部分地方可达7级或以上，个别地方有冰雹。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
+
+- 今天周三，白天🌧️小雨(23°~35°)，空气轻度污染(105)，夜间中雨
+- 明天周四，白天🌧️小雨(22°~32°)，空气良(65)，夜间阴
+- 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
@@ -40,6 +46,9 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Genomic landscape of multiple myeloma and its precursor conditions](https://www.nature.com/articles/s41588-025-02196-0) / 08:00
+
 **历史记录**
 - [Interpreting biochemical text with language models:a machine learning framework for reaction extraction and cheminformatic validation](https://www.biorxiv.org/content/10.1101/2025.05.15.654376v1?rss=1) / 05月20日 08:00
 - [Rapid and accurate protein structure database search using inverse folding model and contrastive learning](https://www.biorxiv.org/content/10.1101/2025.05.15.654382v1?rss=1) / 05月20日 08:00
@@ -60,5 +69,4 @@
 - [BEstimate: a computational tool for the design and interpretation of CRISPR base editing experiments](https://www.biorxiv.org/content/10.1101/2025.05.19.654892v1?rss=1) / 05月19日 08:00
 - [Fast, flexible gene cluster family delineation with IGUA](https://www.biorxiv.org/content/10.1101/2025.05.15.654203v1?rss=1) / 05月19日 08:00
 - [Chromatin interaction-based annotation of distal cis-regulatory elements reveals highly dynamic promoter-enhancer interactions in lymphocyte development](https://www.biorxiv.org/content/10.1101/2025.05.15.653418v1?rss=1) / 05月19日 08:00
-- [difFUBAR: Scalable Bayesian comparison of adaptive evolution](https://www.biorxiv.org/content/10.1101/2025.05.19.654647v1?rss=1) / 05月19日 08:00
 <!--rss-papers:end-->
