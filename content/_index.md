@@ -1,19 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月22日 11:10**
-⚠️ **预警信息**
--  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月21日15时50分发布暴雨蓝色预警：5月21日20时到22日20时：盆地普遍有雷雨或阵雨，其中达州、广安、南充3市和巴中东部南部、泸州北部、宜宾东部、乐山南部有大雨到暴雨（雨量30～80毫米），达州局地有大暴雨（100～150毫米），最大小时雨量50～80毫米。盆地普遍有4～6级风，北部、东部部分地方可达7级或以上，个别地方有冰雹。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
-
+**四川省/成都/成都 2025年05月22日 12:23**
 - 今天周四，白天🌤️多云(21°~34°)，空气良(96)，夜间小雨
 - 明天周五，白天☁️阴(20°~32°)，空气良(71)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月22日 11:10**
-⚠️ **预警信息**
--  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月21日15时50分发布暴雨蓝色预警：5月21日20时到22日20时：盆地普遍有雷雨或阵雨，其中达州、广安、南充3市和巴中东部南部、泸州北部、宜宾东部、乐山南部有大雨到暴雨（雨量30～80毫米），达州局地有大暴雨（100～150毫米），最大小时雨量50～80毫米。盆地普遍有4～6级风，北部、东部部分地方可达7级或以上，个别地方有冰雹。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
-
-- 今天周四，白天🌧️小雨(23°~33°)，空气良(59)，夜间阴
-- 明天周五，白天🌤️多云(21°~33°)，空气良(86)，夜间阴
+**四川省/宜宾/宜宾 2025年05月22日 12:23**
+- 今天周四，白天🌧️小雨(23°~33°)，空气良(60)，夜间阴
+- 明天周五，白天🌤️多云(21°~33°)，空气良(80)，夜间阴
 - 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
@@ -25,6 +19,7 @@
 - [VOL.4611](http://m.wufazhuce.com/one/4767) / 06:25
 
 **历史记录**
+- [无题|NOTE](https://hp-l.github.io/2025/05/21/170905/) / 05月21日 17:09
 - [关于开往近期事情的一些个人见解](https://blog.gxres.net/posts/some-misc-about-travellings) / 05月21日 08:00
 - [上海野生动物园](https://www.skyue.com/25052013.html) / 05月20日 13:25
 - [没有任何证据的手机](https://xingbianren.cn/post/305.html) / 05月20日 12:09
@@ -41,12 +36,13 @@
 - [关我辟事 Vol.40：不务正业](https://blog.douchi.space/spark-joy-digest-2025-5a/) / 05月16日 14:04
 - [科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html) / 05月16日 08:05
 - [众生牛马](https://www.xiangshitan.com/post/3402.html) / 05月16日 06:24
-- [学习周刊-总第211期-2025年第20周](https://wiki.eryajf.net/pages/a0fa42/) / 05月16日 06:15
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [ChromMovie: A Molecular Dynamics Approach for Simultaneous Modeling of Chromatin Conformation Changes from Multiple Single-Cell Hi-C Maps](https://www.biorxiv.org/content/10.1101/2025.05.16.654550v1?rss=1) / 05月21日 08:00
+- [Accounting for uncertainty in residual variances improves calibration of the Sum of Single Effects model for small sample sizes](https://www.biorxiv.org/content/10.1101/2025.05.16.654543v1?rss=1) / 05月21日 08:00
 - [Large Scale Cell Painting Guided Compound Selection Reveals Activity Cliffs and Functional Relationships](https://www.biorxiv.org/content/10.1101/2025.05.16.654292v1?rss=1) / 05月21日 08:00
 - [acmgscaler: An R package and Colab for standardised gene-level variant effect score calibration within the ACMG/AMP framework](https://www.biorxiv.org/content/10.1101/2025.05.16.654507v1?rss=1) / 05月21日 08:00
 - [From Movement to METs: A Validation of ActTrust(R) for Energy Expenditure Estimation and Physical Activity Classification in Young Adults](https://www.biorxiv.org/content/10.1101/2025.05.16.654458v1?rss=1) / 05月21日 08:00
@@ -65,6 +61,4 @@
 - [Multimodal data analysis reveals asynchronous aging dynamics across female reproductive organs](https://www.biorxiv.org/content/10.1101/2025.05.16.654406v1?rss=1) / 05月20日 08:00
 - [A high-quality draft genome assembly of the Neotropical butterfly, Batesia hypochlora (Nymphalidae: Biblidinae)](https://www.biorxiv.org/content/10.1101/2025.05.17.654659v1?rss=1) / 05月20日 08:00
 - [Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality](https://www.biorxiv.org/content/10.1101/2025.05.16.648988v1?rss=1) / 05月20日 08:00
-- [Data resources must be protected from political interference](https://www.nature.com/articles/d41586-025-01601-2) / 05月20日 08:00
-- [Optimization of multi-ancestry polygenic risk score disease prediction models](https://www.nature.com/articles/s41598-025-02903-1) / 05月20日 08:00
 <!--rss-papers:end-->
