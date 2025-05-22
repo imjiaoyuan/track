@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月22日 20:38**
-- 今天周四，白天🌤️多云(21°~34°)，空气良(94)，夜间阴
-- 明天周五，白天☁️阴(20°~31°)，空气良(77)
+**四川省/成都/成都 2025年05月22日 22:18**
+- 今天周四，白天🌤️多云(21°~34°)，空气良(88)，夜间阴
+- 明天周五，白天☁️阴(20°~31°)，空气良(71)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月22日 20:38**
+**四川省/宜宾/宜宾 2025年05月22日 22:18**
 - 今天周四，白天🌧️小雨(23°~33°)，空气良(61)，夜间阴
-- 明天周五，白天☁️阴(22°~33°)，空气良(90)
+- 明天周五，白天☁️阴(22°~33°)，空气良(86)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [AttentionAML: An Attention-based Deep Learning Framework for Accurate Molecular Categorization of Acute Myeloid Leukemia](https://www.biorxiv.org/content/10.1101/2025.05.20.655179v1?rss=1) / 08:00
 - [cellSight: Characterizing dynamics of cells using single-cell RNA-sequencing](https://www.biorxiv.org/content/10.1101/2025.05.16.654572v1?rss=1) / 08:00
 - [Age-informed, attention-based weakly supervised learning for neuropathological image assessment](https://www.biorxiv.org/content/10.1101/2025.05.16.654510v1?rss=1) / 08:00
 - [Deep-learning-enabled multi-omics analyses for prediction of future metastasis in cancer](https://www.biorxiv.org/content/10.1101/2025.05.16.654579v1?rss=1) / 08:00
@@ -49,6 +50,7 @@
 - [Optimizing Oyster Breeding with Machine Learning and BigData for Superior Quality](https://www.biorxiv.org/content/10.1101/2025.05.16.654565v1?rss=1) / 08:00
 - [Deciphering the comprehensive relationship between 5'UTR and 3'UTR sequences with deep learning](https://www.biorxiv.org/content/10.1101/2025.05.17.654644v1?rss=1) / 08:00
 - [Resolution Tradeoffs in Modularity Clustering with Application to Single Cell RNA-seq](https://www.biorxiv.org/content/10.1101/2025.05.20.655159v1?rss=1) / 08:00
+- [A complete reference genome assembly and annotation of the Black Redstart (Phoenicurus ochruros)](https://www.biorxiv.org/content/10.1101/2025.05.21.655187v1?rss=1) / 08:00
 - [Apnea detection using wrist actigraphy in patients with heterogeneous sleep disorders](https://www.nature.com/articles/s41598-025-01430-3) / 08:00
 - [Epidemic-induced local awareness behavior inferred from surveys and genetic sequence data](https://www.nature.com/articles/s41467-025-59508-5) / 08:00
 
@@ -61,6 +63,4 @@
 - [acmgscaler: An R package and Colab for standardised gene-level variant effect score calibration within the ACMG/AMP framework](https://www.biorxiv.org/content/10.1101/2025.05.16.654507v1?rss=1) / 05月21日 08:00
 - [From Movement to METs: A Validation of ActTrust(R) for Energy Expenditure Estimation and Physical Activity Classification in Young Adults](https://www.biorxiv.org/content/10.1101/2025.05.16.654458v1?rss=1) / 05月21日 08:00
 - [Accelerate the discovery of genetic variants in mitochondrial diseases with VIOLA: Variant PrIOritization using Latent space](https://www.biorxiv.org/content/10.1101/2025.05.16.654430v1?rss=1) / 05月21日 08:00
-- [Kaminari: a resource-frugal index for approximate colored k-mer queries](https://www.biorxiv.org/content/10.1101/2025.05.16.654317v1?rss=1) / 05月21日 08:00
-- [Riemann-GNN: Causal Reasoning on Hyperbolic Riemannian Manifolds for Interpretable Drug-Disease Prediction](https://www.biorxiv.org/content/10.1101/2025.05.16.654434v1?rss=1) / 05月21日 08:00
 <!--rss-papers:end-->
