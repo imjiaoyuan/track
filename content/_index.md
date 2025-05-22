@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月22日 12:23**
+**四川省/成都/成都 2025年05月22日 14:27**
 - 今天周四，白天🌤️多云(21°~34°)，空气良(96)，夜间小雨
 - 明天周五，白天☁️阴(20°~32°)，空气良(71)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月22日 12:23**
+**四川省/宜宾/宜宾 2025年05月22日 14:27**
 - 今天周四，白天🌧️小雨(23°~33°)，空气良(60)，夜间阴
 - 明天周五，白天🌤️多云(21°~33°)，空气良(80)，夜间阴
 - 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Translational buffering tunes gene expression in mouse and human](https://www.biorxiv.org/content/10.1101/2025.05.16.654561v1?rss=1) / 05月21日 08:00
+- [Change point based dynamic functional connectivity estimation outperforms sliding window and static estimation for classification of early mild cognitive impairment in resting-state fMRI](https://www.biorxiv.org/content/10.1101/2025.05.16.654552v1?rss=1) / 05月21日 08:00
 - [ChromMovie: A Molecular Dynamics Approach for Simultaneous Modeling of Chromatin Conformation Changes from Multiple Single-Cell Hi-C Maps](https://www.biorxiv.org/content/10.1101/2025.05.16.654550v1?rss=1) / 05月21日 08:00
 - [Accounting for uncertainty in residual variances improves calibration of the Sum of Single Effects model for small sample sizes](https://www.biorxiv.org/content/10.1101/2025.05.16.654543v1?rss=1) / 05月21日 08:00
 - [Large Scale Cell Painting Guided Compound Selection Reveals Activity Cliffs and Functional Relationships](https://www.biorxiv.org/content/10.1101/2025.05.16.654292v1?rss=1) / 05月21日 08:00
@@ -59,6 +61,4 @@
 - [Benchmarking Spectral Library and Database Search Approaches for Metaproteomics Using a Ground-Truth Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.15.654320v1?rss=1) / 05月20日 08:00
 - [Medical Images as Biomarkers of Ageing - From Global and Local Patterns to Digital Twins](https://www.biorxiv.org/content/10.1101/2025.05.18.654705v1?rss=1) / 05月20日 08:00
 - [Multimodal data analysis reveals asynchronous aging dynamics across female reproductive organs](https://www.biorxiv.org/content/10.1101/2025.05.16.654406v1?rss=1) / 05月20日 08:00
-- [A high-quality draft genome assembly of the Neotropical butterfly, Batesia hypochlora (Nymphalidae: Biblidinae)](https://www.biorxiv.org/content/10.1101/2025.05.17.654659v1?rss=1) / 05月20日 08:00
-- [Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality](https://www.biorxiv.org/content/10.1101/2025.05.16.648988v1?rss=1) / 05月20日 08:00
 <!--rss-papers:end-->
