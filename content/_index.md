@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月23日 02:26**
+**四川省/成都/成都 2025年05月23日 04:20**
 - 今天周五，白天☁️阴(20°~31°)，空气良(74)
 - 明天周六，白天🌤️多云(17°~32°)，空气轻度污染(103)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月23日 02:26**
+**四川省/宜宾/宜宾 2025年05月23日 04:20**
 - 今天周五，白天☁️阴(22°~33°)，空气良(82)
 - 明天周六，白天☁️阴(19°~30°)，空气良(88)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -49,14 +49,14 @@
 - [Deciphering the comprehensive relationship between 5'UTR and 3'UTR sequences with deep learning](https://www.biorxiv.org/content/10.1101/2025.05.17.654644v1?rss=1) / 05月22日 08:00
 - [Resolution Tradeoffs in Modularity Clustering with Application to Single Cell RNA-seq](https://www.biorxiv.org/content/10.1101/2025.05.20.655159v1?rss=1) / 05月22日 08:00
 - [A complete reference genome assembly and annotation of the Black Redstart (Phoenicurus ochruros)](https://www.biorxiv.org/content/10.1101/2025.05.21.655187v1?rss=1) / 05月22日 08:00
+- [This ancient pathogen became deadlier when humans started wearing wool](https://www.nature.com/articles/d41586-025-01631-w) / 05月22日 08:00
 - [Continued collaboration of ex situ and in situ programs is critical for the genetic sustainability of the endangered Rana pretiosa](https://www.nature.com/articles/s41598-025-01483-4) / 05月22日 08:00
+- [Huaxian formula alleviates nickel oxide nanoparticle-induced pulmonary fibrosis via PI3K/AKT signaling](https://www.nature.com/articles/s41598-025-01899-y) / 05月22日 08:00
+- [Apnea detection using wrist actigraphy in patients with heterogeneous sleep disorders](https://www.nature.com/articles/s41598-025-01430-3) / 05月22日 08:00
+- [Epidemic-induced local awareness behavior inferred from surveys and genetic sequence data](https://www.nature.com/articles/s41467-025-59508-5) / 05月22日 08:00
 - [Translational buffering tunes gene expression in mouse and human](https://www.biorxiv.org/content/10.1101/2025.05.16.654561v1?rss=1) / 05月21日 08:00
 - [Change point based dynamic functional connectivity estimation outperforms sliding window and static estimation for classification of early mild cognitive impairment in resting-state fMRI](https://www.biorxiv.org/content/10.1101/2025.05.16.654552v1?rss=1) / 05月21日 08:00
 - [ChromMovie: A Molecular Dynamics Approach for Simultaneous Modeling of Chromatin Conformation Changes from Multiple Single-Cell Hi-C Maps](https://www.biorxiv.org/content/10.1101/2025.05.16.654550v1?rss=1) / 05月21日 08:00
 - [Accounting for uncertainty in residual variances improves calibration of the Sum of Single Effects model for small sample sizes](https://www.biorxiv.org/content/10.1101/2025.05.16.654543v1?rss=1) / 05月21日 08:00
 - [Large Scale Cell Painting Guided Compound Selection Reveals Activity Cliffs and Functional Relationships](https://www.biorxiv.org/content/10.1101/2025.05.16.654292v1?rss=1) / 05月21日 08:00
-- [acmgscaler: An R package and Colab for standardised gene-level variant effect score calibration within the ACMG/AMP framework](https://www.biorxiv.org/content/10.1101/2025.05.16.654507v1?rss=1) / 05月21日 08:00
-- [From Movement to METs: A Validation of ActTrust(R) for Energy Expenditure Estimation and Physical Activity Classification in Young Adults](https://www.biorxiv.org/content/10.1101/2025.05.16.654458v1?rss=1) / 05月21日 08:00
-- [Accelerate the discovery of genetic variants in mitochondrial diseases with VIOLA: Variant PrIOritization using Latent space](https://www.biorxiv.org/content/10.1101/2025.05.16.654430v1?rss=1) / 05月21日 08:00
-- [Kaminari: a resource-frugal index for approximate colored k-mer queries](https://www.biorxiv.org/content/10.1101/2025.05.16.654317v1?rss=1) / 05月21日 08:00
 <!--rss-papers:end-->
