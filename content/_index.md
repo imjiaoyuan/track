@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月23日 18:19**
+**四川省/成都/成都 2025年05月23日 20:37**
 - 今天周五，白天☁️阴(20°~30°)，空气良(74)
 - 明天周六，白天☁️阴(18°~32°)，空气良(99)，夜间多云
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月23日 18:19**
+**四川省/宜宾/宜宾 2025年05月23日 20:37**
 - 今天周五，白天☁️阴(20°~32°)，空气良(85)
 - 明天周六，白天☁️阴(18°~26°)，空气良(71)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,7 +41,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Transposable elements drive species-specific and tissue-specific transcriptomes in human development](https://www.biorxiv.org/content/10.1101/2025.05.19.654775v1?rss=1) / 08:00
 - [Integrated transcriptomic analyses identifies host-targeting repurposing drugs for hepatitis C virus infection and related hepatocellular carcinoma](https://www.biorxiv.org/content/10.1101/2025.05.17.654645v1?rss=1) / 08:00
+- [A catalog of ancient proxies for modern genetic variants](https://www.biorxiv.org/content/10.1101/2025.05.19.654975v1?rss=1) / 08:00
 - [A comparative analysis of mRNA enrichment strategies and guidance for improving their efficiency](https://www.nature.com/articles/s41598-025-02082-z) / 08:00
 
 **历史记录**
@@ -61,6 +63,4 @@
 - [Huaxian formula alleviates nickel oxide nanoparticle-induced pulmonary fibrosis via PI3K/AKT signaling](https://www.nature.com/articles/s41598-025-01899-y) / 05月22日 08:00
 - [Apnea detection using wrist actigraphy in patients with heterogeneous sleep disorders](https://www.nature.com/articles/s41598-025-01430-3) / 05月22日 08:00
 - [Epidemic-induced local awareness behavior inferred from surveys and genetic sequence data](https://www.nature.com/articles/s41467-025-59508-5) / 05月22日 08:00
-- [Translational buffering tunes gene expression in mouse and human](https://www.biorxiv.org/content/10.1101/2025.05.16.654561v1?rss=1) / 05月21日 08:00
-- [Change point based dynamic functional connectivity estimation outperforms sliding window and static estimation for classification of early mild cognitive impairment in resting-state fMRI](https://www.biorxiv.org/content/10.1101/2025.05.16.654552v1?rss=1) / 05月21日 08:00
 <!--rss-papers:end-->
