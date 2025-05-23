@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月23日 14:27**
-- 今天周五，白天☁️阴(20°~30°)，空气良(74)
-- 明天周六，白天☁️阴(17°~30°)，空气良(99)
+**四川省/成都/成都 2025年05月23日 16:25**
+- 今天周五，白天☁️阴(20°~30°)，空气良(70)
+- 明天周六，白天☁️阴(17°~30°)，空气良(93)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月23日 14:27**
-- 今天周五，白天☁️阴(20°~32°)，空气良(91)，夜间小雨
-- 明天周六，白天🌧️小雨(17°~27°)，空气良(93)，夜间阴
+**四川省/宜宾/宜宾 2025年05月23日 16:25**
+- 今天周五，白天☁️阴(20°~32°)，空气良(87)，夜间小雨
+- 明天周六，白天🌧️小雨(17°~27°)，空气良(90)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [文字的速度终于赶上了短视频](https://1q43.blog/post/11145/) / 12:19
 - [买大疆 Action 5 pro 和 Pocket 3 的故事](https://www.ntiy.com/2292.html) / 10:18
 - [画图、截图工具和记事本应用再次获得一系列 AI 新功能加持](https://windiscover.com/posts/paint-snipping-tool-notepad-got-a-series-of-new-ai-features.html) / 08:37
 - [科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html) / 08:12
@@ -35,15 +36,16 @@
 - [没有任何证据的手机](https://xingbianren.cn/post/305.html) / 05月20日 12:09
 - [Beta 分支 Windows 11 Build 26120.4151（KB5058486）开始推送](https://windiscover.com/posts/windows-11-build-26120-kb5058486.html) / 05月20日 11:58
 - [Build 2025 开发者大会上，一名微软员工现场打断微软 CEO 演讲](https://windiscover.com/posts/microsoft-employee-interrupt-build-conference-satya-nadella-speech.html) / 05月20日 10:44
-- [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) / 05月20日 09:35
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Integrated transcriptomic analyses identifies host-targeting repurposing drugs for hepatitis C virus infection and related hepatocellular carcinoma](https://www.biorxiv.org/content/10.1101/2025.05.17.654645v1?rss=1) / 08:00
 - [A comparative analysis of mRNA enrichment strategies and guidance for improving their efficiency](https://www.nature.com/articles/s41598-025-02082-z) / 08:00
 
 **历史记录**
+- [PCAGP, a parallel convolutional attention network-based method for crop genomic prediction](https://www.biorxiv.org/content/10.1101/2025.05.17.654636v1?rss=1) / 05月22日 08:00
 - [AttentionAML: An Attention-based Deep Learning Framework for Accurate Molecular Categorization of Acute Myeloid Leukemia](https://www.biorxiv.org/content/10.1101/2025.05.20.655179v1?rss=1) / 05月22日 08:00
 - [cellSight: Characterizing dynamics of cells using single-cell RNA-sequencing](https://www.biorxiv.org/content/10.1101/2025.05.16.654572v1?rss=1) / 05月22日 08:00
 - [Age-informed, attention-based weakly supervised learning for neuropathological image assessment](https://www.biorxiv.org/content/10.1101/2025.05.16.654510v1?rss=1) / 05月22日 08:00
@@ -61,6 +63,4 @@
 - [Epidemic-induced local awareness behavior inferred from surveys and genetic sequence data](https://www.nature.com/articles/s41467-025-59508-5) / 05月22日 08:00
 - [Translational buffering tunes gene expression in mouse and human](https://www.biorxiv.org/content/10.1101/2025.05.16.654561v1?rss=1) / 05月21日 08:00
 - [Change point based dynamic functional connectivity estimation outperforms sliding window and static estimation for classification of early mild cognitive impairment in resting-state fMRI](https://www.biorxiv.org/content/10.1101/2025.05.16.654552v1?rss=1) / 05月21日 08:00
-- [ChromMovie: A Molecular Dynamics Approach for Simultaneous Modeling of Chromatin Conformation Changes from Multiple Single-Cell Hi-C Maps](https://www.biorxiv.org/content/10.1101/2025.05.16.654550v1?rss=1) / 05月21日 08:00
-- [Accounting for uncertainty in residual variances improves calibration of the Sum of Single Effects model for small sample sizes](https://www.biorxiv.org/content/10.1101/2025.05.16.654543v1?rss=1) / 05月21日 08:00
 <!--rss-papers:end-->
