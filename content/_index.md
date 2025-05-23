@@ -1,12 +1,12 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月23日 11:10**
-- 今天周五，白天☁️阴(20°~30°)，空气良(72)
-- 明天周六，白天☁️阴(17°~30°)，空气轻度污染(103)
+**四川省/成都/成都 2025年05月23日 12:22**
+- 今天周五，白天☁️阴(20°~30°)，空气良(74)
+- 明天周六，白天☁️阴(17°~30°)，空气良(99)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月23日 11:10**
-- 今天周五，白天☁️阴(20°~32°)，空气良(83)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月23日 12:22**
+- 今天周五，白天☁️阴(20°~32°)，空气良(91)，夜间小雨
 - 明天周六，白天🌧️小雨(17°~27°)，空气良(93)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
@@ -40,6 +40,9 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [A comparative analysis of mRNA enrichment strategies and guidance for improving their efficiency](https://www.nature.com/articles/s41598-025-02082-z) / 08:00
+
 **历史记录**
 - [AttentionAML: An Attention-based Deep Learning Framework for Accurate Molecular Categorization of Acute Myeloid Leukemia](https://www.biorxiv.org/content/10.1101/2025.05.20.655179v1?rss=1) / 05月22日 08:00
 - [cellSight: Characterizing dynamics of cells using single-cell RNA-sequencing](https://www.biorxiv.org/content/10.1101/2025.05.16.654572v1?rss=1) / 05月22日 08:00
@@ -60,5 +63,4 @@
 - [Change point based dynamic functional connectivity estimation outperforms sliding window and static estimation for classification of early mild cognitive impairment in resting-state fMRI](https://www.biorxiv.org/content/10.1101/2025.05.16.654552v1?rss=1) / 05月21日 08:00
 - [ChromMovie: A Molecular Dynamics Approach for Simultaneous Modeling of Chromatin Conformation Changes from Multiple Single-Cell Hi-C Maps](https://www.biorxiv.org/content/10.1101/2025.05.16.654550v1?rss=1) / 05月21日 08:00
 - [Accounting for uncertainty in residual variances improves calibration of the Sum of Single Effects model for small sample sizes](https://www.biorxiv.org/content/10.1101/2025.05.16.654543v1?rss=1) / 05月21日 08:00
-- [Large Scale Cell Painting Guided Compound Selection Reveals Activity Cliffs and Functional Relationships](https://www.biorxiv.org/content/10.1101/2025.05.16.654292v1?rss=1) / 05月21日 08:00
 <!--rss-papers:end-->
