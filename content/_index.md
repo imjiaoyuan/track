@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月24日 00:23**
+**四川省/成都/成都 2025年05月24日 02:24**
 - 今天周六，白天☁️阴(18°~32°)，空气良(95)，夜间多云
 - 明天周日，白天🌤️多云(21°~31°)，空气良(90)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月24日 00:23**
+**四川省/宜宾/宜宾 2025年05月24日 02:24**
 - 今天周六，白天☁️阴(18°~26°)，空气良(78)
 - 明天周日，白天☁️阴(20°~31°)，空气良(85)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -20,6 +20,7 @@
 - [买大疆 Action 5 pro 和 Pocket 3 的故事](https://www.ntiy.com/2292.html) / 05月23日 10:18
 - [画图、截图工具和记事本应用再次获得一系列 AI 新功能加持](https://windiscover.com/posts/paint-snipping-tool-notepad-got-a-series-of-new-ai-features.html) / 05月23日 08:37
 - [科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html) / 05月23日 08:12
+- [大语言模型坤年记](https://yufree.cn/cn/2025/05/23/llm-kun-year-summary/) / 05月23日 08:00
 - [TypeScript Native  预览版正式发布，带来 10 倍以上编译性能提升](https://windiscover.com/posts/typescript-native-is-now-available.html) / 05月23日 07:51
 - [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4373) / 05月23日 06:25
 - [停飞的床](http://m.wufazhuce.com/article/6806) / 05月23日 06:25
@@ -33,12 +34,13 @@
 - [微软开始为 Mac 版 PowerPoint 应用加入“阅读顺序窗格”功能](https://windiscover.com/posts/reading-order-pane-is-coming-to-powerpoint-for-mac.html) / 05月20日 18:00
 - [微软已发布 OOB 更新用于修复由 KB5058379 引起的 BitLocker 恢复问题](https://windiscover.com/posts/microsoft-released-an-oob-update-kb5061768-to-fix-kb5058379-bitlocker-issue.html) / 05月20日 17:47
 - [Dev 分支 Windows 11 Build 26200.5603（KB5058488）开始推送](https://windiscover.com/posts/windows-11-build-26200-kb5058488.html) / 05月20日 12:22
-- [没有任何证据的手机](https://xingbianren.cn/post/305.html) / 05月20日 12:09
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Skin microbiome composite features in Atopic Dermatitis via integration analysis across cohorts](https://www.biorxiv.org/content/10.1101/2025.05.18.653690v1?rss=1) / 05月23日 08:00
+- [SKiD: A Structure-Oriented Kinetics Database of Enzyme-Substrate Interactions](https://www.biorxiv.org/content/10.1101/2025.05.18.654770v1?rss=1) / 05月23日 08:00
 - [Memo-Patho: Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1?rss=1) / 05月23日 08:00
 - [Accurate prediction of protein stability changes from single mutations using self-distillation and antisymmetric constraint strategies](https://www.biorxiv.org/content/10.1101/2025.05.18.654422v1?rss=1) / 05月23日 08:00
 - [Maximum Entropy in the Gaussian Network Model: A Thermodynamic Reference State for Protein Dynamics](https://www.biorxiv.org/content/10.1101/2025.05.18.654696v1?rss=1) / 05月23日 08:00
@@ -46,6 +48,8 @@
 - [Catalytic pocket-informed augmentation of enzyme kinetic parameters prediction via hierarchical graph learning](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1?rss=1) / 05月23日 08:00
 - [Transposable elements drive species-specific and tissue-specific transcriptomes in human development](https://www.biorxiv.org/content/10.1101/2025.05.19.654775v1?rss=1) / 05月23日 08:00
 - [Integrated transcriptomic analyses identifies host-targeting repurposing drugs for hepatitis C virus infection and related hepatocellular carcinoma](https://www.biorxiv.org/content/10.1101/2025.05.17.654645v1?rss=1) / 05月23日 08:00
+- [Unveiling the Biochemical Mechanisms of Aging and the Implications of Oxidative Stress on Cellular Senescence through Multi-Omics Analysis of Fibroblasts](https://www.biorxiv.org/content/10.1101/2025.05.17.654671v1?rss=1) / 05月23日 08:00
+- [Mapping the Regulatory Architecture of Circadian Clock Adaptation: A Genome-Wide eQTL Analysis in Drosophila melanogaster](https://www.biorxiv.org/content/10.1101/2025.05.18.654706v1?rss=1) / 05月23日 08:00
 - [A catalog of ancient proxies for modern genetic variants](https://www.biorxiv.org/content/10.1101/2025.05.19.654975v1?rss=1) / 05月23日 08:00
 - [Metagenomics distilled: new k-mer-based methods](https://www.nature.com/articles/s41579-025-01192-9) / 05月23日 08:00
 - [A comparative analysis of mRNA enrichment strategies and guidance for improving their efficiency](https://www.nature.com/articles/s41598-025-02082-z) / 05月23日 08:00
@@ -55,8 +59,4 @@
 - [Age-informed, attention-based weakly supervised learning for neuropathological image assessment](https://www.biorxiv.org/content/10.1101/2025.05.16.654510v1?rss=1) / 05月22日 08:00
 - [Deep-learning-enabled multi-omics analyses for prediction of future metastasis in cancer](https://www.biorxiv.org/content/10.1101/2025.05.16.654579v1?rss=1) / 05月22日 08:00
 - [Trophic and temporal dynamics of macrophage biology in human inner ear organogenesis](https://www.biorxiv.org/content/10.1101/2025.05.16.654631v1?rss=1) / 05月22日 08:00
-- [Guided Co-clustering Transfer Across Unpaired and Paired Single-cell Multi-omics Data](https://www.biorxiv.org/content/10.1101/2025.05.16.654635v1?rss=1) / 05月22日 08:00
-- [Optimizing Oyster Breeding with Machine Learning and BigData for Superior Quality](https://www.biorxiv.org/content/10.1101/2025.05.16.654565v1?rss=1) / 05月22日 08:00
-- [Deciphering the comprehensive relationship between 5'UTR and 3'UTR sequences with deep learning](https://www.biorxiv.org/content/10.1101/2025.05.17.654644v1?rss=1) / 05月22日 08:00
-- [Resolution Tradeoffs in Modularity Clustering with Application to Single Cell RNA-seq](https://www.biorxiv.org/content/10.1101/2025.05.20.655159v1?rss=1) / 05月22日 08:00
 <!--rss-papers:end-->
