@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月23日 09:26**
-- 今天周五，白天☁️阴(20°~30°)，空气良(79)
-- 明天周六，白天☁️阴(17°~30°)，空气良(99)
+**四川省/成都/成都 2025年05月23日 11:10**
+- 今天周五，白天☁️阴(20°~30°)，空气良(72)
+- 明天周六，白天☁️阴(17°~30°)，空气轻度污染(103)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月23日 09:26**
-- 今天周五，白天☁️阴(20°~32°)，空气良(91)，夜间小雨
-- 明天周六，白天🌧️小雨(17°~27°)，空气良(90)，夜间阴
+**四川省/宜宾/宜宾 2025年05月23日 11:10**
+- 今天周五，白天☁️阴(20°~32°)，空气良(83)，夜间小雨
+- 明天周六，白天🌧️小雨(17°~27°)，空气良(93)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [买大疆 Action 5 pro 和 Pocket 3 的故事](https://www.ntiy.com/2292.html) / 10:18
 - [画图、截图工具和记事本应用再次获得一系列 AI 新功能加持](https://windiscover.com/posts/paint-snipping-tool-notepad-got-a-series-of-new-ai-features.html) / 08:37
 - [科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html) / 08:12
 - [TypeScript Native  预览版正式发布，带来 10 倍以上编译性能提升](https://windiscover.com/posts/typescript-native-is-now-available.html) / 07:51
@@ -35,7 +36,6 @@
 - [Beta 分支 Windows 11 Build 26120.4151（KB5058486）开始推送](https://windiscover.com/posts/windows-11-build-26120-kb5058486.html) / 05月20日 11:58
 - [Build 2025 开发者大会上，一名微软员工现场打断微软 CEO 演讲](https://windiscover.com/posts/microsoft-employee-interrupt-build-conference-satya-nadella-speech.html) / 05月20日 10:44
 - [周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流](https://www.pseudoyu.com/posts/weekly_review_96) / 05月20日 09:35
-- [微软宣布在 Windows 11 中集成模型上下文协议（MCP）](https://windiscover.com/posts/windows-11-mcp-future-agentic-computing.html) / 05月20日 04:13
 <!--rss-blogs:end-->
 ---
 # Research Papers
