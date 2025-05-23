@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月23日 20:37**
-- 今天周五，白天☁️阴(20°~30°)，空气良(74)
-- 明天周六，白天☁️阴(18°~32°)，空气良(99)，夜间多云
+**四川省/成都/成都 2025年05月23日 22:17**
+- 今天周五，白天☁️阴(20°~30°)，空气良(72)
+- 明天周六，白天☁️阴(18°~32°)，空气良(98)，夜间多云
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月23日 20:37**
-- 今天周五，白天☁️阴(20°~32°)，空气良(85)
-- 明天周六，白天☁️阴(18°~26°)，空气良(71)
+**四川省/宜宾/宜宾 2025年05月23日 22:17**
+- 今天周五，白天☁️阴(20°~32°)，空气良(90)
+- 明天周六，白天☁️阴(18°~26°)，空气良(94)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [Windows 截图工具即将加入“保存录屏为 GIF 动图格式“选项](https://windiscover.com/posts/snipping-tool-to-add-save-screen-recordings-as-gif-option.html) / 21:24
 - [文字的速度终于赶上了短视频](https://1q43.blog/post/11145/) / 12:19
 - [买大疆 Action 5 pro 和 Pocket 3 的故事](https://www.ntiy.com/2292.html) / 10:18
 - [画图、截图工具和记事本应用再次获得一系列 AI 新功能加持](https://windiscover.com/posts/paint-snipping-tool-notepad-got-a-series-of-new-ai-features.html) / 08:37
@@ -35,12 +36,14 @@
 - [Dev 分支 Windows 11 Build 26200.5603（KB5058488）开始推送](https://windiscover.com/posts/windows-11-build-26200-kb5058488.html) / 05月20日 12:22
 - [没有任何证据的手机](https://xingbianren.cn/post/305.html) / 05月20日 12:09
 - [Beta 分支 Windows 11 Build 26120.4151（KB5058486）开始推送](https://windiscover.com/posts/windows-11-build-26120-kb5058486.html) / 05月20日 11:58
-- [Build 2025 开发者大会上，一名微软员工现场打断微软 CEO 演讲](https://windiscover.com/posts/microsoft-employee-interrupt-build-conference-satya-nadella-speech.html) / 05月20日 10:44
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Maximum Entropy in the Gaussian Network Model: A Thermodynamic Reference State for Protein Dynamics](https://www.biorxiv.org/content/10.1101/2025.05.18.654696v1?rss=1) / 08:00
+- [Impact of Data Error on Phylogenetic Network Inference from Gene Trees Under the Multispecies Network Coalescent](https://www.biorxiv.org/content/10.1101/2025.05.18.654708v1?rss=1) / 08:00
+- [Catalytic pocket-informed augmentation of enzyme kinetic parameters prediction via hierarchical graph learning](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1?rss=1) / 08:00
 - [Transposable elements drive species-specific and tissue-specific transcriptomes in human development](https://www.biorxiv.org/content/10.1101/2025.05.19.654775v1?rss=1) / 08:00
 - [Integrated transcriptomic analyses identifies host-targeting repurposing drugs for hepatitis C virus infection and related hepatocellular carcinoma](https://www.biorxiv.org/content/10.1101/2025.05.17.654645v1?rss=1) / 08:00
 - [A catalog of ancient proxies for modern genetic variants](https://www.biorxiv.org/content/10.1101/2025.05.19.654975v1?rss=1) / 08:00
@@ -60,7 +63,4 @@
 - [A complete reference genome assembly and annotation of the Black Redstart (Phoenicurus ochruros)](https://www.biorxiv.org/content/10.1101/2025.05.21.655187v1?rss=1) / 05月22日 08:00
 - [This ancient pathogen became deadlier when humans started wearing wool](https://www.nature.com/articles/d41586-025-01631-w) / 05月22日 08:00
 - [Continued collaboration of ex situ and in situ programs is critical for the genetic sustainability of the endangered Rana pretiosa](https://www.nature.com/articles/s41598-025-01483-4) / 05月22日 08:00
-- [Huaxian formula alleviates nickel oxide nanoparticle-induced pulmonary fibrosis via PI3K/AKT signaling](https://www.nature.com/articles/s41598-025-01899-y) / 05月22日 08:00
-- [Apnea detection using wrist actigraphy in patients with heterogeneous sleep disorders](https://www.nature.com/articles/s41598-025-01430-3) / 05月22日 08:00
-- [Epidemic-induced local awareness behavior inferred from surveys and genetic sequence data](https://www.nature.com/articles/s41467-025-59508-5) / 05月22日 08:00
 <!--rss-papers:end-->
