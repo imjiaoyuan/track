@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月24日 14:24**
-- 今天周六，白天☁️阴(17°~30°)，空气良(96)
-- 明天周日，白天☁️阴(19°~30°)，空气良(93)，夜间多云
+**四川省/成都/成都 2025年05月24日 16:21**
+- 今天周六，白天☁️阴(17°~29°)，空气良(92)
+- 明天周日，白天☁️阴(19°~30°)，空气良(95)，夜间多云
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月24日 14:24**
-- 今天周六，白天🌧️小雨(17°~25°)，空气良(78)，夜间阴
-- 明天周日，白天☁️阴(19°~30°)，空气良(88)
+**四川省/宜宾/宜宾 2025年05月24日 16:21**
+- 今天周六，白天🌧️小雨(17°~25°)，空气良(77)，夜间阴
+- 明天周日，白天☁️阴(19°~30°)，空气良(86)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [樱花特辑：东京圈赏樱指南 (上)](https://song.al/sakura_1) / 14:48
 - [Beta 分支 Windows 11 Build 26120.4161（KB5058515）](https://windiscover.com/posts/windows-11-build-26120-kb5058515.html) / 12:45
 - [微软员工绕过邮件封锁，向数千名员工发送了抗议微软高层的邮件](https://windiscover.com/posts/microsoft-employee-bypasses-the-email-block.html) / 11:15
 - [Canary 分支 Windows 11 Build 27863 开始推送](https://windiscover.com/posts/windows-11-build-27863.html) / 09:28
@@ -35,12 +36,12 @@
 - [Windows 11 将提供应用跨设备恢复体验，用户可在 PC 上无缝继续使用 Android 应用](https://windiscover.com/posts/windows-11-cross-device-resume-experience-android-app-windows.html) / 05月21日 12:03
 - [PowerToys 0.91.1 更新发布，改进命令面板及快速重音等功能](https://windiscover.com/posts/powertoys-0-91-1-update-fixes-cmdpal-workspaces-and-quick-accent.html) / 05月21日 06:10
 - [Build 2025 开发者大会 Day 2 现场再次出现抗议人员](https://windiscover.com/posts/build-2025-day-2-jay-parikh-speech-got-interrupted-by-a-protester.html) / 05月21日 05:01
-- [教程 | 安装并使用新命令行文本编辑器 Edit](https://windiscover.com/posts/install-and-use-edit-the-new-editor-made-by-microsoft-in-windows-terminal.html) / 05月20日 19:08
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [De Bruijn Graph Partitioning for Scalable and Accurate DNA Storage Processing](https://www.biorxiv.org/content/10.1101/2025.05.19.654814v1?rss=1) / 05月23日 08:00
 - [PEARL: Integrative multi-omics classification and omics feature discovery via deep graph learning](https://www.biorxiv.org/content/10.1101/2025.05.19.654754v1?rss=1) / 05月23日 08:00
 - [RareFold: Structure prediction and design of proteins with noncanonical amino acids](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1?rss=1) / 05月23日 08:00
 - [Prevalence of Group II Introns in Phage Genomes](https://www.biorxiv.org/content/10.1101/2025.05.22.655115v1?rss=1) / 05月23日 08:00
@@ -60,5 +61,4 @@
 - [Catalytic pocket-informed augmentation of enzyme kinetic parameters prediction via hierarchical graph learning](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1?rss=1) / 05月23日 08:00
 - [Transposable elements drive species-specific and tissue-specific transcriptomes in human development](https://www.biorxiv.org/content/10.1101/2025.05.19.654775v1?rss=1) / 05月23日 08:00
 - [Integrated transcriptomic analyses identifies host-targeting repurposing drugs for hepatitis C virus infection and related hepatocellular carcinoma](https://www.biorxiv.org/content/10.1101/2025.05.17.654645v1?rss=1) / 05月23日 08:00
-- [A survey of human cancer-germline genes: linking X chromosome localization, DNA methylation and sex-biased expression in early embryos](https://www.biorxiv.org/content/10.1101/2025.05.19.654804v1?rss=1) / 05月23日 08:00
 <!--rss-papers:end-->
