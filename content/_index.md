@@ -1,27 +1,26 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月24日 22:15**
-- 今天周六，白天☁️阴(18°~29°)，空气良(91)
-- 明天周日，白天🌤️多云(20°~29°)，空气良(91)，夜间晴
+**四川省/成都/成都 2025年05月25日 00:20**
+- 今天周日，白天🌤️多云(20°~29°)，空气良(87)，夜间晴
+- 明天周一，白天☁️阴(19°~29°)，空气良(99)，夜间大雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月24日 22:15**
-- 今天周六，白天🌧️小雨(18°~25°)，空气良(75)，夜间阴
-- 明天周日，白天☁️阴(19°~29°)，空气良(83)，夜间多云
+**四川省/宜宾/宜宾 2025年05月25日 00:20**
+- 今天周日，白天☁️阴(19°~29°)，空气良(79)，夜间多云
+- 明天周一，白天🌧️小雨(21°~31°)，空气良(90)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [樱花特辑：东京圈赏樱指南 (上)](https://song.al/sakura_1) / 14:48
-- [Beta 分支 Windows 11 Build 26120.4161（KB5058515）](https://windiscover.com/posts/windows-11-build-26120-kb5058515.html) / 12:45
-- [微软员工绕过邮件封锁，向数千名员工发送了抗议微软高层的邮件](https://windiscover.com/posts/microsoft-employee-bypasses-the-email-block.html) / 11:15
-- [Canary 分支 Windows 11 Build 27863 开始推送](https://windiscover.com/posts/windows-11-build-27863.html) / 09:28
-- [套子里的人](http://m.wufazhuce.com/article/6796) / 06:25
-- [VOL.4613](http://m.wufazhuce.com/one/4772) / 06:25
-
 **历史记录**
+- [用壁纸引擎制作BB动态壁纸](https://www.wordpace.com/creating-wallpapers-with-wallpaper-engine/) / 05月24日 23:20
+- [樱花特辑：东京圈赏樱指南 (上)](https://song.al/sakura_1) / 05月24日 14:48
+- [Beta 分支 Windows 11 Build 26120.4161（KB5058515）](https://windiscover.com/posts/windows-11-build-26120-kb5058515.html) / 05月24日 12:45
+- [微软员工绕过邮件封锁，向数千名员工发送了抗议微软高层的邮件](https://windiscover.com/posts/microsoft-employee-bypasses-the-email-block.html) / 05月24日 11:15
+- [Canary 分支 Windows 11 Build 27863 开始推送](https://windiscover.com/posts/windows-11-build-27863.html) / 05月24日 09:28
+- [套子里的人](http://m.wufazhuce.com/article/6796) / 05月24日 06:25
+- [VOL.4613](http://m.wufazhuce.com/one/4772) / 05月24日 06:25
 - [工作周年与AI焦虑：成长与挑战并存](https://innei.in/notes/192) / 05月23日 23:06
 - [Windows 截图工具即将加入“保存录屏为 GIF 动图格式“选项](https://windiscover.com/posts/snipping-tool-to-add-save-screen-recordings-as-gif-option.html) / 05月23日 21:24
 - [文字的速度终于赶上了短视频](https://1q43.blog/post/11145/) / 05月23日 12:19
@@ -35,7 +34,6 @@
 - [无题|NOTE](https://hp-l.github.io/2025/05/21/170905/) / 05月21日 17:09
 - [Windows 11 将提供应用跨设备恢复体验，用户可在 PC 上无缝继续使用 Android 应用](https://windiscover.com/posts/windows-11-cross-device-resume-experience-android-app-windows.html) / 05月21日 12:03
 - [PowerToys 0.91.1 更新发布，改进命令面板及快速重音等功能](https://windiscover.com/posts/powertoys-0-91-1-update-fixes-cmdpal-workspaces-and-quick-accent.html) / 05月21日 06:10
-- [Build 2025 开发者大会 Day 2 现场再次出现抗议人员](https://windiscover.com/posts/build-2025-day-2-jay-parikh-speech-got-interrupted-by-a-protester.html) / 05月21日 05:01
 <!--rss-blogs:end-->
 ---
 # Research Papers
