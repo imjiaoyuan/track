@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月24日 09:24**
-- 今天周六，白天☁️阴(17°~29°)，空气良(92)
-- 明天周日，白天☁️阴(19°~30°)，空气良(96)，夜间多云
+**四川省/成都/成都 2025年05月24日 11:05**
+- 今天周六，白天☁️阴(17°~29°)，空气良(97)
+- 明天周日，白天☁️阴(19°~30°)，空气良(90)，夜间多云
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月24日 09:24**
-- 今天周六，白天🌧️小雨(17°~25°)，空气良(79)，夜间阴
-- 明天周日，白天☁️阴(19°~30°)，空气良(92)
+**四川省/宜宾/宜宾 2025年05月24日 11:05**
+- 今天周六，白天🌧️小雨(17°~25°)，空气良(78)，夜间阴
+- 明天周日，白天☁️阴(19°~30°)，空气良(84)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [Canary 分支 Windows 11 Build 27863 开始推送](https://windiscover.com/posts/windows-11-build-27863.html) / 09:28
 - [套子里的人](http://m.wufazhuce.com/article/6796) / 06:25
 - [VOL.4613](http://m.wufazhuce.com/one/4772) / 06:25
 
@@ -35,7 +36,6 @@
 - [教程 | 安装并使用新命令行文本编辑器 Edit](https://windiscover.com/posts/install-and-use-edit-the-new-editor-made-by-microsoft-in-windows-terminal.html) / 05月20日 19:08
 - [微软开始为 Mac 版 PowerPoint 应用加入“阅读顺序窗格”功能](https://windiscover.com/posts/reading-order-pane-is-coming-to-powerpoint-for-mac.html) / 05月20日 18:00
 - [微软已发布 OOB 更新用于修复由 KB5058379 引起的 BitLocker 恢复问题](https://windiscover.com/posts/microsoft-released-an-oob-update-kb5061768-to-fix-kb5058379-bitlocker-issue.html) / 05月20日 17:47
-- [Dev 分支 Windows 11 Build 26200.5603（KB5058488）开始推送](https://windiscover.com/posts/windows-11-build-26200-kb5058488.html) / 05月20日 12:22
 <!--rss-blogs:end-->
 ---
 # Research Papers
