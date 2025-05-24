@@ -1,18 +1,22 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月24日 06:17**
-- 今天周六，白天🌤️多云(17°~29°)，空气良(95)
-- 明天周日，白天🌤️多云(18°~29°)，空气良(90)，夜间阴
+**四川省/成都/成都 2025年05月24日 09:24**
+- 今天周六，白天☁️阴(17°~29°)，空气良(92)
+- 明天周日，白天☁️阴(19°~30°)，空气良(96)，夜间多云
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月24日 06:17**
-- 今天周六，白天🌧️小雨(17°~25°)，空气良(78)，夜间阴
-- 明天周日，白天☁️阴(19°~30°)，空气良(85)
-- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**四川省/宜宾/宜宾 2025年05月24日 09:24**
+- 今天周六，白天🌧️小雨(17°~25°)，空气良(79)，夜间阴
+- 明天周日，白天☁️阴(19°~30°)，空气良(92)
+- 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [套子里的人](http://m.wufazhuce.com/article/6796) / 06:25
+- [VOL.4613](http://m.wufazhuce.com/one/4772) / 06:25
+
 **历史记录**
 - [工作周年与AI焦虑：成长与挑战并存](https://innei.in/notes/192) / 05月23日 23:06
 - [Windows 截图工具即将加入“保存录屏为 GIF 动图格式“选项](https://windiscover.com/posts/snipping-tool-to-add-save-screen-recordings-as-gif-option.html) / 05月23日 21:24
@@ -23,8 +27,6 @@
 - [大语言模型坤年记](https://yufree.cn/cn/2025/05/23/llm-kun-year-summary/) / 05月23日 08:00
 - [TypeScript Native  预览版正式发布，带来 10 倍以上编译性能提升](https://windiscover.com/posts/typescript-native-is-now-available.html) / 05月23日 07:51
 - [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4373) / 05月23日 06:25
-- [停飞的床](http://m.wufazhuce.com/article/6806) / 05月23日 06:25
-- [VOL.4612](http://m.wufazhuce.com/one/4766) / 05月23日 06:25
 - [微软调整内部邮件系统，员工无法发送含有“巴勒斯坦”等关键词的邮件](https://windiscover.com/posts/microsoft-internal-email-system-changes-block-palestine-gaza-emails.html) / 05月22日 15:58
 - [无题|NOTE](https://hp-l.github.io/2025/05/21/170905/) / 05月21日 17:09
 - [Windows 11 将提供应用跨设备恢复体验，用户可在 PC 上无缝继续使用 Android 应用](https://windiscover.com/posts/windows-11-cross-device-resume-experience-android-app-windows.html) / 05月21日 12:03
