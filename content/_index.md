@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月24日 11:05**
-- 今天周六，白天☁️阴(17°~29°)，空气良(97)
-- 明天周日，白天☁️阴(19°~30°)，空气良(90)，夜间多云
+**四川省/成都/成都 2025年05月24日 12:21**
+- 今天周六，白天☁️阴(17°~29°)，空气良(96)
+- 明天周日，白天☁️阴(19°~30°)，空气良(93)，夜间多云
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月24日 11:05**
+**四川省/宜宾/宜宾 2025年05月24日 12:21**
 - 今天周六，白天🌧️小雨(17°~25°)，空气良(78)，夜间阴
-- 明天周日，白天☁️阴(19°~30°)，空气良(84)
+- 明天周日，白天☁️阴(19°~30°)，空气良(88)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [微软员工绕过邮件封锁，向数千名员工发送了抗议微软高层的邮件](https://windiscover.com/posts/microsoft-employee-bypasses-the-email-block-polocu.html) / 11:15
 - [Canary 分支 Windows 11 Build 27863 开始推送](https://windiscover.com/posts/windows-11-build-27863.html) / 09:28
 - [套子里的人](http://m.wufazhuce.com/article/6796) / 06:25
 - [VOL.4613](http://m.wufazhuce.com/one/4772) / 06:25
@@ -35,12 +36,14 @@
 - [Build 2025 开发者大会 Day 2 现场再次出现抗议人员](https://windiscover.com/posts/build-2025-day-2-jay-parikh-speech-got-interrupted-by-a-protester.html) / 05月21日 05:01
 - [教程 | 安装并使用新命令行文本编辑器 Edit](https://windiscover.com/posts/install-and-use-edit-the-new-editor-made-by-microsoft-in-windows-terminal.html) / 05月20日 19:08
 - [微软开始为 Mac 版 PowerPoint 应用加入“阅读顺序窗格”功能](https://windiscover.com/posts/reading-order-pane-is-coming-to-powerpoint-for-mac.html) / 05月20日 18:00
-- [微软已发布 OOB 更新用于修复由 KB5058379 引起的 BitLocker 恢复问题](https://windiscover.com/posts/microsoft-released-an-oob-update-kb5061768-to-fix-kb5058379-bitlocker-issue.html) / 05月20日 17:47
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [upsAI: A high-accuracy machine learning classifier for predicting Plasmodium falciparum var gene upstream groups](https://www.biorxiv.org/content/10.1101/2025.05.19.654848v1?rss=1) / 05月23日 08:00
+- [RBPSignal: A deep learning approach for predicting RNA-Protein binding signals](https://www.biorxiv.org/content/10.1101/2025.05.19.654811v1?rss=1) / 05月23日 08:00
+- [Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform](https://www.biorxiv.org/content/10.1101/2025.05.19.654757v1?rss=1) / 05月23日 08:00
 - [LeafyResNet: Fusarium Wilt Detection in Lettuce Using UAV RGB Imaging and Advanced Deep Learning Model](https://www.biorxiv.org/content/10.1101/2025.05.21.655416v1?rss=1) / 05月23日 08:00
 - [Skin microbiome composite features in Atopic Dermatitis via integration analysis across cohorts](https://www.biorxiv.org/content/10.1101/2025.05.18.653690v1?rss=1) / 05月23日 08:00
 - [SKiD: A Structure-Oriented Kinetics Database of Enzyme-Substrate Interactions](https://www.biorxiv.org/content/10.1101/2025.05.18.654770v1?rss=1) / 05月23日 08:00
@@ -51,14 +54,11 @@
 - [Catalytic pocket-informed augmentation of enzyme kinetic parameters prediction via hierarchical graph learning](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1?rss=1) / 05月23日 08:00
 - [Transposable elements drive species-specific and tissue-specific transcriptomes in human development](https://www.biorxiv.org/content/10.1101/2025.05.19.654775v1?rss=1) / 05月23日 08:00
 - [Integrated transcriptomic analyses identifies host-targeting repurposing drugs for hepatitis C virus infection and related hepatocellular carcinoma](https://www.biorxiv.org/content/10.1101/2025.05.17.654645v1?rss=1) / 05月23日 08:00
+- [A survey of human cancer-germline genes: linking X chromosome localization, DNA methylation and sex-biased expression in early embryos](https://www.biorxiv.org/content/10.1101/2025.05.19.654804v1?rss=1) / 05月23日 08:00
+- [Sex-biased dispersal drives mito-nuclear discordance in simulated populations](https://www.biorxiv.org/content/10.1101/2025.05.19.654820v1?rss=1) / 05月23日 08:00
+- [Aeromonas: Genomic Insights into an Environmental Pathogen and Reservoir of Antimicrobial Resistance](https://www.biorxiv.org/content/10.1101/2025.05.22.655522v1?rss=1) / 05月23日 08:00
 - [Everything, everywhere, all at once - Surveillance and molecular epidemiology reveal Melissococcus plutonius is endemic among Michigan, US beekeeping operations of all sizes and present in some honey bee colonies year-round](https://www.biorxiv.org/content/10.1101/2025.05.22.655465v1?rss=1) / 05月23日 08:00
 - [Unveiling the Biochemical Mechanisms of Aging and the Implications of Oxidative Stress on Cellular Senescence through Multi-Omics Analysis of Fibroblasts](https://www.biorxiv.org/content/10.1101/2025.05.17.654671v1?rss=1) / 05月23日 08:00
 - [Mapping the Regulatory Architecture of Circadian Clock Adaptation: A Genome-Wide eQTL Analysis in Drosophila melanogaster](https://www.biorxiv.org/content/10.1101/2025.05.18.654706v1?rss=1) / 05月23日 08:00
 - [A catalog of ancient proxies for modern genetic variants](https://www.biorxiv.org/content/10.1101/2025.05.19.654975v1?rss=1) / 05月23日 08:00
-- [Metagenomics distilled: new k-mer-based methods](https://www.nature.com/articles/s41579-025-01192-9) / 05月23日 08:00
-- [Disease characteristics and monitoring of IDH1/IDH2-mutated acute myeloid leukemia](https://www.nature.com/articles/s41408-025-01304-x) / 05月23日 08:00
-- [A comparative analysis of mRNA enrichment strategies and guidance for improving their efficiency](https://www.nature.com/articles/s41598-025-02082-z) / 05月23日 08:00
-- [PCAGP, a parallel convolutional attention network-based method for crop genomic prediction](https://www.biorxiv.org/content/10.1101/2025.05.17.654636v1?rss=1) / 05月22日 08:00
-- [AttentionAML: An Attention-based Deep Learning Framework for Accurate Molecular Categorization of Acute Myeloid Leukemia](https://www.biorxiv.org/content/10.1101/2025.05.20.655179v1?rss=1) / 05月22日 08:00
-- [cellSight: Characterizing dynamics of cells using single-cell RNA-sequencing](https://www.biorxiv.org/content/10.1101/2025.05.16.654572v1?rss=1) / 05月22日 08:00
 <!--rss-papers:end-->
