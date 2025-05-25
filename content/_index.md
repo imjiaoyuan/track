@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月25日 11:19**
+**四川省/成都/成都 2025年05月25日 12:24**
 - 今天周日，白天🌤️多云(17°~30°)，空气良(96)，夜间晴
 - 明天周一，白天🌧️小雨(19°~30°)，空气良(99)，夜间大雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月25日 11:19**
+**四川省/宜宾/宜宾 2025年05月25日 12:25**
 - 今天周日，白天☁️阴(19°~29°)，空气良(83)
 - 明天周一，白天☁️阴(21°~31°)，空气良(87)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [AlphaFold3 for Non-canonical Cyclic Peptide Modeling: Hierarchical Benchmarking Reveals Accuracy and Practical Guidelines](https://www.biorxiv.org/content/10.1101/2025.05.24.655528v1?rss=1) / 05月24日 08:00
 - [De Bruijn Graph Partitioning for Scalable and Accurate DNA Storage Processing](https://www.biorxiv.org/content/10.1101/2025.05.19.654814v1?rss=1) / 05月23日 08:00
 - [PEARL: Integrative multi-omics classification and omics feature discovery via deep graph learning](https://www.biorxiv.org/content/10.1101/2025.05.19.654754v1?rss=1) / 05月23日 08:00
 - [RareFold: Structure prediction and design of proteins with noncanonical amino acids](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1?rss=1) / 05月23日 08:00
@@ -60,5 +61,4 @@
 - [Impact of Data Error on Phylogenetic Network Inference from Gene Trees Under the Multispecies Network Coalescent](https://www.biorxiv.org/content/10.1101/2025.05.18.654708v1?rss=1) / 05月23日 08:00
 - [Catalytic pocket-informed augmentation of enzyme kinetic parameters prediction via hierarchical graph learning](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1?rss=1) / 05月23日 08:00
 - [Transposable elements drive species-specific and tissue-specific transcriptomes in human development](https://www.biorxiv.org/content/10.1101/2025.05.19.654775v1?rss=1) / 05月23日 08:00
-- [Integrated transcriptomic analyses identifies host-targeting repurposing drugs for hepatitis C virus infection and related hepatocellular carcinoma](https://www.biorxiv.org/content/10.1101/2025.05.17.654645v1?rss=1) / 05月23日 08:00
 <!--rss-papers:end-->
