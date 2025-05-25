@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月25日 16:21**
-- 今天周日，白天🌤️多云(17°~30°)，空气良(89)，夜间晴
-- 明天周一，白天🌧️小雨(19°~30°)，空气良(91)，夜间大雨
-- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**四川省/成都/成都 2025年05月25日 18:18**
+- 今天周日，白天🌤️多云(20°~30°)，空气良(89)
+- 明天周一，白天☁️阴(18°~29°)，空气良(90)，夜间中雨
+- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月25日 16:21**
-- 今天周日，白天☁️阴(19°~29°)，空气良(82)
-- 明天周一，白天☁️阴(21°~31°)，空气良(89)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月25日 18:18**
+- 今天周日，白天☁️阴(18°~29°)，空气良(78)，夜间多云
+- 明天周一，白天☁️阴(21°~32°)，空气良(92)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [生信爱好者周刊（第166期）： 为什么中外科研课题如此不同](https://openbiox.github.io/weekly/issue-166/) / 17:59
 - [微软每周动态：Windows 11、员工抗议、Build 2025 & 开发者、系统工具等](https://windiscover.com/posts/microsoft-weekly-may-19-to-may-25.html) / 16:10
 - [回井镇记](http://m.wufazhuce.com/article/6801) / 06:25
 - [VOL.4614](http://m.wufazhuce.com/one/4765) / 06:25
@@ -35,7 +36,6 @@
 - [TypeScript Native  预览版正式发布，带来 10 倍以上编译性能提升](https://windiscover.com/posts/typescript-native-is-now-available.html) / 05月23日 07:51
 - [微软调整内部邮件系统，员工无法发送含有“巴勒斯坦”等关键词的邮件](https://windiscover.com/posts/microsoft-internal-email-system-changes-block-palestine-gaza-emails.html) / 05月22日 15:58
 - [无题|NOTE](https://hp-l.github.io/2025/05/21/170905/) / 05月21日 17:09
-- [Windows 11 将提供应用跨设备恢复体验，用户可在 PC 上无缝继续使用 Android 应用](https://windiscover.com/posts/windows-11-cross-device-resume-experience-android-app-windows.html) / 05月21日 12:03
 <!--rss-blogs:end-->
 ---
 # Research Papers
