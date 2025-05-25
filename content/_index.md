@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月25日 18:18**
+**四川省/成都/成都 2025年05月25日 20:34**
 - 今天周日，白天🌤️多云(20°~30°)，空气良(89)
 - 明天周一，白天☁️阴(18°~29°)，空气良(90)，夜间中雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月25日 18:18**
+**四川省/宜宾/宜宾 2025年05月25日 20:34**
 - 今天周日，白天☁️阴(18°~29°)，空气良(78)，夜间多云
 - 明天周一，白天☁️阴(21°~32°)，空气良(92)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -14,6 +14,10 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [猫鱼周刊 vol. 066 3D 打印入门体验](https://ameow.xyz/archives/weekly-066) / 19:43
+- [隐说 No.7 东拼西凑的见闻不是博学](https://wangyurui.com/posts/yin-shuo-no-7-dong-pin-xi-cou-bu-shi-bo-xue-cfd29bad) / 19:37
+- [战略防御的智慧](https://wangyurui.com/posts/zai-du-mao-xuan-zhong-guo-ge-ming-zhan-zheng-de-d4d1c3b9) / 19:33
+- [赛博家务之再建新站](https://blog.pursuitus.com/cyber-home-building-a-new-station.html) / 18:54
 - [生信爱好者周刊（第166期）： 为什么中外科研课题如此不同](https://openbiox.github.io/weekly/issue-166/) / 17:59
 - [微软每周动态：Windows 11、员工抗议、Build 2025 & 开发者、系统工具等](https://windiscover.com/posts/microsoft-weekly-may-19-to-may-25.html) / 16:10
 - [回井镇记](http://m.wufazhuce.com/article/6801) / 06:25
@@ -32,10 +36,6 @@
 - [买大疆 Action 5 pro 和 Pocket 3 的故事](https://www.ntiy.com/2292.html) / 05月23日 10:18
 - [画图、截图工具和记事本应用再次获得一系列 AI 新功能加持](https://windiscover.com/posts/paint-snipping-tool-notepad-got-a-series-of-new-ai-features.html) / 05月23日 08:37
 - [科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html) / 05月23日 08:12
-- [大语言模型坤年记](https://yufree.cn/cn/2025/05/23/llm-kun-year-summary/) / 05月23日 08:00
-- [TypeScript Native  预览版正式发布，带来 10 倍以上编译性能提升](https://windiscover.com/posts/typescript-native-is-now-available.html) / 05月23日 07:51
-- [微软调整内部邮件系统，员工无法发送含有“巴勒斯坦”等关键词的邮件](https://windiscover.com/posts/microsoft-internal-email-system-changes-block-palestine-gaza-emails.html) / 05月22日 15:58
-- [无题|NOTE](https://hp-l.github.io/2025/05/21/170905/) / 05月21日 17:09
 <!--rss-blogs:end-->
 ---
 # Research Papers
