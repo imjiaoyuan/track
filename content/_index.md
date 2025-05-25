@@ -1,30 +1,28 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月25日 22:15**
-- 今天周日，白天🌤️多云(20°~30°)，空气良(87)
-- 明天周一，白天☁️阴(18°~29°)，空气良(96)，夜间中雨
+**四川省/成都/成都 2025年05月26日 00:20**
+- 今天周一，白天☁️阴(18°~29°)，空气良(97)，夜间中雨
+- 明天周二，白天🌧️中雨(18°~24°)，空气良(62)，夜间多云
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月25日 22:15**
-- 今天周日，白天☁️阴(18°~29°)，空气良(78)，夜间多云
-- 明天周一，白天☁️阴(21°~32°)，空气良(88)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月26日 00:20**
+- 今天周一，白天☁️阴(21°~32°)，空气良(90)，夜间小雨
+- 明天周二，白天🌧️小雨(18°~22°)，空气良(61)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [2025 年度 618 正版软件促销推荐](https://windiscover.com/posts/618-2025-geniune-apps-deals.html) / 22:01
-- [猫鱼周刊 vol. 066 3D 打印入门体验](https://ameow.xyz/archives/weekly-066) / 19:43
-- [隐说 No.7 东拼西凑的见闻不是博学](https://wangyurui.com/posts/yin-shuo-no-7-dong-pin-xi-cou-bu-shi-bo-xue-cfd29bad) / 19:37
-- [战略防御的智慧](https://wangyurui.com/posts/zai-du-mao-xuan-zhong-guo-ge-ming-zhan-zheng-de-d4d1c3b9) / 19:33
-- [赛博家务之再建新站](https://blog.pursuitus.com/cyber-home-building-a-new-station.html) / 18:54
-- [生信爱好者周刊（第166期）： 为什么中外科研课题如此不同](https://openbiox.github.io/weekly/issue-166/) / 17:59
-- [微软每周动态：Windows 11、员工抗议、Build 2025 & 开发者、系统工具等](https://windiscover.com/posts/microsoft-weekly-may-19-to-may-25.html) / 16:10
-- [回井镇记](http://m.wufazhuce.com/article/6801) / 06:25
-- [VOL.4614](http://m.wufazhuce.com/one/4765) / 06:25
-
 **历史记录**
+- [2025 年度 618 正版软件促销推荐](https://windiscover.com/posts/618-2025-geniune-apps-deals.html) / 05月25日 22:01
+- [猫鱼周刊 vol. 066 3D 打印入门体验](https://ameow.xyz/archives/weekly-066) / 05月25日 19:43
+- [隐说 No.7 东拼西凑的见闻不是博学](https://wangyurui.com/posts/yin-shuo-no-7-dong-pin-xi-cou-bu-shi-bo-xue-cfd29bad) / 05月25日 19:37
+- [战略防御的智慧](https://wangyurui.com/posts/zai-du-mao-xuan-zhong-guo-ge-ming-zhan-zheng-de-d4d1c3b9) / 05月25日 19:33
+- [赛博家务之再建新站](https://blog.pursuitus.com/cyber-home-building-a-new-station.html) / 05月25日 18:54
+- [生信爱好者周刊（第166期）： 为什么中外科研课题如此不同](https://openbiox.github.io/weekly/issue-166/) / 05月25日 17:59
+- [微软每周动态：Windows 11、员工抗议、Build 2025 & 开发者、系统工具等](https://windiscover.com/posts/microsoft-weekly-may-19-to-may-25.html) / 05月25日 16:10
+- [回井镇记](http://m.wufazhuce.com/article/6801) / 05月25日 06:25
+- [VOL.4614](http://m.wufazhuce.com/one/4765) / 05月25日 06:25
 - [用壁纸引擎制作BB动态壁纸](https://www.wordpace.com/creating-wallpapers-with-wallpaper-engine/) / 05月24日 23:20
 - [樱花特辑：东京圈赏樱指南 (上)](https://song.al/sakura_1) / 05月24日 14:48
 - [Beta 分支 Windows 11 Build 26120.4161（KB5058515）](https://windiscover.com/posts/windows-11-build-26120-kb5058515.html) / 05月24日 12:45
@@ -40,10 +38,12 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Association of the TNFRSF1B-rs1061622 variant with nonresponse to infliximab in ulcerative colitis](https://www.nature.com/articles/s41598-025-02463-4) / 08:00
-
 **历史记录**
+- [Saliva-based Biomarkers for Predicting Gastric Cancer](https://www.biorxiv.org/content/10.1101/2025.05.20.655204v1?rss=1) / 05月25日 08:00
+- [Partitioned Multi-MUM finding for scalable pangenomics](https://www.biorxiv.org/content/10.1101/2025.05.20.654611v1?rss=1) / 05月25日 08:00
+- [De novo genome assemblies of threatened Asian hornbills (Bucerotidae) reveal declining population trajectories during the late Pleistocene](https://www.biorxiv.org/content/10.1101/2025.05.20.655227v1?rss=1) / 05月25日 08:00
+- [Association of the TNFRSF1B-rs1061622 variant with nonresponse to infliximab in ulcerative colitis](https://www.nature.com/articles/s41598-025-02463-4) / 05月25日 08:00
+- [Multi-perspective dynamic consistency learning for semi-supervised medical image segmentation](https://www.nature.com/articles/s41598-025-03124-2) / 05月25日 08:00
 - [From Likelihood to Fitness: Improving Variant Effect Prediction in Protein and Genome Language Models](https://www.biorxiv.org/content/10.1101/2025.05.20.655154v1?rss=1) / 05月24日 08:00
 - [Bimodal peptide collision cross section distribution reflects two stable conformations in the gas phase](https://www.biorxiv.org/content/10.1101/2025.05.19.654929v1?rss=1) / 05月24日 08:00
 - [Sequence alignment with k-bounded matching statistics](https://www.biorxiv.org/content/10.1101/2025.05.19.654936v1?rss=1) / 05月24日 08:00
@@ -59,8 +59,4 @@
 - [Assessment of dispersion metrics for estimating single-cell transcriptional variability](https://www.biorxiv.org/content/10.1101/2025.05.19.654854v1?rss=1) / 05月24日 08:00
 - [Genome Report: Genome of the Amazon Guppy (Poecilia bifurca) reveals conservation of sex chromosomes and dosage compensation](https://www.biorxiv.org/content/10.1101/2025.05.19.654947v1?rss=1) / 05月24日 08:00
 - [De Bruijn Graph Partitioning for Scalable and Accurate DNA Storage Processing](https://www.biorxiv.org/content/10.1101/2025.05.19.654814v1?rss=1) / 05月23日 08:00
-- [PEARL: Integrative multi-omics classification and omics feature discovery via deep graph learning](https://www.biorxiv.org/content/10.1101/2025.05.19.654754v1?rss=1) / 05月23日 08:00
-- [RareFold: Structure prediction and design of proteins with noncanonical amino acids](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1?rss=1) / 05月23日 08:00
-- [Prevalence of Group II Introns in Phage Genomes](https://www.biorxiv.org/content/10.1101/2025.05.22.655115v1?rss=1) / 05月23日 08:00
-- [TEITbase: a database for transposable element (TE)-initiated transcripts in human cancers](https://www.biorxiv.org/content/10.1101/2025.05.19.654796v1?rss=1) / 05月23日 08:00
 <!--rss-papers:end-->
