@@ -1,18 +1,22 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月25日 06:16**
-- 今天周日，白天🌤️多云(15°~29°)，空气良(87)，夜间阴
-- 明天周一，白天☁️阴(18°~28°)，空气良(99)，夜间大雨
+**四川省/成都/成都 2025年05月25日 09:42**
+- 今天周日，白天🌤️多云(17°~30°)，空气良(88)，夜间晴
+- 明天周一，白天🌧️小雨(19°~30°)，空气良(99)，夜间大雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月25日 06:16**
-- 今天周日，白天☁️阴(19°~29°)，空气良(79)
-- 明天周一，白天☁️阴(21°~31°)，空气良(90)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月25日 09:42**
+- 今天周日，白天☁️阴(19°~29°)，空气良(85)
+- 明天周一，白天☁️阴(21°~31°)，空气良(85)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [回井镇记](http://m.wufazhuce.com/article/6801) / 06:25
+- [VOL.4614](http://m.wufazhuce.com/one/4765) / 06:25
+
 **历史记录**
 - [用壁纸引擎制作BB动态壁纸](https://www.wordpace.com/creating-wallpapers-with-wallpaper-engine/) / 05月24日 23:20
 - [樱花特辑：东京圈赏樱指南 (上)](https://song.al/sakura_1) / 05月24日 14:48
@@ -20,7 +24,6 @@
 - [微软员工绕过邮件封锁，向数千名员工发送了抗议微软高层的邮件](https://windiscover.com/posts/microsoft-employee-bypasses-the-email-block.html) / 05月24日 11:15
 - [Canary 分支 Windows 11 Build 27863 开始推送](https://windiscover.com/posts/windows-11-build-27863.html) / 05月24日 09:28
 - [套子里的人](http://m.wufazhuce.com/article/6796) / 05月24日 06:25
-- [VOL.4613](http://m.wufazhuce.com/one/4772) / 05月24日 06:25
 - [工作周年与AI焦虑：成长与挑战并存](https://innei.in/notes/192) / 05月23日 23:06
 - [Windows 截图工具即将加入“保存录屏为 GIF 动图格式“选项](https://windiscover.com/posts/snipping-tool-to-add-save-screen-recordings-as-gif-option.html) / 05月23日 21:24
 - [文字的速度终于赶上了短视频](https://1q43.blog/post/11145/) / 05月23日 12:19
@@ -29,7 +32,6 @@
 - [科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html) / 05月23日 08:12
 - [大语言模型坤年记](https://yufree.cn/cn/2025/05/23/llm-kun-year-summary/) / 05月23日 08:00
 - [TypeScript Native  预览版正式发布，带来 10 倍以上编译性能提升](https://windiscover.com/posts/typescript-native-is-now-available.html) / 05月23日 07:51
-- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4373) / 05月23日 06:25
 - [微软调整内部邮件系统，员工无法发送含有“巴勒斯坦”等关键词的邮件](https://windiscover.com/posts/microsoft-internal-email-system-changes-block-palestine-gaza-emails.html) / 05月22日 15:58
 - [无题|NOTE](https://hp-l.github.io/2025/05/21/170905/) / 05月21日 17:09
 - [Windows 11 将提供应用跨设备恢复体验，用户可在 PC 上无缝继续使用 Android 应用](https://windiscover.com/posts/windows-11-cross-device-resume-experience-android-app-windows.html) / 05月21日 12:03
