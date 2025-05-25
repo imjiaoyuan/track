@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月25日 14:24**
-- 今天周日，白天🌤️多云(17°~30°)，空气良(96)，夜间晴
-- 明天周一，白天🌧️小雨(19°~30°)，空气良(99)，夜间大雨
+**四川省/成都/成都 2025年05月25日 16:21**
+- 今天周日，白天🌤️多云(17°~30°)，空气良(89)，夜间晴
+- 明天周一，白天🌧️小雨(19°~30°)，空气良(91)，夜间大雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月25日 14:24**
-- 今天周日，白天☁️阴(19°~29°)，空气良(83)
-- 明天周一，白天☁️阴(21°~31°)，空气良(87)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月25日 16:21**
+- 今天周日，白天☁️阴(19°~29°)，空气良(82)
+- 明天周一，白天☁️阴(21°~31°)，空气良(89)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [微软每周动态：Windows 11、员工抗议、Build 2025 & 开发者、系统工具等](https://windiscover.com/posts/microsoft-weekly-may-19-to-may-25.html) / 16:10
 - [回井镇记](http://m.wufazhuce.com/article/6801) / 06:25
 - [VOL.4614](http://m.wufazhuce.com/one/4765) / 06:25
 
@@ -35,17 +36,20 @@
 - [微软调整内部邮件系统，员工无法发送含有“巴勒斯坦”等关键词的邮件](https://windiscover.com/posts/microsoft-internal-email-system-changes-block-palestine-gaza-emails.html) / 05月22日 15:58
 - [无题|NOTE](https://hp-l.github.io/2025/05/21/170905/) / 05月21日 17:09
 - [Windows 11 将提供应用跨设备恢复体验，用户可在 PC 上无缝继续使用 Android 应用](https://windiscover.com/posts/windows-11-cross-device-resume-experience-android-app-windows.html) / 05月21日 12:03
-- [PowerToys 0.91.1 更新发布，改进命令面板及快速重音等功能](https://windiscover.com/posts/powertoys-0-91-1-update-fixes-cmdpal-workspaces-and-quick-accent.html) / 05月21日 06:10
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [From Likelihood to Fitness: Improving Variant Effect Prediction in Protein and Genome Language Models](https://www.biorxiv.org/content/10.1101/2025.05.20.655154v1?rss=1) / 05月24日 08:00
+- [Bimodal peptide collision cross section distribution reflects two stable conformations in the gas phase](https://www.biorxiv.org/content/10.1101/2025.05.19.654929v1?rss=1) / 05月24日 08:00
+- [Sequence alignment with k-bounded matching statistics](https://www.biorxiv.org/content/10.1101/2025.05.19.654936v1?rss=1) / 05月24日 08:00
 - [Comparative Analysis of Deep Learning Models for Predicting Causative Regulatory Variants](https://www.biorxiv.org/content/10.1101/2025.05.19.654920v1?rss=1) / 05月24日 08:00
 - [RL-Finetuning of OpenAI o1-mini to Enhance Biomedical Reasoning](https://www.biorxiv.org/content/10.1101/2025.05.19.654988v1?rss=1) / 05月24日 08:00
 - [sandwrm: an R package for estimating Wright's neighborhood size and species-level genetic diversity](https://www.biorxiv.org/content/10.1101/2025.05.19.654925v1?rss=1) / 05月24日 08:00
 - [Cross-Species Prediction of Histone Modifications in Plants via Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.19.655006v1?rss=1) / 05月24日 08:00
 - [AlphaFold3 for Non-canonical Cyclic Peptide Modeling: Hierarchical Benchmarking Reveals Accuracy and Practical Guidelines](https://www.biorxiv.org/content/10.1101/2025.05.24.655528v1?rss=1) / 05月24日 08:00
+- [Can ancient DNA and other forms of time-sampled data aid in the inference of negative frequency dependent selection?](https://www.biorxiv.org/content/10.1101/2025.05.24.655935v1?rss=1) / 05月24日 08:00
 - [Human genetic variation shapes the antibody repertoire across B cell development](https://www.biorxiv.org/content/10.1101/2025.05.19.654982v1?rss=1) / 05月24日 08:00
 - [High-throughput linear amplification for single-cell template strand sequencing with sci-L3-Strand-seq](https://www.biorxiv.org/content/10.1101/2025.05.19.654945v1?rss=1) / 05月24日 08:00
 - [Evaluating the practical aspects and performance of commercial single-cell RNA sequencing technologies](https://www.biorxiv.org/content/10.1101/2025.05.19.654974v1?rss=1) / 05月24日 08:00
@@ -57,8 +61,4 @@
 - [Prevalence of Group II Introns in Phage Genomes](https://www.biorxiv.org/content/10.1101/2025.05.22.655115v1?rss=1) / 05月23日 08:00
 - [TEITbase: a database for transposable element (TE)-initiated transcripts in human cancers](https://www.biorxiv.org/content/10.1101/2025.05.19.654796v1?rss=1) / 05月23日 08:00
 - [EYKTHYR reveals transcriptional regulators of spatial gene programs](https://www.biorxiv.org/content/10.1101/2025.05.19.654884v1?rss=1) / 05月23日 08:00
-- [stTrace: Detecting Spatial-Temporal Domains from spatial transcriptome to Trace Developmental Path](https://www.biorxiv.org/content/10.1101/2025.05.19.654812v1?rss=1) / 05月23日 08:00
-- [upsAI: A high-accuracy machine learning classifier for predicting Plasmodium falciparum var gene upstream groups](https://www.biorxiv.org/content/10.1101/2025.05.19.654848v1?rss=1) / 05月23日 08:00
-- [RBPSignal: A deep learning approach for predicting RNA-Protein binding signals](https://www.biorxiv.org/content/10.1101/2025.05.19.654811v1?rss=1) / 05月23日 08:00
-- [Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform](https://www.biorxiv.org/content/10.1101/2025.05.19.654757v1?rss=1) / 05月23日 08:00
 <!--rss-papers:end-->
