@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月26日 02:23**
+**四川省/成都/成都 2025年05月26日 04:18**
 - 今天周一，白天☁️阴(18°~29°)，空气良(97)，夜间中雨
 - 明天周二，白天🌧️中雨(18°~24°)，空气良(62)，夜间多云
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月26日 02:23**
+**四川省/宜宾/宜宾 2025年05月26日 04:18**
 - 今天周一，白天☁️阴(21°~32°)，空气良(90)，夜间小雨
 - 明天周二，白天🌧️小雨(18°~22°)，空气良(61)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -39,6 +39,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Improved open modification searching via unified spectral search with predicted libraries and enhanced vector representations in ANN-SoLo](https://www.biorxiv.org/content/10.1101/2025.05.20.655174v1?rss=1) / 05月25日 08:00
 - [Saliva-based Biomarkers for Predicting Gastric Cancer](https://www.biorxiv.org/content/10.1101/2025.05.20.655204v1?rss=1) / 05月25日 08:00
 - [Partitioned Multi-MUM finding for scalable pangenomics](https://www.biorxiv.org/content/10.1101/2025.05.20.654611v1?rss=1) / 05月25日 08:00
 - [De novo genome assemblies of threatened Asian hornbills (Bucerotidae) reveal declining population trajectories during the late Pleistocene](https://www.biorxiv.org/content/10.1101/2025.05.20.655227v1?rss=1) / 05月25日 08:00
@@ -58,5 +59,4 @@
 - [Evaluating the practical aspects and performance of commercial single-cell RNA sequencing technologies](https://www.biorxiv.org/content/10.1101/2025.05.19.654974v1?rss=1) / 05月24日 08:00
 - [Assessment of dispersion metrics for estimating single-cell transcriptional variability](https://www.biorxiv.org/content/10.1101/2025.05.19.654854v1?rss=1) / 05月24日 08:00
 - [Genome Report: Genome of the Amazon Guppy (Poecilia bifurca) reveals conservation of sex chromosomes and dosage compensation](https://www.biorxiv.org/content/10.1101/2025.05.19.654947v1?rss=1) / 05月24日 08:00
-- [De Bruijn Graph Partitioning for Scalable and Accurate DNA Storage Processing](https://www.biorxiv.org/content/10.1101/2025.05.19.654814v1?rss=1) / 05月23日 08:00
 <!--rss-papers:end-->
