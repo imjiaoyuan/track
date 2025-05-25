@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月25日 12:24**
+**四川省/成都/成都 2025年05月25日 14:24**
 - 今天周日，白天🌤️多云(17°~30°)，空气良(96)，夜间晴
 - 明天周一，白天🌧️小雨(19°~30°)，空气良(99)，夜间大雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月25日 12:25**
+**四川省/宜宾/宜宾 2025年05月25日 14:24**
 - 今天周日，白天☁️阴(19°~29°)，空气良(83)
 - 明天周一，白天☁️阴(21°~31°)，空气良(87)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,7 +41,16 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Comparative Analysis of Deep Learning Models for Predicting Causative Regulatory Variants](https://www.biorxiv.org/content/10.1101/2025.05.19.654920v1?rss=1) / 05月24日 08:00
+- [RL-Finetuning of OpenAI o1-mini to Enhance Biomedical Reasoning](https://www.biorxiv.org/content/10.1101/2025.05.19.654988v1?rss=1) / 05月24日 08:00
+- [sandwrm: an R package for estimating Wright's neighborhood size and species-level genetic diversity](https://www.biorxiv.org/content/10.1101/2025.05.19.654925v1?rss=1) / 05月24日 08:00
+- [Cross-Species Prediction of Histone Modifications in Plants via Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.19.655006v1?rss=1) / 05月24日 08:00
 - [AlphaFold3 for Non-canonical Cyclic Peptide Modeling: Hierarchical Benchmarking Reveals Accuracy and Practical Guidelines](https://www.biorxiv.org/content/10.1101/2025.05.24.655528v1?rss=1) / 05月24日 08:00
+- [Human genetic variation shapes the antibody repertoire across B cell development](https://www.biorxiv.org/content/10.1101/2025.05.19.654982v1?rss=1) / 05月24日 08:00
+- [High-throughput linear amplification for single-cell template strand sequencing with sci-L3-Strand-seq](https://www.biorxiv.org/content/10.1101/2025.05.19.654945v1?rss=1) / 05月24日 08:00
+- [Evaluating the practical aspects and performance of commercial single-cell RNA sequencing technologies](https://www.biorxiv.org/content/10.1101/2025.05.19.654974v1?rss=1) / 05月24日 08:00
+- [Assessment of dispersion metrics for estimating single-cell transcriptional variability](https://www.biorxiv.org/content/10.1101/2025.05.19.654854v1?rss=1) / 05月24日 08:00
+- [Genome Report: Genome of the Amazon Guppy (Poecilia bifurca) reveals conservation of sex chromosomes and dosage compensation](https://www.biorxiv.org/content/10.1101/2025.05.19.654947v1?rss=1) / 05月24日 08:00
 - [De Bruijn Graph Partitioning for Scalable and Accurate DNA Storage Processing](https://www.biorxiv.org/content/10.1101/2025.05.19.654814v1?rss=1) / 05月23日 08:00
 - [PEARL: Integrative multi-omics classification and omics feature discovery via deep graph learning](https://www.biorxiv.org/content/10.1101/2025.05.19.654754v1?rss=1) / 05月23日 08:00
 - [RareFold: Structure prediction and design of proteins with noncanonical amino acids](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1?rss=1) / 05月23日 08:00
@@ -52,13 +61,4 @@
 - [upsAI: A high-accuracy machine learning classifier for predicting Plasmodium falciparum var gene upstream groups](https://www.biorxiv.org/content/10.1101/2025.05.19.654848v1?rss=1) / 05月23日 08:00
 - [RBPSignal: A deep learning approach for predicting RNA-Protein binding signals](https://www.biorxiv.org/content/10.1101/2025.05.19.654811v1?rss=1) / 05月23日 08:00
 - [Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform](https://www.biorxiv.org/content/10.1101/2025.05.19.654757v1?rss=1) / 05月23日 08:00
-- [LeafyResNet: Fusarium Wilt Detection in Lettuce Using UAV RGB Imaging and Advanced Deep Learning Model](https://www.biorxiv.org/content/10.1101/2025.05.21.655416v1?rss=1) / 05月23日 08:00
-- [Skin microbiome composite features in Atopic Dermatitis via integration analysis across cohorts](https://www.biorxiv.org/content/10.1101/2025.05.18.653690v1?rss=1) / 05月23日 08:00
-- [SKiD: A Structure-Oriented Kinetics Database of Enzyme-Substrate Interactions](https://www.biorxiv.org/content/10.1101/2025.05.18.654770v1?rss=1) / 05月23日 08:00
-- [Memo-Patho: Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1?rss=1) / 05月23日 08:00
-- [Accurate prediction of protein stability changes from single mutations using self-distillation and antisymmetric constraint strategies](https://www.biorxiv.org/content/10.1101/2025.05.18.654422v1?rss=1) / 05月23日 08:00
-- [Maximum Entropy in the Gaussian Network Model: A Thermodynamic Reference State for Protein Dynamics](https://www.biorxiv.org/content/10.1101/2025.05.18.654696v1?rss=1) / 05月23日 08:00
-- [Impact of Data Error on Phylogenetic Network Inference from Gene Trees Under the Multispecies Network Coalescent](https://www.biorxiv.org/content/10.1101/2025.05.18.654708v1?rss=1) / 05月23日 08:00
-- [Catalytic pocket-informed augmentation of enzyme kinetic parameters prediction via hierarchical graph learning](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1?rss=1) / 05月23日 08:00
-- [Transposable elements drive species-specific and tissue-specific transcriptomes in human development](https://www.biorxiv.org/content/10.1101/2025.05.19.654775v1?rss=1) / 05月23日 08:00
 <!--rss-papers:end-->
