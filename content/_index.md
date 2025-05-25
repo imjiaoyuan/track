@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月25日 20:34**
-- 今天周日，白天🌤️多云(20°~30°)，空气良(89)
-- 明天周一，白天☁️阴(18°~29°)，空气良(90)，夜间中雨
+**四川省/成都/成都 2025年05月25日 22:15**
+- 今天周日，白天🌤️多云(20°~30°)，空气良(87)
+- 明天周一，白天☁️阴(18°~29°)，空气良(96)，夜间中雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月25日 20:34**
+**四川省/宜宾/宜宾 2025年05月25日 22:15**
 - 今天周日，白天☁️阴(18°~29°)，空气良(78)，夜间多云
-- 明天周一，白天☁️阴(21°~32°)，空气良(92)，夜间小雨
+- 明天周一，白天☁️阴(21°~32°)，空气良(88)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [2025 年度 618 正版软件促销推荐](https://windiscover.com/posts/618-2025-geniune-apps-deals.html) / 22:01
 - [猫鱼周刊 vol. 066 3D 打印入门体验](https://ameow.xyz/archives/weekly-066) / 19:43
 - [隐说 No.7 东拼西凑的见闻不是博学](https://wangyurui.com/posts/yin-shuo-no-7-dong-pin-xi-cou-bu-shi-bo-xue-cfd29bad) / 19:37
 - [战略防御的智慧](https://wangyurui.com/posts/zai-du-mao-xuan-zhong-guo-ge-ming-zhan-zheng-de-d4d1c3b9) / 19:33
@@ -35,11 +36,13 @@
 - [文字的速度终于赶上了短视频](https://1q43.blog/post/11145/) / 05月23日 12:19
 - [买大疆 Action 5 pro 和 Pocket 3 的故事](https://www.ntiy.com/2292.html) / 05月23日 10:18
 - [画图、截图工具和记事本应用再次获得一系列 AI 新功能加持](https://windiscover.com/posts/paint-snipping-tool-notepad-got-a-series-of-new-ai-features.html) / 05月23日 08:37
-- [科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html) / 05月23日 08:12
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Association of the TNFRSF1B-rs1061622 variant with nonresponse to infliximab in ulcerative colitis](https://www.nature.com/articles/s41598-025-02463-4) / 08:00
+
 **历史记录**
 - [From Likelihood to Fitness: Improving Variant Effect Prediction in Protein and Genome Language Models](https://www.biorxiv.org/content/10.1101/2025.05.20.655154v1?rss=1) / 05月24日 08:00
 - [Bimodal peptide collision cross section distribution reflects two stable conformations in the gas phase](https://www.biorxiv.org/content/10.1101/2025.05.19.654929v1?rss=1) / 05月24日 08:00
@@ -60,5 +63,4 @@
 - [RareFold: Structure prediction and design of proteins with noncanonical amino acids](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1?rss=1) / 05月23日 08:00
 - [Prevalence of Group II Introns in Phage Genomes](https://www.biorxiv.org/content/10.1101/2025.05.22.655115v1?rss=1) / 05月23日 08:00
 - [TEITbase: a database for transposable element (TE)-initiated transcripts in human cancers](https://www.biorxiv.org/content/10.1101/2025.05.19.654796v1?rss=1) / 05月23日 08:00
-- [EYKTHYR reveals transcriptional regulators of spatial gene programs](https://www.biorxiv.org/content/10.1101/2025.05.19.654884v1?rss=1) / 05月23日 08:00
 <!--rss-papers:end-->
