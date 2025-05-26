@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月26日 11:15**
-- 今天周一，白天🌧️小雨(19°~29°)，空气良(92)，夜间中雨
+**四川省/成都/成都 2025年05月26日 12:24**
+- 今天周一，白天🌧️小雨(19°~29°)，空气良(98)，夜间中雨
 - 明天周二，白天🌧️中雨(17°~23°)，空气良(62)，夜间多云
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月26日 11:15**
-- 今天周一，白天☁️阴(20°~32°)，空气良(92)，夜间小雨
-- 明天周二，白天🌧️小雨(18°~23°)，空气良(59)，夜间中雨
+**四川省/宜宾/宜宾 2025年05月26日 12:24**
+- 今天周一，白天☁️阴(20°~32°)，空气良(83)，夜间小雨
+- 明天周二，白天🌧️小雨(18°~23°)，空气良(65)，夜间中雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Siibra: A software tool suite for realizing a Multilevel Human Brain Atlas from complex data resources](https://www.biorxiv.org/content/10.1101/2025.05.20.655042v1?rss=1) / 05月25日 08:00
 - [Improved open modification searching via unified spectral search with predicted libraries and enhanced vector representations in ANN-SoLo](https://www.biorxiv.org/content/10.1101/2025.05.20.655174v1?rss=1) / 05月25日 08:00
 - [Saliva-based Biomarkers for Predicting Gastric Cancer](https://www.biorxiv.org/content/10.1101/2025.05.20.655204v1?rss=1) / 05月25日 08:00
 - [Partitioned Multi-MUM finding for scalable pangenomics](https://www.biorxiv.org/content/10.1101/2025.05.20.654611v1?rss=1) / 05月25日 08:00
@@ -60,5 +61,4 @@
 - [High-throughput linear amplification for single-cell template strand sequencing with sci-L3-Strand-seq](https://www.biorxiv.org/content/10.1101/2025.05.19.654945v1?rss=1) / 05月24日 08:00
 - [Evaluating the practical aspects and performance of commercial single-cell RNA sequencing technologies](https://www.biorxiv.org/content/10.1101/2025.05.19.654974v1?rss=1) / 05月24日 08:00
 - [Assessment of dispersion metrics for estimating single-cell transcriptional variability](https://www.biorxiv.org/content/10.1101/2025.05.19.654854v1?rss=1) / 05月24日 08:00
-- [Genome Report: Genome of the Amazon Guppy (Poecilia bifurca) reveals conservation of sex chromosomes and dosage compensation](https://www.biorxiv.org/content/10.1101/2025.05.19.654947v1?rss=1) / 05月24日 08:00
 <!--rss-papers:end-->
