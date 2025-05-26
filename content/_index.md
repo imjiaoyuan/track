@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月26日 12:24**
-- 今天周一，白天🌧️小雨(19°~29°)，空气良(98)，夜间中雨
+**四川省/成都/成都 2025年05月26日 14:28**
+- 今天周一，白天🌧️小雨(19°~30°)，空气良(98)，夜间中雨
 - 明天周二，白天🌧️中雨(17°~23°)，空气良(62)，夜间多云
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月26日 12:24**
+**四川省/宜宾/宜宾 2025年05月26日 14:28**
 - 今天周一，白天☁️阴(20°~32°)，空气良(83)，夜间小雨
 - 明天周二，白天🌧️小雨(18°~23°)，空气良(65)，夜间中雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -14,6 +14,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [下载 | Windows 11 24H2 （含 5 月安全更新，简中）官方镜像](https://windiscover.com/posts/windows-11-24h2-with-may-2025-update-iso.html) / 14:04
 - [赛博家务之cloudflared访问n8n](https://blog.pursuitus.com/cloudflaredandn8n.html) / 09:04
 - [生活应该求稳还是求变？](http://m.wufazhuce.com/question/4374) / 06:25
 - [你进屋敲门了吗](http://m.wufazhuce.com/article/6797) / 06:25
@@ -35,16 +36,22 @@
 - [工作周年与AI焦虑：成长与挑战并存](https://innei.in/notes/192) / 05月23日 23:06
 - [Windows 截图工具即将加入“保存录屏为 GIF 动图格式“选项](https://windiscover.com/posts/snipping-tool-to-add-save-screen-recordings-as-gif-option.html) / 05月23日 21:24
 - [文字的速度终于赶上了短视频](https://1q43.blog/post/11145/) / 05月23日 12:19
-- [买大疆 Action 5 pro 和 Pocket 3 的故事](https://www.ntiy.com/2292.html) / 05月23日 10:18
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [ChemBERTaPolyPharm: Modeling polypharmacy side effects with ChemBERTa and PubMed Encoders](https://www.biorxiv.org/content/10.1101/2025.05.20.655109v1?rss=1) / 05月25日 08:00
+- [AI-Guided Discovery and Optimization of Antimicrobial Peptides Through Species-Aware Language Model](https://www.biorxiv.org/content/10.1101/2025.05.20.654992v1?rss=1) / 05月25日 08:00
+- [A statistical model for quantitative analysis of single-molecule footprinting data](https://www.biorxiv.org/content/10.1101/2025.05.20.655044v1?rss=1) / 05月25日 08:00
 - [Siibra: A software tool suite for realizing a Multilevel Human Brain Atlas from complex data resources](https://www.biorxiv.org/content/10.1101/2025.05.20.655042v1?rss=1) / 05月25日 08:00
 - [Improved open modification searching via unified spectral search with predicted libraries and enhanced vector representations in ANN-SoLo](https://www.biorxiv.org/content/10.1101/2025.05.20.655174v1?rss=1) / 05月25日 08:00
 - [Saliva-based Biomarkers for Predicting Gastric Cancer](https://www.biorxiv.org/content/10.1101/2025.05.20.655204v1?rss=1) / 05月25日 08:00
 - [Partitioned Multi-MUM finding for scalable pangenomics](https://www.biorxiv.org/content/10.1101/2025.05.20.654611v1?rss=1) / 05月25日 08:00
+- [RNA-sequencing Strain-specific Genome Alignment Increases Differential Expression Findings in Comparison of C57BL/6J and DBA/2J Nucleus Accumbens](https://www.biorxiv.org/content/10.1101/2025.05.25.656014v1?rss=1) / 05月25日 08:00
+- [Genome assembly and annotation of the naked mole rat Heterocephalus glaber reared in Japan](https://www.biorxiv.org/content/10.1101/2025.05.20.654782v1?rss=1) / 05月25日 08:00
+- [Unmasking Human T Cell Receptor Germline Diversity: 335 Novel Alleles Identified in 47 Pangenome Reference Individuals Using the gAIRR Suite](https://www.biorxiv.org/content/10.1101/2025.05.24.655452v1?rss=1) / 05月25日 08:00
+- [Genome-wide screen uncovers novel host factors for L-A virus maintenance and a mutualistic-symbiosis relationship in yeast](https://www.biorxiv.org/content/10.1101/2025.05.20.655038v1?rss=1) / 05月25日 08:00
 - [De novo genome assemblies of threatened Asian hornbills (Bucerotidae) reveal declining population trajectories during the late Pleistocene](https://www.biorxiv.org/content/10.1101/2025.05.20.655227v1?rss=1) / 05月25日 08:00
 - [Association of the TNFRSF1B-rs1061622 variant with nonresponse to infliximab in ulcerative colitis](https://www.nature.com/articles/s41598-025-02463-4) / 05月25日 08:00
 - [Multi-perspective dynamic consistency learning for semi-supervised medical image segmentation](https://www.nature.com/articles/s41598-025-03124-2) / 05月25日 08:00
@@ -54,11 +61,4 @@
 - [Comparative Analysis of Deep Learning Models for Predicting Causative Regulatory Variants](https://www.biorxiv.org/content/10.1101/2025.05.19.654920v1?rss=1) / 05月24日 08:00
 - [RL-Finetuning of OpenAI o1-mini to Enhance Biomedical Reasoning](https://www.biorxiv.org/content/10.1101/2025.05.19.654988v1?rss=1) / 05月24日 08:00
 - [sandwrm: an R package for estimating Wright's neighborhood size and species-level genetic diversity](https://www.biorxiv.org/content/10.1101/2025.05.19.654925v1?rss=1) / 05月24日 08:00
-- [Cross-Species Prediction of Histone Modifications in Plants via Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.19.655006v1?rss=1) / 05月24日 08:00
-- [AlphaFold3 for Non-canonical Cyclic Peptide Modeling: Hierarchical Benchmarking Reveals Accuracy and Practical Guidelines](https://www.biorxiv.org/content/10.1101/2025.05.24.655528v1?rss=1) / 05月24日 08:00
-- [Can ancient DNA and other forms of time-sampled data aid in the inference of negative frequency dependent selection?](https://www.biorxiv.org/content/10.1101/2025.05.24.655935v1?rss=1) / 05月24日 08:00
-- [Human genetic variation shapes the antibody repertoire across B cell development](https://www.biorxiv.org/content/10.1101/2025.05.19.654982v1?rss=1) / 05月24日 08:00
-- [High-throughput linear amplification for single-cell template strand sequencing with sci-L3-Strand-seq](https://www.biorxiv.org/content/10.1101/2025.05.19.654945v1?rss=1) / 05月24日 08:00
-- [Evaluating the practical aspects and performance of commercial single-cell RNA sequencing technologies](https://www.biorxiv.org/content/10.1101/2025.05.19.654974v1?rss=1) / 05月24日 08:00
-- [Assessment of dispersion metrics for estimating single-cell transcriptional variability](https://www.biorxiv.org/content/10.1101/2025.05.19.654854v1?rss=1) / 05月24日 08:00
 <!--rss-papers:end-->
