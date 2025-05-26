@@ -1,19 +1,19 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月27日 04:19**
+**四川省/成都/成都 2025年05月27日 06:17**
 ⚠️ **预警信息**
 -  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月26日15时40分发布暴雨蓝色预警：5月26日20时到27日20时：德阳、成都、雅安、眉山、资阳5市，广元、绵阳2市西部，乐山、内江2市北部，遂宁南部，阿坝州北部东部和凉山州东北部南部有大雨到暴雨（雨量30～80毫米），局地有大暴雨（100～120毫米），最大小时雨量20～40毫米。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
 
-- 今天周二，白天🌧️中雨(17°~21°)，空气良(55)，夜间多云
-- 明天周三，白天☀️晴(18°~29°)，空气良(74)
+- 今天周二，白天🌧️小雨(17°~22°)，空气良(55)，夜间多云
+- 明天周三，白天🌤️多云(18°~29°)，空气良(74)
 - 有较强降水，路面比较湿滑，交通气象条件一般，刹车距离延长，事故易发期，请注意车距。
 
-**四川省/宜宾/宜宾 2025年05月27日 04:19**
+**四川省/宜宾/宜宾 2025年05月27日 06:17**
 ⚠️ **预警信息**
 -  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月26日15时40分发布暴雨蓝色预警：5月26日20时到27日20时：德阳、成都、雅安、眉山、资阳5市，广元、绵阳2市西部，乐山、内江2市北部，遂宁南部，阿坝州北部东部和凉山州东北部南部有大雨到暴雨（雨量30～80毫米），局地有大暴雨（100～120毫米），最大小时雨量20～40毫米。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
 
 - 今天周二，白天🌧️小雨(18°~24°)，空气良(54)，夜间中雨
-- 明天周三，白天🌧️小雨(17°~28°)，空气良(61)，夜间晴
+- 明天周三，白天☁️阴(18°~29°)，空气良(61)，夜间晴
 - 有较强降水，路面比较湿滑，交通气象条件一般，刹车距离延长，事故易发期，请注意车距。
 <!--qweather:end-->
 ---
@@ -45,12 +45,17 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [OptiK: An Entropy-Driven Framework for Optimal k-mer Size Selection for Bacterial Genomics](https://www.biorxiv.org/content/10.1101/2025.05.21.655412v1?rss=1) / 05月26日 08:00
+- [Toggle-Untoggle: A cell segmentation tool with an interactive user verification interface.](https://www.biorxiv.org/content/10.1101/2025.05.21.655178v1?rss=1) / 05月26日 08:00
+- [Beyond accuracy, precision and TAE: Direct assay validation against product specification aligned with USP <1033>](https://www.biorxiv.org/content/10.1101/2025.05.21.655192v1?rss=1) / 05月26日 08:00
 - [Denoising Single-Cell RNA-Seq Data with a Deep Learning-Embedded Statistical Framework](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1?rss=1) / 05月26日 08:00
 - [EEG-to-fMRI Prediction for Neurofeedback: Evaluating Regularized Regression and Clustering Approaches](https://www.biorxiv.org/content/10.1101/2025.05.20.654907v1?rss=1) / 05月26日 08:00
 - [Unified nonparametric analysis of single-molecule spatial omics data using probabilistic indices](https://www.biorxiv.org/content/10.1101/2025.05.20.654270v1?rss=1) / 05月26日 08:00
 - [Advances in deep reinforcement learning enable better predictions of human behavior in time-continuous tasks](https://www.biorxiv.org/content/10.1101/2025.05.20.655119v1?rss=1) / 05月26日 08:00
 - [CellReasoner: A reasoning-enhanced large language model for cell type annotation](https://www.biorxiv.org/content/10.1101/2025.05.20.655112v1?rss=1) / 05月26日 08:00
 - [DeepAden: an explainable machine learning for substrate specificity prediction in nonribosomal peptide synthetases](https://www.biorxiv.org/content/10.1101/2025.05.21.655435v1?rss=1) / 05月26日 08:00
+- [Malaria parasite population genomics during an elimination program in Eastern Myanmar](https://www.biorxiv.org/content/10.1101/2025.05.21.655408v1?rss=1) / 05月26日 08:00
+- [StringTie3 Improves Total RNA-seq Assembly by Resolving Nascent and Mature Transcripts](https://www.biorxiv.org/content/10.1101/2025.05.21.655404v1?rss=1) / 05月26日 08:00
 - [Comparative genomics and transcriptomics on salt tolerance of Vigna luteola](https://www.biorxiv.org/content/10.1101/2025.05.21.653682v1?rss=1) / 05月26日 08:00
 - [A chromosome-level genome assembly of beet webworm, Loxostege sticticalis Linnaeus (Lepidoptera: Pyralidae)](https://www.nature.com/articles/s41597-025-04371-8) / 05月26日 08:00
 - [Methods for multiplexing single-cell multi-omics](https://www.nature.com/articles/s41592-025-02657-8) / 05月26日 08:00
@@ -60,9 +65,4 @@
 - [Siibra: A software tool suite for realizing a Multilevel Human Brain Atlas from complex data resources](https://www.biorxiv.org/content/10.1101/2025.05.20.655042v1?rss=1) / 05月25日 08:00
 - [Improved open modification searching via unified spectral search with predicted libraries and enhanced vector representations in ANN-SoLo](https://www.biorxiv.org/content/10.1101/2025.05.20.655174v1?rss=1) / 05月25日 08:00
 - [Saliva-based Biomarkers for Predicting Gastric Cancer](https://www.biorxiv.org/content/10.1101/2025.05.20.655204v1?rss=1) / 05月25日 08:00
-- [Partitioned Multi-MUM finding for scalable pangenomics](https://www.biorxiv.org/content/10.1101/2025.05.20.654611v1?rss=1) / 05月25日 08:00
-- [RNA-sequencing Strain-specific Genome Alignment Increases Differential Expression Findings in Comparison of C57BL/6J and DBA/2J Nucleus Accumbens](https://www.biorxiv.org/content/10.1101/2025.05.25.656014v1?rss=1) / 05月25日 08:00
-- [Genome assembly and annotation of the naked mole rat Heterocephalus glaber reared in Japan](https://www.biorxiv.org/content/10.1101/2025.05.20.654782v1?rss=1) / 05月25日 08:00
-- [Unmasking Human T Cell Receptor Germline Diversity: 335 Novel Alleles Identified in 47 Pangenome Reference Individuals Using the gAIRR Suite](https://www.biorxiv.org/content/10.1101/2025.05.24.655452v1?rss=1) / 05月25日 08:00
-- [Genome-wide screen uncovers novel host factors for L-A virus maintenance and a mutualistic-symbiosis relationship in yeast](https://www.biorxiv.org/content/10.1101/2025.05.20.655038v1?rss=1) / 05月25日 08:00
 <!--rss-papers:end-->
