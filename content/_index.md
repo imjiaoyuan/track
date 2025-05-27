@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月28日 04:20**
-- 今天周三，白天🌤️多云(19°~29°)，空气良(65)，夜间晴
-- 明天周四，白天🌤️多云(20°~29°)，空气良(77)，夜间小雨
+**四川省/成都/成都 2025年05月28日 06:17**
+- 今天周三，白天🌤️多云(18°~28°)，空气良(65)
+- 明天周四，白天🌤️多云(19°~28°)，空气良(77)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月28日 04:20**
-- 今天周三，白天☁️阴(18°~30°)，空气良(58)，夜间多云
-- 明天周四，白天☁️阴(21°~31°)，空气良(90)
+**四川省/宜宾/宜宾 2025年05月28日 06:17**
+- 今天周三，白天🌧️小雨(19°~29°)，空气良(58)，夜间阴
+- 明天周四，白天☁️阴(21°~31°)，空气良(90)，夜间小雨
 - 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [First full-genome alignment representative for the genus Pestivirus](https://www.biorxiv.org/content/10.1101/2025.05.22.655560v1?rss=1) / 05月27日 08:00
 - [JMod: Joint modeling of mass spectra for empowering multiplexed DIA proteomics](https://www.biorxiv.org/content/10.1101/2025.05.22.655512v1?rss=1) / 05月27日 08:00
 - [Identifying Positional Orthologs by Linear Programming](https://www.biorxiv.org/content/10.1101/2025.05.22.655535v1?rss=1) / 05月27日 08:00
 - [Advancing the Discovery of Phage-Host Interactions and Disease Classification from Metagenomic Profiles Using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.26.656232v1?rss=1) / 05月27日 08:00
@@ -60,5 +61,4 @@
 - [Performance of blood-based biomarkers for human circadian pacemaker phase: Training sets matter as much as feature selection methods](https://www.biorxiv.org/content/10.1101/2025.05.21.655317v1?rss=1) / 05月27日 08:00
 - [DNA sequence encoded conformational flexibility orchestrates pioneer transcription factor nucleosome interaction landscape](https://www.biorxiv.org/content/10.1101/2025.05.21.655105v1?rss=1) / 05月27日 08:00
 - [MassiveFold data for CASP16-CAPRI: a systematic massive sampling experiment](https://www.biorxiv.org/content/10.1101/2025.05.26.653955v1?rss=1) / 05月27日 08:00
-- [VIProDesign: Viral Protein Panel Design for Highly Variable Viruses to Evaluate Immune Responses and Identify Broadly Neutralizing Antibodies](https://www.biorxiv.org/content/10.1101/2025.05.21.654924v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
