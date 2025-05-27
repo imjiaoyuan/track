@@ -1,14 +1,14 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月27日 18:20**
+**四川省/成都/成都 2025年05月27日 20:38**
 - 今天周二，白天🌧️中雨(18°~22°)，空气良(56)，夜间多云
 - 明天周三，白天🌤️多云(19°~29°)，空气良(61)，夜间晴
-- 有较强降水，路面比较湿滑，交通气象条件一般，刹车距离延长，事故易发期，请注意车距。
+- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月27日 18:20**
+**四川省/宜宾/宜宾 2025年05月27日 20:39**
 - 今天周二，白天🌧️小雨(18°~24°)，空气优(45)，夜间中雨
 - 明天周三，白天☁️阴(18°~30°)，空气良(58)，夜间多云
-- 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
+- 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
@@ -41,6 +41,10 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [PMScanR: an R package for the large-scale identification, analysis, and visualization of protein motifs](https://www.biorxiv.org/content/10.1101/2025.05.23.655703v1?rss=1) / 08:00
+- [Accurate detection of pathogenic structural variants guided by multi-platform comparison](https://www.biorxiv.org/content/10.1101/2025.05.21.655285v1?rss=1) / 08:00
+- [Graphical and Interactive Spatial Proteomics Image Analysis Workflow](https://www.biorxiv.org/content/10.1101/2025.05.23.655879v1?rss=1) / 08:00
+- [Levels of telomerase in cancer are contingent on senescence and inflammation at bulk tissue and single-cell spatial resolution](https://www.biorxiv.org/content/10.1101/2025.05.21.655338v1?rss=1) / 08:00
 - [Performance of blood-based biomarkers for human circadian pacemaker phase: Training sets matter as much as feature selection methods](https://www.biorxiv.org/content/10.1101/2025.05.21.655317v1?rss=1) / 08:00
 - [DNA sequence encoded conformational flexibility orchestrates pioneer transcription factor nucleosome interaction landscape](https://www.biorxiv.org/content/10.1101/2025.05.21.655105v1?rss=1) / 08:00
 - [MassiveFold data for CASP16-CAPRI: a systematic massive sampling experiment](https://www.biorxiv.org/content/10.1101/2025.05.26.653955v1?rss=1) / 08:00
@@ -49,7 +53,9 @@
 - [DynaRNA: Dynamic RNA Conformation Ensemble Generation with Diffusion Model](https://www.biorxiv.org/content/10.1101/2025.05.22.655453v1?rss=1) / 08:00
 - [Artemisia Database: A Comprehensive Resource for Gene Expression and Functional Insights in Artemisia annua](https://www.biorxiv.org/content/10.1101/2025.05.21.655314v1?rss=1) / 08:00
 - [SCALE: Unsupervised Multi-Scale Domain Identification in Spatial Omics Data](https://www.biorxiv.org/content/10.1101/2025.05.21.653987v1?rss=1) / 08:00
+- [Novel Highly Pathogenic Avian Influenza (A)H5N1 Triple Reassortant in Argentina, 2025](https://www.biorxiv.org/content/10.1101/2025.05.23.655175v1?rss=1) / 08:00
 - [Peripheral blood cell-type and sex-specific signatures of alcohol misuse revealed by single-cell transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.21.655347v1?rss=1) / 08:00
+- [Chromosome-level genome assemblies of Verpa bohemica and Verpa conica](https://www.nature.com/articles/s41597-025-05224-0) / 08:00
 - [Chromosome-level assemblies of the White bream Parabramis pekinensis](https://www.nature.com/articles/s41597-025-04821-3) / 08:00
 - [Interpretable niche-based cell‒cell communication inference using multi-view graph neural networks](https://www.nature.com/articles/s43588-025-00809-6) / 08:00
 - [Conservation of regulatory elements with highly diverged sequences across large evolutionary distances](https://www.nature.com/articles/s41588-025-02202-5) / 08:00
@@ -57,10 +63,4 @@
 
 **历史记录**
 - [Gene set optimization for cancer transcriptomics using sparse principal component analysis](https://www.biorxiv.org/content/10.1101/2025.05.21.655279v1?rss=1) / 05月26日 08:00
-- [CSFeatures improves identification of cell type-specific differential features in single-cell and spatial omics data](https://www.biorxiv.org/content/10.1101/2025.05.21.655244v1?rss=1) / 05月26日 08:00
-- [TypeSINE: Genome-Wide Detection of SINE Retrotransposon Polymorphisms Reveals Functional Variants Linked to Body Size Variation in Pigs](https://www.biorxiv.org/content/10.1101/2025.05.21.653756v1?rss=1) / 05月26日 08:00
-- [OptiK: An Entropy-Driven Framework for Optimal k-mer Size Selection for Bacterial Genomics](https://www.biorxiv.org/content/10.1101/2025.05.21.655412v1?rss=1) / 05月26日 08:00
-- [Toggle-Untoggle: A cell segmentation tool with an interactive user verification interface.](https://www.biorxiv.org/content/10.1101/2025.05.21.655178v1?rss=1) / 05月26日 08:00
-- [Beyond accuracy, precision and TAE: Direct assay validation against product specification aligned with USP <1033>](https://www.biorxiv.org/content/10.1101/2025.05.21.655192v1?rss=1) / 05月26日 08:00
-- [Denoising Single-Cell RNA-Seq Data with a Deep Learning-Embedded Statistical Framework](https://www.biorxiv.org/content/10.1101/2025.05.20.655104v1?rss=1) / 05月26日 08:00
 <!--rss-papers:end-->
