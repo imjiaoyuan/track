@@ -1,31 +1,33 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月27日 06:17**
+**四川省/成都/成都 2025年05月27日 09:26**
 ⚠️ **预警信息**
 -  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月26日15时40分发布暴雨蓝色预警：5月26日20时到27日20时：德阳、成都、雅安、眉山、资阳5市，广元、绵阳2市西部，乐山、内江2市北部，遂宁南部，阿坝州北部东部和凉山州东北部南部有大雨到暴雨（雨量30～80毫米），局地有大暴雨（100～120毫米），最大小时雨量20～40毫米。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
 
-- 今天周二，白天🌧️小雨(17°~22°)，空气良(55)，夜间多云
-- 明天周三，白天🌤️多云(18°~29°)，空气良(74)
+- 今天周二，白天🌧️中雨(17°~22°)，空气良(51)，夜间多云
+- 明天周三，白天🌤️多云(18°~29°)，空气良(65)，夜间晴
 - 有较强降水，路面比较湿滑，交通气象条件一般，刹车距离延长，事故易发期，请注意车距。
 
-**四川省/宜宾/宜宾 2025年05月27日 06:17**
+**四川省/宜宾/宜宾 2025年05月27日 09:26**
 ⚠️ **预警信息**
 -  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月26日15时40分发布暴雨蓝色预警：5月26日20时到27日20时：德阳、成都、雅安、眉山、资阳5市，广元、绵阳2市西部，乐山、内江2市北部，遂宁南部，阿坝州北部东部和凉山州东北部南部有大雨到暴雨（雨量30～80毫米），局地有大暴雨（100～120毫米），最大小时雨量20～40毫米。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
 
-- 今天周二，白天🌧️小雨(18°~24°)，空气良(54)，夜间中雨
-- 明天周三，白天☁️阴(18°~29°)，空气良(61)，夜间晴
-- 有较强降水，路面比较湿滑，交通气象条件一般，刹车距离延长，事故易发期，请注意车距。
+- 今天周二，白天🌧️小雨(18°~24°)，空气良(53)，夜间中雨
+- 明天周三，白天☁️阴(18°~29°)，空气良(58)，夜间晴
+- 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [如何解决“季节性情绪失调”？](http://m.wufazhuce.com/question/4375) / 06:25
+- [我们对人生或者感情的那一点点窥视](http://m.wufazhuce.com/article/6809) / 06:25
+- [VOL.4616](http://m.wufazhuce.com/one/4763) / 06:25
+
 **历史记录**
 - [giteeToGithub镜像指南](https://hp-l.github.io/2025/05/26/152454/) / 05月26日 15:24
 - [下载 | Windows 11 24H2 （含 5 月安全更新，简中）官方镜像](https://windiscover.com/posts/windows-11-24h2-with-may-2025-update-iso.html) / 05月26日 14:04
 - [赛博家务之cloudflared访问n8n](https://blog.pursuitus.com/cloudflaredandn8n.html) / 05月26日 09:04
-- [生活应该求稳还是求变？](http://m.wufazhuce.com/question/4374) / 05月26日 06:25
-- [你进屋敲门了吗](http://m.wufazhuce.com/article/6797) / 05月26日 06:25
-- [VOL.4615](http://m.wufazhuce.com/one/4762) / 05月26日 06:25
 - [2025 年度 618 正版软件促销推荐](https://windiscover.com/posts/618-2025-geniune-apps-deals.html) / 05月25日 22:01
 - [猫鱼周刊 vol. 066 3D 打印入门体验](https://ameow.xyz/archives/weekly-066) / 05月25日 19:43
 - [隐说 No.7 东拼西凑的见闻不是博学](https://wangyurui.com/posts/yin-shuo-no-7-dong-pin-xi-cou-bu-shi-bo-xue-cfd29bad) / 05月25日 19:37
@@ -45,6 +47,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Gene set optimization for cancer transcriptomics using sparse principal component analysis](https://www.biorxiv.org/content/10.1101/2025.05.21.655279v1?rss=1) / 05月26日 08:00
+- [CSFeatures improves identification of cell type-specific differential features in single-cell and spatial omics data](https://www.biorxiv.org/content/10.1101/2025.05.21.655244v1?rss=1) / 05月26日 08:00
+- [TypeSINE: Genome-Wide Detection of SINE Retrotransposon Polymorphisms Reveals Functional Variants Linked to Body Size Variation in Pigs](https://www.biorxiv.org/content/10.1101/2025.05.21.653756v1?rss=1) / 05月26日 08:00
 - [OptiK: An Entropy-Driven Framework for Optimal k-mer Size Selection for Bacterial Genomics](https://www.biorxiv.org/content/10.1101/2025.05.21.655412v1?rss=1) / 05月26日 08:00
 - [Toggle-Untoggle: A cell segmentation tool with an interactive user verification interface.](https://www.biorxiv.org/content/10.1101/2025.05.21.655178v1?rss=1) / 05月26日 08:00
 - [Beyond accuracy, precision and TAE: Direct assay validation against product specification aligned with USP <1033>](https://www.biorxiv.org/content/10.1101/2025.05.21.655192v1?rss=1) / 05月26日 08:00
@@ -54,6 +59,7 @@
 - [Advances in deep reinforcement learning enable better predictions of human behavior in time-continuous tasks](https://www.biorxiv.org/content/10.1101/2025.05.20.655119v1?rss=1) / 05月26日 08:00
 - [CellReasoner: A reasoning-enhanced large language model for cell type annotation](https://www.biorxiv.org/content/10.1101/2025.05.20.655112v1?rss=1) / 05月26日 08:00
 - [DeepAden: an explainable machine learning for substrate specificity prediction in nonribosomal peptide synthetases](https://www.biorxiv.org/content/10.1101/2025.05.21.655435v1?rss=1) / 05月26日 08:00
+- [Frustratingly easy domain adaptation for cross-speciestranscription factor binding prediction](https://www.biorxiv.org/content/10.1101/2025.05.21.655414v1?rss=1) / 05月26日 08:00
 - [Malaria parasite population genomics during an elimination program in Eastern Myanmar](https://www.biorxiv.org/content/10.1101/2025.05.21.655408v1?rss=1) / 05月26日 08:00
 - [StringTie3 Improves Total RNA-seq Assembly by Resolving Nascent and Mature Transcripts](https://www.biorxiv.org/content/10.1101/2025.05.21.655404v1?rss=1) / 05月26日 08:00
 - [Comparative genomics and transcriptomics on salt tolerance of Vigna luteola](https://www.biorxiv.org/content/10.1101/2025.05.21.653682v1?rss=1) / 05月26日 08:00
@@ -61,8 +67,4 @@
 - [Methods for multiplexing single-cell multi-omics](https://www.nature.com/articles/s41592-025-02657-8) / 05月26日 08:00
 - [ChemBERTaPolyPharm: Modeling polypharmacy side effects with ChemBERTa and PubMed Encoders](https://www.biorxiv.org/content/10.1101/2025.05.20.655109v1?rss=1) / 05月25日 08:00
 - [AI-Guided Discovery and Optimization of Antimicrobial Peptides Through Species-Aware Language Model](https://www.biorxiv.org/content/10.1101/2025.05.20.654992v1?rss=1) / 05月25日 08:00
-- [A statistical model for quantitative analysis of single-molecule footprinting data](https://www.biorxiv.org/content/10.1101/2025.05.20.655044v1?rss=1) / 05月25日 08:00
-- [Siibra: A software tool suite for realizing a Multilevel Human Brain Atlas from complex data resources](https://www.biorxiv.org/content/10.1101/2025.05.20.655042v1?rss=1) / 05月25日 08:00
-- [Improved open modification searching via unified spectral search with predicted libraries and enhanced vector representations in ANN-SoLo](https://www.biorxiv.org/content/10.1101/2025.05.20.655174v1?rss=1) / 05月25日 08:00
-- [Saliva-based Biomarkers for Predicting Gastric Cancer](https://www.biorxiv.org/content/10.1101/2025.05.20.655204v1?rss=1) / 05月25日 08:00
 <!--rss-papers:end-->
