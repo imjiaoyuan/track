@@ -1,14 +1,10 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月28日 00:24**
-- 今天周三，白天🌤️多云(19°~29°)，空气良(65)，夜间晴
-- 明天周四，白天🌤️多云(20°~29°)，空气良(77)，夜间小雨
-- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
+**Chengdu**
+- Failed: Network Error
 
-**四川省/宜宾/宜宾 2025年05月28日 00:24**
-- 今天周三，白天☁️阴(18°~30°)，空气良(58)，夜间多云
-- 明天周四，白天☁️阴(21°~31°)，空气良(90)
-- 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
+**Yibin**
+- Failed: Network Error
 <!--qweather:end-->
 ---
 # Blog Posts
@@ -39,6 +35,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Database for extended ligand-target analyses (DELTA): a new balanced resource for AI applications in drug discovery](https://www.biorxiv.org/content/10.1101/2025.05.22.655476v1?rss=1) / 05月27日 08:00
+- [Movi Color: fast and accurate long-read classification with the move structure](https://www.biorxiv.org/content/10.1101/2025.05.22.655637v1?rss=1) / 05月27日 08:00
+- [A resource and computational approach for quantifying gene editing allelism at single-cell resolution](https://www.biorxiv.org/content/10.1101/2025.05.22.653824v1?rss=1) / 05月27日 08:00
 - [Deep Learning-Based Methods for Automated Estimation of Insect Length, Volume, and Biomass](https://www.biorxiv.org/content/10.1101/2025.05.22.655251v1?rss=1) / 05月27日 08:00
 - [Deep Learning for Predicting Stem Cell Efficiency for use in Beta Cell Differentiation](https://www.biorxiv.org/content/10.1101/2025.05.22.652867v1?rss=1) / 05月27日 08:00
 - [metagRoot: A comprehensive database of protein families associated with plant root microbiomes](https://www.biorxiv.org/content/10.1101/2025.05.22.653656v1?rss=1) / 05月27日 08:00
@@ -56,7 +55,4 @@
 - [DynaRNA: Dynamic RNA Conformation Ensemble Generation with Diffusion Model](https://www.biorxiv.org/content/10.1101/2025.05.22.655453v1?rss=1) / 05月27日 08:00
 - [Artemisia Database: A Comprehensive Resource for Gene Expression and Functional Insights in Artemisia annua](https://www.biorxiv.org/content/10.1101/2025.05.21.655314v1?rss=1) / 05月27日 08:00
 - [SCALE: Unsupervised Multi-Scale Domain Identification in Spatial Omics Data](https://www.biorxiv.org/content/10.1101/2025.05.21.653987v1?rss=1) / 05月27日 08:00
-- [Macrophage-like vascular smooth muscle cells dominate early atherosclerosis and are inhibited by targeting iron regulation](https://www.biorxiv.org/content/10.1101/2025.05.22.655434v1?rss=1) / 05月27日 08:00
-- [Novel Highly Pathogenic Avian Influenza (A)H5N1 Triple Reassortant in Argentina, 2025](https://www.biorxiv.org/content/10.1101/2025.05.23.655175v1?rss=1) / 05月27日 08:00
-- [Peripheral blood cell-type and sex-specific signatures of alcohol misuse revealed by single-cell transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.21.655347v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
