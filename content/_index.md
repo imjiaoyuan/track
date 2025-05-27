@@ -1,19 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月27日 14:27**
-⚠️ **预警信息**
--  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月26日15时40分发布暴雨蓝色预警：5月26日20时到27日20时：德阳、成都、雅安、眉山、资阳5市，广元、绵阳2市西部，乐山、内江2市北部，遂宁南部，阿坝州北部东部和凉山州东北部南部有大雨到暴雨（雨量30～80毫米），局地有大暴雨（100～120毫米），最大小时雨量20～40毫米。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
-
+**四川省/成都/成都 2025年05月27日 16:25**
 - 今天周二，白天🌧️中雨(17°~22°)，空气良(58)，夜间多云
-- 明天周三，白天🌤️多云(18°~29°)，空气良(70)，夜间晴
+- 明天周三，白天🌤️多云(18°~29°)，空气良(66)，夜间晴
 - 有较强降水，路面比较湿滑，交通气象条件一般，刹车距离延长，事故易发期，请注意车距。
 
-**四川省/宜宾/宜宾 2025年05月27日 14:27**
-⚠️ **预警信息**
--  四川省气象台发布暴雨蓝色预警 - 四川省气象台2025年05月26日15时40分发布暴雨蓝色预警：5月26日20时到27日20时：德阳、成都、雅安、眉山、资阳5市，广元、绵阳2市西部，乐山、内江2市北部，遂宁南部，阿坝州北部东部和凉山州东北部南部有大雨到暴雨（雨量30～80毫米），局地有大暴雨（100～120毫米），最大小时雨量20～40毫米。相关区域请注意强降雨引发的小流域山洪、地质灾害、中小河流洪水等风险的发生，注意预防。
-
-- 今天周二，白天🌧️小雨(18°~24°)，空气良(51)，夜间中雨
-- 明天周三，白天☁️阴(18°~29°)，空气良(59)，夜间晴
+**四川省/宜宾/宜宾 2025年05月27日 16:25**
+- 今天周二，白天🌧️小雨(18°~24°)，空气良(53)，夜间中雨
+- 明天周三，白天☁️阴(18°~29°)，空气良(63)，夜间晴
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
@@ -47,6 +41,12 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [MassiveFold data for CASP16-CAPRI: a systematic massive sampling experiment](https://www.biorxiv.org/content/10.1101/2025.05.26.653955v1?rss=1) / 08:00
+- [VIProDesign: Viral Protein Panel Design for Highly Variable Viruses to Evaluate Immune Responses and Identify Broadly Neutralizing Antibodies](https://www.biorxiv.org/content/10.1101/2025.05.21.654924v1?rss=1) / 08:00
+- [SCOT+: A Comprehensive Software Suite for Single-Cell alignment Using Optimal Transport](https://www.biorxiv.org/content/10.1101/2025.05.21.655322v1?rss=1) / 08:00
+- [DynaRNA: Dynamic RNA Conformation Ensemble Generation with Diffusion Model](https://www.biorxiv.org/content/10.1101/2025.05.22.655453v1?rss=1) / 08:00
+- [Artemisia Database: A Comprehensive Resource for Gene Expression and Functional Insights in Artemisia annua](https://www.biorxiv.org/content/10.1101/2025.05.21.655314v1?rss=1) / 08:00
+- [SCALE: Unsupervised Multi-Scale Domain Identification in Spatial Omics Data](https://www.biorxiv.org/content/10.1101/2025.05.21.653987v1?rss=1) / 08:00
 - [Chromosome-level assemblies of the White bream Parabramis pekinensis](https://www.nature.com/articles/s41597-025-04821-3) / 08:00
 
 **历史记录**
@@ -63,10 +63,4 @@
 - [CellReasoner: A reasoning-enhanced large language model for cell type annotation](https://www.biorxiv.org/content/10.1101/2025.05.20.655112v1?rss=1) / 05月26日 08:00
 - [DeepAden: an explainable machine learning for substrate specificity prediction in nonribosomal peptide synthetases](https://www.biorxiv.org/content/10.1101/2025.05.21.655435v1?rss=1) / 05月26日 08:00
 - [Frustratingly easy domain adaptation for cross-speciestranscription factor binding prediction](https://www.biorxiv.org/content/10.1101/2025.05.21.655414v1?rss=1) / 05月26日 08:00
-- [Malaria parasite population genomics during an elimination program in Eastern Myanmar](https://www.biorxiv.org/content/10.1101/2025.05.21.655408v1?rss=1) / 05月26日 08:00
-- [StringTie3 Improves Total RNA-seq Assembly by Resolving Nascent and Mature Transcripts](https://www.biorxiv.org/content/10.1101/2025.05.21.655404v1?rss=1) / 05月26日 08:00
-- [Comparative genomics and transcriptomics on salt tolerance of Vigna luteola](https://www.biorxiv.org/content/10.1101/2025.05.21.653682v1?rss=1) / 05月26日 08:00
-- [A chromosome-level genome assembly of beet webworm, Loxostege sticticalis Linnaeus (Lepidoptera: Pyralidae)](https://www.nature.com/articles/s41597-025-04371-8) / 05月26日 08:00
-- [Methods for multiplexing single-cell multi-omics](https://www.nature.com/articles/s41592-025-02657-8) / 05月26日 08:00
-- [ChemBERTaPolyPharm: Modeling polypharmacy side effects with ChemBERTa and PubMed Encoders](https://www.biorxiv.org/content/10.1101/2025.05.20.655109v1?rss=1) / 05月25日 08:00
 <!--rss-papers:end-->
