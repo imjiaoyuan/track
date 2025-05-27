@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月27日 20:38**
-- 今天周二，白天🌧️中雨(18°~22°)，空气良(56)，夜间多云
-- 明天周三，白天🌤️多云(19°~29°)，空气良(61)，夜间晴
+**四川省/成都/成都 2025年05月27日 22:18**
+- 今天周二，白天🌧️中雨(18°~22°)，空气良(54)，夜间多云
+- 明天周三，白天🌤️多云(19°~29°)，空气良(62)，夜间晴
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月27日 20:39**
-- 今天周二，白天🌧️小雨(18°~24°)，空气优(45)，夜间中雨
-- 明天周三，白天☁️阴(18°~30°)，空气良(58)，夜间多云
+**四川省/宜宾/宜宾 2025年05月27日 22:18**
+- 今天周二，白天🌧️小雨(18°~24°)，空气良(52)，夜间中雨
+- 明天周三，白天☁️阴(18°~30°)，空气良(64)，夜间多云
 - 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [DrugForm-DTA: Towards real-world drug-target binding Affinity Model](https://www.biorxiv.org/content/10.1101/2025.05.22.655461v1?rss=1) / 08:00
+- [Human readable compression of GFA paths using grammar-based code](https://www.biorxiv.org/content/10.1101/2025.05.22.655470v1?rss=1) / 08:00
 - [PMScanR: an R package for the large-scale identification, analysis, and visualization of protein motifs](https://www.biorxiv.org/content/10.1101/2025.05.23.655703v1?rss=1) / 08:00
 - [Accurate detection of pathogenic structural variants guided by multi-platform comparison](https://www.biorxiv.org/content/10.1101/2025.05.21.655285v1?rss=1) / 08:00
 - [Graphical and Interactive Spatial Proteomics Image Analysis Workflow](https://www.biorxiv.org/content/10.1101/2025.05.23.655879v1?rss=1) / 08:00
@@ -53,14 +55,11 @@
 - [DynaRNA: Dynamic RNA Conformation Ensemble Generation with Diffusion Model](https://www.biorxiv.org/content/10.1101/2025.05.22.655453v1?rss=1) / 08:00
 - [Artemisia Database: A Comprehensive Resource for Gene Expression and Functional Insights in Artemisia annua](https://www.biorxiv.org/content/10.1101/2025.05.21.655314v1?rss=1) / 08:00
 - [SCALE: Unsupervised Multi-Scale Domain Identification in Spatial Omics Data](https://www.biorxiv.org/content/10.1101/2025.05.21.653987v1?rss=1) / 08:00
+- [Macrophage-like vascular smooth muscle cells dominate early atherosclerosis and are inhibited by targeting iron regulation](https://www.biorxiv.org/content/10.1101/2025.05.22.655434v1?rss=1) / 08:00
 - [Novel Highly Pathogenic Avian Influenza (A)H5N1 Triple Reassortant in Argentina, 2025](https://www.biorxiv.org/content/10.1101/2025.05.23.655175v1?rss=1) / 08:00
 - [Peripheral blood cell-type and sex-specific signatures of alcohol misuse revealed by single-cell transcriptomics](https://www.biorxiv.org/content/10.1101/2025.05.21.655347v1?rss=1) / 08:00
 - [Chromosome-level genome assemblies of Verpa bohemica and Verpa conica](https://www.nature.com/articles/s41597-025-05224-0) / 08:00
 - [Chromosome-level assemblies of the White bream Parabramis pekinensis](https://www.nature.com/articles/s41597-025-04821-3) / 08:00
 - [Interpretable niche-based cell‒cell communication inference using multi-view graph neural networks](https://www.nature.com/articles/s43588-025-00809-6) / 08:00
-- [Conservation of regulatory elements with highly diverged sequences across large evolutionary distances](https://www.nature.com/articles/s41588-025-02202-5) / 08:00
-- [A roadmap for genome projects to foster psychosocial and economic evidence to further policy and practice](https://www.nature.com/articles/s43856-025-00917-4) / 08:00
 
-**历史记录**
-- [Gene set optimization for cancer transcriptomics using sparse principal component analysis](https://www.biorxiv.org/content/10.1101/2025.05.21.655279v1?rss=1) / 05月26日 08:00
 <!--rss-papers:end-->
