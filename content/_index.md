@@ -1,14 +1,22 @@
 # Weather
 <!--qweather:start-->
-**Chengdu**
-- Failed: Network Error
+**四川省/成都/成都 2025年05月28日 04:20**
+- 今天周三，白天🌤️多云(19°~29°)，空气良(65)，夜间晴
+- 明天周四，白天🌤️多云(20°~29°)，空气良(77)，夜间小雨
+- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**Yibin**
-- Failed: Network Error
+**四川省/宜宾/宜宾 2025年05月28日 04:20**
+- 今天周三，白天☁️阴(18°~30°)，空气良(58)，夜间多云
+- 明天周四，白天☁️阴(21°~31°)，空气良(90)
+- 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [2025.05.28: 各种链接](https://www.owenyoung.com/blog/journals/2025-05-28/) / 03:29
+- [销售三板斧](https://manateelazycat.github.io/2025/05/28/sale/) / 00:00
+
 **历史记录**
 - [如何解决“季节性情绪失调”？](http://m.wufazhuce.com/question/4375) / 05月27日 06:25
 - [我们对人生或者感情的那一点点窥视](http://m.wufazhuce.com/article/6809) / 05月27日 06:25
@@ -28,13 +36,15 @@
 - [用壁纸引擎制作BB动态壁纸](https://www.wordpace.com/creating-wallpapers-with-wallpaper-engine/) / 05月24日 23:20
 - [樱花特辑：东京圈赏樱指南 (上)](https://song.al/sakura_1) / 05月24日 14:48
 - [Beta 分支 Windows 11 Build 26120.4161（KB5058515）](https://windiscover.com/posts/windows-11-build-26120-kb5058515.html) / 05月24日 12:45
-- [微软员工绕过邮件封锁，向数千名员工发送了抗议微软高层的邮件](https://windiscover.com/posts/microsoft-employee-bypasses-the-email-block.html) / 05月24日 11:15
-- [Canary 分支 Windows 11 Build 27863 开始推送](https://windiscover.com/posts/windows-11-build-27863.html) / 05月24日 09:28
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [JMod: Joint modeling of mass spectra for empowering multiplexed DIA proteomics](https://www.biorxiv.org/content/10.1101/2025.05.22.655512v1?rss=1) / 05月27日 08:00
+- [Identifying Positional Orthologs by Linear Programming](https://www.biorxiv.org/content/10.1101/2025.05.22.655535v1?rss=1) / 05月27日 08:00
+- [Advancing the Discovery of Phage-Host Interactions and Disease Classification from Metagenomic Profiles Using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.26.656232v1?rss=1) / 05月27日 08:00
+- [FoldBench: An All-atom Benchmark for Biomolecular Structure Prediction](https://www.biorxiv.org/content/10.1101/2025.05.22.655600v1?rss=1) / 05月27日 08:00
 - [Database for extended ligand-target analyses (DELTA): a new balanced resource for AI applications in drug discovery](https://www.biorxiv.org/content/10.1101/2025.05.22.655476v1?rss=1) / 05月27日 08:00
 - [Movi Color: fast and accurate long-read classification with the move structure](https://www.biorxiv.org/content/10.1101/2025.05.22.655637v1?rss=1) / 05月27日 08:00
 - [A resource and computational approach for quantifying gene editing allelism at single-cell resolution](https://www.biorxiv.org/content/10.1101/2025.05.22.653824v1?rss=1) / 05月27日 08:00
@@ -51,8 +61,4 @@
 - [DNA sequence encoded conformational flexibility orchestrates pioneer transcription factor nucleosome interaction landscape](https://www.biorxiv.org/content/10.1101/2025.05.21.655105v1?rss=1) / 05月27日 08:00
 - [MassiveFold data for CASP16-CAPRI: a systematic massive sampling experiment](https://www.biorxiv.org/content/10.1101/2025.05.26.653955v1?rss=1) / 05月27日 08:00
 - [VIProDesign: Viral Protein Panel Design for Highly Variable Viruses to Evaluate Immune Responses and Identify Broadly Neutralizing Antibodies](https://www.biorxiv.org/content/10.1101/2025.05.21.654924v1?rss=1) / 05月27日 08:00
-- [SCOT+: A Comprehensive Software Suite for Single-Cell alignment Using Optimal Transport](https://www.biorxiv.org/content/10.1101/2025.05.21.655322v1?rss=1) / 05月27日 08:00
-- [DynaRNA: Dynamic RNA Conformation Ensemble Generation with Diffusion Model](https://www.biorxiv.org/content/10.1101/2025.05.22.655453v1?rss=1) / 05月27日 08:00
-- [Artemisia Database: A Comprehensive Resource for Gene Expression and Functional Insights in Artemisia annua](https://www.biorxiv.org/content/10.1101/2025.05.21.655314v1?rss=1) / 05月27日 08:00
-- [SCALE: Unsupervised Multi-Scale Domain Identification in Spatial Omics Data](https://www.biorxiv.org/content/10.1101/2025.05.21.653987v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
