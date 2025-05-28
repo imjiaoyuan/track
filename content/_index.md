@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月28日 16:25**
-- 今天周三，白天🌤️多云(18°~28°)，空气良(68)，夜间晴
-- 明天周四，白天🌧️小雨(20°~28°)，空气良(75)
+**四川省/成都/成都 2025年05月28日 18:20**
+- 今天周三，白天🌤️多云(18°~28°)，空气良(67)，夜间晴
+- 明天周四，白天🌤️多云(19°~29°)，空气良(77)，夜间小雨
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月28日 16:25**
-- 今天周三，白天🌧️小雨(19°~29°)，空气良(63)，夜间阴
-- 明天周四，白天☁️阴(21°~31°)，空气良(83)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月28日 18:20**
+- 今天周三，白天🌧️小雨(19°~29°)，空气良(61)，夜间晴
+- 明天周四，白天☁️阴(20°~31°)，空气良(87)，夜间小雨
 - 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
@@ -40,6 +40,9 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [CROWN-seq reveals m6Am landscapes and transcription start site diversity](https://www.nature.com/articles/s41576-025-00861-y) / 08:00
+
 **历史记录**
 - [PerTurboAgent: A Self-Planning Agent for Boosting Sequential Perturb-seq Experiments](https://www.biorxiv.org/content/10.1101/2025.05.25.656020v1?rss=1) / 05月27日 08:00
 - [Beyond performance: How design choices shape chemical language models](https://www.biorxiv.org/content/10.1101/2025.05.23.655735v1?rss=1) / 05月27日 08:00
@@ -60,5 +63,4 @@
 - [Human readable compression of GFA paths using grammar-based code](https://www.biorxiv.org/content/10.1101/2025.05.22.655470v1?rss=1) / 05月27日 08:00
 - [PMScanR: an R package for the large-scale identification, analysis, and visualization of protein motifs](https://www.biorxiv.org/content/10.1101/2025.05.23.655703v1?rss=1) / 05月27日 08:00
 - [Accurate detection of pathogenic structural variants guided by multi-platform comparison](https://www.biorxiv.org/content/10.1101/2025.05.21.655285v1?rss=1) / 05月27日 08:00
-- [Graphical and Interactive Spatial Proteomics Image Analysis Workflow](https://www.biorxiv.org/content/10.1101/2025.05.23.655879v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
