@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月28日 11:12**
-- 今天周三，白天🌤️多云(18°~28°)，空气良(63)，夜间晴
-- 明天周四，白天🌧️小雨(20°~28°)，空气良(78)
+**四川省/成都/成都 2025年05月28日 12:23**
+- 今天周三，白天🌤️多云(18°~28°)，空气良(60)，夜间晴
+- 明天周四，白天🌧️小雨(20°~28°)，空气良(77)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月28日 11:12**
-- 今天周三，白天🌧️小雨(19°~29°)，空气良(60)，夜间阴
-- 明天周四，白天☁️阴(21°~31°)，空气良(91)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月28日 12:23**
+- 今天周三，白天🌧️小雨(19°~29°)，空气良(59)，夜间阴
+- 明天周四，白天☁️阴(21°~31°)，空气良(86)，夜间小雨
 - 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [Windows 11 22H2 & 23H2 五月非安全预览更新 KB5058502 开始推送](https://windiscover.com/posts/windows-11-23h2-may-2025-non-security-update-kb5058502.html) / 11:39
 - [Notion 现已正式上架 Microsoft Store](https://windiscover.com/posts/notion-is-now-available-in-microsoft-store.html) / 09:00
 - [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110) / 08:05
 - [向往“远方”是一种幼稚还是成熟？](http://m.wufazhuce.com/question/4376) / 06:25
@@ -35,12 +36,12 @@
 - [赛博家务之再建新站](https://blog.pursuitus.com/cyber-home-building-a-new-station.html) / 05月25日 18:54
 - [生信爱好者周刊（第166期）： 为什么中外科研课题如此不同](https://openbiox.github.io/weekly/issue-166/) / 05月25日 17:59
 - [微软每周动态：Windows 11、员工抗议、Build 2025 & 开发者、系统工具等](https://windiscover.com/posts/microsoft-weekly-may-19-to-may-25.html) / 05月25日 16:10
-- [用壁纸引擎制作BB动态壁纸](https://www.wordpace.com/creating-wallpapers-with-wallpaper-engine/) / 05月24日 23:20
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Updated chromosome-level genome assembly of Sporisorium scitamineum with improved accuracy and completeness](https://www.biorxiv.org/content/10.1101/2025.05.23.649816v1?rss=1) / 05月27日 08:00
 - [Alignment-driven Cross-Graph Modeling for 3D RNA Inverse Folding](https://www.biorxiv.org/content/10.1101/2025.05.23.655885v1?rss=1) / 05月27日 08:00
 - [First full-genome alignment representative for the genus Pestivirus](https://www.biorxiv.org/content/10.1101/2025.05.22.655560v1?rss=1) / 05月27日 08:00
 - [JMod: Joint modeling of mass spectra for empowering multiplexed DIA proteomics](https://www.biorxiv.org/content/10.1101/2025.05.22.655512v1?rss=1) / 05月27日 08:00
@@ -60,5 +61,4 @@
 - [Graphical and Interactive Spatial Proteomics Image Analysis Workflow](https://www.biorxiv.org/content/10.1101/2025.05.23.655879v1?rss=1) / 05月27日 08:00
 - [Levels of telomerase in cancer are contingent on senescence and inflammation at bulk tissue and single-cell spatial resolution](https://www.biorxiv.org/content/10.1101/2025.05.21.655338v1?rss=1) / 05月27日 08:00
 - [Performance of blood-based biomarkers for human circadian pacemaker phase: Training sets matter as much as feature selection methods](https://www.biorxiv.org/content/10.1101/2025.05.21.655317v1?rss=1) / 05月27日 08:00
-- [DNA sequence encoded conformational flexibility orchestrates pioneer transcription factor nucleosome interaction landscape](https://www.biorxiv.org/content/10.1101/2025.05.21.655105v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
