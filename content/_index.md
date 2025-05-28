@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 04:20**
+**四川省/成都/成都 2025年05月29日 06:17**
 - 今天周四，白天🌤️多云(19°~29°)，空气良(81)，夜间小雨
-- 明天周五，白天🌧️小雨(17°~22°)，空气优(50)
+- 明天周五，白天🌧️小雨(17°~23°)，空气优(50)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 04:20**
-- 今天周四，白天☁️阴(20°~31°)，空气良(79)，夜间小雨
-- 明天周五，白天🌧️小雨(19°~29°)，空气良(66)
+**四川省/宜宾/宜宾 2025年05月29日 06:17**
+- 今天周四，白天☁️阴(19°~31°)，空气良(79)
+- 明天周五，白天🌧️小雨(20°~30°)，空气良(66)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -45,6 +45,8 @@
 - [Sequencing the gaps: dark genomic regions persist in CHM13 despite long-read advances](https://www.biorxiv.org/content/10.1101/2025.05.23.655776v1?rss=1) / 05月28日 08:00
 - [Evaluation of network inference algorithms for derivation of metabolic relationships from lipidomic and metabolomic datasets](https://www.biorxiv.org/content/10.1101/2025.05.23.654112v1?rss=1) / 05月28日 08:00
 - [Automated evaluation of single-cell reference atlas mappings enables the identification of disease-associated cell states](https://www.biorxiv.org/content/10.1101/2025.05.23.655749v1?rss=1) / 05月28日 08:00
+- [Evolution of resistance breaking in spinach downy mildew revealed through pangenome graph analysis](https://www.biorxiv.org/content/10.1101/2025.05.23.655769v1?rss=1) / 05月28日 08:00
+- [Large haplotypes linked to climate and life history variation in divergent lineages of Atlantic salmon (Salmo salar)](https://www.biorxiv.org/content/10.1101/2025.05.23.655798v1?rss=1) / 05月28日 08:00
 - [Genomic footprint of a shared Type 5 prophage in 'Candidatus Liberibacter asiaticus' and 'Candidatus Liberibacter africanus', two destructive bacterial pathogens of citrus huanglongbing](https://www.biorxiv.org/content/10.1101/2025.05.23.655732v1?rss=1) / 05月28日 08:00
 - [Chromosome-level genome assembly of Sambus kanssuensis (Coleoptera: Buprestidae)](https://www.nature.com/articles/s41597-025-05271-7) / 05月28日 08:00
 - [CROWN-seq reveals m6Am landscapes and transcription start site diversity](https://www.nature.com/articles/s41576-025-00861-y) / 05月28日 08:00
@@ -59,6 +61,4 @@
 - [JMod: Joint modeling of mass spectra for empowering multiplexed DIA proteomics](https://www.biorxiv.org/content/10.1101/2025.05.22.655512v1?rss=1) / 05月27日 08:00
 - [Identifying Positional Orthologs by Linear Programming](https://www.biorxiv.org/content/10.1101/2025.05.22.655535v1?rss=1) / 05月27日 08:00
 - [Advancing the Discovery of Phage-Host Interactions and Disease Classification from Metagenomic Profiles Using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.26.656232v1?rss=1) / 05月27日 08:00
-- [FoldBench: An All-atom Benchmark for Biomolecular Structure Prediction](https://www.biorxiv.org/content/10.1101/2025.05.22.655600v1?rss=1) / 05月27日 08:00
-- [Database for extended ligand-target analyses (DELTA): a new balanced resource for AI applications in drug discovery](https://www.biorxiv.org/content/10.1101/2025.05.22.655476v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
