@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月28日 14:27**
-- 今天周三，白天🌤️多云(18°~28°)，空气良(60)，夜间晴
-- 明天周四，白天🌧️小雨(20°~28°)，空气良(77)
+**四川省/成都/成都 2025年05月28日 16:25**
+- 今天周三，白天🌤️多云(18°~28°)，空气良(68)，夜间晴
+- 明天周四，白天🌧️小雨(20°~28°)，空气良(75)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月28日 14:27**
-- 今天周三，白天🌧️小雨(19°~29°)，空气良(59)，夜间阴
-- 明天周四，白天☁️阴(21°~31°)，空气良(86)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月28日 16:25**
+- 今天周三，白天🌧️小雨(19°~29°)，空气良(63)，夜间阴
+- 明天周四，白天☁️阴(21°~31°)，空气良(83)，夜间小雨
 - 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [Copilot 应用正在加入“新建页面”功能](https://windiscover.com/posts/copilot-app-new-pages-copilot-pages.html) / 15:54
 - [微软发布紧急更新 KB5061977 用于修复 Hyper-V 平台问题](https://windiscover.com/posts/oob-update-kb5061977-for-windows-11-24h2-and-server-2025.html) / 14:12
 - [Windows 11 22H2 & 23H2 五月非安全预览更新 KB5058502 开始推送](https://windiscover.com/posts/windows-11-23h2-may-2025-non-security-update-kb5058502.html) / 11:39
 - [Notion 现已正式上架 Microsoft Store](https://windiscover.com/posts/notion-is-now-available-in-microsoft-store.html) / 09:00
@@ -35,12 +36,12 @@
 - [隐说 No.7 东拼西凑的见闻不是博学](https://wangyurui.com/posts/yin-shuo-no-7-dong-pin-xi-cou-bu-shi-bo-xue-cfd29bad) / 05月25日 19:37
 - [战略防御的智慧](https://wangyurui.com/posts/zai-du-mao-xuan-zhong-guo-ge-ming-zhan-zheng-de-d4d1c3b9) / 05月25日 19:33
 - [赛博家务之再建新站](https://blog.pursuitus.com/cyber-home-building-a-new-station.html) / 05月25日 18:54
-- [生信爱好者周刊（第166期）： 为什么中外科研课题如此不同](https://openbiox.github.io/weekly/issue-166/) / 05月25日 17:59
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [PerTurboAgent: A Self-Planning Agent for Boosting Sequential Perturb-seq Experiments](https://www.biorxiv.org/content/10.1101/2025.05.25.656020v1?rss=1) / 05月27日 08:00
 - [Beyond performance: How design choices shape chemical language models](https://www.biorxiv.org/content/10.1101/2025.05.23.655735v1?rss=1) / 05月27日 08:00
 - [Updated chromosome-level genome assembly of Sporisorium scitamineum with improved accuracy and completeness](https://www.biorxiv.org/content/10.1101/2025.05.23.649816v1?rss=1) / 05月27日 08:00
 - [Alignment-driven Cross-Graph Modeling for 3D RNA Inverse Folding](https://www.biorxiv.org/content/10.1101/2025.05.23.655885v1?rss=1) / 05月27日 08:00
@@ -60,5 +61,4 @@
 - [PMScanR: an R package for the large-scale identification, analysis, and visualization of protein motifs](https://www.biorxiv.org/content/10.1101/2025.05.23.655703v1?rss=1) / 05月27日 08:00
 - [Accurate detection of pathogenic structural variants guided by multi-platform comparison](https://www.biorxiv.org/content/10.1101/2025.05.21.655285v1?rss=1) / 05月27日 08:00
 - [Graphical and Interactive Spatial Proteomics Image Analysis Workflow](https://www.biorxiv.org/content/10.1101/2025.05.23.655879v1?rss=1) / 05月27日 08:00
-- [Levels of telomerase in cancer are contingent on senescence and inflammation at bulk tissue and single-cell spatial resolution](https://www.biorxiv.org/content/10.1101/2025.05.21.655338v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
