@@ -1,26 +1,28 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月28日 06:17**
-- 今天周三，白天🌤️多云(18°~28°)，空气良(65)
-- 明天周四，白天🌤️多云(19°~28°)，空气良(77)，夜间小雨
+**四川省/成都/成都 2025年05月28日 09:27**
+- 今天周三，白天🌤️多云(18°~28°)，空气良(60)，夜间晴
+- 明天周四，白天🌧️小雨(20°~28°)，空气良(80)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月28日 06:17**
-- 今天周三，白天🌧️小雨(19°~29°)，空气良(58)，夜间阴
-- 明天周四，白天☁️阴(21°~31°)，空气良(90)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月28日 09:27**
+- 今天周三，白天🌧️小雨(19°~29°)，空气良(64)，夜间阴
+- 明天周四，白天☁️阴(21°~31°)，空气良(84)，夜间小雨
 - 部分路面湿滑，交通气象条件一般，刹车距离延长，事故易发期，注意车距，务必小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [Notion 现已正式上架 Microsoft Store](https://windiscover.com/posts/notion-is-now-available-in-microsoft-store.html) / 09:00
+- [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110) / 08:05
+- [向往“远方”是一种幼稚还是成熟？](http://m.wufazhuce.com/question/4376) / 06:25
+- [奇怪的妻子](http://m.wufazhuce.com/article/6798) / 06:25
+- [VOL.4617](http://m.wufazhuce.com/one/4758) / 06:25
 - [2025.05.28: 各种链接](https://www.owenyoung.com/blog/journals/2025-05-28/) / 03:29
 - [销售三板斧](https://manateelazycat.github.io/2025/05/28/sale/) / 00:00
 
 **历史记录**
-- [如何解决“季节性情绪失调”？](http://m.wufazhuce.com/question/4375) / 05月27日 06:25
-- [我们对人生或者感情的那一点点窥视](http://m.wufazhuce.com/article/6809) / 05月27日 06:25
-- [VOL.4616](http://m.wufazhuce.com/one/4763) / 05月27日 06:25
 - [技术研发为啥都需要一块自己的菜地？](https://manateelazycat.github.io/2025/05/27/developer-and-farm/) / 05月27日 00:00
 - [不会武功，不要去武功山，哈哈哈哈](https://manateelazycat.github.io/2025/05/27/wu-gong-shan/) / 05月27日 00:00
 - [giteeToGithub镜像指南](https://hp-l.github.io/2025/05/26/152454/) / 05月26日 15:24
@@ -34,13 +36,12 @@
 - [生信爱好者周刊（第166期）： 为什么中外科研课题如此不同](https://openbiox.github.io/weekly/issue-166/) / 05月25日 17:59
 - [微软每周动态：Windows 11、员工抗议、Build 2025 & 开发者、系统工具等](https://windiscover.com/posts/microsoft-weekly-may-19-to-may-25.html) / 05月25日 16:10
 - [用壁纸引擎制作BB动态壁纸](https://www.wordpace.com/creating-wallpapers-with-wallpaper-engine/) / 05月24日 23:20
-- [樱花特辑：东京圈赏樱指南 (上)](https://song.al/sakura_1) / 05月24日 14:48
-- [Beta 分支 Windows 11 Build 26120.4161（KB5058515）](https://windiscover.com/posts/windows-11-build-26120-kb5058515.html) / 05月24日 12:45
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Alignment-driven Cross-Graph Modeling for 3D RNA Inverse Folding](https://www.biorxiv.org/content/10.1101/2025.05.23.655885v1?rss=1) / 05月27日 08:00
 - [First full-genome alignment representative for the genus Pestivirus](https://www.biorxiv.org/content/10.1101/2025.05.22.655560v1?rss=1) / 05月27日 08:00
 - [JMod: Joint modeling of mass spectra for empowering multiplexed DIA proteomics](https://www.biorxiv.org/content/10.1101/2025.05.22.655512v1?rss=1) / 05月27日 08:00
 - [Identifying Positional Orthologs by Linear Programming](https://www.biorxiv.org/content/10.1101/2025.05.22.655535v1?rss=1) / 05月27日 08:00
@@ -60,5 +61,4 @@
 - [Levels of telomerase in cancer are contingent on senescence and inflammation at bulk tissue and single-cell spatial resolution](https://www.biorxiv.org/content/10.1101/2025.05.21.655338v1?rss=1) / 05月27日 08:00
 - [Performance of blood-based biomarkers for human circadian pacemaker phase: Training sets matter as much as feature selection methods](https://www.biorxiv.org/content/10.1101/2025.05.21.655317v1?rss=1) / 05月27日 08:00
 - [DNA sequence encoded conformational flexibility orchestrates pioneer transcription factor nucleosome interaction landscape](https://www.biorxiv.org/content/10.1101/2025.05.21.655105v1?rss=1) / 05月27日 08:00
-- [MassiveFold data for CASP16-CAPRI: a systematic massive sampling experiment](https://www.biorxiv.org/content/10.1101/2025.05.26.653955v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
