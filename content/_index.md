@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 00:22**
+**四川省/成都/成都 2025年05月29日 02:25**
 - 今天周四，白天🌤️多云(19°~29°)，空气良(81)，夜间小雨
 - 明天周五，白天🌧️小雨(17°~22°)，空气优(50)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 00:22**
+**四川省/宜宾/宜宾 2025年05月29日 02:25**
 - 今天周四，白天☁️阴(20°~31°)，空气良(79)，夜间小雨
 - 明天周五，白天🌧️小雨(19°~29°)，空气良(66)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -13,6 +13,9 @@
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [Copilot for Gaming 预览版体验已经在 Xbox 移动端开始测试](https://windiscover.com/posts/xbox-mobile-app-copilot-for-gaming-preview.html) / 00:37
+
 **历史记录**
 - [微软推出 Windows 更新协调平台，Windows 更新将支持应用更新](https://windiscover.com/posts/windows-update-orchestration-platform-a-unified-future-for-app-updates-on-windows.html) / 05月28日 23:55
 - [Copilot 应用正在加入“新建页面”功能](https://windiscover.com/posts/copilot-app-new-pages-copilot-pages.html) / 05月28日 15:54
@@ -33,17 +36,15 @@
 - [2025 年度 618 正版软件促销推荐](https://windiscover.com/posts/618-2025-geniune-apps-deals.html) / 05月25日 22:01
 - [猫鱼周刊 vol. 066 3D 打印入门体验](https://ameow.xyz/archives/weekly-066) / 05月25日 19:43
 - [隐说 No.7 东拼西凑的见闻不是博学](https://wangyurui.com/posts/yin-shuo-no-7-dong-pin-xi-cou-bu-shi-bo-xue-cfd29bad) / 05月25日 19:37
-- [战略防御的智慧](https://wangyurui.com/posts/zai-du-mao-xuan-zhong-guo-ge-ming-zhan-zheng-de-d4d1c3b9) / 05月25日 19:33
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
 - [Automated evaluation of single-cell reference atlas mappings enables the identification of disease-associated cell states](https://www.biorxiv.org/content/10.1101/2025.05.23.655749v1?rss=1) / 05月28日 08:00
+- [Chromosome-level genome assembly of Sambus kanssuensis (Coleoptera: Buprestidae)](https://www.nature.com/articles/s41597-025-05271-7) / 05月28日 08:00
 - [CROWN-seq reveals m6Am landscapes and transcription start site diversity](https://www.nature.com/articles/s41576-025-00861-y) / 05月28日 08:00
 - [LGLoc as a new language model-driven graph neural network for mRNA localization](https://www.nature.com/articles/s41598-025-03485-8) / 05月28日 08:00
-- [Correction: Chromosome-level Haploid Assembly of Cannabis sativa L. cv. Pink Pepper](https://www.nature.com/articles/s41597-025-05259-3) / 05月28日 08:00
-- [Computable phenotypes to identify respiratory viral infections in the All of Us research program](https://www.nature.com/articles/s41598-025-02183-9) / 05月28日 08:00
 - [PerTurboAgent: A Self-Planning Agent for Boosting Sequential Perturb-seq Experiments](https://www.biorxiv.org/content/10.1101/2025.05.25.656020v1?rss=1) / 05月27日 08:00
 - [Beyond performance: How design choices shape chemical language models](https://www.biorxiv.org/content/10.1101/2025.05.23.655735v1?rss=1) / 05月27日 08:00
 - [Updated chromosome-level genome assembly of Sporisorium scitamineum with improved accuracy and completeness](https://www.biorxiv.org/content/10.1101/2025.05.23.649816v1?rss=1) / 05月27日 08:00
@@ -59,4 +60,5 @@
 - [Deep Learning-Based Methods for Automated Estimation of Insect Length, Volume, and Biomass](https://www.biorxiv.org/content/10.1101/2025.05.22.655251v1?rss=1) / 05月27日 08:00
 - [Deep Learning for Predicting Stem Cell Efficiency for use in Beta Cell Differentiation](https://www.biorxiv.org/content/10.1101/2025.05.22.652867v1?rss=1) / 05月27日 08:00
 - [metagRoot: A comprehensive database of protein families associated with plant root microbiomes](https://www.biorxiv.org/content/10.1101/2025.05.22.653656v1?rss=1) / 05月27日 08:00
+- [DrugForm-DTA: Towards real-world drug-target binding Affinity Model](https://www.biorxiv.org/content/10.1101/2025.05.22.655461v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
