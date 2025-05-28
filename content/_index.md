@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 02:25**
+**四川省/成都/成都 2025年05月29日 04:20**
 - 今天周四，白天🌤️多云(19°~29°)，空气良(81)，夜间小雨
 - 明天周五，白天🌧️小雨(17°~22°)，空气优(50)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 02:25**
+**四川省/宜宾/宜宾 2025年05月29日 04:20**
 - 今天周四，白天☁️阴(20°~31°)，空气良(79)，夜间小雨
 - 明天周五，白天🌧️小雨(19°~29°)，空气良(66)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,10 +41,16 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Joint Modeling of Longitudinal Biomarker and Survival Outcomes with the Presence of Competing Risk in Nested Case-Control Studies with Application to the TEDDY Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.23.655653v1?rss=1) / 05月28日 08:00
+- [Sequencing the gaps: dark genomic regions persist in CHM13 despite long-read advances](https://www.biorxiv.org/content/10.1101/2025.05.23.655776v1?rss=1) / 05月28日 08:00
+- [Evaluation of network inference algorithms for derivation of metabolic relationships from lipidomic and metabolomic datasets](https://www.biorxiv.org/content/10.1101/2025.05.23.654112v1?rss=1) / 05月28日 08:00
 - [Automated evaluation of single-cell reference atlas mappings enables the identification of disease-associated cell states](https://www.biorxiv.org/content/10.1101/2025.05.23.655749v1?rss=1) / 05月28日 08:00
+- [Genomic footprint of a shared Type 5 prophage in 'Candidatus Liberibacter asiaticus' and 'Candidatus Liberibacter africanus', two destructive bacterial pathogens of citrus huanglongbing](https://www.biorxiv.org/content/10.1101/2025.05.23.655732v1?rss=1) / 05月28日 08:00
 - [Chromosome-level genome assembly of Sambus kanssuensis (Coleoptera: Buprestidae)](https://www.nature.com/articles/s41597-025-05271-7) / 05月28日 08:00
 - [CROWN-seq reveals m6Am landscapes and transcription start site diversity](https://www.nature.com/articles/s41576-025-00861-y) / 05月28日 08:00
 - [LGLoc as a new language model-driven graph neural network for mRNA localization](https://www.nature.com/articles/s41598-025-03485-8) / 05月28日 08:00
+- [Correction: Chromosome-level Haploid Assembly of Cannabis sativa L. cv. Pink Pepper](https://www.nature.com/articles/s41597-025-05259-3) / 05月28日 08:00
+- [Computable phenotypes to identify respiratory viral infections in the All of Us research program](https://www.nature.com/articles/s41598-025-02183-9) / 05月28日 08:00
 - [PerTurboAgent: A Self-Planning Agent for Boosting Sequential Perturb-seq Experiments](https://www.biorxiv.org/content/10.1101/2025.05.25.656020v1?rss=1) / 05月27日 08:00
 - [Beyond performance: How design choices shape chemical language models](https://www.biorxiv.org/content/10.1101/2025.05.23.655735v1?rss=1) / 05月27日 08:00
 - [Updated chromosome-level genome assembly of Sporisorium scitamineum with improved accuracy and completeness](https://www.biorxiv.org/content/10.1101/2025.05.23.649816v1?rss=1) / 05月27日 08:00
@@ -55,10 +61,4 @@
 - [Advancing the Discovery of Phage-Host Interactions and Disease Classification from Metagenomic Profiles Using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.26.656232v1?rss=1) / 05月27日 08:00
 - [FoldBench: An All-atom Benchmark for Biomolecular Structure Prediction](https://www.biorxiv.org/content/10.1101/2025.05.22.655600v1?rss=1) / 05月27日 08:00
 - [Database for extended ligand-target analyses (DELTA): a new balanced resource for AI applications in drug discovery](https://www.biorxiv.org/content/10.1101/2025.05.22.655476v1?rss=1) / 05月27日 08:00
-- [Movi Color: fast and accurate long-read classification with the move structure](https://www.biorxiv.org/content/10.1101/2025.05.22.655637v1?rss=1) / 05月27日 08:00
-- [A resource and computational approach for quantifying gene editing allelism at single-cell resolution](https://www.biorxiv.org/content/10.1101/2025.05.22.653824v1?rss=1) / 05月27日 08:00
-- [Deep Learning-Based Methods for Automated Estimation of Insect Length, Volume, and Biomass](https://www.biorxiv.org/content/10.1101/2025.05.22.655251v1?rss=1) / 05月27日 08:00
-- [Deep Learning for Predicting Stem Cell Efficiency for use in Beta Cell Differentiation](https://www.biorxiv.org/content/10.1101/2025.05.22.652867v1?rss=1) / 05月27日 08:00
-- [metagRoot: A comprehensive database of protein families associated with plant root microbiomes](https://www.biorxiv.org/content/10.1101/2025.05.22.653656v1?rss=1) / 05月27日 08:00
-- [DrugForm-DTA: Towards real-world drug-target binding Affinity Model](https://www.biorxiv.org/content/10.1101/2025.05.22.655461v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
