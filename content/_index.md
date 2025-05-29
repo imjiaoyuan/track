@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 12:24**
+**四川省/成都/成都 2025年05月29日 14:27**
 - 今天周四，白天🌤️多云(20°~29°)，空气良(78)，夜间阴
 - 明天周五，白天🌧️小雨(17°~23°)，空气优(46)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 12:24**
+**四川省/宜宾/宜宾 2025年05月29日 14:27**
 - 今天周四，白天☁️阴(20°~31°)，空气良(78)
 - 明天周五，白天🌧️小雨(20°~30°)，空气良(69)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -40,7 +40,12 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Haplotype resolved chromosome-level genome assembly of the gold barb (Barbodes semifasciolatus)](https://www.nature.com/articles/s41597-025-05178-3) / 08:00
+
 **历史记录**
+- [House of Clocks: On the Misuse of Ageing Composite Measures](https://www.biorxiv.org/content/10.1101/2025.05.24.655934v1?rss=1) / 05月28日 08:00
+- [Identifying Molecular Determinants and Therapeutic Targets in Luminal B Breast Cancer: A Systems Biology Approach](https://www.biorxiv.org/content/10.1101/2025.05.25.656027v1?rss=1) / 05月28日 08:00
 - [Decoupled Information Theoretic Feature Selection for Rapid Protein Key Tuning Residue Identification](https://www.biorxiv.org/content/10.1101/2025.05.28.653817v1?rss=1) / 05月28日 08:00
 - [Comparative assessment of co-folding methods for molecular glue ternary structure prediction](https://www.biorxiv.org/content/10.1101/2025.05.25.655997v1?rss=1) / 05月28日 08:00
 - [Spatiotemporal transcriptomic analysis during cold ischemic injury to the murine kidney reveals compartment-specific changes](https://www.biorxiv.org/content/10.1101/2025.05.25.654911v1?rss=1) / 05月28日 08:00
@@ -55,10 +60,7 @@
 - [Sequencing the gaps: dark genomic regions persist in CHM13 despite long-read advances](https://www.biorxiv.org/content/10.1101/2025.05.23.655776v1?rss=1) / 05月28日 08:00
 - [Evaluation of network inference algorithms for derivation of metabolic relationships from lipidomic and metabolomic datasets](https://www.biorxiv.org/content/10.1101/2025.05.23.654112v1?rss=1) / 05月28日 08:00
 - [Automated evaluation of single-cell reference atlas mappings enables the identification of disease-associated cell states](https://www.biorxiv.org/content/10.1101/2025.05.23.655749v1?rss=1) / 05月28日 08:00
+- [The genomic legacy of selectively breeding rhesus macaques for HIV/AIDS-related research](https://www.biorxiv.org/content/10.1101/2025.05.26.654976v1?rss=1) / 05月28日 08:00
 - [Differential expression of mitochondria-associated genes in clinical samples of Plasmodium falciparum showing severe manifestations](https://www.biorxiv.org/content/10.1101/2025.05.24.655897v1?rss=1) / 05月28日 08:00
 - [Evolution of resistance breaking in spinach downy mildew revealed through pangenome graph analysis](https://www.biorxiv.org/content/10.1101/2025.05.23.655769v1?rss=1) / 05月28日 08:00
-- [Large haplotypes linked to climate and life history variation in divergent lineages of Atlantic salmon (Salmo salar)](https://www.biorxiv.org/content/10.1101/2025.05.23.655798v1?rss=1) / 05月28日 08:00
-- [Genomic footprint of a shared Type 5 prophage in 'Candidatus Liberibacter asiaticus' and 'Candidatus Liberibacter africanus', two destructive bacterial pathogens of citrus huanglongbing](https://www.biorxiv.org/content/10.1101/2025.05.23.655732v1?rss=1) / 05月28日 08:00
-- [Chromosome-level genome assembly of Sambus kanssuensis (Coleoptera: Buprestidae)](https://www.nature.com/articles/s41597-025-05271-7) / 05月28日 08:00
-- [CROWN-seq reveals m6Am landscapes and transcription start site diversity](https://www.nature.com/articles/s41576-025-00861-y) / 05月28日 08:00
 <!--rss-papers:end-->
