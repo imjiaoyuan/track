@@ -1,14 +1,14 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 18:21**
+**四川省/成都/成都 2025年05月29日 20:37**
 - 今天周四，白天🌤️多云(20°~29°)，空气良(74)，夜间小雨
 - 明天周五，白天🌧️小雨(18°~24°)，空气良(52)
-- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
+- 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 18:21**
+**四川省/宜宾/宜宾 2025年05月29日 20:37**
 - 今天周四，白天☁️阴(21°~31°)，空气良(80)
 - 明天周五，白天🌧️小雨(20°~29°)，空气良(84)
-- 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
+- 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Circos Plots for Genome Level Interpretation of Genomic Prediction Models](https://www.biorxiv.org/content/10.1101/2025.05.25.656055v1?rss=1) / 08:00
+- [Improving Cellular Senescence Detection with Weak Gene Markers in Single-Cell RNA-seq vi Iterative Imputation](https://www.biorxiv.org/content/10.1101/2025.05.25.656048v1?rss=1) / 08:00
 - [Anatomy of the 23andMe fall and implications for consumer genomics](https://www.nature.com/articles/s41587-025-02683-z) / 08:00
 - [Haplotype resolved chromosome-level genome assembly of the gold barb (Barbodes semifasciolatus)](https://www.nature.com/articles/s41597-025-05178-3) / 08:00
 
@@ -61,6 +63,4 @@
 - [Joint Modeling of Longitudinal Biomarker and Survival Outcomes with the Presence of Competing Risk in Nested Case-Control Studies with Application to the TEDDY Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.23.655653v1?rss=1) / 05月28日 08:00
 - [Sequencing the gaps: dark genomic regions persist in CHM13 despite long-read advances](https://www.biorxiv.org/content/10.1101/2025.05.23.655776v1?rss=1) / 05月28日 08:00
 - [Evaluation of network inference algorithms for derivation of metabolic relationships from lipidomic and metabolomic datasets](https://www.biorxiv.org/content/10.1101/2025.05.23.654112v1?rss=1) / 05月28日 08:00
-- [Automated evaluation of single-cell reference atlas mappings enables the identification of disease-associated cell states](https://www.biorxiv.org/content/10.1101/2025.05.23.655749v1?rss=1) / 05月28日 08:00
-- [The genomic legacy of selectively breeding rhesus macaques for HIV/AIDS-related research](https://www.biorxiv.org/content/10.1101/2025.05.26.654976v1?rss=1) / 05月28日 08:00
 <!--rss-papers:end-->
