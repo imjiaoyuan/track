@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 09:27**
-- 今天周四，白天🌤️多云(20°~29°)，空气良(74)，夜间阴
-- 明天周五，白天🌧️小雨(17°~23°)，空气优(49)
+**四川省/成都/成都 2025年05月29日 11:12**
+- 今天周四，白天🌤️多云(20°~29°)，空气良(83)，夜间阴
+- 明天周五，白天🌧️小雨(17°~23°)，空气良(51)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 09:27**
-- 今天周四，白天☁️阴(20°~31°)，空气良(83)
-- 明天周五，白天🌧️小雨(20°~30°)，空气良(69)
+**四川省/宜宾/宜宾 2025年05月29日 11:12**
+- 今天周四，白天☁️阴(20°~31°)，空气良(81)
+- 明天周五，白天🌧️小雨(20°~30°)，空气良(67)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [Windows 11 24H2 五月非安全更新 KB5058499 开始推送](https://windiscover.com/posts/windows-11-24h2-non-security-preview-update-kb5058499.html) / 10:13
 - [Windows 10 五月非安全预览更新 KB5058481 开始推送](https://windiscover.com/posts/windows-1o-may-2025-non-security-update-kb5058481.html) / 09:17
 - [“低电量生活”是怎样的状态？](http://m.wufazhuce.com/question/4378) / 06:25
 - [磕头机上的神明](http://m.wufazhuce.com/article/6805) / 06:25
@@ -35,12 +36,12 @@
 - [下载 | Windows 11 24H2 （含 5 月安全更新，简中）官方镜像](https://windiscover.com/posts/windows-11-24h2-with-may-2025-update-iso.html) / 05月26日 14:04
 - [赛博家务之cloudflared访问n8n](https://blog.pursuitus.com/cloudflaredandn8n.html) / 05月26日 09:04
 - [2025 年度 618 正版软件促销推荐](https://windiscover.com/posts/618-2025-geniune-apps-deals.html) / 05月25日 22:01
-- [猫鱼周刊 vol. 066 3D 打印入门体验](https://ameow.xyz/archives/weekly-066) / 05月25日 19:43
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [LlamaAffinity: A Predictive Antibody Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture](https://www.biorxiv.org/content/10.1101/2025.05.28.653051v1?rss=1) / 05月28日 08:00
 - [Acoustic individual identification in a species of field cricket using deep learning](https://www.biorxiv.org/content/10.1101/2025.05.24.655958v1?rss=1) / 05月28日 08:00
 - [Multi-scale early warning system for influenza A spillovers](https://www.biorxiv.org/content/10.1101/2025.05.24.655955v1?rss=1) / 05月28日 08:00
 - [pLM-SAV: A Δ-Embedding Approach for Predicting Pathogenic Single Amino Acid Variants](https://www.biorxiv.org/content/10.1101/2025.05.24.655916v1?rss=1) / 05月28日 08:00
@@ -60,5 +61,4 @@
 - [Correction: Chromosome-level Haploid Assembly of Cannabis sativa L. cv. Pink Pepper](https://www.nature.com/articles/s41597-025-05259-3) / 05月28日 08:00
 - [Computable phenotypes to identify respiratory viral infections in the All of Us research program](https://www.nature.com/articles/s41598-025-02183-9) / 05月28日 08:00
 - [PerTurboAgent: A Self-Planning Agent for Boosting Sequential Perturb-seq Experiments](https://www.biorxiv.org/content/10.1101/2025.05.25.656020v1?rss=1) / 05月27日 08:00
-- [Beyond performance: How design choices shape chemical language models](https://www.biorxiv.org/content/10.1101/2025.05.23.655735v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
