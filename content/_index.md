@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 14:27**
+**四川省/成都/成都 2025年05月29日 16:25**
 - 今天周四，白天🌤️多云(20°~29°)，空气良(78)，夜间阴
-- 明天周五，白天🌧️小雨(17°~23°)，空气优(46)
+- 明天周五，白天🌧️小雨(17°~23°)，空气优(48)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 14:27**
-- 今天周四，白天☁️阴(20°~31°)，空气良(78)
-- 明天周五，白天🌧️小雨(20°~30°)，空气良(69)
+**四川省/宜宾/宜宾 2025年05月29日 16:25**
+- 今天周四，白天☁️阴(20°~31°)，空气良(79)
+- 明天周五，白天🌧️小雨(20°~30°)，空气良(80)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [为什么人们喜欢鉴定 AI？](https://1q43.blog/post/11260/) / 11:52
 - [Windows 11 24H2 五月非安全更新 KB5058499 开始推送](https://windiscover.com/posts/windows-11-24h2-non-security-preview-update-kb5058499.html) / 10:13
 - [Windows 10 五月非安全预览更新 KB5058481 开始推送](https://windiscover.com/posts/windows-1o-may-2025-non-security-update-kb5058481.html) / 09:17
 - [“低电量生活”是怎样的状态？](http://m.wufazhuce.com/question/4378) / 06:25
@@ -35,7 +36,6 @@
 - [giteeToGithub镜像指南](https://hp-l.github.io/2025/05/26/152454/) / 05月26日 15:24
 - [下载 | Windows 11 24H2 （含 5 月安全更新，简中）官方镜像](https://windiscover.com/posts/windows-11-24h2-with-may-2025-update-iso.html) / 05月26日 14:04
 - [赛博家务之cloudflared访问n8n](https://blog.pursuitus.com/cloudflaredandn8n.html) / 05月26日 09:04
-- [2025 年度 618 正版软件促销推荐](https://windiscover.com/posts/618-2025-geniune-apps-deals.html) / 05月25日 22:01
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -44,6 +44,7 @@
 - [Haplotype resolved chromosome-level genome assembly of the gold barb (Barbodes semifasciolatus)](https://www.nature.com/articles/s41597-025-05178-3) / 08:00
 
 **历史记录**
+- [Hybrid Deep Learning with Protein Language Models and Dual-Path Architecture for Predicting IDP Functions](https://www.biorxiv.org/content/10.1101/2025.05.25.655984v1?rss=1) / 05月28日 08:00
 - [House of Clocks: On the Misuse of Ageing Composite Measures](https://www.biorxiv.org/content/10.1101/2025.05.24.655934v1?rss=1) / 05月28日 08:00
 - [Identifying Molecular Determinants and Therapeutic Targets in Luminal B Breast Cancer: A Systems Biology Approach](https://www.biorxiv.org/content/10.1101/2025.05.25.656027v1?rss=1) / 05月28日 08:00
 - [Decoupled Information Theoretic Feature Selection for Rapid Protein Key Tuning Residue Identification](https://www.biorxiv.org/content/10.1101/2025.05.28.653817v1?rss=1) / 05月28日 08:00
@@ -62,5 +63,4 @@
 - [Automated evaluation of single-cell reference atlas mappings enables the identification of disease-associated cell states](https://www.biorxiv.org/content/10.1101/2025.05.23.655749v1?rss=1) / 05月28日 08:00
 - [The genomic legacy of selectively breeding rhesus macaques for HIV/AIDS-related research](https://www.biorxiv.org/content/10.1101/2025.05.26.654976v1?rss=1) / 05月28日 08:00
 - [Differential expression of mitochondria-associated genes in clinical samples of Plasmodium falciparum showing severe manifestations](https://www.biorxiv.org/content/10.1101/2025.05.24.655897v1?rss=1) / 05月28日 08:00
-- [Evolution of resistance breaking in spinach downy mildew revealed through pangenome graph analysis](https://www.biorxiv.org/content/10.1101/2025.05.23.655769v1?rss=1) / 05月28日 08:00
 <!--rss-papers:end-->
