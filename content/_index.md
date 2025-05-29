@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 20:37**
-- 今天周四，白天🌤️多云(20°~29°)，空气良(74)，夜间小雨
-- 明天周五，白天🌧️小雨(18°~24°)，空气良(52)
+**四川省/成都/成都 2025年05月29日 22:18**
+- 今天周四，白天🌤️多云(20°~29°)，空气良(76)，夜间小雨
+- 明天周五，白天🌧️小雨(18°~24°)，空气优(49)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 20:37**
-- 今天周四，白天☁️阴(21°~31°)，空气良(80)
-- 明天周五，白天🌧️小雨(20°~29°)，空气良(84)
+**四川省/宜宾/宜宾 2025年05月29日 22:18**
+- 今天周四，白天☁️阴(21°~31°)，空气良(87)
+- 明天周五，白天🌧️小雨(20°~29°)，空气良(67)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [微软确认 KB5058405 更新会可能导致 0xc0000098 错误代码](https://windiscover.com/posts/kb5058405-might-fail-to-install-with-recovery-error-0xc0000098.html) / 21:46
 - [为什么人们喜欢鉴定 AI？](https://1q43.blog/post/11260/) / 11:52
 - [Windows 11 24H2 五月非安全更新 KB5058499 开始推送](https://windiscover.com/posts/windows-11-24h2-non-security-preview-update-kb5058499.html) / 10:13
 - [Windows 10 五月非安全预览更新 KB5058481 开始推送](https://windiscover.com/posts/windows-1o-may-2025-non-security-update-kb5058481.html) / 09:17
@@ -35,12 +36,12 @@
 - [不会武功，不要去武功山，哈哈哈哈](https://manateelazycat.github.io/2025/05/27/wu-gong-shan/) / 05月27日 00:00
 - [giteeToGithub镜像指南](https://hp-l.github.io/2025/05/26/152454/) / 05月26日 15:24
 - [下载 | Windows 11 24H2 （含 5 月安全更新，简中）官方镜像](https://windiscover.com/posts/windows-11-24h2-with-may-2025-update-iso.html) / 05月26日 14:04
-- [赛博家务之cloudflared访问n8n](https://blog.pursuitus.com/cloudflaredandn8n.html) / 05月26日 09:04
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Hierarchical prediction and perturbation of chromatin organization reveal how loop domains mediate higher-order architectures](https://www.biorxiv.org/content/10.1101/2025.05.25.656045v1?rss=1) / 08:00
 - [Circos Plots for Genome Level Interpretation of Genomic Prediction Models](https://www.biorxiv.org/content/10.1101/2025.05.25.656055v1?rss=1) / 08:00
 - [Improving Cellular Senescence Detection with Weak Gene Markers in Single-Cell RNA-seq vi Iterative Imputation](https://www.biorxiv.org/content/10.1101/2025.05.25.656048v1?rss=1) / 08:00
 - [Anatomy of the 23andMe fall and implications for consumer genomics](https://www.nature.com/articles/s41587-025-02683-z) / 08:00
@@ -62,5 +63,4 @@
 - [Inference of marker genes of subtle cell state changes via iterative logistic regression](https://www.biorxiv.org/content/10.1101/2025.05.23.655858v1?rss=1) / 05月28日 08:00
 - [Joint Modeling of Longitudinal Biomarker and Survival Outcomes with the Presence of Competing Risk in Nested Case-Control Studies with Application to the TEDDY Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.23.655653v1?rss=1) / 05月28日 08:00
 - [Sequencing the gaps: dark genomic regions persist in CHM13 despite long-read advances](https://www.biorxiv.org/content/10.1101/2025.05.23.655776v1?rss=1) / 05月28日 08:00
-- [Evaluation of network inference algorithms for derivation of metabolic relationships from lipidomic and metabolomic datasets](https://www.biorxiv.org/content/10.1101/2025.05.23.654112v1?rss=1) / 05月28日 08:00
 <!--rss-papers:end-->
