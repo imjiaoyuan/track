@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月30日 04:20**
-- 今天周五，白天🌧️小雨(18°~24°)，空气优(45)
-- 明天周六，白天🌧️小雨(19°~24°)，空气良(53)，夜间阴
+**四川省/成都/成都 2025年05月30日 06:17**
+- 今天周五，白天🌧️小雨(17°~22°)，空气优(45)
+- 明天周六，白天🌧️小雨(17°~24°)，空气良(53)，夜间阴
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月30日 04:20**
+**四川省/宜宾/宜宾 2025年05月30日 06:17**
 - 今天周五，白天🌧️小雨(20°~29°)，空气良(78)
-- 明天周六，白天🌧️小雨(19°~24°)，空气良(59)
+- 明天周六，白天🌧️小雨(19°~23°)，空气良(59)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [DoggifAI: a transformer based approach for antibodycaninisation](https://www.biorxiv.org/content/10.1101/2025.05.28.656573v1?rss=1) / 05月29日 08:00
+- [mt.surv: Multi-Threshold Survival Analysis for Associating Continuous Predictor Variables with Time-to-Event Outcomes](https://www.biorxiv.org/content/10.1101/2025.05.29.656703v1?rss=1) / 05月29日 08:00
 - [AlphaFold modeling of polyubiquitin complexes and covalently linked proteins](https://www.biorxiv.org/content/10.1101/2025.05.27.656350v1?rss=1) / 05月29日 08:00
 - [Hierarchical prediction and perturbation of chromatin organization reveal how loop domains mediate higher-order architectures](https://www.biorxiv.org/content/10.1101/2025.05.25.656045v1?rss=1) / 05月29日 08:00
 - [Circos Plots for Genome Level Interpretation of Genomic Prediction Models](https://www.biorxiv.org/content/10.1101/2025.05.25.656055v1?rss=1) / 05月29日 08:00
@@ -59,6 +61,4 @@
 - [LlamaAffinity: A Predictive Antibody Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture](https://www.biorxiv.org/content/10.1101/2025.05.28.653051v1?rss=1) / 05月28日 08:00
 - [Acoustic individual identification in a species of field cricket using deep learning](https://www.biorxiv.org/content/10.1101/2025.05.24.655958v1?rss=1) / 05月28日 08:00
 - [Multi-scale early warning system for influenza A spillovers](https://www.biorxiv.org/content/10.1101/2025.05.24.655955v1?rss=1) / 05月28日 08:00
-- [pLM-SAV: A Δ-Embedding Approach for Predicting Pathogenic Single Amino Acid Variants](https://www.biorxiv.org/content/10.1101/2025.05.24.655916v1?rss=1) / 05月28日 08:00
-- [Characterizing antibodies binding to the same epitope reveals limited contribution by heavy chain CDR3 sequences relative to other CDRs](https://www.biorxiv.org/content/10.1101/2025.05.24.655967v1?rss=1) / 05月28日 08:00
 <!--rss-papers:end-->
