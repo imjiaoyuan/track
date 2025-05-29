@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 11:12**
-- 今天周四，白天🌤️多云(20°~29°)，空气良(83)，夜间阴
-- 明天周五，白天🌧️小雨(17°~23°)，空气良(51)
+**四川省/成都/成都 2025年05月29日 12:24**
+- 今天周四，白天🌤️多云(20°~29°)，空气良(78)，夜间阴
+- 明天周五，白天🌧️小雨(17°~23°)，空气优(46)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 11:12**
-- 今天周四，白天☁️阴(20°~31°)，空气良(81)
-- 明天周五，白天🌧️小雨(20°~30°)，空气良(67)
+**四川省/宜宾/宜宾 2025年05月29日 12:24**
+- 今天周四，白天☁️阴(20°~31°)，空气良(78)
+- 明天周五，白天🌧️小雨(20°~30°)，空气良(69)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Decoupled Information Theoretic Feature Selection for Rapid Protein Key Tuning Residue Identification](https://www.biorxiv.org/content/10.1101/2025.05.28.653817v1?rss=1) / 05月28日 08:00
+- [Comparative assessment of co-folding methods for molecular glue ternary structure prediction](https://www.biorxiv.org/content/10.1101/2025.05.25.655997v1?rss=1) / 05月28日 08:00
+- [Spatiotemporal transcriptomic analysis during cold ischemic injury to the murine kidney reveals compartment-specific changes](https://www.biorxiv.org/content/10.1101/2025.05.25.654911v1?rss=1) / 05月28日 08:00
 - [LlamaAffinity: A Predictive Antibody Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture](https://www.biorxiv.org/content/10.1101/2025.05.28.653051v1?rss=1) / 05月28日 08:00
 - [Acoustic individual identification in a species of field cricket using deep learning](https://www.biorxiv.org/content/10.1101/2025.05.24.655958v1?rss=1) / 05月28日 08:00
 - [Multi-scale early warning system for influenza A spillovers](https://www.biorxiv.org/content/10.1101/2025.05.24.655955v1?rss=1) / 05月28日 08:00
@@ -52,13 +55,10 @@
 - [Sequencing the gaps: dark genomic regions persist in CHM13 despite long-read advances](https://www.biorxiv.org/content/10.1101/2025.05.23.655776v1?rss=1) / 05月28日 08:00
 - [Evaluation of network inference algorithms for derivation of metabolic relationships from lipidomic and metabolomic datasets](https://www.biorxiv.org/content/10.1101/2025.05.23.654112v1?rss=1) / 05月28日 08:00
 - [Automated evaluation of single-cell reference atlas mappings enables the identification of disease-associated cell states](https://www.biorxiv.org/content/10.1101/2025.05.23.655749v1?rss=1) / 05月28日 08:00
+- [Differential expression of mitochondria-associated genes in clinical samples of Plasmodium falciparum showing severe manifestations](https://www.biorxiv.org/content/10.1101/2025.05.24.655897v1?rss=1) / 05月28日 08:00
 - [Evolution of resistance breaking in spinach downy mildew revealed through pangenome graph analysis](https://www.biorxiv.org/content/10.1101/2025.05.23.655769v1?rss=1) / 05月28日 08:00
 - [Large haplotypes linked to climate and life history variation in divergent lineages of Atlantic salmon (Salmo salar)](https://www.biorxiv.org/content/10.1101/2025.05.23.655798v1?rss=1) / 05月28日 08:00
 - [Genomic footprint of a shared Type 5 prophage in 'Candidatus Liberibacter asiaticus' and 'Candidatus Liberibacter africanus', two destructive bacterial pathogens of citrus huanglongbing](https://www.biorxiv.org/content/10.1101/2025.05.23.655732v1?rss=1) / 05月28日 08:00
 - [Chromosome-level genome assembly of Sambus kanssuensis (Coleoptera: Buprestidae)](https://www.nature.com/articles/s41597-025-05271-7) / 05月28日 08:00
 - [CROWN-seq reveals m6Am landscapes and transcription start site diversity](https://www.nature.com/articles/s41576-025-00861-y) / 05月28日 08:00
-- [LGLoc as a new language model-driven graph neural network for mRNA localization](https://www.nature.com/articles/s41598-025-03485-8) / 05月28日 08:00
-- [Correction: Chromosome-level Haploid Assembly of Cannabis sativa L. cv. Pink Pepper](https://www.nature.com/articles/s41597-025-05259-3) / 05月28日 08:00
-- [Computable phenotypes to identify respiratory viral infections in the All of Us research program](https://www.nature.com/articles/s41598-025-02183-9) / 05月28日 08:00
-- [PerTurboAgent: A Self-Planning Agent for Boosting Sequential Perturb-seq Experiments](https://www.biorxiv.org/content/10.1101/2025.05.25.656020v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
