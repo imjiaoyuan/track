@@ -1,29 +1,27 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 22:18**
-- 今天周四，白天🌤️多云(20°~29°)，空气良(76)，夜间小雨
-- 明天周五，白天🌧️小雨(18°~24°)，空气优(49)
+**四川省/成都/成都 2025年05月30日 00:23**
+- 今天周五，白天🌧️小雨(18°~24°)，空气优(45)
+- 明天周六，白天🌧️小雨(19°~24°)，空气良(53)，夜间阴
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 22:18**
-- 今天周四，白天☁️阴(21°~31°)，空气良(87)
-- 明天周五，白天🌧️小雨(20°~29°)，空气良(67)
+**四川省/宜宾/宜宾 2025年05月30日 00:23**
+- 今天周五，白天🌧️小雨(20°~29°)，空气良(78)
+- 明天周六，白天🌧️小雨(19°~24°)，空气良(59)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [微软确认 KB5058405 更新会可能导致 0xc0000098 错误代码](https://windiscover.com/posts/kb5058405-might-fail-to-install-with-recovery-error-0xc0000098.html) / 21:46
-- [为什么人们喜欢鉴定 AI？](https://1q43.blog/post/11260/) / 11:52
-- [Windows 11 24H2 五月非安全更新 KB5058499 开始推送](https://windiscover.com/posts/windows-11-24h2-non-security-preview-update-kb5058499.html) / 10:13
-- [Windows 10 五月非安全预览更新 KB5058481 开始推送](https://windiscover.com/posts/windows-1o-may-2025-non-security-update-kb5058481.html) / 09:17
-- [“低电量生活”是怎样的状态？](http://m.wufazhuce.com/question/4378) / 06:25
-- [磕头机上的神明](http://m.wufazhuce.com/article/6805) / 06:25
-- [VOL.4618](http://m.wufazhuce.com/one/4768) / 06:25
-- [Copilot for Gaming 预览版体验已经在 Xbox 移动端开始测试](https://windiscover.com/posts/xbox-mobile-app-copilot-for-gaming-preview.html) / 00:37
-
 **历史记录**
+- [微软确认 KB5058405 更新会可能导致 0xc0000098 错误代码](https://windiscover.com/posts/kb5058405-might-fail-to-install-with-recovery-error-0xc0000098.html) / 05月29日 21:46
+- [为什么人们喜欢鉴定 AI？](https://1q43.blog/post/11260/) / 05月29日 11:52
+- [Windows 11 24H2 五月非安全更新 KB5058499 开始推送](https://windiscover.com/posts/windows-11-24h2-non-security-preview-update-kb5058499.html) / 05月29日 10:13
+- [Windows 10 五月非安全预览更新 KB5058481 开始推送](https://windiscover.com/posts/windows-1o-may-2025-non-security-update-kb5058481.html) / 05月29日 09:17
+- [“低电量生活”是怎样的状态？](http://m.wufazhuce.com/question/4378) / 05月29日 06:25
+- [磕头机上的神明](http://m.wufazhuce.com/article/6805) / 05月29日 06:25
+- [VOL.4618](http://m.wufazhuce.com/one/4768) / 05月29日 06:25
+- [Copilot for Gaming 预览版体验已经在 Xbox 移动端开始测试](https://windiscover.com/posts/xbox-mobile-app-copilot-for-gaming-preview.html) / 05月29日 00:37
 - [微软推出 Windows 更新协调平台，Windows 更新将支持应用更新](https://windiscover.com/posts/windows-update-orchestration-platform-a-unified-future-for-app-updates-on-windows.html) / 05月28日 23:55
 - [Copilot 应用正在加入“新建页面”功能](https://windiscover.com/posts/copilot-app-new-pages-copilot-pages.html) / 05月28日 15:54
 - [微软发布紧急更新 KB5061977 用于修复 Hyper-V 平台问题](https://windiscover.com/posts/oob-update-kb5061977-for-windows-11-24h2-and-server-2025.html) / 05月28日 14:12
@@ -40,14 +38,13 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Hierarchical prediction and perturbation of chromatin organization reveal how loop domains mediate higher-order architectures](https://www.biorxiv.org/content/10.1101/2025.05.25.656045v1?rss=1) / 08:00
-- [Circos Plots for Genome Level Interpretation of Genomic Prediction Models](https://www.biorxiv.org/content/10.1101/2025.05.25.656055v1?rss=1) / 08:00
-- [Improving Cellular Senescence Detection with Weak Gene Markers in Single-Cell RNA-seq vi Iterative Imputation](https://www.biorxiv.org/content/10.1101/2025.05.25.656048v1?rss=1) / 08:00
-- [Anatomy of the 23andMe fall and implications for consumer genomics](https://www.nature.com/articles/s41587-025-02683-z) / 08:00
-- [Haplotype resolved chromosome-level genome assembly of the gold barb (Barbodes semifasciolatus)](https://www.nature.com/articles/s41597-025-05178-3) / 08:00
-
 **历史记录**
+- [AlphaFold modeling of polyubiquitin complexes and covalently linked proteins](https://www.biorxiv.org/content/10.1101/2025.05.27.656350v1?rss=1) / 05月29日 08:00
+- [Hierarchical prediction and perturbation of chromatin organization reveal how loop domains mediate higher-order architectures](https://www.biorxiv.org/content/10.1101/2025.05.25.656045v1?rss=1) / 05月29日 08:00
+- [Circos Plots for Genome Level Interpretation of Genomic Prediction Models](https://www.biorxiv.org/content/10.1101/2025.05.25.656055v1?rss=1) / 05月29日 08:00
+- [Improving Cellular Senescence Detection with Weak Gene Markers in Single-Cell RNA-seq vi Iterative Imputation](https://www.biorxiv.org/content/10.1101/2025.05.25.656048v1?rss=1) / 05月29日 08:00
+- [Anatomy of the 23andMe fall and implications for consumer genomics](https://www.nature.com/articles/s41587-025-02683-z) / 05月29日 08:00
+- [Haplotype resolved chromosome-level genome assembly of the gold barb (Barbodes semifasciolatus)](https://www.nature.com/articles/s41597-025-05178-3) / 05月29日 08:00
 - [Hybrid Deep Learning with Protein Language Models and Dual-Path Architecture for Predicting IDP Functions](https://www.biorxiv.org/content/10.1101/2025.05.25.655984v1?rss=1) / 05月28日 08:00
 - [House of Clocks: On the Misuse of Ageing Composite Measures](https://www.biorxiv.org/content/10.1101/2025.05.24.655934v1?rss=1) / 05月28日 08:00
 - [Identifying Molecular Determinants and Therapeutic Targets in Luminal B Breast Cancer: A Systems Biology Approach](https://www.biorxiv.org/content/10.1101/2025.05.25.656027v1?rss=1) / 05月28日 08:00
@@ -62,5 +59,4 @@
 - [Deconvolution of multiplexed peptidoform mass spectra enables high-resolution profiling of complex protein modification patterns](https://www.biorxiv.org/content/10.1101/2025.05.24.655917v1?rss=1) / 05月28日 08:00
 - [Inference of marker genes of subtle cell state changes via iterative logistic regression](https://www.biorxiv.org/content/10.1101/2025.05.23.655858v1?rss=1) / 05月28日 08:00
 - [Joint Modeling of Longitudinal Biomarker and Survival Outcomes with the Presence of Competing Risk in Nested Case-Control Studies with Application to the TEDDY Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.23.655653v1?rss=1) / 05月28日 08:00
-- [Sequencing the gaps: dark genomic regions persist in CHM13 despite long-read advances](https://www.biorxiv.org/content/10.1101/2025.05.23.655776v1?rss=1) / 05月28日 08:00
 <!--rss-papers:end-->
