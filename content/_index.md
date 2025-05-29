@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月30日 00:23**
+**四川省/成都/成都 2025年05月30日 02:25**
 - 今天周五，白天🌧️小雨(18°~24°)，空气优(45)
 - 明天周六，白天🌧️小雨(19°~24°)，空气良(53)，夜间阴
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月30日 00:23**
+**四川省/宜宾/宜宾 2025年05月30日 02:26**
 - 今天周五，白天🌧️小雨(20°~29°)，空气良(78)
 - 明天周六，白天🌧️小雨(19°~24°)，空气良(59)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
@@ -43,8 +43,10 @@
 - [Hierarchical prediction and perturbation of chromatin organization reveal how loop domains mediate higher-order architectures](https://www.biorxiv.org/content/10.1101/2025.05.25.656045v1?rss=1) / 05月29日 08:00
 - [Circos Plots for Genome Level Interpretation of Genomic Prediction Models](https://www.biorxiv.org/content/10.1101/2025.05.25.656055v1?rss=1) / 05月29日 08:00
 - [Improving Cellular Senescence Detection with Weak Gene Markers in Single-Cell RNA-seq vi Iterative Imputation](https://www.biorxiv.org/content/10.1101/2025.05.25.656048v1?rss=1) / 05月29日 08:00
+- [Chromosomal-level genome assembly of solitary bee pollinator Osmia excavata Alfken (Hymenoptera: Megachilidae)](https://www.nature.com/articles/s41597-025-05080-y) / 05月29日 08:00
 - [Anatomy of the 23andMe fall and implications for consumer genomics](https://www.nature.com/articles/s41587-025-02683-z) / 05月29日 08:00
 - [Haplotype resolved chromosome-level genome assembly of the gold barb (Barbodes semifasciolatus)](https://www.nature.com/articles/s41597-025-05178-3) / 05月29日 08:00
+- [Pangenome analysis reveals yield- and fiber-related diversity and interspecific gene flow in Gossypium barbadense L.](https://www.nature.com/articles/s41467-025-60254-x) / 05月29日 08:00
 - [Hybrid Deep Learning with Protein Language Models and Dual-Path Architecture for Predicting IDP Functions](https://www.biorxiv.org/content/10.1101/2025.05.25.655984v1?rss=1) / 05月28日 08:00
 - [House of Clocks: On the Misuse of Ageing Composite Measures](https://www.biorxiv.org/content/10.1101/2025.05.24.655934v1?rss=1) / 05月28日 08:00
 - [Identifying Molecular Determinants and Therapeutic Targets in Luminal B Breast Cancer: A Systems Biology Approach](https://www.biorxiv.org/content/10.1101/2025.05.25.656027v1?rss=1) / 05月28日 08:00
@@ -57,6 +59,4 @@
 - [pLM-SAV: A Δ-Embedding Approach for Predicting Pathogenic Single Amino Acid Variants](https://www.biorxiv.org/content/10.1101/2025.05.24.655916v1?rss=1) / 05月28日 08:00
 - [Characterizing antibodies binding to the same epitope reveals limited contribution by heavy chain CDR3 sequences relative to other CDRs](https://www.biorxiv.org/content/10.1101/2025.05.24.655967v1?rss=1) / 05月28日 08:00
 - [Deconvolution of multiplexed peptidoform mass spectra enables high-resolution profiling of complex protein modification patterns](https://www.biorxiv.org/content/10.1101/2025.05.24.655917v1?rss=1) / 05月28日 08:00
-- [Inference of marker genes of subtle cell state changes via iterative logistic regression](https://www.biorxiv.org/content/10.1101/2025.05.23.655858v1?rss=1) / 05月28日 08:00
-- [Joint Modeling of Longitudinal Biomarker and Survival Outcomes with the Presence of Competing Risk in Nested Case-Control Studies with Application to the TEDDY Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.23.655653v1?rss=1) / 05月28日 08:00
 <!--rss-papers:end-->
