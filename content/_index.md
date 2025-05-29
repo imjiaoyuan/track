@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月30日 02:25**
+**四川省/成都/成都 2025年05月30日 04:20**
 - 今天周五，白天🌧️小雨(18°~24°)，空气优(45)
 - 明天周六，白天🌧️小雨(19°~24°)，空气良(53)，夜间阴
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月30日 02:26**
+**四川省/宜宾/宜宾 2025年05月30日 04:20**
 - 今天周五，白天🌧️小雨(20°~29°)，空气良(78)
 - 明天周六，白天🌧️小雨(19°~24°)，空气良(59)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
@@ -13,6 +13,9 @@
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [暗盒 02](https://ameow.xyz/archives/film-roll-02) / 02:06
+
 **历史记录**
 - [微软确认 KB5058405 更新会可能导致 0xc0000098 错误代码](https://windiscover.com/posts/kb5058405-might-fail-to-install-with-recovery-error-0xc0000098.html) / 05月29日 21:46
 - [为什么人们喜欢鉴定 AI？](https://1q43.blog/post/11260/) / 05月29日 11:52
@@ -33,7 +36,6 @@
 - [技术研发为啥都需要一块自己的菜地？](https://manateelazycat.github.io/2025/05/27/developer-and-farm/) / 05月27日 00:00
 - [不会武功，不要去武功山，哈哈哈哈](https://manateelazycat.github.io/2025/05/27/wu-gong-shan/) / 05月27日 00:00
 - [giteeToGithub镜像指南](https://hp-l.github.io/2025/05/26/152454/) / 05月26日 15:24
-- [下载 | Windows 11 24H2 （含 5 月安全更新，简中）官方镜像](https://windiscover.com/posts/windows-11-24h2-with-may-2025-update-iso.html) / 05月26日 14:04
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -43,6 +45,7 @@
 - [Hierarchical prediction and perturbation of chromatin organization reveal how loop domains mediate higher-order architectures](https://www.biorxiv.org/content/10.1101/2025.05.25.656045v1?rss=1) / 05月29日 08:00
 - [Circos Plots for Genome Level Interpretation of Genomic Prediction Models](https://www.biorxiv.org/content/10.1101/2025.05.25.656055v1?rss=1) / 05月29日 08:00
 - [Improving Cellular Senescence Detection with Weak Gene Markers in Single-Cell RNA-seq vi Iterative Imputation](https://www.biorxiv.org/content/10.1101/2025.05.25.656048v1?rss=1) / 05月29日 08:00
+- [Black Death bacterium has become less lethal after genetic tweak](https://www.nature.com/articles/d41586-025-01687-8) / 05月29日 08:00
 - [Chromosomal-level genome assembly of solitary bee pollinator Osmia excavata Alfken (Hymenoptera: Megachilidae)](https://www.nature.com/articles/s41597-025-05080-y) / 05月29日 08:00
 - [Anatomy of the 23andMe fall and implications for consumer genomics](https://www.nature.com/articles/s41587-025-02683-z) / 05月29日 08:00
 - [Haplotype resolved chromosome-level genome assembly of the gold barb (Barbodes semifasciolatus)](https://www.nature.com/articles/s41597-025-05178-3) / 05月29日 08:00
@@ -58,5 +61,4 @@
 - [Multi-scale early warning system for influenza A spillovers](https://www.biorxiv.org/content/10.1101/2025.05.24.655955v1?rss=1) / 05月28日 08:00
 - [pLM-SAV: A Δ-Embedding Approach for Predicting Pathogenic Single Amino Acid Variants](https://www.biorxiv.org/content/10.1101/2025.05.24.655916v1?rss=1) / 05月28日 08:00
 - [Characterizing antibodies binding to the same epitope reveals limited contribution by heavy chain CDR3 sequences relative to other CDRs](https://www.biorxiv.org/content/10.1101/2025.05.24.655967v1?rss=1) / 05月28日 08:00
-- [Deconvolution of multiplexed peptidoform mass spectra enables high-resolution profiling of complex protein modification patterns](https://www.biorxiv.org/content/10.1101/2025.05.24.655917v1?rss=1) / 05月28日 08:00
 <!--rss-papers:end-->
