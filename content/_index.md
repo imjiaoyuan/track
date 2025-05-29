@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 16:25**
-- 今天周四，白天🌤️多云(20°~29°)，空气良(78)，夜间阴
-- 明天周五，白天🌧️小雨(17°~23°)，空气优(48)
+**四川省/成都/成都 2025年05月29日 18:21**
+- 今天周四，白天🌤️多云(20°~29°)，空气良(74)，夜间小雨
+- 明天周五，白天🌧️小雨(18°~24°)，空气良(52)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 16:25**
-- 今天周四，白天☁️阴(20°~31°)，空气良(79)
-- 明天周五，白天🌧️小雨(20°~30°)，空气良(80)
+**四川省/宜宾/宜宾 2025年05月29日 18:21**
+- 今天周四，白天☁️阴(21°~31°)，空气良(80)
+- 明天周五，白天🌧️小雨(20°~29°)，空气良(84)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Anatomy of the 23andMe fall and implications for consumer genomics](https://www.nature.com/articles/s41587-025-02683-z) / 08:00
 - [Haplotype resolved chromosome-level genome assembly of the gold barb (Barbodes semifasciolatus)](https://www.nature.com/articles/s41597-025-05178-3) / 08:00
 
 **历史记录**
@@ -62,5 +63,4 @@
 - [Evaluation of network inference algorithms for derivation of metabolic relationships from lipidomic and metabolomic datasets](https://www.biorxiv.org/content/10.1101/2025.05.23.654112v1?rss=1) / 05月28日 08:00
 - [Automated evaluation of single-cell reference atlas mappings enables the identification of disease-associated cell states](https://www.biorxiv.org/content/10.1101/2025.05.23.655749v1?rss=1) / 05月28日 08:00
 - [The genomic legacy of selectively breeding rhesus macaques for HIV/AIDS-related research](https://www.biorxiv.org/content/10.1101/2025.05.26.654976v1?rss=1) / 05月28日 08:00
-- [Differential expression of mitochondria-associated genes in clinical samples of Plasmodium falciparum showing severe manifestations](https://www.biorxiv.org/content/10.1101/2025.05.24.655897v1?rss=1) / 05月28日 08:00
 <!--rss-papers:end-->
