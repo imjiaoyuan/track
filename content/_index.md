@@ -1,19 +1,23 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月29日 06:17**
-- 今天周四，白天🌤️多云(19°~29°)，空气良(81)，夜间小雨
-- 明天周五，白天🌧️小雨(17°~23°)，空气优(50)
+**四川省/成都/成都 2025年05月29日 09:27**
+- 今天周四，白天🌤️多云(20°~29°)，空气良(74)，夜间阴
+- 明天周五，白天🌧️小雨(17°~23°)，空气优(49)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年05月29日 06:17**
-- 今天周四，白天☁️阴(19°~31°)，空气良(79)
-- 明天周五，白天🌧️小雨(20°~30°)，空气良(66)
+**四川省/宜宾/宜宾 2025年05月29日 09:27**
+- 今天周四，白天☁️阴(20°~31°)，空气良(83)
+- 明天周五，白天🌧️小雨(20°~30°)，空气良(69)
 - 天气较好，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [Windows 10 五月非安全预览更新 KB5058481 开始推送](https://windiscover.com/posts/windows-1o-may-2025-non-security-update-kb5058481.html) / 09:17
+- [“低电量生活”是怎样的状态？](http://m.wufazhuce.com/question/4378) / 06:25
+- [磕头机上的神明](http://m.wufazhuce.com/article/6805) / 06:25
+- [VOL.4618](http://m.wufazhuce.com/one/4768) / 06:25
 - [Copilot for Gaming 预览版体验已经在 Xbox 移动端开始测试](https://windiscover.com/posts/xbox-mobile-app-copilot-for-gaming-preview.html) / 00:37
 
 **历史记录**
@@ -23,9 +27,6 @@
 - [Windows 11 22H2 & 23H2 五月非安全预览更新 KB5058502 开始推送](https://windiscover.com/posts/windows-11-23h2-may-2025-non-security-update-kb5058502.html) / 05月28日 11:39
 - [Notion 现已正式上架 Microsoft Store](https://windiscover.com/posts/notion-is-now-available-in-microsoft-store.html) / 05月28日 09:00
 - [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110) / 05月28日 08:05
-- [向往“远方”是一种幼稚还是成熟？](http://m.wufazhuce.com/question/4376) / 05月28日 06:25
-- [奇怪的妻子](http://m.wufazhuce.com/article/6798) / 05月28日 06:25
-- [VOL.4617](http://m.wufazhuce.com/one/4758) / 05月28日 06:25
 - [2025.05.28: 各种链接](https://www.owenyoung.com/blog/journals/2025-05-28/) / 05月28日 03:29
 - [销售三板斧](https://manateelazycat.github.io/2025/05/28/sale/) / 05月28日 00:00
 - [技术研发为啥都需要一块自己的菜地？](https://manateelazycat.github.io/2025/05/27/developer-and-farm/) / 05月27日 00:00
@@ -35,12 +36,17 @@
 - [赛博家务之cloudflared访问n8n](https://blog.pursuitus.com/cloudflaredandn8n.html) / 05月26日 09:04
 - [2025 年度 618 正版软件促销推荐](https://windiscover.com/posts/618-2025-geniune-apps-deals.html) / 05月25日 22:01
 - [猫鱼周刊 vol. 066 3D 打印入门体验](https://ameow.xyz/archives/weekly-066) / 05月25日 19:43
-- [隐说 No.7 东拼西凑的见闻不是博学](https://wangyurui.com/posts/yin-shuo-no-7-dong-pin-xi-cou-bu-shi-bo-xue-cfd29bad) / 05月25日 19:37
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Acoustic individual identification in a species of field cricket using deep learning](https://www.biorxiv.org/content/10.1101/2025.05.24.655958v1?rss=1) / 05月28日 08:00
+- [Multi-scale early warning system for influenza A spillovers](https://www.biorxiv.org/content/10.1101/2025.05.24.655955v1?rss=1) / 05月28日 08:00
+- [pLM-SAV: A Δ-Embedding Approach for Predicting Pathogenic Single Amino Acid Variants](https://www.biorxiv.org/content/10.1101/2025.05.24.655916v1?rss=1) / 05月28日 08:00
+- [Characterizing antibodies binding to the same epitope reveals limited contribution by heavy chain CDR3 sequences relative to other CDRs](https://www.biorxiv.org/content/10.1101/2025.05.24.655967v1?rss=1) / 05月28日 08:00
+- [Deconvolution of multiplexed peptidoform mass spectra enables high-resolution profiling of complex protein modification patterns](https://www.biorxiv.org/content/10.1101/2025.05.24.655917v1?rss=1) / 05月28日 08:00
+- [Inference of marker genes of subtle cell state changes via iterative logistic regression](https://www.biorxiv.org/content/10.1101/2025.05.23.655858v1?rss=1) / 05月28日 08:00
 - [Joint Modeling of Longitudinal Biomarker and Survival Outcomes with the Presence of Competing Risk in Nested Case-Control Studies with Application to the TEDDY Microbiome Dataset](https://www.biorxiv.org/content/10.1101/2025.05.23.655653v1?rss=1) / 05月28日 08:00
 - [Sequencing the gaps: dark genomic regions persist in CHM13 despite long-read advances](https://www.biorxiv.org/content/10.1101/2025.05.23.655776v1?rss=1) / 05月28日 08:00
 - [Evaluation of network inference algorithms for derivation of metabolic relationships from lipidomic and metabolomic datasets](https://www.biorxiv.org/content/10.1101/2025.05.23.654112v1?rss=1) / 05月28日 08:00
@@ -55,10 +61,4 @@
 - [Computable phenotypes to identify respiratory viral infections in the All of Us research program](https://www.nature.com/articles/s41598-025-02183-9) / 05月28日 08:00
 - [PerTurboAgent: A Self-Planning Agent for Boosting Sequential Perturb-seq Experiments](https://www.biorxiv.org/content/10.1101/2025.05.25.656020v1?rss=1) / 05月27日 08:00
 - [Beyond performance: How design choices shape chemical language models](https://www.biorxiv.org/content/10.1101/2025.05.23.655735v1?rss=1) / 05月27日 08:00
-- [Updated chromosome-level genome assembly of Sporisorium scitamineum with improved accuracy and completeness](https://www.biorxiv.org/content/10.1101/2025.05.23.649816v1?rss=1) / 05月27日 08:00
-- [Alignment-driven Cross-Graph Modeling for 3D RNA Inverse Folding](https://www.biorxiv.org/content/10.1101/2025.05.23.655885v1?rss=1) / 05月27日 08:00
-- [First full-genome alignment representative for the genus Pestivirus](https://www.biorxiv.org/content/10.1101/2025.05.22.655560v1?rss=1) / 05月27日 08:00
-- [JMod: Joint modeling of mass spectra for empowering multiplexed DIA proteomics](https://www.biorxiv.org/content/10.1101/2025.05.22.655512v1?rss=1) / 05月27日 08:00
-- [Identifying Positional Orthologs by Linear Programming](https://www.biorxiv.org/content/10.1101/2025.05.22.655535v1?rss=1) / 05月27日 08:00
-- [Advancing the Discovery of Phage-Host Interactions and Disease Classification from Metagenomic Profiles Using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.05.26.656232v1?rss=1) / 05月27日 08:00
 <!--rss-papers:end-->
