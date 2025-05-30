@@ -1,30 +1,28 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月30日 22:18**
-- 今天周五，白天🌧️小雨(18°~23°)，空气优(49)
-- 明天周六，白天🌧️小雨(19°~24°)，空气优(46)
+**四川省/成都/成都 2025年05月31日 00:23**
+- 今天周六，白天🌧️小雨(19°~24°)，空气优(45)
+- 明天周日，白天🌧️小雨(20°~27°)，空气良(63)，夜间阴
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月30日 22:18**
-- 今天周五，白天🌧️小雨(20°~29°)，空气良(79)
-- 明天周六，白天🌧️小雨(19°~23°)，空气优(48)
+**四川省/宜宾/宜宾 2025年05月31日 00:23**
+- 今天周六，白天🌧️小雨(19°~23°)，空气优(49)
+- 明天周日，白天☁️阴(19°~27°)，空气良(59)，夜间小雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [微软暂停原生 Xbox 掌机计划，聚焦优化 Windows 11 掌机游戏体验](https://windiscover.com/posts/microsoft-pause-native-xbox-handheld-and-put-focus-on-improving-windows-11-handheld-experience.html) / 14:43
-- [Edge Game Assist（正式版）已经向所有 Windows 11 用户开放](https://windiscover.com/posts/edge-game-assist-is-now-available-to-every-windows-11-user.html) / 09:40
-- [Canary 分支 Windows 11 Build 27868 开始推送](https://windiscover.com/posts/windows-11-build-27868.html) / 09:03
-- [科技爱好者周刊（第 350 期）：Java 三十周年](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html) / 08:02
-- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4379) / 06:25
-- [放映那天谁没来](http://m.wufazhuce.com/article/6810) / 06:25
-- [VOL.4619](http://m.wufazhuce.com/one/4769) / 06:25
-- [暗盒 02](https://ameow.xyz/archives/film-roll-02) / 02:06
-- [35 岁了，遇到瓶颈很焦虑怎么办](https://manateelazycat.github.io/2025/05/30/35-year/) / 00:00
-
 **历史记录**
+- [微软暂停原生 Xbox 掌机计划，聚焦优化 Windows 11 掌机游戏体验](https://windiscover.com/posts/microsoft-pause-native-xbox-handheld-and-put-focus-on-improving-windows-11-handheld-experience.html) / 05月30日 14:43
+- [Edge Game Assist（正式版）已经向所有 Windows 11 用户开放](https://windiscover.com/posts/edge-game-assist-is-now-available-to-every-windows-11-user.html) / 05月30日 09:40
+- [Canary 分支 Windows 11 Build 27868 开始推送](https://windiscover.com/posts/windows-11-build-27868.html) / 05月30日 09:03
+- [科技爱好者周刊（第 350 期）：Java 三十周年](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html) / 05月30日 08:02
+- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4379) / 05月30日 06:25
+- [放映那天谁没来](http://m.wufazhuce.com/article/6810) / 05月30日 06:25
+- [VOL.4619](http://m.wufazhuce.com/one/4769) / 05月30日 06:25
+- [暗盒 02](https://ameow.xyz/archives/film-roll-02) / 05月30日 02:06
+- [35 岁了，遇到瓶颈很焦虑怎么办](https://manateelazycat.github.io/2025/05/30/35-year/) / 05月30日 00:00
 - [微软确认 KB5058405 更新会可能导致 0xc0000098 错误代码](https://windiscover.com/posts/kb5058405-might-fail-to-install-with-recovery-error-0xc0000098.html) / 05月29日 21:46
 - [为什么人们喜欢鉴定 AI？](https://1q43.blog/post/11260/) / 05月29日 11:52
 - [Windows 11 24H2 五月非安全更新 KB5058499 开始推送](https://windiscover.com/posts/windows-11-24h2-non-security-preview-update-kb5058499.html) / 05月29日 10:13
@@ -40,13 +38,13 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Integrating process, proximity, and prediction implicates novel protein and RNA interactions in human Origin Recognition Complex function](https://www.biorxiv.org/content/10.1101/2025.05.28.651956v1?rss=1) / 08:00
-- [Principles and functional consequences of plasmid chromatinization in mammalian cells](https://www.biorxiv.org/content/10.1101/2025.05.27.656122v1?rss=1) / 08:00
-- [Bronchopulmonary dysplasia with pulmonary hypertension associates with semaphorin signaling loss and functionally decreased FOXF1 expression](https://www.nature.com/articles/s41467-025-60371-7) / 08:00
-- [Honey bulk DNA metagenomic analysis to identify honey biological composition and monitor honey bee pathogens](https://www.nature.com/articles/s41538-025-00464-1) / 08:00
-
 **历史记录**
+- [A Transcriptomics-Based Computational Drug Repositioning Pipeline Identifies Simvastatin And Primaquine As Novel Therapeutics For Endometriosis Pain](https://www.biorxiv.org/content/10.1101/2025.05.28.656743v1?rss=1) / 05月30日 08:00
+- [Integrating process, proximity, and prediction implicates novel protein and RNA interactions in human Origin Recognition Complex function](https://www.biorxiv.org/content/10.1101/2025.05.28.651956v1?rss=1) / 05月30日 08:00
+- [Principles and functional consequences of plasmid chromatinization in mammalian cells](https://www.biorxiv.org/content/10.1101/2025.05.27.656122v1?rss=1) / 05月30日 08:00
+- [Bronchopulmonary dysplasia with pulmonary hypertension associates with semaphorin signaling loss and functionally decreased FOXF1 expression](https://www.nature.com/articles/s41467-025-60371-7) / 05月30日 08:00
+- [Chromosome-level genome assembly and annotation of Phyllostachys violascens ‘Prevernalis’](https://www.nature.com/articles/s41597-025-04556-1) / 05月30日 08:00
+- [Honey bulk DNA metagenomic analysis to identify honey biological composition and monitor honey bee pathogens](https://www.nature.com/articles/s41538-025-00464-1) / 05月30日 08:00
 - [CNAttention: an attention-based deep multiple-instance method for uncovering CNA signatures across cancers](https://www.biorxiv.org/content/10.1101/2025.05.26.656180v1?rss=1) / 05月29日 08:00
 - [SNP calling, haplotype phasing and allele-specific analysis with long RNA-seq reads](https://www.biorxiv.org/content/10.1101/2025.05.26.656191v1?rss=1) / 05月29日 08:00
 - [From Hype to Health Check: Critical Evaluation of Drug Response Prediction Models with DrEval](https://www.biorxiv.org/content/10.1101/2025.05.26.655288v1?rss=1) / 05月29日 08:00
@@ -61,6 +59,4 @@
 - [A genomic catalog of Earth's bacterial and archaeal symbionts](https://www.biorxiv.org/content/10.1101/2025.05.29.656868v1?rss=1) / 05月29日 08:00
 - [Map functional insulators with cross-platform Hi-C meta-analysis](https://www.biorxiv.org/content/10.1101/2025.05.26.656183v1?rss=1) / 05月29日 08:00
 - [Improving Cellular Senescence Detection with Weak Gene Markers in Single-Cell RNA-seq vi Iterative Imputation](https://www.biorxiv.org/content/10.1101/2025.05.25.656048v1?rss=1) / 05月29日 08:00
-- [Black Death bacterium has become less lethal after genetic tweak](https://www.nature.com/articles/d41586-025-01687-8) / 05月29日 08:00
-- [Chromosomal-level genome assembly of solitary bee pollinator Osmia excavata Alfken (Hymenoptera: Megachilidae)](https://www.nature.com/articles/s41597-025-05080-y) / 05月29日 08:00
 <!--rss-papers:end-->
