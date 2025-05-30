@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月30日 12:23**
+**四川省/成都/成都 2025年05月30日 14:26**
 - 今天周五，白天🌧️小雨(18°~23°)，空气优(49)
 - 明天周六，白天🌧️小雨(17°~23°)，空气优(44)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月30日 12:23**
+**四川省/宜宾/宜宾 2025年05月30日 14:26**
 - 今天周五，白天🌧️小雨(20°~29°)，空气良(77)
 - 明天周六，白天🌧️小雨(19°~23°)，空气良(54)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -44,6 +44,7 @@
 - [Bronchopulmonary dysplasia with pulmonary hypertension associates with semaphorin signaling loss and functionally decreased FOXF1 expression](https://www.nature.com/articles/s41467-025-60371-7) / 08:00
 
 **历史记录**
+- [CNAttention: an attention-based deep multiple-instance method for uncovering CNA signatures across cancers](https://www.biorxiv.org/content/10.1101/2025.05.26.656180v1?rss=1) / 05月29日 08:00
 - [SNP calling, haplotype phasing and allele-specific analysis with long RNA-seq reads](https://www.biorxiv.org/content/10.1101/2025.05.26.656191v1?rss=1) / 05月29日 08:00
 - [From Hype to Health Check: Critical Evaluation of Drug Response Prediction Models with DrEval](https://www.biorxiv.org/content/10.1101/2025.05.26.655288v1?rss=1) / 05月29日 08:00
 - [DoggifAI: a transformer based approach for antibodycaninisation](https://www.biorxiv.org/content/10.1101/2025.05.28.656573v1?rss=1) / 05月29日 08:00
@@ -51,6 +52,10 @@
 - [AlphaFold modeling of polyubiquitin complexes and covalently linked proteins](https://www.biorxiv.org/content/10.1101/2025.05.27.656350v1?rss=1) / 05月29日 08:00
 - [Hierarchical prediction and perturbation of chromatin organization reveal how loop domains mediate higher-order architectures](https://www.biorxiv.org/content/10.1101/2025.05.25.656045v1?rss=1) / 05月29日 08:00
 - [Circos Plots for Genome Level Interpretation of Genomic Prediction Models](https://www.biorxiv.org/content/10.1101/2025.05.25.656055v1?rss=1) / 05月29日 08:00
+- [Integrating genomics, machine learning, and computer vision to understand growth traits in selectively bred snapper (Chrysophrys auratus)](https://www.biorxiv.org/content/10.1101/2025.05.29.656727v1?rss=1) / 05月29日 08:00
+- [MIC-Drop-seq: Scalable single-cell phenotyping of mutant vertebrate embryos](https://www.biorxiv.org/content/10.1101/2025.05.27.656468v1?rss=1) / 05月29日 08:00
+- [A genomic catalog of Earth's bacterial and archaeal symbionts](https://www.biorxiv.org/content/10.1101/2025.05.29.656868v1?rss=1) / 05月29日 08:00
+- [Map functional insulators with cross-platform Hi-C meta-analysis](https://www.biorxiv.org/content/10.1101/2025.05.26.656183v1?rss=1) / 05月29日 08:00
 - [Improving Cellular Senescence Detection with Weak Gene Markers in Single-Cell RNA-seq vi Iterative Imputation](https://www.biorxiv.org/content/10.1101/2025.05.25.656048v1?rss=1) / 05月29日 08:00
 - [Black Death bacterium has become less lethal after genetic tweak](https://www.nature.com/articles/d41586-025-01687-8) / 05月29日 08:00
 - [Chromosomal-level genome assembly of solitary bee pollinator Osmia excavata Alfken (Hymenoptera: Megachilidae)](https://www.nature.com/articles/s41597-025-05080-y) / 05月29日 08:00
@@ -58,9 +63,4 @@
 - [Haplotype resolved chromosome-level genome assembly of the gold barb (Barbodes semifasciolatus)](https://www.nature.com/articles/s41597-025-05178-3) / 05月29日 08:00
 - [Pangenome analysis reveals yield- and fiber-related diversity and interspecific gene flow in Gossypium barbadense L.](https://www.nature.com/articles/s41467-025-60254-x) / 05月29日 08:00
 - [Hybrid Deep Learning with Protein Language Models and Dual-Path Architecture for Predicting IDP Functions](https://www.biorxiv.org/content/10.1101/2025.05.25.655984v1?rss=1) / 05月28日 08:00
-- [House of Clocks: On the Misuse of Ageing Composite Measures](https://www.biorxiv.org/content/10.1101/2025.05.24.655934v1?rss=1) / 05月28日 08:00
-- [Identifying Molecular Determinants and Therapeutic Targets in Luminal B Breast Cancer: A Systems Biology Approach](https://www.biorxiv.org/content/10.1101/2025.05.25.656027v1?rss=1) / 05月28日 08:00
-- [Decoupled Information Theoretic Feature Selection for Rapid Protein Key Tuning Residue Identification](https://www.biorxiv.org/content/10.1101/2025.05.28.653817v1?rss=1) / 05月28日 08:00
-- [Comparative assessment of co-folding methods for molecular glue ternary structure prediction](https://www.biorxiv.org/content/10.1101/2025.05.25.655997v1?rss=1) / 05月28日 08:00
-- [Spatiotemporal transcriptomic analysis during cold ischemic injury to the murine kidney reveals compartment-specific changes](https://www.biorxiv.org/content/10.1101/2025.05.25.654911v1?rss=1) / 05月28日 08:00
 <!--rss-papers:end-->
