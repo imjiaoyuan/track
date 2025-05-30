@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月31日 00:23**
+**四川省/成都/成都 2025年05月31日 02:26**
 - 今天周六，白天🌧️小雨(19°~24°)，空气优(45)
 - 明天周日，白天🌧️小雨(20°~27°)，空气良(63)，夜间阴
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月31日 00:23**
+**四川省/宜宾/宜宾 2025年05月31日 02:26**
 - 今天周六，白天🌧️小雨(19°~23°)，空气优(49)
 - 明天周日，白天☁️阴(19°~27°)，空气良(59)，夜间小雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
@@ -39,6 +39,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Bridging Worlds: Connecting Glycan Representations with Glycoinformatics via Universal Input and a Canonicalized Nomenclature](https://www.biorxiv.org/content/10.1101/2025.05.30.657013v1?rss=1) / 05月30日 08:00
+- [Gene Loss DB: A curated database for gene loss in vertebrate species.](https://www.biorxiv.org/content/10.1101/2025.05.26.656173v1?rss=1) / 05月30日 08:00
 - [A Transcriptomics-Based Computational Drug Repositioning Pipeline Identifies Simvastatin And Primaquine As Novel Therapeutics For Endometriosis Pain](https://www.biorxiv.org/content/10.1101/2025.05.28.656743v1?rss=1) / 05月30日 08:00
 - [Integrating process, proximity, and prediction implicates novel protein and RNA interactions in human Origin Recognition Complex function](https://www.biorxiv.org/content/10.1101/2025.05.28.651956v1?rss=1) / 05月30日 08:00
 - [Principles and functional consequences of plasmid chromatinization in mammalian cells](https://www.biorxiv.org/content/10.1101/2025.05.27.656122v1?rss=1) / 05月30日 08:00
@@ -57,6 +59,4 @@
 - [Integrating genomics, machine learning, and computer vision to understand growth traits in selectively bred snapper (Chrysophrys auratus)](https://www.biorxiv.org/content/10.1101/2025.05.29.656727v1?rss=1) / 05月29日 08:00
 - [MIC-Drop-seq: Scalable single-cell phenotyping of mutant vertebrate embryos](https://www.biorxiv.org/content/10.1101/2025.05.27.656468v1?rss=1) / 05月29日 08:00
 - [A genomic catalog of Earth's bacterial and archaeal symbionts](https://www.biorxiv.org/content/10.1101/2025.05.29.656868v1?rss=1) / 05月29日 08:00
-- [Map functional insulators with cross-platform Hi-C meta-analysis](https://www.biorxiv.org/content/10.1101/2025.05.26.656183v1?rss=1) / 05月29日 08:00
-- [Improving Cellular Senescence Detection with Weak Gene Markers in Single-Cell RNA-seq vi Iterative Imputation](https://www.biorxiv.org/content/10.1101/2025.05.25.656048v1?rss=1) / 05月29日 08:00
 <!--rss-papers:end-->
