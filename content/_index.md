@@ -1,13 +1,13 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月30日 20:37**
-- 今天周五，白天🌧️小雨(18°~23°)，空气良(52)
-- 明天周六，白天🌧️小雨(19°~24°)，空气优(48)
+**四川省/成都/成都 2025年05月30日 22:18**
+- 今天周五，白天🌧️小雨(18°~23°)，空气优(49)
+- 明天周六，白天🌧️小雨(19°~24°)，空气优(46)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月30日 20:37**
+**四川省/宜宾/宜宾 2025年05月30日 22:18**
 - 今天周五，白天🌧️小雨(20°~29°)，空气良(79)
-- 明天周六，白天🌧️小雨(19°~23°)，空气良(53)
+- 明天周六，白天🌧️小雨(19°~23°)，空气优(48)
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 <!--qweather:end-->
 ---
@@ -41,7 +41,10 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Integrating process, proximity, and prediction implicates novel protein and RNA interactions in human Origin Recognition Complex function](https://www.biorxiv.org/content/10.1101/2025.05.28.651956v1?rss=1) / 08:00
+- [Principles and functional consequences of plasmid chromatinization in mammalian cells](https://www.biorxiv.org/content/10.1101/2025.05.27.656122v1?rss=1) / 08:00
 - [Bronchopulmonary dysplasia with pulmonary hypertension associates with semaphorin signaling loss and functionally decreased FOXF1 expression](https://www.nature.com/articles/s41467-025-60371-7) / 08:00
+- [Honey bulk DNA metagenomic analysis to identify honey biological composition and monitor honey bee pathogens](https://www.nature.com/articles/s41538-025-00464-1) / 08:00
 
 **历史记录**
 - [CNAttention: an attention-based deep multiple-instance method for uncovering CNA signatures across cancers](https://www.biorxiv.org/content/10.1101/2025.05.26.656180v1?rss=1) / 05月29日 08:00
@@ -60,7 +63,4 @@
 - [Improving Cellular Senescence Detection with Weak Gene Markers in Single-Cell RNA-seq vi Iterative Imputation](https://www.biorxiv.org/content/10.1101/2025.05.25.656048v1?rss=1) / 05月29日 08:00
 - [Black Death bacterium has become less lethal after genetic tweak](https://www.nature.com/articles/d41586-025-01687-8) / 05月29日 08:00
 - [Chromosomal-level genome assembly of solitary bee pollinator Osmia excavata Alfken (Hymenoptera: Megachilidae)](https://www.nature.com/articles/s41597-025-05080-y) / 05月29日 08:00
-- [Anatomy of the 23andMe fall and implications for consumer genomics](https://www.nature.com/articles/s41587-025-02683-z) / 05月29日 08:00
-- [Haplotype resolved chromosome-level genome assembly of the gold barb (Barbodes semifasciolatus)](https://www.nature.com/articles/s41597-025-05178-3) / 05月29日 08:00
-- [Pangenome analysis reveals yield- and fiber-related diversity and interspecific gene flow in Gossypium barbadense L.](https://www.nature.com/articles/s41467-025-60254-x) / 05月29日 08:00
 <!--rss-papers:end-->
