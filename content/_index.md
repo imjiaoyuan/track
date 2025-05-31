@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月31日 12:21**
+**四川省/成都/成都 2025年05月31日 14:24**
 - 今天周六，白天🌧️小雨(17°~22°)，空气优(49)，夜间阴
 - 明天周日，白天☁️阴(18°~26°)，空气良(63)，夜间小雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月31日 12:21**
+**四川省/宜宾/宜宾 2025年05月31日 14:24**
 - 今天周六，白天🌧️小雨(19°~24°)，空气优(48)
 - 明天周日，白天☁️阴(19°~26°)，空气良(58)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Unpaired Image-to-Image Translation for Segmentation and Signal Unmixing](https://www.biorxiv.org/content/10.1101/2025.05.26.656226v1?rss=1) / 05月30日 08:00
 - [scCoBench: Benchmarking single cell RNA-seq co-expression using promoter-reporter lines](https://www.biorxiv.org/content/10.1101/2025.05.26.656221v1?rss=1) / 05月30日 08:00
 - [How Good is AlphaFold3 at Ranking Drug Binding Affinities?](https://www.biorxiv.org/content/10.1101/2025.05.27.656341v1?rss=1) / 05月30日 08:00
 - [A Diffusion-Based Framework for Designing Molecules in Flexible Protein Pockets](https://www.biorxiv.org/content/10.1101/2025.05.27.656443v1?rss=1) / 05月30日 08:00
@@ -52,13 +53,12 @@
 - [Gene Loss DB: A curated database for gene loss in vertebrate species.](https://www.biorxiv.org/content/10.1101/2025.05.26.656173v1?rss=1) / 05月30日 08:00
 - [A Transcriptomics-Based Computational Drug Repositioning Pipeline Identifies Simvastatin And Primaquine As Novel Therapeutics For Endometriosis Pain](https://www.biorxiv.org/content/10.1101/2025.05.28.656743v1?rss=1) / 05月30日 08:00
 - [Integrating process, proximity, and prediction implicates novel protein and RNA interactions in human Origin Recognition Complex function](https://www.biorxiv.org/content/10.1101/2025.05.28.651956v1?rss=1) / 05月30日 08:00
+- [Missense variants in human forkhead transcription factors reveal determinants of forkhead DNA bispecificity](https://www.biorxiv.org/content/10.1101/2025.05.27.656303v1?rss=1) / 05月30日 08:00
+- [Neurons accumulate disease-specific somatic genomic changes across taupathologic states in Alzheimer's disease](https://www.biorxiv.org/content/10.1101/2025.05.26.656152v1?rss=1) / 05月30日 08:00
 - [Genomic and evolutionary factors influencing the prediction accuracy of optimal growth temperature in prokaryotes](https://www.biorxiv.org/content/10.1101/2025.05.30.656958v1?rss=1) / 05月30日 08:00
 - [Phased epigenomics and methylation inheritance in a historical Vitis vinifera hybrid](https://www.biorxiv.org/content/10.1101/2025.05.27.656431v1?rss=1) / 05月30日 08:00
 - [Principles and functional consequences of plasmid chromatinization in mammalian cells](https://www.biorxiv.org/content/10.1101/2025.05.27.656122v1?rss=1) / 05月30日 08:00
 - [Bronchopulmonary dysplasia with pulmonary hypertension associates with semaphorin signaling loss and functionally decreased FOXF1 expression](https://www.nature.com/articles/s41467-025-60371-7) / 05月30日 08:00
 - [Chromosome-level genome assembly and annotation of Phyllostachys violascens ‘Prevernalis’](https://www.nature.com/articles/s41597-025-04556-1) / 05月30日 08:00
 - [Honey bulk DNA metagenomic analysis to identify honey biological composition and monitor honey bee pathogens](https://www.nature.com/articles/s41538-025-00464-1) / 05月30日 08:00
-- [CNAttention: an attention-based deep multiple-instance method for uncovering CNA signatures across cancers](https://www.biorxiv.org/content/10.1101/2025.05.26.656180v1?rss=1) / 05月29日 08:00
-- [SNP calling, haplotype phasing and allele-specific analysis with long RNA-seq reads](https://www.biorxiv.org/content/10.1101/2025.05.26.656191v1?rss=1) / 05月29日 08:00
-- [From Hype to Health Check: Critical Evaluation of Drug Response Prediction Models with DrEval](https://www.biorxiv.org/content/10.1101/2025.05.26.655288v1?rss=1) / 05月29日 08:00
 <!--rss-papers:end-->
