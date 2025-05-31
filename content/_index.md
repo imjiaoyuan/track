@@ -1,26 +1,28 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月31日 06:17**
-- 今天周六，白天🌧️小雨(17°~23°)，空气优(45)，夜间阴
-- 明天周日，白天☁️阴(18°~27°)，空气良(63)
+**四川省/成都/成都 2025年05月31日 09:25**
+- 今天周六，白天🌧️小雨(17°~22°)，空气优(50)，夜间阴
+- 明天周日，白天☁️阴(18°~26°)，空气良(61)，夜间小雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月31日 06:17**
-- 今天周六，白天🌧️小雨(19°~24°)，空气优(49)
-- 明天周日，白天☁️阴(19°~26°)，空气良(59)，夜间小雨
-- 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
+**四川省/宜宾/宜宾 2025年05月31日 09:25**
+- 今天周六，白天🌧️小雨(19°~24°)，空气优(45)
+- 明天周日，白天☁️阴(19°~26°)，空气良(51)，夜间小雨
+- 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [关于一棵树](http://m.wufazhuce.com/article/6808) / 06:25
+- [VOL.4620](http://m.wufazhuce.com/one/4771) / 06:25
+
 **历史记录**
 - [微软暂停原生 Xbox 掌机计划，聚焦优化 Windows 11 掌机游戏体验](https://windiscover.com/posts/microsoft-pause-native-xbox-handheld-and-put-focus-on-improving-windows-11-handheld-experience.html) / 05月30日 14:43
 - [Edge Game Assist（正式版）已经向所有 Windows 11 用户开放](https://windiscover.com/posts/edge-game-assist-is-now-available-to-every-windows-11-user.html) / 05月30日 09:40
 - [Canary 分支 Windows 11 Build 27868 开始推送](https://windiscover.com/posts/windows-11-build-27868.html) / 05月30日 09:03
 - [科技爱好者周刊（第 350 期）：Java 三十周年](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html) / 05月30日 08:02
 - [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4379) / 05月30日 06:25
-- [放映那天谁没来](http://m.wufazhuce.com/article/6810) / 05月30日 06:25
-- [VOL.4619](http://m.wufazhuce.com/one/4769) / 05月30日 06:25
 - [暗盒 02](https://ameow.xyz/archives/film-roll-02) / 05月30日 02:06
 - [35 岁了，遇到瓶颈很焦虑怎么办](https://manateelazycat.github.io/2025/05/30/35-year/) / 05月30日 00:00
 - [微软确认 KB5058405 更新会可能导致 0xc0000098 错误代码](https://windiscover.com/posts/kb5058405-might-fail-to-install-with-recovery-error-0xc0000098.html) / 05月29日 21:46
@@ -39,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Parameter-Efficient Fine-Tuning of a Supervised Regulatory Sequence Model](https://www.biorxiv.org/content/10.1101/2025.05.26.656171v1?rss=1) / 05月30日 08:00
+- [Sarcomere analysis in human cardiomyocytes by computing radial frequency spectra](https://www.biorxiv.org/content/10.1101/2025.05.28.655290v1?rss=1) / 05月30日 08:00
 - [SIREN: Suite for Intelligent RNAi Design and Evaluation of Nucleotide Sequences](https://www.biorxiv.org/content/10.1101/2025.05.26.656188v1?rss=1) / 05月30日 08:00
 - [Bridging Worlds: Connecting Glycan Representations with Glycoinformatics via Universal Input and a Canonicalized Nomenclature](https://www.biorxiv.org/content/10.1101/2025.05.30.657013v1?rss=1) / 05月30日 08:00
 - [Gene Loss DB: A curated database for gene loss in vertebrate species.](https://www.biorxiv.org/content/10.1101/2025.05.26.656173v1?rss=1) / 05月30日 08:00
@@ -57,6 +61,4 @@
 - [Hierarchical prediction and perturbation of chromatin organization reveal how loop domains mediate higher-order architectures](https://www.biorxiv.org/content/10.1101/2025.05.25.656045v1?rss=1) / 05月29日 08:00
 - [Circos Plots for Genome Level Interpretation of Genomic Prediction Models](https://www.biorxiv.org/content/10.1101/2025.05.25.656055v1?rss=1) / 05月29日 08:00
 - [Resolving the full set of human polymorphic inversions and other complex variants from ultra-long read data](https://www.biorxiv.org/content/10.1101/2025.05.27.656315v1?rss=1) / 05月29日 08:00
-- [Integrating genomics, machine learning, and computer vision to understand growth traits in selectively bred snapper (Chrysophrys auratus)](https://www.biorxiv.org/content/10.1101/2025.05.29.656727v1?rss=1) / 05月29日 08:00
-- [MIC-Drop-seq: Scalable single-cell phenotyping of mutant vertebrate embryos](https://www.biorxiv.org/content/10.1101/2025.05.27.656468v1?rss=1) / 05月29日 08:00
 <!--rss-papers:end-->
