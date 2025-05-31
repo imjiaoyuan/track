@@ -1,11 +1,11 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年06月01日 00:20**
+**四川省/成都/成都 2025年06月01日 02:24**
 - 今天周日，白天☁️阴(18°~26°)，空气良(63)，夜间小雨
 - 明天周一，白天☁️阴(18°~27°)，空气良(66)
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 
-**四川省/宜宾/宜宾 2025年06月01日 00:20**
+**四川省/宜宾/宜宾 2025年06月01日 02:24**
 - 今天周日，白天🌧️小雨(19°~25°)，空气良(54)
 - 明天周一，白天🌧️小雨(19°~25°)，空气良(53)，夜间阴
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
@@ -39,6 +39,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Cancer Diagnostics using Machine Learning of Tumor- and Tissue- Specific RNA Transcripts](https://www.biorxiv.org/content/10.1101/2025.05.27.656256v1?rss=1) / 05月31日 08:00
 - [Click-qPCR: an ultra-simple tool for interactive qPCR data analysis](https://www.biorxiv.org/content/10.1101/2025.05.29.656779v1?rss=1) / 05月31日 08:00
 - [The genetic architecture of an allosteric hormone receptor](https://www.biorxiv.org/content/10.1101/2025.05.30.656975v1?rss=1) / 05月31日 08:00
 - [Unpaired Image-to-Image Translation for Segmentation and Signal Unmixing](https://www.biorxiv.org/content/10.1101/2025.05.26.656226v1?rss=1) / 05月30日 08:00
@@ -58,5 +59,4 @@
 - [Neurons accumulate disease-specific somatic genomic changes across taupathologic states in Alzheimer's disease](https://www.biorxiv.org/content/10.1101/2025.05.26.656152v1?rss=1) / 05月30日 08:00
 - [Genomic and evolutionary factors influencing the prediction accuracy of optimal growth temperature in prokaryotes](https://www.biorxiv.org/content/10.1101/2025.05.30.656958v1?rss=1) / 05月30日 08:00
 - [Phased epigenomics and methylation inheritance in a historical Vitis vinifera hybrid](https://www.biorxiv.org/content/10.1101/2025.05.27.656431v1?rss=1) / 05月30日 08:00
-- [Principles and functional consequences of plasmid chromatinization in mammalian cells](https://www.biorxiv.org/content/10.1101/2025.05.27.656122v1?rss=1) / 05月30日 08:00
 <!--rss-papers:end-->
