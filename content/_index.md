@@ -1,19 +1,20 @@
 # Weather
 <!--qweather:start-->
-**四川省/成都/成都 2025年05月31日 09:25**
-- 今天周六，白天🌧️小雨(17°~22°)，空气优(50)，夜间阴
-- 明天周日，白天☁️阴(18°~26°)，空气良(61)，夜间小雨
+**四川省/成都/成都 2025年05月31日 11:09**
+- 今天周六，白天🌧️小雨(17°~22°)，空气优(43)，夜间阴
+- 明天周日，白天☁️阴(18°~26°)，空气良(56)，夜间小雨
 - 有降水，能见度不太好且路面潮湿，不适宜高速行驶，司机应更加集中注意力，小心驾驶。
 
-**四川省/宜宾/宜宾 2025年05月31日 09:25**
-- 今天周六，白天🌧️小雨(19°~24°)，空气优(45)
-- 明天周日，白天☁️阴(19°~26°)，空气良(51)，夜间小雨
+**四川省/宜宾/宜宾 2025年05月31日 11:09**
+- 今天周六，白天🌧️小雨(19°~24°)，空气良(53)
+- 明天周日，白天☁️阴(19°~26°)，空气良(57)，夜间小雨
 - 阴天，路面干燥，交通气象条件良好，车辆可以正常行驶。
 <!--qweather:end-->
 ---
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [记事本应用开始推送文本格式功能，支持 Markdown 文本实时渲染](https://windiscover.com/posts/notepad-starts-rolling-out-text-formatting-markdown-support.html) / 10:02
 - [关于一棵树](http://m.wufazhuce.com/article/6808) / 06:25
 - [VOL.4620](http://m.wufazhuce.com/one/4771) / 06:25
 
@@ -35,12 +36,13 @@
 - [微软发布紧急更新 KB5061977 用于修复 Hyper-V 平台问题](https://windiscover.com/posts/oob-update-kb5061977-for-windows-11-24h2-and-server-2025.html) / 05月28日 14:12
 - [Windows 11 22H2 & 23H2 五月非安全预览更新 KB5058502 开始推送](https://windiscover.com/posts/windows-11-23h2-may-2025-non-security-update-kb5058502.html) / 05月28日 11:39
 - [Notion 现已正式上架 Microsoft Store](https://windiscover.com/posts/notion-is-now-available-in-microsoft-store.html) / 05月28日 09:00
-- [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110) / 05月28日 08:05
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [A Diffusion-Based Framework for Designing Molecules in Flexible Protein Pockets](https://www.biorxiv.org/content/10.1101/2025.05.27.656443v1?rss=1) / 05月30日 08:00
+- [SenolyticSynergy: An Attention-Based Network for Discovering Novel Senolytic Combinations via Human Aging Genomics](https://www.biorxiv.org/content/10.1101/2025.05.28.655258v1?rss=1) / 05月30日 08:00
 - [Parameter-Efficient Fine-Tuning of a Supervised Regulatory Sequence Model](https://www.biorxiv.org/content/10.1101/2025.05.26.656171v1?rss=1) / 05月30日 08:00
 - [Sarcomere analysis in human cardiomyocytes by computing radial frequency spectra](https://www.biorxiv.org/content/10.1101/2025.05.28.655290v1?rss=1) / 05月30日 08:00
 - [SIREN: Suite for Intelligent RNAi Design and Evaluation of Nucleotide Sequences](https://www.biorxiv.org/content/10.1101/2025.05.26.656188v1?rss=1) / 05月30日 08:00
@@ -59,6 +61,4 @@
 - [mt.surv: Multi-Threshold Survival Analysis for Associating Continuous Predictor Variables with Time-to-Event Outcomes](https://www.biorxiv.org/content/10.1101/2025.05.29.656703v1?rss=1) / 05月29日 08:00
 - [AlphaFold modeling of polyubiquitin complexes and covalently linked proteins](https://www.biorxiv.org/content/10.1101/2025.05.27.656350v1?rss=1) / 05月29日 08:00
 - [Hierarchical prediction and perturbation of chromatin organization reveal how loop domains mediate higher-order architectures](https://www.biorxiv.org/content/10.1101/2025.05.25.656045v1?rss=1) / 05月29日 08:00
-- [Circos Plots for Genome Level Interpretation of Genomic Prediction Models](https://www.biorxiv.org/content/10.1101/2025.05.25.656055v1?rss=1) / 05月29日 08:00
-- [Resolving the full set of human polymorphic inversions and other complex variants from ultra-long read data](https://www.biorxiv.org/content/10.1101/2025.05.27.656315v1?rss=1) / 05月29日 08:00
 <!--rss-papers:end-->
